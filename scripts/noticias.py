@@ -11,7 +11,9 @@ def buscar_noticias_google(query, max_resultados=5):
     query_codificada = urllib.parse.quote(query)
     url = f"https://news.google.com/rss/search?q={query_codificada}&hl=en-US&gl=US&ceid=US:en"
     try:
-        feed = feedparser.parse(url)
+        r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
+        r.raise_for_status()
+        feed = feedparser.parse(r.content)
         return [
             {"titulo": e.title, "link": e.link,
              "fonte": e.get("source", {}).get("title", "Google News")}

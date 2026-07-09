@@ -11,6 +11,7 @@ permissions:
 jobs:
   atualizar:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout do repositorio
         uses: actions/checkout@v4
