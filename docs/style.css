@@ -1,0 +1,149 @@
+:root {
+  --cor-fundo: #0f1115;
+  --cor-cartao: #1a1d24;
+  --cor-texto: #e8e9ec;
+  --cor-texto-suave: #9a9ea8;
+  --cor-verde: #35c46a;
+  --cor-vermelho: #e5484d;
+  --cor-destaque: #5b8def;
+  --raio: 12px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: var(--cor-fundo);
+  color: var(--cor-texto);
+  padding: 24px;
+}
+
+.cabecalho {
+  margin-bottom: 20px;
+}
+
+.cabecalho h1 {
+  margin: 0 0 4px 0;
+  font-size: 1.8rem;
+}
+
+.atualizado-em {
+  color: var(--cor-texto-suave);
+  font-size: 0.85rem;
+}
+
+.cartao {
+  background: var(--cor-cartao);
+  border-radius: var(--raio);
+  padding: 18px 20px;
+  margin-bottom: 20px;
+}
+
+.resumo-geral {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+.resumo-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 0;
+}
+
+.rotulo {
+  color: var(--cor-texto-suave);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.valor {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.positivo { color: var(--cor-verde); }
+.negativo { color: var(--cor-vermelho); }
+
+.titulo-seccao {
+  margin: 28px 0 14px 0;
+  font-size: 1.2rem;
+  border-left: 4px solid var(--cor-destaque);
+  padding-left: 10px;
+}
+
+.grelha-ativos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+.cartao-ativo {
+  background: var(--cor-cartao);
+  border-radius: var(--raio);
+  padding: 16px 18px;
+}
+
+.cartao-ativo h3 {
+  margin: 0 0 2px 0;
+  font-size: 1.05rem;
+}
+
+.ticker {
+  color: var(--cor-texto-suave);
+  font-size: 0.8rem;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.linha-preco {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 10px;
+}
+
+.preco-atual {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.comentario {
+  font-size: 0.88rem;
+  color: var(--cor-texto);
+  margin: 10px 0;
+  line-height: 1.4;
+}
+
+.lista-noticias {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+  font-size: 0.82rem;
+}
+
+.lista-noticias li {
+  margin-bottom: 4px;
+}
+
+.lista-noticias a {
+  color: var(--cor-destaque);
+  text-decoration: none;
+}
+
+.lista-noticias a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  margin-top: 30px;
+  color: var(--cor-texto-suave);
+  font-size: 0.78rem;
+  text-align: center;
+}

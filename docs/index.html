@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Monitor da Carteira</title>
+<link rel="stylesheet" href="style.css" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+  <header class="cabecalho">
+    <h1>Monitor da Carteira</h1>
+    <p id="atualizado-em" class="atualizado-em">A carregar...</p>
+  </header>
+
+  <section class="resumo-geral" id="resumo-geral">
+    <div class="cartao resumo-card">
+      <span class="rotulo">Valor investido</span>
+      <span class="valor" id="total-investido">--</span>
+    </div>
+    <div class="cartao resumo-card">
+      <span class="rotulo">Valor atual</span>
+      <span class="valor" id="total-atual">--</span>
+    </div>
+    <div class="cartao resumo-card">
+      <span class="rotulo">Ganho / Perda</span>
+      <span class="valor" id="ganho-perda-total">--</span>
+    </div>
+  </section>
+
+  <section class="cartao grafico-portfolio">
+    <h2>Evolucao da carteira desde o inicio</h2>
+    <canvas id="grafico-historico-portfolio" height="90"></canvas>
+  </section>
+
+  <section class="cartao analise-geral">
+    <h2>Analise geral</h2>
+    <p id="analise-geral-texto">A carregar...</p>
+  </section>
+
+  <main>
+    <section>
+      <h2 class="titulo-seccao">As tuas posicoes</h2>
+      <div id="lista-posicoes" class="grelha-ativos"></div>
+    </section>
+
+    <section>
+      <h2 class="titulo-seccao">Watchlist</h2>
+      <div id="lista-watchlist" class="grelha-ativos"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Gerado automaticamente. Nao constitui aconselhamento financeiro.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
