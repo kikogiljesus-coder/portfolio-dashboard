@@ -1,25 +1,32 @@
 import os
+import sys
+import time
 
 from google import genai
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 MODELO = "gemini-3.5-flash"
+TENTATIVAS = 3
+ESPERA_ENTRE_TENTATIVAS_SEG = 5
 
 _cliente = genai.Client(api_key=GEMINI_API_KEY) if GEMINI_API_KEY else None
 
 
 def _gerar(prompt):
-    import sys
-
     if _cliente is None:
         print("AVISO: GEMINI_API_KEY nao definida, a saltar chamada ao Gemini.", file=sys.stderr)
         return None
-    try:
-        resposta = _cliente.models.generate_content(model=MODELO, contents=prompt)
-        return resposta.text.strip()
-    except Exception as erro:
-        print(f"ERRO ao chamar o Gemini: {erro!r}", file=sys.stderr)
-        return None
+
+    for tentativa in range(1, TENTATIVAS + 1):
+        try:
+            resposta = _cliente.models.generate_content(model=MODELO, contents=prompt)
+            return resposta.text.strip()
+        except Exception as erro:
+            print(f"ERRO ao chamar o Gemini (tentativa {tentativa}/{TENTATIVAS}): {erro!r}", file=sys.stderr)
+            if tentativa < TENTATIVAS:
+                time.sleep(ESPERA_ENTRE_TENTATIVAS_SEG)
+
+    return None
 
 
 def comentario_ativo(nome, preco_atual, variacao_pct, ganho_perda_pct, noticias):
