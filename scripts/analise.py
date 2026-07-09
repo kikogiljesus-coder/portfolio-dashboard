@@ -9,12 +9,16 @@ _cliente = genai.Client(api_key=GEMINI_API_KEY) if GEMINI_API_KEY else None
 
 
 def _gerar(prompt):
+    import sys
+
     if _cliente is None:
+        print("AVISO: GEMINI_API_KEY nao definida, a saltar chamada ao Gemini.", file=sys.stderr)
         return None
     try:
         resposta = _cliente.models.generate_content(model=MODELO, contents=prompt)
         return resposta.text.strip()
-    except Exception:
+    except Exception as erro:
+        print(f"ERRO ao chamar o Gemini: {erro!r}", file=sys.stderr)
         return None
 
 
