@@ -71,7 +71,9 @@ def main():
         if resultado:
             analise_geral = resultado.get("analise_geral")
             analise_gerado_em = datetime.now(timezone.utc).isoformat()
-            comentarios_novos = resultado.get("comentarios", {})
+            comentarios_novos = {
+                item["ticker"]: item["comentario"] for item in resultado.get("comentarios", [])
+            }
             for a in ativos:
                 a["comentario"] = comentarios_novos.get(a["ticker"]) or comentarios_anteriores.get(a["ticker"])
         else:

@@ -18,8 +18,15 @@ ESQUEMA_RESPOSTA = {
     "properties": {
         "analise_geral": {"type": "string"},
         "comentarios": {
-            "type": "object",
-            "additionalProperties": {"type": "string"},
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "ticker": {"type": "string"},
+                    "comentario": {"type": "string"},
+                },
+                "required": ["ticker", "comentario"],
+            },
         },
     },
     "required": ["analise_geral", "comentarios"],
@@ -55,14 +62,14 @@ Aqui está o estado atual de cada ativo da carteira:
 Responde em JSON com exactamente esta forma:
 {{
   "analise_geral": "uma analise breve (max 150 palavras) sobre o estado geral da carteira hoje, o que mais se destaca, e sugestoes de accao se fizerem sentido",
-  "comentarios": {{
-    "TICKER1": "comentario breve (max 60 palavras) sobre este ativo especificamente",
-    "TICKER2": "..."
-  }}
+  "comentarios": [
+    {{"ticker": "TICKER1", "comentario": "comentario breve (max 60 palavras) sobre este ativo especificamente"}},
+    {{"ticker": "TICKER2", "comentario": "..."}}
+  ]
 }}
 
 Inclui uma entrada em "comentarios" para cada um dos tickers listados acima, usando exactamente
-o mesmo texto de ticker como chave.
+o mesmo texto de ticker no campo "ticker".
 """
 
     for tentativa in range(1, TENTATIVAS + 1):
