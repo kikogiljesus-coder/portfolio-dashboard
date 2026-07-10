@@ -1,5 +1,6 @@
 import json
 import os
+import time
 from datetime import datetime, timedelta, timezone
 
 from config import CARTEIRA
@@ -40,6 +41,7 @@ def processar_ativo(ativo, anteriores_por_ticker):
         comentario_gerado_em = gerado_em_anterior
     elif preco["ok"]:
         novo_comentario = comentario_ativo(ativo["nome"], preco["preco_atual"], preco["variacao_pct"] or 0.0, noticias)
+        time.sleep(7)  # respeita o limite de pedidos/minuto do plano gratuito do Gemini
         if novo_comentario:
             comentario = novo_comentario
             comentario_gerado_em = datetime.now(timezone.utc).isoformat()
