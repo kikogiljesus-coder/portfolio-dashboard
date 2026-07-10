@@ -5,6 +5,7 @@ const botaoChat = document.getElementById("botao-chat");
 const painelChat = document.getElementById("painel-chat");
 const fecharChat = document.getElementById("fechar-chat");
 const expandirChat = document.getElementById("expandir-chat");
+const trocarChaveBtn = document.getElementById("trocar-chave");
 const chatConfig = document.getElementById("chat-config");
 const inputChave = document.getElementById("input-chave");
 const guardarChaveBtn = document.getElementById("guardar-chave");
@@ -103,6 +104,12 @@ fecharChat.addEventListener("click", () => {
 
 expandirChat.addEventListener("click", () => {
   painelChat.classList.toggle("expandido");
+});
+
+trocarChaveBtn.addEventListener("click", () => {
+  localStorage.removeItem(CHAVE_LOCALSTORAGE);
+  atualizarVisibilidadeConfig();
+  adicionarMensagem("Chave removida. Introduz uma nova chave acima para continuares.", "assistente");
 });
 
 guardarChaveBtn.addEventListener("click", () => {

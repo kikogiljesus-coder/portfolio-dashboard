@@ -2,7 +2,7 @@ name: Atualizar dados do portfolio
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/20 * * * *"
   workflow_dispatch: {}
 
 permissions:
