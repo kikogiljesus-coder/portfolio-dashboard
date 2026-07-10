@@ -46,8 +46,7 @@ Escreve um comentario muito breve (maximo 60 palavras) sobre este ativo especifi
 o que se passou hoje, se alguma noticia e relevante, e uma sugestao muito breve se fizer
 sentido (nunca uma recomendacao categorica, sempre como sugestao).
 """
-    texto = _gerar(prompt)
-    return texto or "(Analise automatica indisponivel hoje para este ativo.)"
+    return _gerar(prompt)
 
 
 def analise_portfolio(resumo_geral, destaques_noticias):
@@ -65,5 +64,4 @@ Escreve uma analise breve (maximo 150 palavras) sobre o estado geral da carteira
 o que mais se destaca, e sugestoes de acao SE fizerem sentido (sem nunca serem
 recomendacoes categoricas).
 """
-    texto = _gerar(prompt)
-    return texto or "(Analise automatica indisponivel hoje.)"
+    return _gerar(prompt)

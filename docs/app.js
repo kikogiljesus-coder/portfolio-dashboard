@@ -124,11 +124,17 @@ function desenharGrafico(canvas, pontos, cor, comInteracao) {
 }
 
 function listaNoticiasHtml(noticias) {
-  return (noticias || []).map((n) => `
-    <li>
-      <img class="favicon-noticia" src="${faviconDoLink(n.link)}" alt="" />
-      <a href="${n.link}" target="_blank" rel="noopener">${n.titulo}</a> — ${n.fonte}
-    </li>
+  if (!noticias || noticias.length === 0) {
+    return '<p class="sem-noticias">Sem notícias relevantes de momento.</p>';
+  }
+  return noticias.map((n) => `
+    <a class="item-noticia" href="${n.link}" target="_blank" rel="noopener">
+      <img class="favicon-noticia" src="${faviconDoLink(n.link)}" alt="" loading="lazy" />
+      <span class="item-noticia-texto">
+        <span class="item-noticia-titulo">${n.titulo}</span>
+        <span class="item-noticia-fonte">${n.fonte}</span>
+      </span>
+    </a>
   `).join("");
 }
 
@@ -148,7 +154,7 @@ function criarCartaoCompacto(ativo, aoClicar) {
       <span class="${classePct(variacaoHoje)}">${formatarPct(variacaoHoje)} hoje</span>
     </div>
     <div class="mini-grafico-wrap"><canvas class="mini-grafico"></canvas></div>
-    <p class="comentario">${(ativo.comentario || "").slice(0, 110)}${(ativo.comentario || "").length > 110 ? "…" : ""}</p>
+    <p class="comentario">${(ativo.comentario || "Comentario a ser gerado...").slice(0, 110)}${(ativo.comentario || "").length > 110 ? "…" : ""}</p>
   `;
 
   const canvasMini = div.querySelector(".mini-grafico");
@@ -184,9 +190,9 @@ function popularModal(ativo) {
       <canvas id="grafico-modal" height="110"></canvas>
       <p class="sem-dados-periodo" style="display:none">Sem dados para este período.</p>
     </div>
-    <p class="comentario">${ativo.comentario || ""}</p>
+    <p class="comentario">${ativo.comentario || "Comentario a ser gerado..."}</p>
     <h3 class="titulo-seccao" style="margin-top:20px">Notícias</h3>
-    <ul class="lista-noticias">${listaNoticiasHtml(ativo.noticias)}</ul>
+    <div class="lista-noticias">${listaNoticiasHtml(ativo.noticias)}</div>
   `;
 
   const canvas = document.getElementById("grafico-modal");
@@ -237,7 +243,8 @@ async function iniciar() {
   document.getElementById("atualizado-em").textContent =
     "Última atualização: " + atualizadoEm.toLocaleString("pt-PT");
 
-  document.getElementById("analise-geral-texto").textContent = dados.analise_geral;
+  document.getElementById("analise-geral-texto").textContent =
+    dados.analise_geral || "Análise a ser gerada...";
 
   const listaPosicoes = document.getElementById("lista-posicoes");
   const listaWatchlist = document.getElementById("lista-watchlist");
