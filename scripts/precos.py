@@ -24,7 +24,7 @@ def obter_preco(ticker):
         return {"ok": False, "erro": str(erro)}
 
 
-def obter_historico(ticker, periodo="2y", intervalo="1d"):
+def _obter_serie(ticker, periodo, intervalo):
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}"
     parametros = {"range": periodo, "interval": intervalo}
     try:
@@ -38,9 +38,19 @@ def obter_historico(ticker, periodo="2y", intervalo="1d"):
         for ts, fecho in zip(timestamps, fechos):
             if fecho is None:
                 continue
-            data = datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%d")
-            pontos.append({"data": data, "fecho": round(fecho, 4)})
+            pontos.append({
+                "quando": datetime.fromtimestamp(ts, tz=timezone.utc).isoformat(),
+                "fecho": round(fecho, 4),
+            })
 
         return {"ok": True, "pontos": pontos}
     except Exception as erro:
         return {"ok": False, "erro": str(erro)}
+
+
+def obter_historico_completo(ticker):
+    return {
+        "intradiario": _obter_serie(ticker, "1d", "5m"),
+        "diario": _obter_serie(ticker, "2y", "1d"),
+        "longo_prazo": _obter_serie(ticker, "max", "1wk"),
+    }

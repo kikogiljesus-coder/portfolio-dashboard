@@ -6,8 +6,8 @@ from google import genai
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 MODELO = "gemini-3.5-flash"
-TENTATIVAS = 3
-ESPERA_ENTRE_TENTATIVAS_SEG = 5
+TENTATIVAS = 2
+ESPERA_ENTRE_TENTATIVAS_SEG = 3
 
 _cliente = genai.Client(api_key=GEMINI_API_KEY) if GEMINI_API_KEY else None
 
@@ -29,14 +29,8 @@ def _gerar(prompt):
     return None
 
 
-def comentario_ativo(nome, preco_atual, variacao_pct, ganho_perda_pct, noticias):
+def comentario_ativo(nome, preco_atual, variacao_pct, noticias):
     linhas_noticias = "\n".join(f"- {n['titulo']} ({n['fonte']})" for n in noticias) or "Sem noticias relevantes hoje."
-
-    contexto_posicao = (
-        f"Ganho/perda desde a compra: {ganho_perda_pct:+.2f}%."
-        if ganho_perda_pct is not None else
-        "Este ativo esta apenas a ser acompanhado (sem posicao comprada)."
-    )
 
     prompt = f"""
 Es um assistente financeiro que escreve em portugues de Portugal, de forma clara e directa.
@@ -44,7 +38,6 @@ Es um assistente financeiro que escreve em portugues de Portugal, de forma clara
 Ativo: {nome}
 Preco atual: {preco_atual:.2f} EUR
 Variacao hoje: {variacao_pct:+.2f}%
-{contexto_posicao}
 
 Noticias recentes:
 {linhas_noticias}

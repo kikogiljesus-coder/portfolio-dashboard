@@ -4,43 +4,27 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Monitor da Carteira</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg" />
 <link rel="stylesheet" href="style.css" />
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 </head>
 <body>
   <header class="cabecalho">
-    <h1>Monitor da Carteira</h1>
-    <p id="atualizado-em" class="atualizado-em">A carregar...</p>
+    <img src="favicon.svg" alt="" class="logo" />
+    <div>
+      <h1>Monitor da Carteira</h1>
+      <p id="atualizado-em" class="atualizado-em">A carregar...</p>
+    </div>
   </header>
 
-  <section class="resumo-geral" id="resumo-geral">
-    <div class="cartao resumo-card">
-      <span class="rotulo">Valor investido</span>
-      <span class="valor" id="total-investido">--</span>
-    </div>
-    <div class="cartao resumo-card">
-      <span class="rotulo">Valor atual</span>
-      <span class="valor" id="total-atual">--</span>
-    </div>
-    <div class="cartao resumo-card">
-      <span class="rotulo">Ganho / Perda</span>
-      <span class="valor" id="ganho-perda-total">--</span>
-    </div>
-  </section>
-
-  <section class="cartao grafico-portfolio">
-    <h2>Evolucao da carteira desde o inicio</h2>
-    <canvas id="grafico-historico-portfolio" height="90"></canvas>
-  </section>
-
   <section class="cartao analise-geral">
-    <h2>Analise geral</h2>
+    <h2>Análise geral</h2>
     <p id="analise-geral-texto">A carregar...</p>
   </section>
 
   <main>
     <section>
-      <h2 class="titulo-seccao">As tuas posicoes</h2>
+      <h2 class="titulo-seccao">As tuas posições</h2>
       <div id="lista-posicoes" class="grelha-ativos"></div>
     </section>
 
@@ -51,9 +35,36 @@
   </main>
 
   <footer>
-    <p>Gerado automaticamente. Nao constitui aconselhamento financeiro.</p>
+    <p>Gerado automaticamente. Não constitui aconselhamento financeiro.</p>
   </footer>
 
+  <button id="botao-chat" class="botao-chat" aria-label="Abrir assistente de IA">💬 Perguntar à IA</button>
+
+  <div id="painel-chat" class="painel-chat escondido">
+    <div class="chat-cabecalho">
+      <span>Assistente da carteira</span>
+      <button id="fechar-chat" aria-label="Fechar">✕</button>
+    </div>
+
+    <div id="chat-config" class="chat-config">
+      <p>Para usar o assistente, introduz a tua chave da API do Gemini. Fica guardada só neste
+         browser (localStorage), nunca é enviada para nenhum servidor nosso.</p>
+      <input id="input-chave" type="password" placeholder="Chave da API do Gemini" />
+      <button id="guardar-chave">Guardar chave</button>
+    </div>
+
+    <div id="chat-mensagens" class="chat-mensagens"></div>
+
+    <div class="chat-aviso">Isto não é aconselhamento financeiro licenciado — as respostas são
+      geradas por IA e podem conter erros.</div>
+
+    <form id="chat-form" class="chat-form">
+      <input id="chat-input" type="text" placeholder="Pergunta sobre a tua carteira..." autocomplete="off" />
+      <button type="submit">Enviar</button>
+    </form>
+  </div>
+
   <script src="app.js"></script>
+  <script src="chat.js"></script>
 </body>
 </html>
