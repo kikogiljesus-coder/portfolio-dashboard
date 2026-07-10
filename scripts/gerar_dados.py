@@ -6,6 +6,7 @@ from config import CARTEIRA
 from precos import obter_preco, obter_historico_completo
 from noticias import buscar_noticias
 from analise import gerar_analise_completa
+from alertas import verificar_e_enviar_alertas
 
 CAMINHO_SAIDA = os.path.join(os.path.dirname(__file__), "..", "docs", "data.json")
 HORAS_VALIDADE_ANALISE = 4
@@ -82,10 +83,16 @@ def main():
             for a in ativos:
                 a["comentario"] = comentarios_anteriores.get(a["ticker"])
 
+    limiares_por_ticker = {a["ticker"]: a.get("limiar_alerta_pct") for a in CARTEIRA}
+    alertas_enviados = verificar_e_enviar_alertas(
+        ativos, limiares_por_ticker, dados_anteriores.get("alertas_enviados", {})
+    )
+
     dados_finais = {
         "atualizado_em": datetime.now(timezone.utc).isoformat(),
         "analise_geral": analise_geral,
         "analise_gerado_em": analise_gerado_em,
+        "alertas_enviados": alertas_enviados,
         "ativos": ativos,
     }
 
