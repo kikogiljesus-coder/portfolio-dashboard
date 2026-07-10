@@ -43,7 +43,10 @@
   <div id="painel-chat" class="painel-chat escondido">
     <div class="chat-cabecalho">
       <span>Assistente da carteira</span>
-      <button id="fechar-chat" aria-label="Fechar">✕</button>
+      <div class="chat-cabecalho-botoes">
+        <button id="expandir-chat" aria-label="Expandir">⤢</button>
+        <button id="fechar-chat" aria-label="Fechar">✕</button>
+      </div>
     </div>
 
     <div id="chat-config" class="chat-config">
@@ -62,6 +65,13 @@
       <input id="chat-input" type="text" placeholder="Pergunta sobre a tua carteira..." autocomplete="off" />
       <button type="submit">Enviar</button>
     </form>
+  </div>
+
+  <div id="modal-ativo" class="modal-fundo escondido">
+    <div class="modal-conteudo">
+      <button id="fechar-modal" class="fechar-modal" aria-label="Fechar">✕</button>
+      <div id="modal-corpo"></div>
+    </div>
   </div>
 
   <script src="app.js"></script>

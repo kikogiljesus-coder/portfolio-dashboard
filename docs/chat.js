@@ -4,6 +4,7 @@ const MODELO_CHAT = "gemini-3.5-flash";
 const botaoChat = document.getElementById("botao-chat");
 const painelChat = document.getElementById("painel-chat");
 const fecharChat = document.getElementById("fechar-chat");
+const expandirChat = document.getElementById("expandir-chat");
 const chatConfig = document.getElementById("chat-config");
 const inputChave = document.getElementById("input-chave");
 const guardarChaveBtn = document.getElementById("guardar-chave");
@@ -45,9 +46,11 @@ async function perguntarAoGemini(pergunta) {
 
   const instrucaoSistema = `Es um assistente financeiro que responde em portugues de Portugal, de forma
 clara e directa. Tens acesso ao estado atual da carteira do utilizador (dados de mercado publicos,
-sem valores monetarios pessoais). Podes discutir tendencias, noticias e dar sugestoes educativas,
-mas deixa sempre claro que nao es um consultor financeiro licenciado e que a decisao final e do
-utilizador.
+sem valores monetarios pessoais) e a uma ferramenta de pesquisa Google em tempo real. USA SEMPRE a
+pesquisa quando a pergunta envolver factos atuais (taxas de juro, decisoes de bancos centrais,
+noticias recentes, precos) em vez de responderes so com conhecimento antigo — o teu conhecimento
+interno pode estar desatualizado. Podes discutir tendencias e dar sugestoes educativas, mas deixa
+sempre claro que nao es um consultor financeiro licenciado e que a decisao final e do utilizador.
 
 Contexto atual da carteira:
 ${contextoDaCarteira()}`;
@@ -57,6 +60,7 @@ ${contextoDaCarteira()}`;
   const corpo = {
     contents: historicoConversa,
     systemInstruction: { parts: [{ text: instrucaoSistema }] },
+    tools: [{ google_search: {} }],
   };
 
   const resposta = await fetch(url, {
@@ -72,7 +76,17 @@ ${contextoDaCarteira()}`;
     throw new Error(mensagemErro);
   }
 
-  const texto = dadosResposta?.candidates?.[0]?.content?.parts?.map((p) => p.text).join("") || "";
+  const candidato = dadosResposta?.candidates?.[0];
+  let texto = candidato?.content?.parts?.map((p) => p.text).join("") || "";
+
+  const fontes = candidato?.groundingMetadata?.groundingChunks
+    ?.map((c) => c.web?.uri)
+    .filter(Boolean);
+  if (fontes && fontes.length > 0) {
+    const unicas = [...new Set(fontes)].slice(0, 4);
+    texto += "\n\nFontes: " + unicas.join(", ");
+  }
+
   historicoConversa.push({ role: "model", parts: [{ text: texto }] });
   return texto;
 }
@@ -85,6 +99,10 @@ botaoChat.addEventListener("click", () => {
 fecharChat.addEventListener("click", () => {
   painelChat.classList.add("escondido");
   botaoChat.style.display = "block";
+});
+
+expandirChat.addEventListener("click", () => {
+  painelChat.classList.toggle("expandido");
 });
 
 guardarChaveBtn.addEventListener("click", () => {
