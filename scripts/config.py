@@ -6,7 +6,7 @@ CARTEIRA = [
      "noticia_query": "MSCI World index stock market", "limiar_alerta_pct": 2.5},
 
     {"ticker": "IUES.AS", "nome": "iShares S&P 500 EUR Hedged", "categoria": "posicao",
-     "noticia_query": "S&P 500", "limiar_alerta_pct": 2.5},
+     "noticia_query": "S&P 500", "limiar_alerta_pct": 0.001},
 
     {"ticker": "0P0000X83O.F", "nome": "PIMCO Income E EUR", "categoria": "posicao",
      "noticia_query": "bond market fixed income", "limiar_alerta_pct": 1.5},
