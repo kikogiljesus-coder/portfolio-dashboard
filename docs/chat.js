@@ -1,5 +1,5 @@
 const CHAVE_LOCALSTORAGE = "gemini_api_key";
-const MODELO_CHAT = "gemini-2.5-flash";
+const MODELO_CHAT = "gemini-3.1-flash-lite";
 
 const botaoChat = document.getElementById("botao-chat");
 const painelChat = document.getElementById("painel-chat");
