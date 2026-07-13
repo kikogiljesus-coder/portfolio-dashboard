@@ -2,26 +2,28 @@ import os
 import smtplib
 import sys
 from datetime import date
+from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 from analise import analise_alerta
+from email_template import montar_email_alerta_html, montar_email_alerta_texto
 
 GMAIL_ENDERECO = os.environ.get("GMAIL_ENDERECO", "")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 EMAIL_DESTINO = os.environ.get("EMAIL_DESTINO", "")
 
-URL_SITE = "https://kikogiljesus-coder.github.io/portfolio-dashboard/"
 
-
-def enviar_email(assunto, corpo):
+def enviar_email(assunto, corpo_texto, corpo_html):
     if not (GMAIL_ENDERECO and GMAIL_APP_PASSWORD and EMAIL_DESTINO):
         print("AVISO: credenciais de email nao configuradas, a saltar envio.", file=sys.stderr)
         return {"ok": False, "erro": "credenciais em falta"}
 
-    msg = MIMEText(corpo, "plain", "utf-8")
+    msg = MIMEMultipart("alternative")
     msg["Subject"] = assunto
     msg["From"] = GMAIL_ENDERECO
     msg["To"] = EMAIL_DESTINO
+    msg.attach(MIMEText(corpo_texto, "plain", "utf-8"))
+    msg.attach(MIMEText(corpo_html, "html", "utf-8"))
 
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as servidor:
@@ -59,21 +61,16 @@ def verificar_e_enviar_alertas(ativos, limiares_por_ticker, alertas_enviados):
         noticias = ativo.get("noticias") or []
         reacao = analise_alerta(
             ativo["nome"], ativo["ticker"], variacao, preco["preco_atual"], noticias
+        ) or ativo.get("comentario")
+
+        corpo_texto = montar_email_alerta_texto(
+            ativo["nome"], ativo["ticker"], tipo, variacao, preco["preco_atual"], reacao, noticias
+        )
+        corpo_html = montar_email_alerta_html(
+            ativo["nome"], ativo["ticker"], tipo, variacao, preco["preco_atual"], reacao, noticias
         )
 
-        linhas_noticias = "\n".join(
-            f"- {n['titulo']} ({n['fonte']}): {n['link']}" for n in noticias[:3]
-        ) or "Sem noticias relevantes encontradas neste momento."
-
-        corpo = (
-            f"{ativo['nome']} ({ativo['ticker']}) {tipo} {variacao:+.2f}% hoje, "
-            f"para {preco['preco_atual']:.2f} EUR.\n\n"
-            f"--- ANALISE ---\n{reacao or ativo.get('comentario') or 'sem analise disponivel de momento'}\n\n"
-            f"--- NOTICIAS RELACIONADAS ---\n{linhas_noticias}\n\n"
-            f"Ve mais detalhes em: {URL_SITE}\n"
-        )
-
-        resultado = enviar_email(assunto, corpo)
+        resultado = enviar_email(assunto, corpo_texto, corpo_html)
         if resultado["ok"]:
             alertas_enviados[ativo["ticker"]] = hoje
 

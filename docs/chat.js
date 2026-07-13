@@ -13,8 +13,50 @@ const guardarChaveBtn = document.getElementById("guardar-chave");
 const chatMensagens = document.getElementById("chat-mensagens");
 const chatForm = document.getElementById("chat-form");
 const chatInput = document.getElementById("chat-input");
+const botaoMicrofone = document.getElementById("botao-microfone");
 
 let historicoConversa = [];
+
+function iniciarMicrofone() {
+  const ClasseReconhecimento = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!ClasseReconhecimento) {
+    botaoMicrofone.classList.add("escondido");
+    return;
+  }
+
+  const reconhecimento = new ClasseReconhecimento();
+  reconhecimento.lang = "pt-PT";
+  reconhecimento.interimResults = false;
+  reconhecimento.maxAlternatives = 1;
+
+  let aGravar = false;
+
+  reconhecimento.addEventListener("result", (evento) => {
+    const transcricao = evento.results[0][0].transcript;
+    chatInput.value = transcricao;
+    chatInput.focus();
+  });
+
+  reconhecimento.addEventListener("end", () => {
+    aGravar = false;
+    botaoMicrofone.classList.remove("gravando");
+  });
+
+  reconhecimento.addEventListener("error", () => {
+    aGravar = false;
+    botaoMicrofone.classList.remove("gravando");
+  });
+
+  botaoMicrofone.addEventListener("click", () => {
+    if (aGravar) {
+      reconhecimento.stop();
+      return;
+    }
+    aGravar = true;
+    botaoMicrofone.classList.add("gravando");
+    reconhecimento.start();
+  });
+}
 
 function atualizarVisibilidadeConfig() {
   const temChave = !!localStorage.getItem(CHAVE_LOCALSTORAGE);
@@ -153,3 +195,4 @@ document.addEventListener("keydown", (evento) => {
 });
 
 atualizarVisibilidadeConfig();
+iniciarMicrofone();
