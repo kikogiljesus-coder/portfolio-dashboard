@@ -1,5 +1,6 @@
-const CHAVE_LOCALSTORAGE = "gemini_api_key";
-const MODELO_CHAT = "gemini-3.1-flash-lite";
+const CHAVE_LOCALSTORAGE = "groq_api_key";
+const MODELO_CHAT = "llama-3.3-70b-versatile";
+const URL_GROQ = "https://api.groq.com/openai/v1/chat/completions";
 
 const botaoChat = document.getElementById("botao-chat");
 const painelChat = document.getElementById("painel-chat");
@@ -38,36 +39,38 @@ function contextoDaCarteira() {
     return `- ${a.nome} (${a.ticker}, ${a.categoria}): ${precoTxt}. Comentario: ${a.comentario || "sem comentario"}`;
   }).join("\n");
 
-  return `Analise geral atual: ${dados.analise_geral}\n\nAtivos:\n${linhas}`;
+  return `Analise geral atual (gerada ${dados.atualizado_em}): ${dados.analise_geral}\n\nAtivos:\n${linhas}`;
 }
 
-async function perguntarAoGemini(pergunta) {
+async function perguntarAoAssistente(pergunta) {
   const chave = localStorage.getItem(CHAVE_LOCALSTORAGE);
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODELO_CHAT}:generateContent?key=${encodeURIComponent(chave)}`;
 
   const instrucaoSistema = `Es um assistente financeiro que responde em portugues de Portugal, de forma
 clara e directa. Tens acesso ao estado atual da carteira do utilizador (dados de mercado publicos,
-sem valores monetarios pessoais) e a uma ferramenta de pesquisa Google em tempo real. USA SEMPRE a
-pesquisa quando a pergunta envolver factos atuais (taxas de juro, decisoes de bancos centrais,
-noticias recentes, precos) em vez de responderes so com conhecimento antigo — o teu conhecimento
-interno pode estar desatualizado. Podes discutir tendencias e dar sugestoes educativas, mas deixa
-sempre claro que nao es um consultor financeiro licenciado e que a decisao final e do utilizador.
+sem valores monetarios pessoais), recolhidos automaticamente ha poucos minutos. O teu conhecimento
+geral pode ter uma data de corte anterior a hoje, por isso para factos muito recentes (ex: decisoes
+de bancos centrais desta semana) admite essa limitacao em vez de inventar. Podes discutir tendencias
+e dar sugestoes educativas, mas deixa sempre claro que nao es um consultor financeiro licenciado e
+que a decisao final e do utilizador.
 
 Contexto atual da carteira:
 ${contextoDaCarteira()}`;
 
-  historicoConversa.push({ role: "user", parts: [{ text: pergunta }] });
+  if (historicoConversa.length === 0) {
+    historicoConversa.push({ role: "system", content: instrucaoSistema });
+  }
+  historicoConversa.push({ role: "user", content: pergunta });
 
-  const corpo = {
-    contents: historicoConversa,
-    systemInstruction: { parts: [{ text: instrucaoSistema }] },
-    tools: [{ google_search: {} }],
-  };
-
-  const resposta = await fetch(url, {
+  const resposta = await fetch(URL_GROQ, {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(corpo),
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${chave}`,
+    },
+    body: JSON.stringify({
+      model: MODELO_CHAT,
+      messages: historicoConversa,
+    }),
   });
 
   const dadosResposta = await resposta.json();
@@ -77,24 +80,15 @@ ${contextoDaCarteira()}`;
     throw new Error(mensagemErro);
   }
 
-  const candidato = dadosResposta?.candidates?.[0];
-  let texto = candidato?.content?.parts?.map((p) => p.text).join("") || "";
-
-  const fontes = candidato?.groundingMetadata?.groundingChunks
-    ?.map((c) => c.web?.uri)
-    .filter(Boolean);
-  if (fontes && fontes.length > 0) {
-    const unicas = [...new Set(fontes)].slice(0, 4);
-    texto += "\n\nFontes: " + unicas.join(", ");
-  }
-
-  historicoConversa.push({ role: "model", parts: [{ text: texto }] });
+  const texto = dadosResposta?.choices?.[0]?.message?.content || "";
+  historicoConversa.push({ role: "assistant", content: texto });
   return texto;
 }
 
 botaoChat.addEventListener("click", () => {
   painelChat.classList.remove("escondido");
   botaoChat.style.display = "none";
+  chatInput.focus();
 });
 
 fecharChat.addEventListener("click", () => {
@@ -127,7 +121,7 @@ chatForm.addEventListener("submit", async (evento) => {
   if (!pergunta) return;
 
   if (!localStorage.getItem(CHAVE_LOCALSTORAGE)) {
-    adicionarMensagem("Guarda primeiro a tua chave da API do Gemini acima.", "assistente");
+    adicionarMensagem("Guarda primeiro a tua chave da API da Groq acima.", "assistente");
     return;
   }
 
@@ -135,10 +129,17 @@ chatForm.addEventListener("submit", async (evento) => {
   chatInput.value = "";
 
   try {
-    const resposta = await perguntarAoGemini(pergunta);
+    const resposta = await perguntarAoAssistente(pergunta);
     adicionarMensagem(resposta || "(sem resposta)", "assistente");
   } catch (erro) {
-    adicionarMensagem(`Erro ao contactar o Gemini: ${erro.message}`, "assistente");
+    adicionarMensagem(`Erro ao contactar o assistente: ${erro.message}`, "assistente");
+  }
+});
+
+document.addEventListener("keydown", (evento) => {
+  if (evento.key === "Escape" && !painelChat.classList.contains("escondido")) {
+    painelChat.classList.add("escondido");
+    botaoChat.style.display = "block";
   }
 });
 

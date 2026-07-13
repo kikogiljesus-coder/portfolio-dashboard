@@ -11,10 +11,11 @@
 <body>
   <header class="cabecalho">
     <img src="favicon.svg" alt="" class="logo" />
-    <div>
+    <div class="cabecalho-texto">
       <h1>Monitor da Carteira</h1>
       <p id="atualizado-em" class="atualizado-em">A carregar...</p>
     </div>
+    <button id="botao-tema" class="botao-tema" aria-label="Alternar tema claro/escuro" title="Alternar tema">🌙</button>
   </header>
 
   <section class="cartao analise-geral">
@@ -24,12 +25,24 @@
 
   <main>
     <section>
-      <h2 class="titulo-seccao">As tuas posições</h2>
+      <div class="cabecalho-seccao">
+        <h2 class="titulo-seccao">As tuas posições</h2>
+        <div class="ordenacao" data-alvo="lista-posicoes">
+          <button data-ordem="nome" class="ativo">Nome</button>
+          <button data-ordem="variacao">Variação</button>
+        </div>
+      </div>
       <div id="lista-posicoes" class="grelha-ativos"></div>
     </section>
 
     <section>
-      <h2 class="titulo-seccao">Watchlist</h2>
+      <div class="cabecalho-seccao">
+        <h2 class="titulo-seccao">Watchlist</h2>
+        <div class="ordenacao" data-alvo="lista-watchlist">
+          <button data-ordem="nome" class="ativo">Nome</button>
+          <button data-ordem="variacao">Variação</button>
+        </div>
+      </div>
       <div id="lista-watchlist" class="grelha-ativos"></div>
     </section>
   </main>
@@ -51,9 +64,10 @@
     </div>
 
     <div id="chat-config" class="chat-config">
-      <p>Para usar o assistente, introduz a tua chave da API do Gemini. Fica guardada só neste
-         browser (localStorage), nunca é enviada para nenhum servidor nosso.</p>
-      <input id="input-chave" type="password" placeholder="Chave da API do Gemini" />
+      <p>Para usar o assistente, introduz a tua chave da API da Groq (gratuita, sem cartão de
+         crédito — cria em console.groq.com). Fica guardada só neste browser (localStorage),
+         nunca é enviada para nenhum servidor nosso.</p>
+      <input id="input-chave" type="password" placeholder="Chave da API da Groq" />
       <button id="guardar-chave">Guardar chave</button>
     </div>
 

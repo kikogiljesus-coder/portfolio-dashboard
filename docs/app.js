@@ -233,34 +233,105 @@ function fecharModalAtivo() {
   document.getElementById("modal-corpo").innerHTML = "";
 }
 
+function ordenarAtivos(lista, criterio) {
+  const copia = [...lista];
+  if (criterio === "variacao") {
+    copia.sort((a, b) => (b.preco.variacao_pct ?? -Infinity) - (a.preco.variacao_pct ?? -Infinity));
+  } else {
+    copia.sort((a, b) => a.nome.localeCompare(b.nome, "pt"));
+  }
+  return copia;
+}
+
+function renderizarGrelha(idElemento, ativos) {
+  const elemento = document.getElementById(idElemento);
+  elemento.innerHTML = "";
+  ativos.forEach((ativo, indice) => {
+    const cartao = criarCartaoCompacto(ativo, abrirModal);
+    cartao.style.animationDelay = `${indice * 40}ms`;
+    elemento.appendChild(cartao);
+  });
+}
+
+function iniciarOrdenacao(gruposPorAlvo) {
+  document.querySelectorAll(".ordenacao").forEach((barra) => {
+    const alvo = barra.dataset.alvo;
+    barra.querySelectorAll("button").forEach((botao) => {
+      botao.addEventListener("click", () => {
+        barra.querySelectorAll("button").forEach((b) => b.classList.remove("ativo"));
+        botao.classList.add("ativo");
+        renderizarGrelha(alvo, ordenarAtivos(gruposPorAlvo[alvo], botao.dataset.ordem));
+      });
+    });
+  });
+}
+
+function aplicarTema(tema) {
+  document.documentElement.setAttribute("data-theme", tema);
+  document.getElementById("botao-tema").textContent = tema === "light" ? "☀️" : "🌙";
+}
+
+function iniciarTema() {
+  const botao = document.getElementById("botao-tema");
+  const salvo = localStorage.getItem("tema");
+  const prefereClaro = window.matchMedia("(prefers-color-scheme: light)").matches;
+  aplicarTema(salvo || (prefereClaro ? "light" : "dark"));
+
+  botao.addEventListener("click", () => {
+    const atual = document.documentElement.getAttribute("data-theme");
+    const novo = atual === "light" ? "dark" : "light";
+    aplicarTema(novo);
+    localStorage.setItem("tema", novo);
+  });
+}
+
+function iniciarRelogioRelativo(dataISO) {
+  const elemento = document.getElementById("atualizado-em");
+  function atualizar() {
+    const diffMin = Math.round((Date.now() - new Date(dataISO).getTime()) / 60000);
+    let texto;
+    if (diffMin < 1) texto = "agora mesmo";
+    else if (diffMin === 1) texto = "há 1 minuto";
+    else if (diffMin < 60) texto = `há ${diffMin} minutos`;
+    else texto = new Date(dataISO).toLocaleString("pt-PT");
+    elemento.textContent = "Última atualização: " + texto;
+  }
+  atualizar();
+  setInterval(atualizar, 30000);
+}
+
 async function iniciar() {
+  iniciarTema();
+
   const resposta = await fetch("data.json", { cache: "no-store" });
   const dados = await resposta.json();
 
   window.__dadosCarteira = dados;
 
-  const atualizadoEm = new Date(dados.atualizado_em);
-  document.getElementById("atualizado-em").textContent =
-    "Última atualização: " + atualizadoEm.toLocaleString("pt-PT");
+  iniciarRelogioRelativo(dados.atualizado_em);
 
   document.getElementById("analise-geral-texto").textContent =
     dados.analise_geral || "Análise a ser gerada...";
 
-  const listaPosicoes = document.getElementById("lista-posicoes");
-  const listaWatchlist = document.getElementById("lista-watchlist");
+  const gruposPorAlvo = {
+    "lista-posicoes": dados.ativos.filter((a) => a.categoria === "posicao"),
+    "lista-watchlist": dados.ativos.filter((a) => a.categoria !== "posicao"),
+  };
 
-  dados.ativos.forEach((ativo) => {
-    const cartao = criarCartaoCompacto(ativo, abrirModal);
-    if (ativo.categoria === "posicao") {
-      listaPosicoes.appendChild(cartao);
-    } else {
-      listaWatchlist.appendChild(cartao);
-    }
+  Object.entries(gruposPorAlvo).forEach(([alvo, lista]) => {
+    renderizarGrelha(alvo, ordenarAtivos(lista, "nome"));
   });
+
+  iniciarOrdenacao(gruposPorAlvo);
 
   document.getElementById("fechar-modal").addEventListener("click", fecharModalAtivo);
   document.getElementById("modal-ativo").addEventListener("click", (e) => {
     if (e.target.id === "modal-ativo") fecharModalAtivo();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !document.getElementById("modal-ativo").classList.contains("escondido")) {
+      fecharModalAtivo();
+    }
   });
 }
 
