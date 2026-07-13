@@ -1,8 +1,10 @@
 {
-  "atualizado_em": "2026-07-13T10:07:30.319090+00:00",
+  "atualizado_em": "2026-07-13T10:12:30.663723+00:00",
   "analise_geral": "Hoje, o seu portefolio apresenta um comportamento misto, marcado por alguma volatilidade, especialmente nos setores de tecnologia e mercados emergentes. A queda nos semicondutores (SEMI.AS) e em mercados emergentes (IS3N.DE) reflete o recente movimento de realizacao de lucros e saida de capital na Asia. Por outro lado, os mercados desenvolvidos mantem-se estaveis, e o fundo de obrigacoes (PIMCO) oferece uma ligeira protecao positiva. Para um investidor de longo prazo, estes movimentos diarios sao normais. Sugere-se manter a calma e evitar reacoes impulsivas. Se tiver capital disponivel para reforcar, quedas acentuadas em ativos de qualidade, como semicondutores ou emergentes, podem representar oportunidades interessantes de compra, desde que alinhe com o seu perfil de risco.",
   "analise_gerado_em": "2026-07-13T09:23:00.247984+00:00",
-  "alertas_enviados": {},
+  "alertas_enviados": {
+    "IS3N.DE": "2026-07-13"
+  },
   "ativos": [
     {
       "ticker": "IS3N.DE",
@@ -10,9 +12,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 46.742,
+        "preco_atual": 46.76,
         "fecho_anterior": 47.817,
-        "variacao_pct": -2.248154422067471
+        "variacao_pct": -2.2105109061630848
       },
       "historico": {
         "intradiario": {
@@ -148,11 +150,11 @@
             },
             {
               "quando": "2026-07-13T09:50:00+00:00",
-              "fecho": 46.74
+              "fecho": 46.748
             },
             {
-              "quando": "2026-07-13T09:51:59+00:00",
-              "fecho": 46.742
+              "quando": "2026-07-13T09:56:56+00:00",
+              "fecho": 46.76
             }
           ]
         },
@@ -2169,7 +2171,7 @@
             },
             {
               "quando": "2026-07-13T07:00:00+00:00",
-              "fecho": 46.742
+              "fecho": 46.76
             }
           ]
         },
@@ -2757,8 +2759,8 @@
               "fecho": 47.817
             },
             {
-              "quando": "2026-07-13T09:51:59+00:00",
-              "fecho": 46.742
+              "quando": "2026-07-13T09:56:56+00:00",
+              "fecho": 46.76
             }
           ]
         }
@@ -12301,9 +12303,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 103.985,
+        "preco_atual": 103.98,
         "fecho_anterior": 104.0,
-        "variacao_pct": -0.014423076923077469
+        "variacao_pct": -0.019230769230765405
       },
       "historico": {
         "intradiario": {
@@ -12439,11 +12441,19 @@
             },
             {
               "quando": "2026-07-13T09:45:00+00:00",
-              "fecho": 103.98
+              "fecho": 103.985
             },
             {
-              "quando": "2026-07-13T09:49:42+00:00",
-              "fecho": 103.985
+              "quando": "2026-07-13T09:50:00+00:00",
+              "fecho": 103.955
+            },
+            {
+              "quando": "2026-07-13T09:55:00+00:00",
+              "fecho": 103.965
+            },
+            {
+              "quando": "2026-07-13T09:56:16+00:00",
+              "fecho": 103.98
             }
           ]
         },
@@ -14484,7 +14494,7 @@
             },
             {
               "quando": "2026-07-13T07:00:00+00:00",
-              "fecho": 103.985
+              "fecho": 103.98
             }
           ]
         },
@@ -15296,8 +15306,8 @@
               "fecho": 104.0
             },
             {
-              "quando": "2026-07-13T09:49:42+00:00",
-              "fecho": 103.985
+              "quando": "2026-07-13T09:56:16+00:00",
+              "fecho": 103.98
             }
           ]
         }
@@ -15332,9 +15342,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 21.105,
+        "preco_atual": 21.115,
         "fecho_anterior": 21.78,
-        "variacao_pct": -3.0991735537190115
+        "variacao_pct": -3.053259871441702
       },
       "historico": {
         "intradiario": {
@@ -15466,11 +15476,15 @@
             },
             {
               "quando": "2026-07-13T09:50:00+00:00",
-              "fecho": 21.11
+              "fecho": 21.105
             },
             {
-              "quando": "2026-07-13T09:52:05+00:00",
-              "fecho": 21.105
+              "quando": "2026-07-13T09:55:00+00:00",
+              "fecho": 21.08
+            },
+            {
+              "quando": "2026-07-13T09:57:17+00:00",
+              "fecho": 21.115
             }
           ]
         },
@@ -17511,7 +17525,7 @@
             },
             {
               "quando": "2026-07-13T07:00:00+00:00",
-              "fecho": 21.105
+              "fecho": 21.115
             }
           ]
         },
@@ -18551,8 +18565,8 @@
               "fecho": 21.78
             },
             {
-              "quando": "2026-07-13T09:52:05+00:00",
-              "fecho": 21.105
+              "quando": "2026-07-13T09:57:17+00:00",
+              "fecho": 21.115
             }
           ]
         }
@@ -18664,7 +18678,11 @@
               "fecho": 342.84
             },
             {
-              "quando": "2026-07-13T09:35:21+00:00",
+              "quando": "2026-07-13T09:35:00+00:00",
+              "fecho": 342.76
+            },
+            {
+              "quando": "2026-07-13T09:55:11+00:00",
               "fecho": 342.76
             }
           ]
@@ -21158,7 +21176,7 @@
               "fecho": 345.15
             },
             {
-              "quando": "2026-07-13T09:35:21+00:00",
+              "quando": "2026-07-13T09:55:11+00:00",
               "fecho": 342.76
             }
           ]
