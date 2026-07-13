@@ -42,9 +42,21 @@ function iniciarMicrofone() {
     botaoMicrofone.classList.remove("gravando");
   });
 
-  reconhecimento.addEventListener("error", () => {
+  reconhecimento.addEventListener("error", (evento) => {
     aGravar = false;
     botaoMicrofone.classList.remove("gravando");
+
+    const mensagens = {
+      "not-allowed": "Não deste permissão de microfone a esta página. Vai às definições do browser e permite o acesso ao microfone para este site.",
+      "no-speech": "Não detetei nenhuma fala. Tenta falar logo a seguir a clicares no microfone.",
+      "audio-capture": "Não encontrei nenhum microfone disponível neste dispositivo.",
+      "network": "Falha de rede no reconhecimento de voz. Tenta novamente.",
+      "service-not-allowed": "Este browser não suporta bem o reconhecimento de voz. No Safari isto costuma falhar — experimenta o Chrome, ou usa o Ditado do macOS (tecla fn duas vezes) diretamente na caixa de texto.",
+    };
+    const mensagem = mensagens[evento.error]
+      || "O reconhecimento de voz falhou neste browser (é uma limitação conhecida do Safari). Experimenta o Chrome, ou usa o Ditado do macOS (tecla fn duas vezes) para escrever por voz na caixa de texto.";
+
+    adicionarMensagem(mensagem, "assistente");
   });
 
   botaoMicrofone.addEventListener("click", () => {
@@ -54,7 +66,12 @@ function iniciarMicrofone() {
     }
     aGravar = true;
     botaoMicrofone.classList.add("gravando");
-    reconhecimento.start();
+    try {
+      reconhecimento.start();
+    } catch {
+      aGravar = false;
+      botaoMicrofone.classList.remove("gravando");
+    }
   });
 }
 
