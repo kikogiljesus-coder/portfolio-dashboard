@@ -3,7 +3,7 @@ CARTEIRA = [
      "noticia_query": "emerging markets stocks", "limiar_alerta_pct": 3.0},
 
     {"ticker": "IWDE.AS", "nome": "iShares MSCI World EUR Hedged", "categoria": "posicao",
-     "noticia_query": "MSCI World index stock market", "limiar_alerta_pct": 0.001},
+     "noticia_query": "MSCI World index stock market", "limiar_alerta_pct": 2.5},
 
     {"ticker": "IUES.AS", "nome": "iShares S&P 500 EUR Hedged", "categoria": "posicao",
      "noticia_query": "S&P 500", "limiar_alerta_pct": 2.5},
