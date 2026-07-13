@@ -33,6 +33,48 @@ ESQUEMA_RESPOSTA = {
 }
 
 
+def _gerar_texto(prompt):
+    if _cliente is None:
+        print("AVISO: GEMINI_API_KEY nao definida, a saltar chamada ao Gemini.", file=sys.stderr)
+        return None
+
+    for tentativa in range(1, TENTATIVAS + 1):
+        try:
+            resposta = _cliente.models.generate_content(model=MODELO, contents=prompt)
+            return resposta.text.strip()
+        except Exception as erro:
+            print(f"ERRO ao chamar o Gemini (tentativa {tentativa}/{TENTATIVAS}): {erro!r}", file=sys.stderr)
+            if tentativa < TENTATIVAS:
+                time.sleep(ESPERA_ENTRE_TENTATIVAS_SEG)
+
+    return None
+
+
+def analise_alerta(nome, ticker, variacao_pct, preco_atual, noticias):
+    """Chamada dedicada ao Gemini, feita SO quando um alerta e mesmo
+    disparado (raro), para dar uma reacao especifica e accionavel."""
+
+    linhas_noticias = "\n".join(f"- {n['titulo']} ({n['fonte']})" for n in noticias) or "Sem noticias relevantes encontradas."
+
+    prompt = f"""
+Es um analista financeiro senior. Este ativo acabou de ultrapassar o limiar de alerta definido
+pelo utilizador:
+
+Ativo: {nome} ({ticker})
+Preco atual: {preco_atual:.2f} EUR
+Variacao hoje: {variacao_pct:+.2f}%
+
+Noticias recentes relacionadas:
+{linhas_noticias}
+
+Escreve em portugues de Portugal uma reacao curta (max 100 palavras) e accionavel:
+o que provavelmente esta a causar este movimento (usa as noticias se forem relevantes, di-lo
+claramente se nenhuma parecer relacionada), e uma sugestao concreta do que o utilizador poderia
+considerar fazer (nunca uma ordem categorica de compra/venda, sempre como sugestao a avaliar).
+"""
+    return _gerar_texto(prompt)
+
+
 def gerar_analise_completa(ativos):
     """Faz UMA UNICA chamada ao Gemini para gerar a analise geral e os
     comentarios de todos os ativos, para poupar quota (o plano gratuito

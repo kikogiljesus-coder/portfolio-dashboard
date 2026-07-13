@@ -4,6 +4,8 @@ import sys
 from datetime import date
 from email.mime.text import MIMEText
 
+from analise import analise_alerta
+
 GMAIL_ENDERECO = os.environ.get("GMAIL_ENDERECO", "")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 EMAIL_DESTINO = os.environ.get("EMAIL_DESTINO", "")
@@ -53,10 +55,21 @@ def verificar_e_enviar_alertas(ativos, limiares_por_ticker, alertas_enviados):
 
         tipo = "subiu" if variacao > 0 else "desceu"
         assunto = f"Alerta na carteira: {ativo['nome']} {tipo} {variacao:+.2f}%"
+
+        noticias = ativo.get("noticias") or []
+        reacao = analise_alerta(
+            ativo["nome"], ativo["ticker"], variacao, preco["preco_atual"], noticias
+        )
+
+        linhas_noticias = "\n".join(
+            f"- {n['titulo']} ({n['fonte']}): {n['link']}" for n in noticias[:3]
+        ) or "Sem noticias relevantes encontradas neste momento."
+
         corpo = (
             f"{ativo['nome']} ({ativo['ticker']}) {tipo} {variacao:+.2f}% hoje, "
             f"para {preco['preco_atual']:.2f} EUR.\n\n"
-            f"Comentario: {ativo.get('comentario') or 'sem comentario disponivel de momento'}\n\n"
+            f"--- ANALISE ---\n{reacao or ativo.get('comentario') or 'sem analise disponivel de momento'}\n\n"
+            f"--- NOTICIAS RELACIONADAS ---\n{linhas_noticias}\n\n"
             f"Ve mais detalhes em: {URL_SITE}\n"
         )
 
