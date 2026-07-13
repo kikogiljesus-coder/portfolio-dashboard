@@ -1,6 +1,6 @@
 CARTEIRA = [
     {"ticker": "IS3N.DE", "nome": "iShares Core MSCI EM IMI", "categoria": "posicao",
-     "noticia_query": "emerging markets stocks", "limiar_alerta_pct": 0.001},
+     "noticia_query": "emerging markets stocks", "limiar_alerta_pct": 3.0},
 
     {"ticker": "IWDE.AS", "nome": "iShares MSCI World EUR Hedged", "categoria": "posicao",
      "noticia_query": "MSCI World index stock market", "limiar_alerta_pct": 2.5},
