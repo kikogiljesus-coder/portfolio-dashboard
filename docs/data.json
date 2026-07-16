@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-07-16T03:42:15.663607+00:00",
-  "analise_geral": "O seu portefólio apresenta hoje um comportamento misto, mas globalmente estável. O grande destaque é a correção no setor de semicondutores (SEMI.AS, -3,38%), contrastando com a resiliência das ações globais e americanas (IWDE.AS e IUES.AS), que continuam a beneficiar de dados de inflação favoráveis. O fundo de obrigações PIMCO oferece uma âncora de estabilidade, enquanto o ouro e os mercados emergentes recuaram ligeiramente. Como sugestão, sugere-se manter o rumo e a diversificação. Quedas em setores voláteis como semicondutores podem ser normais após fortes subidas; se tiver liquidez e um perfil tolerante ao risco, pode ponderar reforçar gradualmente os índices globais amplos.",
-  "analise_gerado_em": "2026-07-16T00:13:17.747067+00:00",
+  "atualizado_em": "2026-07-16T06:16:08.974380+00:00",
+  "analise_geral": "A carteira apresenta hoje um desempenho misto, com estabilidade nos mercados desenvolvidos (EUA e Europa) e no rendimento fixo. O destaque negativo vai para o setor dos semicondutores, que sofreu uma correção acentuada, pressionando os mercados emergentes. O ouro também registou uma ligeira realização de lucros. Sugere-se manter a calma e evitar decisões precipitadas face à volatilidade setorial. Pode ser um bom momento para avaliar se a exposição a ativos mais cíclicos e tecnológicos está de acordo com o seu perfil de risco, ponderando um eventual reequilíbrio caso pretenda reforçar a sua diversificação ou posições mais defensivas.",
+  "analise_gerado_em": "2026-07-16T06:16:08.974338+00:00",
   "alertas_enviados": {
     "IS3N.DE": "2026-07-13",
     "IWDE.AS": "2026-07-13",
@@ -2450,6 +2450,10 @@
             {
               "quando": "2026-07-14T07:00:00+00:00",
               "fecho": 46.904
+            },
+            {
+              "quando": "2026-07-15T07:00:00+00:00",
+              "fecho": 46.759
             }
           ]
         },
@@ -3065,7 +3069,7 @@
           "fonte": "Neuberger Berman"
         }
       ],
-      "comentario": "Os mercados emergentes recuaram ligeiramente. A saída de capital da Ásia e a forte concentração de semicondutores nestes índices exigem cautela. Ponderar manter uma posição de longo prazo, pois a volatilidade é típica desta classe de ativos, mas o potencial de crescimento mantém-se atrativo para diversificação."
+      "comentario": "Os mercados emergentes recuaram ligeiramente devido à rotação de capital na Ásia e à pressão nas tecnológicas. Por ser um índice muito abrangente, sugere-se uma perspetiva de longo prazo, dado que ajuda a mitigar riscos específicos de países individuais."
     },
     {
       "ticker": "IWDE.AS",
@@ -3073,9 +3077,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 118.14,
+        "preco_atual": 118.26,
         "fecho_anterior": 118.08,
-        "variacao_pct": 0.05081300813008323
+        "variacao_pct": 0.15243902439024967
       },
       "historico": {
         "intradiario": {
@@ -5177,6 +5181,10 @@
             {
               "quando": "2026-07-14T07:00:00+00:00",
               "fecho": 118.08
+            },
+            {
+              "quando": "2026-07-15T07:00:00+00:00",
+              "fecho": 118.14
             }
           ]
         },
@@ -5929,7 +5937,7 @@
             },
             {
               "quando": "2026-07-15T13:54:48+00:00",
-              "fecho": 118.14
+              "fecho": 118.26
             }
           ]
         }
@@ -5956,7 +5964,7 @@
           "fonte": "Morningstar"
         }
       ],
-      "comentario": "Com uma variação quase neutra, este ETF continua a dar estabilidade global ao portefólio, com proteção cambial em euros. É um pilar fundamental. Sugere-se manter a sua posição, beneficiando da exposição às maiores empresas do mundo desenvolvido com risco cambial mitigado."
+      "comentario": "Este índice global com cobertura cambial registou uma ligeira subida, mantendo uma trajetória sólida. Sugere-se continuar a acompanhar a sua evolução, pois a proteção cambial ajuda a reduzir o risco de flutuações do euro face a outras moedas."
     },
     {
       "ticker": "IUES.AS",
@@ -5964,9 +5972,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 155.39,
+        "preco_atual": 155.27,
         "fecho_anterior": 155.21,
-        "variacao_pct": 0.11597190902646634
+        "variacao_pct": 0.03865730300882821
       },
       "historico": {
         "intradiario": {
@@ -8140,6 +8148,10 @@
             {
               "quando": "2026-07-14T07:00:00+00:00",
               "fecho": 155.21
+            },
+            {
+              "quando": "2026-07-15T07:00:00+00:00",
+              "fecho": 155.39
             }
           ]
         },
@@ -8892,34 +8904,34 @@
             },
             {
               "quando": "2026-07-15T15:27:45+00:00",
-              "fecho": 155.39
+              "fecho": 155.27
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "Stock Market Today: Nasdaq, Dow and S&P 500 log back-to-back gains; oil edges up on fresh U.S. Iran strikes; financial stocks score record finish on robust bank earnings - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNWVTa0FOOGtvdGEyUWFzMnZQWFQ2WDJnc25NX2EwU1N3R3pLZHhRNkFvRUN3ZklwT0tWX3ZRNEZESVh5RDFaWGRMMExmQ3ZFcC1DdVR2MjBVcnFGd25vRTIta2lCVm9XM2tmSHRhSHR3cm9ZUnRVVXgyNGNxSUlCWG9ac1g5aS16bVZmbUVUay1jd1F1TUxnc0NSVk5vbHc5VnRFU3JjM1Q5Q1BLN29VSGk1a1pqZlJBWm5ka1RpeFVmZXoxalE?oc=5",
+          "fonte": "MarketWatch"
+        },
+        {
           "titulo": "Stock market today: Dow, S&P 500, Nasdaq slip as semiconductor stocks plummet - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0xnc1REcmstM1BHRE1sdnY5MGwxNV94OGNSWU5qZUVxUGV1WUxsZTVEQndQcDZZSWs3ek84bk9VTXNKWjlTY2hQeTVoa0tJeUtSRXdFMXRaRHdwczZLZ29ONDNYdWJ6YVBkd29UejVpdTIwU2FGTWtPZDRzVEdXbzhIUmJkQUs5aWZGYURuNm1WRFJHVUpmaWRDSUxDeG5kajBfMEpxOA?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
+          "titulo": "Stock Market News From July 15, 2026: Dow, S&P 500, Nasdaq Rise; PayPal, IBM, Intel, Micron, ASML, More Movers - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzNzd1b3dkQUE3eDhGWTZZZUxsNVhIZWhNcjZzcHJZZ2xUOHJ1RW5JbkFBRUg0QlN1ZlNkRWgzM05JVlhsZ1YyTE5IS2hyRHBLTkZxd0ZsTDljaEVvaFJlcGRuWEU5Sk1aMDhJOHp2Tm9ndUp0ZGc?oc=5",
+          "fonte": "Barron's"
+        },
+        {
           "titulo": "Stocks close higher on Big Tech gains, encouraging inflation signs - CNBC",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KUXk0YXdXVmpaWlRlaU5KQTlHdDJkdXhUN2dTak5melBwaTdsMVpoY2M2dDZOTUZ3RV9laUYzX29ZX2tSbEhtcUpKSHhJa2ZEZ211cUdQdktfVXFoWXp0NWctdXAzNlhxS19aSjdCNXdVMk5Kb0FB0gF8QVVfeXFMTjFoMHhvM0wtUXo2NnJzVTNJNVpUM3dqS2dSV1cydFdoaVl1WGdfVnZzZkQ4RGQ0LW52c0l2NkliTVZSVHlfTUJ4VFBIX0NoR29xU0JqSGxDQjcwdVlkYjFfZFhCN3phM3VOT0dLT1lzcVpBR1c4WDRwTThOaA?oc=5",
           "fonte": "CNBC"
-        },
-        {
-          "titulo": "Think the S&P 500 Looks Cheap? Read the Fine Print - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHNlYU84ZzFvRHlwZ2R1Q2R6MWh6TFEyNlJrdjlaZjYzZTVTcTJoTTZGN3dLdU9pbFZwUDlybFM0eDFUWGhLMUMxaldBdTZTMVNYZVl5cTJrald3Z1pLd00yMkhpaDVteFpzZ25rN1pzNWxRYTEtdkJXWXVYQnlBUDRkbXV2VmtreDAzcDlpRWZsOU43RWdaUw?oc=5",
-          "fonte": "WSJ"
-        },
-        {
-          "titulo": "Traders Bet There's An 88% Chance The S&P 500 Will Plunge Soon - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnQ2QkJNZWdRMUtEbTdoQnVOcnZLT1FpZUJJSFM5M0lkaTl2d05qOFRIUFBaaGotT0VMMTFxb0ptcHU2SGl1MFJha2JmLS15cEt5clZHc0N2MjN6OEJ1R2tmWVc4NXhZMktCbzJCR2tsUTFtVkpIWW1xSGliT2xLOGxCdlUwbXJTTXZQODhuWUdQcmxCcVZhaUw5NkxxMWFVQ1c2dTV4ZUpuazBR?oc=5",
-          "fonte": "Investor's Business Daily"
         }
       ],
-      "comentario": "O mercado americano mantém a tendência positiva, impulsionado pelas tecnológicas e sinais de inflação moderada. Sendo um ETF com cobertura cambial, protege-o contra flutuações do dólar. Recomenda-se ponderar a manutenção do ativo, estando atento a avaliações potencialmente esticadas no curto prazo."
+      "comentario": "O S&P 500 em euros fechou praticamente estável. Apesar da pressão nas tecnológicas, os bons resultados da banca e dados macroeconómicos dão suporte. Sugere-se manter a posição para beneficiar do crescimento estrutural das maiores empresas norte-americanas."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -8939,10 +8951,6 @@
         "diario": {
           "ok": true,
           "pontos": [
-            {
-              "quando": "2024-07-15T06:00:00+00:00",
-              "fecho": 7.77
-            },
             {
               "quando": "2024-07-16T06:00:00+00:00",
               "fecho": 7.78
@@ -12702,22 +12710,22 @@
           "fonte": "CNBC"
         },
         {
-          "titulo": "Flipping the Script on “Safe” Haven Bonds - Connect CRE",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWE5pdC1CR2dFVEhFal91TXZYSExlT1J1Y2R0Z2gzSEIxSHpkbVZocS1RY1h6VEJkT2w1OUlhcG9tUTlNRk51a3pIaFN4UjQwWE03MDJYU0ZCWHk5cVl3MTNFMlVDVVhQTUlQeHYtalJWb1JxNjhGUFpHMUV4M08tUA?oc=5",
-          "fonte": "Connect CRE"
-        },
-        {
           "titulo": "Fixed Income’s Summer Resurgence: Review of Last Week's Flows - ETF Database",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVY2OVNQTGZEY001NjZESF91b1JyUV9NbEdWS1ZTT01pY0NPV1lYeFZXRVFnM0ozWFo3VnIyMUE1Rm5VYjU1YTdsTktnbFNsazg0TzhFZVVUSGZQTXBwdHp4Zi10c3hQVm83VzR1MzBBeEZQMkdMb2VoVks2N2ZWVWxwT1Q0MVAxWkthUHlJcFJKYkd0RU94elQ0czY3bHps?oc=5",
           "fonte": "ETF Database"
         },
         {
-          "titulo": "How June’s CPI Report Could Reshape Fixed Income Portfolios - ETF Trends",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWDRmOWNqSmZyOEE5MGowazBQMjAwWG9pWmZMR1ZyWkVGb1ZESWdzWXZMc0FMYnBlOHFxWVlKNVNIS3VlaEVXdXZhZS1CRXJweVI2SEY2cXVqbkplaUUyZmNvUE9tOF9JUzRkb0tGWGJtVmhiTC1RRmhJdmh3eF9LT2NQT2J1S2dBNEFmdVkxQkxFY1NpWVBsYnlldnBEQno2bXoxeXBZMnh4SDNJSEs40gG0AUFVX3lxTE55QTZLODdKYzRxc2NJakx3U3V2UVk1bWlIejQzVnBqWVY5bG5tS0MwQkZ3ZTZMTG4yZ1FldkZISWZBRy1zcXE0UlhaQk42MExKclZxR0VMekRZbmNLZEZoOFVzc044VW1rVnZ2RXBPUmZqb3N0YlhqUlNlUFFIdEJVMGV2b3NiUHBRNXZZc2xTSlcwbzlPNUJ3NFJ2NWZnQjZ4RWVFU2JBR25WbWF0ZjBEV1c4eA?oc=5",
-          "fonte": "ETF Trends"
+          "titulo": "Flipping the Script on “Safe” Haven Bonds - Connect CRE",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWE5pdC1CR2dFVEhFal91TXZYSExlT1J1Y2R0Z2gzSEIxSHpkbVZocS1RY1h6VEJkT2w1OUlhcG9tUTlNRk51a3pIaFN4UjQwWE03MDJYU0ZCWHk5cVl3MTNFMlVDVVhQTUlQeHYtalJWb1JxNjhGUFpHMUV4M08tUA?oc=5",
+          "fonte": "Connect CRE"
+        },
+        {
+          "titulo": "Fixed Income Outlook: H2 2026 — Keep Calm, Clip Coupons - LPL Financial",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRElNR0RsSUZxS2pUemg5WTdUS0lHbEtzWlNWR0xoQnZVaFJoNmVOWmpoQWVORG9qVjVQbUZzYTlHZTQxQk5JVDRhQjJjM1hvSC05d0FXcTdWUl9mNFozNlJXaVRCRHBtVGZqa2ZJMEZ6NGFhdFhMdDFPTkhhWi1qd0Zfa19xVXItTDRQUWlB?oc=5",
+          "fonte": "LPL Financial"
         }
       ],
-      "comentario": "Este fundo de obrigações registou uma subida ligeira, confirmando o seu papel de refúgio e gerador de rendimento numa fase de reconfiguração das taxas de juro. Sugere-se a sua manutenção para equilibrar a volatilidade da componente acionista do seu portefólio."
+      "comentario": "Este fundo de rendimento fixo subiu ligeiramente, beneficiando do regresso de fluxos para obrigações globais. Sugere-se considerar este ativo como um elemento defensivo importante para equilibrar a volatilidade das ações e gerar rendimento de forma mais previsível."
     },
     {
       "ticker": "IMAE.AS",
@@ -15085,6 +15093,10 @@
             {
               "quando": "2026-07-14T07:00:00+00:00",
               "fecho": 104.01
+            },
+            {
+              "quando": "2026-07-15T07:00:00+00:00",
+              "fecho": 104.195
             }
           ]
         },
@@ -15909,8 +15921,8 @@
           "fonte": "Morningstar"
         },
         {
-          "titulo": "European shares subdued as oil jumps after US-Iran tensions escalate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2NNZnVVOGcySHZsNTZmbktYVlYzbTlxTU5tNHFDSWtqV19rT0dWeUdBaktuOU1FQl9wNkdHZmQ3QWpsX3ZmVktaa1dwZzJqQ1lHNi1ncFpic0UwTzhSUzgzdGdONXV0Vm9fMWQ5SEpIZ2FDZ0VycVlfMmc0ZGVRR2VIYWJjVDVPT1c4UnNGZndTcFE3UmctMy1QeWs?oc=5",
+          "titulo": "European shares rise as cool US inflation data curbs some rate hike fears - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGplVTVlNEpURDNOWjM1dHBjZEVvMjc0UDRJMXFqZ1gteFRBRkxOd2RUQXJpMDQxQ3lPUU1ZNjlrbXZfcEQ5UEpYUjlwSUl6SVY2RmMwNzBVeGlVZzhaY3hWN0h0dEhjdXlsQ2JKRTQyc2xpZEFNU2ZVazVyTHdtdVVwNkw4eDRPa3BEYmpnalFSbTV6cExHalVmNDBxNVNLeERYdF9WWldGOHdJ?oc=5",
           "fonte": "Reuters"
         },
         {
@@ -15924,7 +15936,7 @@
           "fonte": "Goldman Sachs"
         }
       ],
-      "comentario": "As ações europeias registaram uma ligeira subida, mostrando resiliência face a tensões geopolíticas. Com avaliações historicamente atrativas em comparação com os EUA, este ativo pode ser um bom elemento de diversificação regional. A sugestão passa por manter a exposição atual."
+      "comentario": "As ações europeias subiram ligeiramente, animadas por dados favoráveis da inflação global. Alguns analistas sugerem que a Europa poderá estar posicionada para recuperar terreno. Sugere-se manter este ativo para garantir uma diversificação geográfica equilibrada face aos EUA."
     },
     {
       "ticker": "SEMI.AS",
@@ -18296,6 +18308,10 @@
             {
               "quando": "2026-07-14T07:00:00+00:00",
               "fecho": 21.43
+            },
+            {
+              "quando": "2026-07-15T07:00:00+00:00",
+              "fecho": 20.705
             }
           ]
         },
@@ -19336,7 +19352,7 @@
             },
             {
               "quando": "2026-07-12T22:00:00+00:00",
-              "fecho": 21.43
+              "fecho": 20.705
             },
             {
               "quando": "2026-07-15T15:35:14+00:00",
@@ -19347,27 +19363,27 @@
       },
       "noticias": [
         {
-          "titulo": "Not all the way through the correction in semiconductor stocks, says BTIG's Jonathan Krinsky - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWtYVVlXeEtXUzRMU2MzSXNBM3Q0Nk1DMXZOVF90WWpMRUJ6MlExcFNXSDVpSFYwdnljMUlYdkNoUk9FbWlVT2ZXT1B6bFpkaU55TFpZbWtvbXktQWdidGxOeTNvTG1nOG1kSFBfaWR2MjhUdTJwcUpON1BRUFMwNUxwNVZOdEJGaEQ3ZUR6TFBqdXJHQTN2eHJPeUpkSldLR21ycDNBdTNsdl9IbS1kQXhIQkZsX3dfaW9uSlRzZXdqWnh4ZHJHYXhfaVJXUQ?oc=5",
-          "fonte": "CNBC"
-        },
-        {
           "titulo": "Chip stocks hit rocky patch. What's next? - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObXBfajRWYzVsWXB3X0ZVdVRIYnp5X3djTGlEdDdKYlFaZHlpYmxUVXN4UkVZTVNGVGdVUVVXeUZiRG9WZFRpUzRfZ2lmQ2FCdnN3QUNnVlo2dmtCOWVPTDF0NFpoMEtFLXlqaVJVUEV5MGNSSHkwV3pTSXlhWTF0VGp5X3ZJUTB4QjRJ?oc=5",
           "fonte": "Reuters"
         },
         {
-          "titulo": "U.S. semiconductor stocks started July on a negative note; analysts say some of the upside potential has already been priced in, and volatility may intensify further. - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnNXVHBiLVkwWkNpVjNteWFSTkMxYTdrSmVOR2Y3R1BsMVpSZzhXNklXMy1WSUR6T2RBbXYwOUg5S1BhVFp0X0VTZWFYZlB2U2wwRW02QWQ2bV9YOWVmQmZrUUswaXMtOGk2UFJIMEZqZjhyRjZxX0o5Y0N5Y2laSi13eG1ibHo4QVUxQUk0Sm1JOURKMUdFakExSkFaZV80T3dfZ3JycGpPQQ?oc=5",
-          "fonte": "Moomoo"
-        },
-        {
           "titulo": "Stock market today: Dow, S&P 500, Nasdaq slip as semiconductor stocks plummet - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0xnc1REcmstM1BHRE1sdnY5MGwxNV94OGNSWU5qZUVxUGV1WUxsZTVEQndQcDZZSWs3ek84bk9VTXNKWjlTY2hQeTVoa0tJeUtSRXdFMXRaRHdwczZLZ29ONDNYdWJ6YVBkd29UejVpdTIwU2FGTWtPZDRzVEdXbzhIUmJkQUs5aWZGYURuNm1WRFJHVUpmaWRDSUxDeG5kajBfMEpxOA?oc=5",
           "fonte": "Yahoo Finance"
+        },
+        {
+          "titulo": "SK Hynix shares plunge 11% as Asia sees tech rout, tracking U.S. chip losses - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmduZE95WVN3NmJLSWFtVEtxc3VLLUdkekpfeTh3X1YwQnMzbWFKN01BdzZlWE5ta21CcEdQWXdUUGtzV3pLWFVSNk5nSnUxX0k0NS1mZzhFV2JLWURqVlhzYXRwYUhEUndWYTQwVXVBTU9ITURBT044UkM5cUFuZlRNcGU0OHBoZ094T3lvZ2xUTTVKUklKbUhUU1Q5T3lXUVhfTjdxMNIBrAFBVV95cUxOWjMtVktOWGhIQXg4c3lnT0h0TnljTUt4Z1FhNkQ4cTIwYjd4UktXb19qWGJFMXlZNzh0ZGE0M2txZ3ZoeDNVWXpyLS1MYUFpMElVM3dKZmladVExUUNJT1RJSFNvNWdaaUhYWC1jcGgyNDVxT05qeEY3WEEzNzd5ejBIQmxTNS1NeXZpT1RQQlZsWTNwQ3ZlT2dINjkwbDlIOFNGTFJEYXBJUERG?oc=5",
+          "fonte": "CNBC"
+        },
+        {
+          "titulo": "Tower Semiconductor Shares Surge Premarket on Japanese Investment - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEhNQ2JBRkxGZ0Z0YmtpbDY3Q251RTJvMW41TnpPTzlka29xeDloN1pEN3lQRjBISlBQUzZ5amJ3bmVOc0xlWHAxNGJ4MEQzQkFTNXAwYkJUT3B3bWNlZXhFNkwxdm9YLUhIa0tXRjVFSWJiYjAzODVDQzZwR255ZWRMMnA1bzV6amRCMTVwVHRPRXFnaEsxNS1XWjU0Vk5P?oc=5",
+          "fonte": "WSJ"
         }
       ],
-      "comentario": "O setor de semicondutores sofreu uma correção acentuada hoje (-3,38%). Após fortes valorizações, esta volatilidade é normal. Se o seu horizonte temporal for de longo prazo e acreditar no setor da tecnologia, esta correção pode ser vista como uma oportunidade de monitorização para eventuais reforços."
+      "comentario": "Queda acentuada hoje, acompanhando a correção global no setor dos semicondutores. Sendo um ETF setorial, a volatilidade é expectável. Sugere-se analisar se o peso deste ativo na sua carteira está ajustado à sua real tolerância a oscilações bruscas."
     },
     {
       "ticker": "SGLD.AS",
@@ -21603,6 +21619,10 @@
             {
               "quando": "2026-07-14T07:00:00+00:00",
               "fecho": 343.17
+            },
+            {
+              "quando": "2026-07-15T07:00:00+00:00",
+              "fecho": 340.48
             }
           ]
         },
@@ -22080,8 +22100,8 @@
           "fonte": "Fortune"
         },
         {
-          "titulo": "Gold prices surging higher to test resistance at $4,100 following sharp drop in U.S. inflation - KITCO",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ05SZlJHWFc4WnVoVVFLcnFyZzhDWXlUalhKSmxYYzZqM2hVTkZlZXVGbnBwVGpRdlVFaFNNTmVPbXJFZTUyR2lYTU0yVGM1eEJyTHJ6M0o2b2M0QXZoOWtmVC1PN0VxeHBodk1ndC10cGo0NTJybUdzZ1dzR0RsN0lnUUJzTUxDOEdhdG90QmJvbE1ZenFmVl9Xa0VZOEkzb1ZwOUtjRG1FN3RDZ20xaGVPUV80ajl3?oc=5",
+          "titulo": "Bank of America sees value in gold miners even after cutting 2026 gold price forecast - KITCO",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWJtWGpFSzJ0ejNkV3NvemJ1WTNIRnFiZ01BRFdzS1VNeXZHQVJHU1ZfbVRXeklwRFR3ZDdaT3cwbWczanFOeTJnUjdxRi1vdGlQOF9yekpEV0s1Qi1rU1p2Q0ljZ2p6UENLMVRyRjB4LTFZc0tCZE0wajlwSE1vZkhJSXdBTjZvdDdYdGFlWm12dDVQdmNfY0loQTFTVWo0eTdwNUtlUmNqYTRUN0RyNEc2aEk0aDg?oc=5",
           "fonte": "KITCO"
         },
         {
@@ -22090,7 +22110,7 @@
           "fonte": "Yahoo Finance"
         }
       ],
-      "comentario": "O ouro recuou ligeiramente hoje devido a dinâmicas geopolíticas e de mercado. Mantém-se, contudo, como um excelente ativo de refúgio e proteção contra a inflação. Sugere-se manter este ETC como um estabilizador do portefólio para momentos de maior stress de mercado."
+      "comentario": "O ouro registou uma ligeira descida hoje, mas mantém-se perto de máximos históricos com o suporte da incerteza geopolítica. Sugere-se encarar este ativo como um seguro de portefólio contra a inflação, mantendo uma exposição moderada."
     }
   ]
 }
