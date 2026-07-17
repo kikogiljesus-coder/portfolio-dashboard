@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-17T14:16:07.049560+00:00",
+  "atualizado_em": "2026-07-17T15:46:36.322909+00:00",
   "analise_geral": "A carteira apresenta hoje uma tendência predominantemente negativa, influenciada sobretudo pela forte correção no setor dos semicondutores (SEMI.AS) e pela queda nos mercados emergentes (IS3N.DE). Em contrapartida, as obrigações (PIMCO) e o ouro (SGLD.AS) demonstraram o seu papel amortecedor e defensivo contra a volatilidade. Perante este cenário, sugere-se serenidade e a manutenção da estratégia definida a longo prazo. Momentos de correção de mercado podem, eventualmente, ser encarados como oportunidades para reforços faseados em ativos globais diversificados, caso se enquadrem no seu perfil de investidor e objetivos financeiros.",
   "analise_gerado_em": "2026-07-17T14:16:07.049517+00:00",
   "alertas_enviados": {
@@ -15,9 +15,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 44.945,
+        "preco_atual": 45.284,
         "fecho_anterior": 46.23,
-        "variacao_pct": -2.779580359074187
+        "variacao_pct": -2.0462902876919706
       },
       "historico": {
         "intradiario": {
@@ -348,8 +348,80 @@
               "fecho": 44.888
             },
             {
-              "quando": "2026-07-17T14:00:22+00:00",
-              "fecho": 44.945
+              "quando": "2026-07-17T14:00:00+00:00",
+              "fecho": 45.102
+            },
+            {
+              "quando": "2026-07-17T14:05:00+00:00",
+              "fecho": 45.218
+            },
+            {
+              "quando": "2026-07-17T14:10:00+00:00",
+              "fecho": 45.223
+            },
+            {
+              "quando": "2026-07-17T14:15:00+00:00",
+              "fecho": 45.292
+            },
+            {
+              "quando": "2026-07-17T14:20:00+00:00",
+              "fecho": 45.274
+            },
+            {
+              "quando": "2026-07-17T14:25:00+00:00",
+              "fecho": 45.254
+            },
+            {
+              "quando": "2026-07-17T14:30:00+00:00",
+              "fecho": 45.221
+            },
+            {
+              "quando": "2026-07-17T14:35:00+00:00",
+              "fecho": 45.31
+            },
+            {
+              "quando": "2026-07-17T14:40:00+00:00",
+              "fecho": 45.273
+            },
+            {
+              "quando": "2026-07-17T14:45:00+00:00",
+              "fecho": 45.27
+            },
+            {
+              "quando": "2026-07-17T14:50:00+00:00",
+              "fecho": 45.21
+            },
+            {
+              "quando": "2026-07-17T14:55:00+00:00",
+              "fecho": 45.174
+            },
+            {
+              "quando": "2026-07-17T15:00:00+00:00",
+              "fecho": 45.05
+            },
+            {
+              "quando": "2026-07-17T15:05:00+00:00",
+              "fecho": 45.112
+            },
+            {
+              "quando": "2026-07-17T15:10:00+00:00",
+              "fecho": 45.088
+            },
+            {
+              "quando": "2026-07-17T15:15:00+00:00",
+              "fecho": 45.207
+            },
+            {
+              "quando": "2026-07-17T15:20:00+00:00",
+              "fecho": 45.172
+            },
+            {
+              "quando": "2026-07-17T15:25:00+00:00",
+              "fecho": 45.285
+            },
+            {
+              "quando": "2026-07-17T15:30:00+00:00",
+              "fecho": 45.284
             }
           ]
         },
@@ -2374,7 +2446,7 @@
             },
             {
               "quando": "2026-07-17T07:00:00+00:00",
-              "fecho": 44.945
+              "fecho": 45.284
             }
           ]
         },
@@ -2962,22 +3034,22 @@
               "fecho": 46.23
             },
             {
-              "quando": "2026-07-17T14:00:22+00:00",
-              "fecho": 44.945
+              "quando": "2026-07-17T15:30:00+00:00",
+              "fecho": 45.284
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Time to Rethink Emerging Market Winners. Why a Broad Index Won’t Cut It. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWs0aGg5S09Vc21BeHM0Q1VOVll2dTJkMjBwRVhvckJzaDlGWnlSXzdHTUxSdzh2bFRtYS0zbkJJZ1lTQk1qYmdFS2owZUtjR2xkWDU5WEJYN2Vzb3llZWpNTVVEMXFqTGozb2FQTFpjWEdCSGhqeWs3MEFlTjZJZFUzYjNyRlJBLW93Rm1reTB4dHhHX2UtaE8wNzhBZE0?oc=5",
-          "fonte": "Barron's"
-        },
-        {
           "titulo": "Could This Emerging Markets ETF Be a Better Way to Buy SK Hynix? - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXE3THBtdlM2ajNxSEZHZ3FINUREbkZFX3diZzZVVS1VVVdlX0RjTTdPT0o2dEhYdjJqMi0tWlV0NE9jYmd2M1o4SDkybldXc2MzNjVpNzZkdGRDOFUwalkwb19kdDJ6ZUduWUdEb1VkbHNCdklrd05HM0loTU4tdHoyUVJlQjVOZm5SZHRIX0tQeDRLWjhaUg?oc=5",
           "fonte": "The Motley Fool"
+        },
+        {
+          "titulo": "Time to Rethink Emerging Market Winners. Why a Broad Index Won’t Cut It. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWs0aGg5S09Vc21BeHM0Q1VOVll2dTJkMjBwRVhvckJzaDlGWnlSXzdHTUxSdzh2bFRtYS0zbkJJZ1lTQk1qYmdFS2owZUtjR2xkWDU5WEJYN2Vzb3llZWpNTVVEMXFqTGozb2FQTFpjWEdCSGhqeWs3MEFlTjZJZFUzYjNyRlJBLW93Rm1reTB4dHhHX2UtaE8wNzhBZE0?oc=5",
+          "fonte": "Barron's"
         },
         {
           "titulo": "How 4 Emerging-Market Funds Have Performed Since Their Latest Upgrades - Morningstar",
@@ -2998,9 +3070,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 116.62,
+        "preco_atual": 116.8,
         "fecho_anterior": 118.06,
-        "variacao_pct": -1.2197187870574266
+        "variacao_pct": -1.0672539386752542
       },
       "historico": {
         "intradiario": {
@@ -3083,8 +3155,24 @@
               "fecho": 116.24
             },
             {
-              "quando": "2026-07-17T13:51:16+00:00",
+              "quando": "2026-07-17T13:50:00+00:00",
               "fecho": 116.62
+            },
+            {
+              "quando": "2026-07-17T14:05:00+00:00",
+              "fecho": 116.9
+            },
+            {
+              "quando": "2026-07-17T14:15:00+00:00",
+              "fecho": 117.02
+            },
+            {
+              "quando": "2026-07-17T14:40:00+00:00",
+              "fecho": 116.92
+            },
+            {
+              "quando": "2026-07-17T15:05:00+00:00",
+              "fecho": 116.8
             }
           ]
         },
@@ -5125,7 +5213,7 @@
             },
             {
               "quando": "2026-07-17T07:00:00+00:00",
-              "fecho": 116.62
+              "fecho": 116.8
             }
           ]
         },
@@ -5877,8 +5965,8 @@
               "fecho": 118.06
             },
             {
-              "quando": "2026-07-17T13:51:16+00:00",
-              "fecho": 116.62
+              "quando": "2026-07-17T15:27:44+00:00",
+              "fecho": 116.8
             }
           ]
         }
@@ -5913,9 +6001,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 153.37,
+        "preco_atual": 153.63,
         "fecho_anterior": 155.48,
-        "variacao_pct": -1.3570877283251772
+        "variacao_pct": -1.1898636480576243
       },
       "historico": {
         "intradiario": {
@@ -6011,11 +6099,27 @@
             },
             {
               "quando": "2026-07-17T13:50:00+00:00",
-              "fecho": 153.3
+              "fecho": 153.37
             },
             {
-              "quando": "2026-07-17T13:53:09+00:00",
-              "fecho": 153.37
+              "quando": "2026-07-17T14:05:00+00:00",
+              "fecho": 153.91
+            },
+            {
+              "quando": "2026-07-17T14:20:00+00:00",
+              "fecho": 153.95
+            },
+            {
+              "quando": "2026-07-17T14:25:00+00:00",
+              "fecho": 153.9
+            },
+            {
+              "quando": "2026-07-17T14:40:00+00:00",
+              "fecho": 153.95
+            },
+            {
+              "quando": "2026-07-17T15:20:00+00:00",
+              "fecho": 153.47
             }
           ]
         },
@@ -8056,7 +8160,7 @@
             },
             {
               "quando": "2026-07-17T07:00:00+00:00",
-              "fecho": 153.37
+              "fecho": 153.63
             }
           ]
         },
@@ -8808,27 +8912,27 @@
               "fecho": 155.48
             },
             {
-              "quando": "2026-07-17T13:53:09+00:00",
-              "fecho": 153.37
+              "quando": "2026-07-17T15:27:40+00:00",
+              "fecho": 153.63
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Stock market today: Dow rises, S&P 500 and Nasdaq fall as chip stocks slide amid AI jitters - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQmcyZEZVbjRiUDJRc0dlMDFwR2hhUGlERFRPZVpNREktaVBVay11SFJ2WG1tM3VTUFlXMW8xWG8yMnpmMjZQTUFOdUk3UThNYjYxN2o0MGVVYjFac2lWdlpOZV84T0dGanU2anNSWEI0MjNyNmJFNVF6SWhQd3g0VGU2c1NoeEd4YmRfRzhXZ0RzMDIyMks4bmFzZHRMRHlOclkydFVhdU5YRF9HSkZ0TTQ5c09jbUJrNG5oMWJ2XzB6UE0?oc=5",
-          "fonte": "Yahoo Finance"
-        },
-        {
-          "titulo": "1 S&P 500 Stock with Promising Prospects and 2 We Find Risky - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ0ZRSGpSXzJDS1hxVk1YLWVCdlNUNk5oT3pXd3Jtc1lhOXpwWmZNTldiaG0zZXMyby1FSXRVMkpNeHVnSklQTDk3dVV2OUJINjlZV2JHSXhmZXVsN1dqeVVqdjllQWlCU0xETkl2STRMaE5JOTdtem5rUkdSX3FaNnludVg3UHRoMGVpWGpmWTlEdw?oc=5",
+          "titulo": "Stock market today: Nasdaq hammered by chips sell-off, Dow and S&P 500 fall after Netflix whiff - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHlaX3ROeTUxeFRlTUYzTmVkYlRLRnEzU2VRSmJOWHQ1NnF0eTBzb3dCMnFFUzBHenRVekVuUzRwbTlnN1lCUDhXdXdwWmgzZWpPVnRYS2tRUHFjVUdCUjhLSFc0UUN6OVBWM0I1RkNkTkgxRXJkRG5SNEJWamdYQ3ZwMWJESFJsSXh2LVVJR3RYeFltX2lGdkhKSU9QRzNTWVBHMU1LcU4?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
           "titulo": "If I Could Tell All Long-Term Investors 1 Thing About the S&P 500 Right Now, It's This - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekZFeUFENnA2YmtEUFhQeGJpZ05UVmxEUUVrcEEyeWFxelIwQUZqT3Y2Sl9DbE41SlZ2Y3RHMF9keDR3U2k1NEhDZ0FxcURuclgtbW9pMWIxR0pHRHpseUg3RUJfSEVVeDEtQ2hLZ1RoNEFHTHdXeFRXN3ZzS3FOOF9UdDZINmk5ZW45dENtZlh5YUZ0UlNF?oc=5",
           "fonte": "The Motley Fool"
+        },
+        {
+          "titulo": "US Stock Futures Tumble as TSMC’s Results Revive AI Concerns - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnNHWWZlU3ppQVRKUGFNdzlPNGplbmhFWDF3aV9BTjNRMy10WTJIRXlsamlQcGR5dXN0emtjd1hzVi1BSDBHWDNYM1h6QVB5TnJKM3BOdHJ5SXgyX2dscmZWdXoxejE3QTYtUUpxYk0wY0JITEpDUXlJZ2N6eHNvTjRpLThiZHBVN0lyWlF2VlAtZEg5c042Q2ZUU182dEFuTW9CRUNiSVJvcXQ3bGtTRA?oc=5",
+          "fonte": "Bloomberg.com"
         },
         {
           "titulo": "RKLB, SPCX, ASTS Head For Over 30% July Losses — Goldman Says Space Stocks Are 5x More Volatile Than S&P 500 - TradingView",
@@ -12638,9 +12742,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 103.765,
+        "preco_atual": 103.73,
         "fecho_anterior": 104.315,
-        "variacao_pct": -0.5272491971432652
+        "variacao_pct": -0.5608014187796517
       },
       "historico": {
         "intradiario": {
@@ -12912,11 +13016,67 @@
             },
             {
               "quando": "2026-07-17T13:55:00+00:00",
-              "fecho": 103.77
+              "fecho": 103.765
             },
             {
-              "quando": "2026-07-17T13:57:36+00:00",
-              "fecho": 103.765
+              "quando": "2026-07-17T14:00:00+00:00",
+              "fecho": 103.755
+            },
+            {
+              "quando": "2026-07-17T14:05:00+00:00",
+              "fecho": 103.775
+            },
+            {
+              "quando": "2026-07-17T14:10:00+00:00",
+              "fecho": 103.7
+            },
+            {
+              "quando": "2026-07-17T14:15:00+00:00",
+              "fecho": 103.725
+            },
+            {
+              "quando": "2026-07-17T14:20:00+00:00",
+              "fecho": 103.735
+            },
+            {
+              "quando": "2026-07-17T14:25:00+00:00",
+              "fecho": 103.7
+            },
+            {
+              "quando": "2026-07-17T14:30:00+00:00",
+              "fecho": 103.66
+            },
+            {
+              "quando": "2026-07-17T14:35:00+00:00",
+              "fecho": 103.69
+            },
+            {
+              "quando": "2026-07-17T14:45:00+00:00",
+              "fecho": 103.62
+            },
+            {
+              "quando": "2026-07-17T14:50:00+00:00",
+              "fecho": 103.745
+            },
+            {
+              "quando": "2026-07-17T14:55:00+00:00",
+              "fecho": 103.7
+            },
+            {
+              "quando": "2026-07-17T15:00:00+00:00",
+              "fecho": 103.645
+            },
+            {
+              "quando": "2026-07-17T15:10:00+00:00",
+              "fecho": 103.62
+            },
+            {
+              "quando": "2026-07-17T15:15:00+00:00",
+              "fecho": 103.645
+            },
+            {
+              "quando": "2026-07-17T15:20:00+00:00",
+              "fecho": 103.715
             }
           ]
         },
@@ -14965,7 +15125,7 @@
             },
             {
               "quando": "2026-07-17T07:00:00+00:00",
-              "fecho": 103.765
+              "fecho": 103.73
             }
           ]
         },
@@ -15777,8 +15937,8 @@
               "fecho": 104.315
             },
             {
-              "quando": "2026-07-17T13:57:36+00:00",
-              "fecho": 103.765
+              "quando": "2026-07-17T15:24:02+00:00",
+              "fecho": 103.73
             }
           ]
         }
@@ -15813,9 +15973,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 19.142,
+        "preco_atual": 19.33,
         "fecho_anterior": 20.18,
-        "variacao_pct": -5.143706640237861
+        "variacao_pct": -4.212091179385538
       },
       "historico": {
         "intradiario": {
@@ -16142,8 +16302,76 @@
               "fecho": 19.084
             },
             {
-              "quando": "2026-07-17T14:00:46+00:00",
-              "fecho": 19.142
+              "quando": "2026-07-17T14:00:00+00:00",
+              "fecho": 19.186
+            },
+            {
+              "quando": "2026-07-17T14:05:00+00:00",
+              "fecho": 19.358
+            },
+            {
+              "quando": "2026-07-17T14:10:00+00:00",
+              "fecho": 19.354
+            },
+            {
+              "quando": "2026-07-17T14:15:00+00:00",
+              "fecho": 19.472
+            },
+            {
+              "quando": "2026-07-17T14:20:00+00:00",
+              "fecho": 19.44
+            },
+            {
+              "quando": "2026-07-17T14:25:00+00:00",
+              "fecho": 19.402
+            },
+            {
+              "quando": "2026-07-17T14:30:00+00:00",
+              "fecho": 19.35
+            },
+            {
+              "quando": "2026-07-17T14:35:00+00:00",
+              "fecho": 19.504
+            },
+            {
+              "quando": "2026-07-17T14:40:00+00:00",
+              "fecho": 19.448
+            },
+            {
+              "quando": "2026-07-17T14:45:00+00:00",
+              "fecho": 19.44
+            },
+            {
+              "quando": "2026-07-17T14:50:00+00:00",
+              "fecho": 19.38
+            },
+            {
+              "quando": "2026-07-17T14:55:00+00:00",
+              "fecho": 19.338
+            },
+            {
+              "quando": "2026-07-17T15:00:00+00:00",
+              "fecho": 19.268
+            },
+            {
+              "quando": "2026-07-17T15:05:00+00:00",
+              "fecho": 19.244
+            },
+            {
+              "quando": "2026-07-17T15:10:00+00:00",
+              "fecho": 19.292
+            },
+            {
+              "quando": "2026-07-17T15:15:00+00:00",
+              "fecho": 19.286
+            },
+            {
+              "quando": "2026-07-17T15:20:00+00:00",
+              "fecho": 19.28
+            },
+            {
+              "quando": "2026-07-17T15:25:00+00:00",
+              "fecho": 19.326
             }
           ]
         },
@@ -18192,7 +18420,7 @@
             },
             {
               "quando": "2026-07-17T07:00:00+00:00",
-              "fecho": 19.142
+              "fecho": 19.33
             }
           ]
         },
@@ -19236,8 +19464,8 @@
               "fecho": 20.18
             },
             {
-              "quando": "2026-07-17T14:00:46+00:00",
-              "fecho": 19.142
+              "quando": "2026-07-17T15:29:01+00:00",
+              "fecho": 19.33
             }
           ]
         }
@@ -19249,19 +19477,19 @@
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Semiconductor sector faces an intensifying sell-off as SOXX enters bear market territory - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2JDYUF6MENEYkxqejJNT2swWk1GcjBMWG5VdjVHMUFMSjV3NWRkMVRRU3A4RkQ4eHB6TFQwX25pZzMtYmhoUXhXTnA3aUx1bFRDWEI3OEYtcWp4b0xMcmV6UFhPSEF5eW95ZktFZXZJdlpwWDU5TDhaWkNhVEh4MGE4NFBoMkJwdzhYemhUcVY0d0tOSlV4akotTTVnaUk1Z0pVOFR6OTJ6SF9pOHRTS2podVpvZlpaNDBMVWVBdko?oc=5",
-          "fonte": "Seeking Alpha"
-        },
-        {
-          "titulo": "Semiconductor stocks are on the verge of a bear market. Is the thrill in the chips trade gone? - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTW9QWHlLVkpKamxoMV93VnR1OG10MjRZZ2VBRUlxTlE0ekhjTE1VUjRKalJicHc0Tk1xX29qb09XR3JmakQzZ25reW1zSTZDMktDNzNhX25fZHUwdE82QVpra0pvUjl6d0ZHdzRnN2dBQmpnR0tHYzJKYkJBdk53dkRORmxrS0ZKcjN1VWswQ1duNU5ZR1Q1NkxUcTBaUk10T1BENVkyMFBab3hnQ1hCb3lMMkMwRkVIMHNhX2Zpb1QyQUdoc3lvbF90eHp1MjUw?oc=5",
+          "titulo": "As semiconductor stocks slump, one AI-adjacent sector is thriving — and these are the stocks to buy there - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQi1HbHlzWGNvNFRZdTFJaWU4UEptWTUyaF9QbnQ1eWxLUUlQMkJPYUR0WjhGTzc0QnZxX0ptRjZlMXZScUZWd2xJNjF5Y2N0a0hXcW4xcEdQZE5qZ3dyOVo3ZWFCV2M5dmNfcTB5amxPd0FQSlRBNXE5V0VhWkIyYm1RdVU4ekhXdFotSnFXb0hrOXFZVFlObzhqV0RwN3VRbnBLZnRXZkFxSE1razFocXRWbVVWeTNwTklwQXVVTHYtcTFtbWwwVTFBNlVJaE5qb25GRDZ3?oc=5",
           "fonte": "MarketWatch"
         },
         {
-          "titulo": "Not all the way through the correction in semiconductor stocks, says BTIG's Jonathan Krinsky - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWtYVVlXeEtXUzRMU2MzSXNBM3Q0Nk1DMXZOVF90WWpMRUJ6MlExcFNXSDVpSFYwdnljMUlYdkNoUk9FbWlVT2ZXT1B6bFpkaU55TFpZbWtvbXktQWdidGxOeTNvTG1nOG1kSFBfaWR2MjhUdTJwcUpON1BRUFMwNUxwNVZOdEJGaEQ3ZUR6TFBqdXJHQTN2eHJPeUpkSldLR21ycDNBdTNsdl9IbS1kQXhIQkZsX3dfaW9uSlRzZXdqWnh4ZHJHYXhfaVJXUQ?oc=5",
-          "fonte": "CNBC"
+          "titulo": "U.S. Stocks Move | Semiconductor Sector Continues Correction; Intel (INTC.US) Drops Over 3% - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWptd3FhbmZlMlJYMV9lTEZOMmlDUW5ha282aWlsTXJJZDV3MXB0bUd6OWF2S0h0WmdDbVp6S0VYd1Y4bEgwUnZTLVZfZ2JjZmtic2NPVlg3QjdXMXhQWkhmNXczeWtOdUtMSGlvTWZUVlN2cnkyMUs4bm8ta3lBLTlWZEVza0h6ZlNHcEd0RFNQT2JfeXRJazRlaW96TnlORVNBVXdpVjRHZGpjVHhndzdQb3o4Snpp?oc=5",
+          "fonte": "Moomoo"
+        },
+        {
+          "titulo": "Global stocks drop on growing semiconductor rout; oil set for weekly gain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBUX2ZaNk9EY2M2SU5BaEw4VkRFXzF6OE1MeENrcVRwT1hnd2gtbzVDODJ3VUh2ZXdOYi03b2ZobHhhdlMzSE1fOWM0b3lWTlh1Q2VENEFFdHlKWmNuOVltd0R4X254aFM0SmNjZ3RIWVNqREU3OXlHSFNsUGtBUXYyUQ?oc=5",
+          "fonte": "Reuters"
         }
       ],
       "comentario": "A queda acentuada de 5,14% coloca o setor em terreno de correção. Por ser um ativo muito volátil, sugere-se cautela antes de tomar decisões precipitadas, avaliando o seu nível de tolerância ao risco."
@@ -19272,9 +19500,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 336.14,
+        "preco_atual": 337.44,
         "fecho_anterior": 337.64,
-        "variacao_pct": -0.4442601587489634
+        "variacao_pct": -0.05923468783319175
       },
       "historico": {
         "intradiario": {
@@ -19458,11 +19686,51 @@
             },
             {
               "quando": "2026-07-17T13:55:00+00:00",
-              "fecho": 335.76
+              "fecho": 336.14
             },
             {
-              "quando": "2026-07-17T13:59:09+00:00",
-              "fecho": 336.14
+              "quando": "2026-07-17T14:00:00+00:00",
+              "fecho": 336.06
+            },
+            {
+              "quando": "2026-07-17T14:10:00+00:00",
+              "fecho": 336.29
+            },
+            {
+              "quando": "2026-07-17T14:20:00+00:00",
+              "fecho": 336.21
+            },
+            {
+              "quando": "2026-07-17T14:30:00+00:00",
+              "fecho": 336.02
+            },
+            {
+              "quando": "2026-07-17T14:35:00+00:00",
+              "fecho": 336.12
+            },
+            {
+              "quando": "2026-07-17T14:40:00+00:00",
+              "fecho": 336.09
+            },
+            {
+              "quando": "2026-07-17T14:45:00+00:00",
+              "fecho": 336.01
+            },
+            {
+              "quando": "2026-07-17T14:50:00+00:00",
+              "fecho": 336.18
+            },
+            {
+              "quando": "2026-07-17T15:00:00+00:00",
+              "fecho": 337.09
+            },
+            {
+              "quando": "2026-07-17T15:10:00+00:00",
+              "fecho": 337.14
+            },
+            {
+              "quando": "2026-07-17T15:15:00+00:00",
+              "fecho": 336.85
             }
           ]
         },
@@ -21503,7 +21771,7 @@
             },
             {
               "quando": "2026-07-17T07:00:00+00:00",
-              "fecho": 336.14
+              "fecho": 337.44
             }
           ]
         },
@@ -21963,8 +22231,8 @@
               "fecho": 337.64
             },
             {
-              "quando": "2026-07-17T13:59:09+00:00",
-              "fecho": 336.14
+              "quando": "2026-07-17T15:29:55+00:00",
+              "fecho": 337.44
             }
           ]
         }
@@ -21976,11 +22244,6 @@
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Gold Price Today: Gold Falls 1.56% on July 17, 2026 - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWREdnN5aV9GSnlIY2lld2tqcm9KNldkYlpHZGUtb3A5NmFzWkpPSFI5TFpzYlNCeFEwRHM2YVlBbDJ4LXVaOHJFWFdRX3BKLTdWdExhblZxVEFUMDVhNVUwamI5WERwZEtmck9TSFdMZWxJTFd1UGhhYmxOMFZqUmJzZVhTckg1Q3hBMjhaNElpMW1WR1ZJZ2d3Uks5X2dVNW9FN1lR?oc=5",
-          "fonte": "USA Today"
-        },
-        {
           "titulo": "The price of gold today, July 16, 2026 — and the best places to buy - CNBC",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sWmpVTVh4dk1lSUR1dVlTRTZTdk40YmFKTmE2UE9oTUhva2FVSTVRUlBMa3FrMk9uSDRfSnlUdU4tNHRtYjJucklieG44dkNHNnRYNTRoLXRUSkZEdW9rNVRkZV9aa3RScVcweV9MeFBNQkXSAXhBVV95cUxPN0kyUDRDV051WWVvOHlNZFY5cXZybDdNM01ZNGZwZ1Q3OUFpQ0pkWm1iaENkeTJabmJQamMwNmg2clJqY1pWdi1IVS1CX1FuTlVTa1lUbENjS0pSc01SX0Z6cGVLSS13dERMLTIyYTZ5bXludEc4VjE?oc=5",
           "fonte": "CNBC"
@@ -21989,6 +22252,11 @@
           "titulo": "Gold prices can go lower, but Bank of America suggests buying the dip and averaging down - KITCO",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0stbDhiR0xIQVlyLVV1NnMzcTJjb0lqSTNGTXQ1eFVxZXdFOGVadm9VOV9EZWFadkdTSlk4RnFhSjVUSWxPVlBsSkk0dDF2X3dsdmcxbnVHZS0zVDNOYjlqcXZBQWVkZjRTZ0ZDMHFzaGZ1NjJCSG02dkZTQkRvbkg2YXpwTFpuVFI4cE5KNzVlcnA2UFJZdXRDbkRBTFM0a2d0X0JTb2k0b1Rkb18zWkxzZ2lCV1Vj?oc=5",
           "fonte": "KITCO"
+        },
+        {
+          "titulo": "Will gold prices extend their record-breaking run? - DW.com",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRHJVb1FNeWp1V0VuV2dvMy0xQnU4SE9iY3M5cU4xcWxVUFk5TFRmYk1uTG5vNnF3YU83ME1qWVVvQ0x6R3Y2WTBQb2xZTTZtSXJTTEtWU2w3aUtZTDZyT0VtNGNNeXdvejQ0elQzMmxCVU15X3BFTE5UQS1qd1N1UWI1TkptZGtpcGfSAYoBQVVfeXFMTVdJSW10dDAzUFh5UTcwREZzaDdHelAtMWoxZFV1T2V6RWYtVGszZGdnWkdXdUVfMmZRc1FWM0dONy1jVlNlVjRTRXQ3WW9OSEZrekNWWU9kcjVSOFcwQlNmU2lGVU9KbTBaOEhMVkdpa19LNzhVajVLVGtsdjZaTTVuQXhscDQ3dExB?oc=5",
+          "fonte": "DW.com"
         }
       ],
       "comentario": "O ouro registou uma ligeira descida de 0,44%, mantendo-se estável. Sugere-se manter este ativo tangível na carteira como proteção contra a inflação e incertezas geopolíticas mundiais."
