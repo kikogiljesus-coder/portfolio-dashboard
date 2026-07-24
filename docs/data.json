@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-07-24T07:15:34.115212+00:00",
-  "analise_geral": "Hoje assistimos a uma correcao generalizada nos mercados globais, afetando tanto as acoes como o ouro. O setor tecnologico e os semicondutores lideraram as quedas apos resultados desapontantes nos EUA, arrastando os principais indices. O fundo de obrigacoes da PIMCO provou o seu valor defensivo, mantendo-se quase estavel. Para um investidor nao profissional, sugerimos manter a calma e nao reagir por impulso. Estas correcoes sao normais e podem representar boas oportunidades para reforcar ativos estruturais a precos mais convidativos, mantendo sempre o foco no longo prazo.",
-  "analise_gerado_em": "2026-07-24T04:36:23.335283+00:00",
+  "atualizado_em": "2026-07-24T09:38:17.748705+00:00",
+  "analise_geral": "Hoje a carteira apresenta um comportamento globalmente positivo, impulsionada pelas ações europeias (IMAE) e americanas com cobertura cambial (IUES), apesar de alguma volatilidade no setor tecnológico (SEMI). Os ativos defensivos, como o ouro (SGLD) e as obrigações (PIMCO), mostram estabilidade. Como sugestão, poderá fazer sentido manter o foco na diversificação e ponderar reforços graduais nos índices globais caso pretenda manter uma perspetiva de longo prazo.",
+  "analise_gerado_em": "2026-07-24T09:38:17.748666+00:00",
   "alertas_enviados": {
     "IS3N.DE": "2026-07-17",
     "IWDE.AS": "2026-07-13",
@@ -16,14 +16,131 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 46.166,
+        "preco_atual": 46.093,
         "fecho_anterior": 46.166,
-        "variacao_pct": 0.0
+        "variacao_pct": -0.15812502707618875
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-07-24T07:05:00+00:00",
+              "fecho": 45.917
+            },
+            {
+              "quando": "2026-07-24T07:10:00+00:00",
+              "fecho": 46.0
+            },
+            {
+              "quando": "2026-07-24T07:15:00+00:00",
+              "fecho": 46.03
+            },
+            {
+              "quando": "2026-07-24T07:20:00+00:00",
+              "fecho": 46.043
+            },
+            {
+              "quando": "2026-07-24T07:25:00+00:00",
+              "fecho": 46.034
+            },
+            {
+              "quando": "2026-07-24T07:30:00+00:00",
+              "fecho": 46.042
+            },
+            {
+              "quando": "2026-07-24T07:35:00+00:00",
+              "fecho": 46.05
+            },
+            {
+              "quando": "2026-07-24T07:40:00+00:00",
+              "fecho": 46.033
+            },
+            {
+              "quando": "2026-07-24T07:45:00+00:00",
+              "fecho": 46.018
+            },
+            {
+              "quando": "2026-07-24T07:50:00+00:00",
+              "fecho": 46.02
+            },
+            {
+              "quando": "2026-07-24T07:55:00+00:00",
+              "fecho": 46.044
+            },
+            {
+              "quando": "2026-07-24T08:00:00+00:00",
+              "fecho": 46.0
+            },
+            {
+              "quando": "2026-07-24T08:05:00+00:00",
+              "fecho": 46.026
+            },
+            {
+              "quando": "2026-07-24T08:10:00+00:00",
+              "fecho": 46.0
+            },
+            {
+              "quando": "2026-07-24T08:15:00+00:00",
+              "fecho": 46.0
+            },
+            {
+              "quando": "2026-07-24T08:20:00+00:00",
+              "fecho": 46.01
+            },
+            {
+              "quando": "2026-07-24T08:25:00+00:00",
+              "fecho": 46.051
+            },
+            {
+              "quando": "2026-07-24T08:30:00+00:00",
+              "fecho": 46.097
+            },
+            {
+              "quando": "2026-07-24T08:35:00+00:00",
+              "fecho": 46.101
+            },
+            {
+              "quando": "2026-07-24T08:40:00+00:00",
+              "fecho": 46.091
+            },
+            {
+              "quando": "2026-07-24T08:45:00+00:00",
+              "fecho": 46.075
+            },
+            {
+              "quando": "2026-07-24T08:50:00+00:00",
+              "fecho": 46.075
+            },
+            {
+              "quando": "2026-07-24T08:55:00+00:00",
+              "fecho": 46.076
+            },
+            {
+              "quando": "2026-07-24T09:00:00+00:00",
+              "fecho": 46.08
+            },
+            {
+              "quando": "2026-07-24T09:05:00+00:00",
+              "fecho": 46.131
+            },
+            {
+              "quando": "2026-07-24T09:10:00+00:00",
+              "fecho": 46.086
+            },
+            {
+              "quando": "2026-07-24T09:15:00+00:00",
+              "fecho": 46.077
+            },
+            {
+              "quando": "2026-07-24T09:20:00+00:00",
+              "fecho": 46.082
+            },
+            {
+              "quando": "2026-07-24T09:22:36+00:00",
+              "fecho": 46.093
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -2043,6 +2160,10 @@
             {
               "quando": "2026-07-23T07:00:00+00:00",
               "fecho": 46.166
+            },
+            {
+              "quando": "2026-07-24T07:00:00+00:00",
+              "fecho": 46.093
             }
           ]
         },
@@ -2630,8 +2751,8 @@
               "fecho": 46.645
             },
             {
-              "quando": "2026-07-23T15:35:49+00:00",
-              "fecho": 46.166
+              "quando": "2026-07-24T09:22:36+00:00",
+              "fecho": 46.093
             }
           ]
         }
@@ -2653,12 +2774,12 @@
           "fonte": "Fortune"
         },
         {
-          "titulo": "Consider This Prudent Approach to International Stocks - ETF Database",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclBJMVlqUGY4Zk9tVzJCZWtSUW5KUXVUYllrNk50elRQOEFyR1gxbGs2eGlQblFuNDVfb0dpeEloUzVxWVhfWEw5WmtKcUd2ckNfYlpzZVFYcnVkdkpRMC0ybkUzcUtLUFcyUl9URl96V0VXLU50bE84b3VPcEtJak42RGZYalptUFhveXQxYWNtSlhYV1NHNG96dzNvUQ?oc=5",
-          "fonte": "ETF Database"
+          "titulo": "Emerging Market Assets Rally on China Tech Support, Iran Talks - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3dZSnRCdjdpZlJTM1l2Z1UySmE2ZGxSQ0tLSS1mV0tKZVJ1LUo2QkNTUnFBUzNOV0JrbjRudlRfOE5oYXJQMWRtQ2FzSlNXdDhBa2QyUWcxbnZfc0dOZjVIQnc1M1ZuVEVHbVp5eWRKMUhlSDM5b3k2bVplOS10NGJRSzhDaE41M2loQzQwNl9xSWJsSnlPVlU4ZXU4RDlwMS0yVWJRem9Jc3h0bWd5eUFB?oc=5",
+          "fonte": "Bloomberg.com"
         }
       ],
-      "comentario": "Os mercados emergentes recuaram hoje, mas a tese de longo prazo assente na demografia e no crescimento economico destes paises mantem-se. Se o seu perfil tolerar volatilidade, podera ser uma oportunidade para pequenos reforcos graduais."
+      "comentario": "Ligeiro recuo de -0,16%. Os mercados emergentes continuam a beneficiar do forte momento na tecnologia asiática, embora a volatilidade permaneça presente. Poderá ser interessante manter a posição para capturar o potencial de crescimento a longo prazo destas economias."
     },
     {
       "ticker": "IWDE.AS",
@@ -2666,14 +2787,43 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 115.9,
+        "preco_atual": 116.36,
         "fecho_anterior": 115.9,
-        "variacao_pct": 0.0
+        "variacao_pct": 0.39689387402933024
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-07-24T07:00:00+00:00",
+              "fecho": 116.18
+            },
+            {
+              "quando": "2026-07-24T07:10:00+00:00",
+              "fecho": 116.3
+            },
+            {
+              "quando": "2026-07-24T07:25:00+00:00",
+              "fecho": 116.4
+            },
+            {
+              "quando": "2026-07-24T07:55:00+00:00",
+              "fecho": 116.4
+            },
+            {
+              "quando": "2026-07-24T08:00:00+00:00",
+              "fecho": 116.3
+            },
+            {
+              "quando": "2026-07-24T08:25:00+00:00",
+              "fecho": 116.36
+            },
+            {
+              "quando": "2026-07-24T08:25:23+00:00",
+              "fecho": 116.36
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -4709,6 +4859,10 @@
             {
               "quando": "2026-07-23T07:00:00+00:00",
               "fecho": 115.9
+            },
+            {
+              "quando": "2026-07-24T07:00:00+00:00",
+              "fecho": 116.36
             }
           ]
         },
@@ -5460,8 +5614,8 @@
               "fecho": 117.72
             },
             {
-              "quando": "2026-07-23T15:35:26+00:00",
-              "fecho": 115.9
+              "quando": "2026-07-24T08:25:23+00:00",
+              "fecho": 116.36
             }
           ]
         }
@@ -5488,7 +5642,7 @@
           "fonte": "Yahoo Finance"
         }
       ],
-      "comentario": "Este ETF global com cobertura cambial sofreu com a queda generalizada das acoes mundiais. Continua a ser uma excelente opcao de diversificacao geografica para a base da sua carteira, protegendo-o contra as oscilacoes do dolar."
+      "comentario": "Subida de +0,40%. Este fundo oferece uma excelente diversificação global com proteção cambial em euros. É uma base sólida para a carteira, ajudando a mitigar os receios de curto prazo sobre os gastos em inteligência artificial no mercado mundial."
     },
     {
       "ticker": "IUES.AS",
@@ -5496,14 +5650,47 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 151.84,
+        "preco_atual": 152.58,
         "fecho_anterior": 151.84,
-        "variacao_pct": 0.0
+        "variacao_pct": 0.4873551106427879
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-07-24T07:00:00+00:00",
+              "fecho": 152.34
+            },
+            {
+              "quando": "2026-07-24T07:30:00+00:00",
+              "fecho": 152.59
+            },
+            {
+              "quando": "2026-07-24T07:35:00+00:00",
+              "fecho": 152.59
+            },
+            {
+              "quando": "2026-07-24T08:00:00+00:00",
+              "fecho": 152.45
+            },
+            {
+              "quando": "2026-07-24T08:10:00+00:00",
+              "fecho": 152.4
+            },
+            {
+              "quando": "2026-07-24T08:50:00+00:00",
+              "fecho": 152.58
+            },
+            {
+              "quando": "2026-07-24T09:00:00+00:00",
+              "fecho": 152.58
+            },
+            {
+              "quando": "2026-07-24T09:02:50+00:00",
+              "fecho": 152.58
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -7539,6 +7726,10 @@
             {
               "quando": "2026-07-23T07:00:00+00:00",
               "fecho": 151.84
+            },
+            {
+              "quando": "2026-07-24T07:00:00+00:00",
+              "fecho": 152.58
             }
           ]
         },
@@ -8290,8 +8481,8 @@
               "fecho": 154.46
             },
             {
-              "quando": "2026-07-23T15:35:10+00:00",
-              "fecho": 151.84
+              "quando": "2026-07-24T09:02:50+00:00",
+              "fecho": 152.58
             }
           ]
         }
@@ -8308,17 +8499,17 @@
           "fonte": "Bloomberg.com"
         },
         {
-          "titulo": "S&P 500 Q2 Earnings: Stripping Out the Outsized Impact of Alphabet and Micron - Zacks Investment Research",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYjMtTzUzTVNjRE5jV3d4X2dFUmdHd3RMUmh3MkN4V3UxU0hjX0NMUFBBdlpTMDROUG1CRDJXNGFkaksxM194ZVJjSGNqOXI4ME85V2R6cGxKNzlWbXhOaXVzUDNwS3pqOGN1dHptSUduLWFKN3BYNjJ5dHBlZUZFUFg1SG80M3pmdExGRF9NR09DYnlsc1Rfbk5DLTZWazVZNzdLd1Y3SVNPNTEtMHJDUVgxSVIxTlE?oc=5",
-          "fonte": "Zacks Investment Research"
+          "titulo": "Dow Set to Open Up as Oil Prices Fall - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pMlBDQmJIcHkyd0c5b2xBeV9Rd0pvZ25aYWRQX3BUY0QxeFhSel8xcXo3Yk5VWWFISXFDMFFHOWRRVUZKeHEwaUxYZmJEejY2RUJ5UEhLeU5tem9mNUFqMEJ2Skd4WTZsZHhCT3UwbmhQbDFkenc?oc=5",
+          "fonte": "Barron's"
         },
         {
-          "titulo": "S&P 500 Top Stock Gainers Today, 7/23/26 - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GNlpWd05sdE5GR0E5YURaUFU0TmxhVHpIUXg3Z3U5V1RsalRmbzZWalVSVy13MDlVazkyb1dBbUluQWZtelFVa19uaHY1bjJ0Mnh5Y0h1a1NSQkhaNkxqSms0Rk5aZ25qYzdBbzFmTlF0bTkwczlZ?oc=5",
-          "fonte": "TipRanks"
+          "titulo": "2 Vanguard Index Funds Are Crushing the S&P 500 This Year - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzFfMHI1dXBYSEtoSUdpbUs5bEVpUE44LUF6Xy1NRS1maFI3TkxTYVlWcXFEOHZtOXdMWTdOSkJPS3QwMmI1WEhvcGtqVWs4Y2cyQWpWaEl6dVpaTlhTb0MtQm1YOVFNaEJzZXZoelNmcUk1MlRWMlFuSkxNam8zU3oyV0xXVWE0VHNjWU1Uell0UQ?oc=5",
+          "fonte": "The Motley Fool"
         }
       ],
-      "comentario": "O S&P 500 recuou devido a correcao das grandes empresas de tecnologia apos a apresentacao de resultados. Se tem uma perspectiva de longo prazo, estas descidas sao frequentes e podem sugerir uma oportunidade para acumular mais unidades."
+      "comentario": "Ganho de +0,49% hoje. Apesar de alguma pressão recente sobre as grandes empresas tecnológicas norte-americanas após a divulgação de resultados, a proteção cambial deste fundo tem ajudado a suavizar as flutuações para os investidores em euros."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -12111,12 +12302,12 @@
           "fonte": "UBS"
         },
         {
-          "titulo": "BofA’s Sonali Theisen: Digital Assets Boost Fixed Income Efficiency - fi-desk.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEg4d0RoT2lRbWxXU3NqcEdfOEY4OEhFaDY1MVkybjdrUUlLdGU4bF9yMlVUbXFfYW9oZ1NoWndsMEVVY284U3VGTUtwX3JZWEMwVHNoZnVRN3lIY1ZSb2l4NGlLaERmSWlDcmpDZ1pBVlMzUVpiMmhhTy1qOWF6VDJUS2pWcXQ2NHdvcWE0ZXFaLU5qSmVz?oc=5",
-          "fonte": "fi-desk.com"
+          "titulo": "What the UK's Bond Market Can Teach Global Fixed Income Investors - Payden & Rygel - Commentaries - Advisor Perspectives",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazRLdU5DWmlrTmNHbVZWbDd2Q3FJLXdQTGFMZ01TY0FOdC1pNHFwcmZWSTNZMzJMMU04T25QQVdDUUhkenlkVkpITnhtQ1VLLVRZeGdLZXN4Ylg1MU1CdWtMVGdPODB1WUtFSWNEcUg2eFducG96Z0hNLTcyZnZSS2RxNGxHZUJ2R25WRTFsclJQeWlmV3N0dWpjZV9BcDJUcUx3MkNHX0xvMzN5QWlwa2xNSkRIVTg?oc=5",
+          "fonte": "Advisor Perspectives"
         }
       ],
-      "comentario": "Este fundo de rendimento fixo demonstrou hoje a sua utilidade, amortecendo a queda global da carteira. Numa altura em que se preve uma descida das taxas de juro, manter uma posicao em obrigacoes de qualidade parece prudente."
+      "comentario": "Pequena variação de -0,27%. Num ambiente de inflação persistente, as obrigações de qualidade continuam a ter um papel fundamental de preservação de capital. Sugere-se manter a posição para garantir estabilidade e rendimento regular à carteira."
     },
     {
       "ticker": "IMAE.AS",
@@ -12124,14 +12315,111 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 103.585,
+        "preco_atual": 104.175,
         "fecho_anterior": 103.585,
-        "variacao_pct": 0.0
+        "variacao_pct": 0.5695805377226465
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-07-24T07:00:00+00:00",
+              "fecho": 103.65
+            },
+            {
+              "quando": "2026-07-24T07:05:00+00:00",
+              "fecho": 103.69
+            },
+            {
+              "quando": "2026-07-24T07:10:00+00:00",
+              "fecho": 103.89
+            },
+            {
+              "quando": "2026-07-24T07:15:00+00:00",
+              "fecho": 103.975
+            },
+            {
+              "quando": "2026-07-24T07:20:00+00:00",
+              "fecho": 104.0
+            },
+            {
+              "quando": "2026-07-24T07:25:00+00:00",
+              "fecho": 104.04
+            },
+            {
+              "quando": "2026-07-24T07:30:00+00:00",
+              "fecho": 104.09
+            },
+            {
+              "quando": "2026-07-24T07:35:00+00:00",
+              "fecho": 104.095
+            },
+            {
+              "quando": "2026-07-24T07:40:00+00:00",
+              "fecho": 104.03
+            },
+            {
+              "quando": "2026-07-24T07:45:00+00:00",
+              "fecho": 104.0
+            },
+            {
+              "quando": "2026-07-24T07:50:00+00:00",
+              "fecho": 103.98
+            },
+            {
+              "quando": "2026-07-24T07:55:00+00:00",
+              "fecho": 104.01
+            },
+            {
+              "quando": "2026-07-24T08:00:00+00:00",
+              "fecho": 103.945
+            },
+            {
+              "quando": "2026-07-24T08:05:00+00:00",
+              "fecho": 104.04
+            },
+            {
+              "quando": "2026-07-24T08:10:00+00:00",
+              "fecho": 104.01
+            },
+            {
+              "quando": "2026-07-24T08:15:00+00:00",
+              "fecho": 103.985
+            },
+            {
+              "quando": "2026-07-24T08:20:00+00:00",
+              "fecho": 104.005
+            },
+            {
+              "quando": "2026-07-24T08:25:00+00:00",
+              "fecho": 104.125
+            },
+            {
+              "quando": "2026-07-24T08:30:00+00:00",
+              "fecho": 104.22
+            },
+            {
+              "quando": "2026-07-24T08:35:00+00:00",
+              "fecho": 104.27
+            },
+            {
+              "quando": "2026-07-24T08:55:00+00:00",
+              "fecho": 104.14
+            },
+            {
+              "quando": "2026-07-24T09:00:00+00:00",
+              "fecho": 104.17
+            },
+            {
+              "quando": "2026-07-24T09:15:00+00:00",
+              "fecho": 104.21
+            },
+            {
+              "quando": "2026-07-24T09:21:11+00:00",
+              "fecho": 104.175
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -14175,6 +14463,10 @@
             {
               "quando": "2026-07-23T07:00:00+00:00",
               "fecho": 103.585
+            },
+            {
+              "quando": "2026-07-24T07:00:00+00:00",
+              "fecho": 104.175
             }
           ]
         },
@@ -14986,8 +15278,8 @@
               "fecho": 104.835
             },
             {
-              "quando": "2026-07-23T15:35:00+00:00",
-              "fecho": 103.585
+              "quando": "2026-07-24T09:21:11+00:00",
+              "fecho": 104.175
             }
           ]
         }
@@ -15014,7 +15306,7 @@
           "fonte": "Yahoo Finance"
         }
       ],
-      "comentario": "As acoes europeias acompanharam a tendencia de queda global. No entanto, as avaliacoes na Europa continuam historicamente mais baratas do que nos EUA. Sugerimos manter a posicao para garantir um bom equilibrio geografico na carteira."
+      "comentario": "Destaque positivo com +0,57%. O mercado europeu mostra resiliência face às preocupações com a energia e taxas de juro. Apresenta-se como uma opção de diversificação geograficamente importante com avaliações potencialmente atrativas."
     },
     {
       "ticker": "SEMI.AS",
@@ -15022,14 +15314,91 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 20.395,
+        "preco_atual": 20.35,
         "fecho_anterior": 20.395,
-        "variacao_pct": 0.0
+        "variacao_pct": -0.22064231429270975
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-07-24T07:00:00+00:00",
+              "fecho": 20.325
+            },
+            {
+              "quando": "2026-07-24T07:05:00+00:00",
+              "fecho": 20.34
+            },
+            {
+              "quando": "2026-07-24T07:10:00+00:00",
+              "fecho": 20.33
+            },
+            {
+              "quando": "2026-07-24T07:15:00+00:00",
+              "fecho": 20.39
+            },
+            {
+              "quando": "2026-07-24T07:25:00+00:00",
+              "fecho": 20.4
+            },
+            {
+              "quando": "2026-07-24T07:30:00+00:00",
+              "fecho": 20.36
+            },
+            {
+              "quando": "2026-07-24T07:35:00+00:00",
+              "fecho": 20.36
+            },
+            {
+              "quando": "2026-07-24T07:40:00+00:00",
+              "fecho": 20.35
+            },
+            {
+              "quando": "2026-07-24T07:50:00+00:00",
+              "fecho": 20.34
+            },
+            {
+              "quando": "2026-07-24T07:55:00+00:00",
+              "fecho": 20.365
+            },
+            {
+              "quando": "2026-07-24T08:00:00+00:00",
+              "fecho": 20.28
+            },
+            {
+              "quando": "2026-07-24T08:05:00+00:00",
+              "fecho": 20.28
+            },
+            {
+              "quando": "2026-07-24T08:15:00+00:00",
+              "fecho": 20.28
+            },
+            {
+              "quando": "2026-07-24T08:40:00+00:00",
+              "fecho": 20.305
+            },
+            {
+              "quando": "2026-07-24T08:50:00+00:00",
+              "fecho": 20.315
+            },
+            {
+              "quando": "2026-07-24T09:00:00+00:00",
+              "fecho": 20.325
+            },
+            {
+              "quando": "2026-07-24T09:05:00+00:00",
+              "fecho": 20.34
+            },
+            {
+              "quando": "2026-07-24T09:10:00+00:00",
+              "fecho": 20.365
+            },
+            {
+              "quando": "2026-07-24T09:19:12+00:00",
+              "fecho": 20.35
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -17073,6 +17442,10 @@
             {
               "quando": "2026-07-23T07:00:00+00:00",
               "fecho": 20.395
+            },
+            {
+              "quando": "2026-07-24T07:00:00+00:00",
+              "fecho": 20.35
             }
           ]
         },
@@ -18120,8 +18493,8 @@
               "fecho": 20.395
             },
             {
-              "quando": "2026-07-23T15:35:25+00:00",
-              "fecho": 20.395
+              "quando": "2026-07-24T09:19:12+00:00",
+              "fecho": 20.35
             }
           ]
         }
@@ -18148,7 +18521,7 @@
           "fonte": "Investor's Business Daily"
         }
       ],
-      "comentario": "O setor dos semicondutores sofreu a maior queda do dia, refletindo a elevada volatilidade e o ceticismo temporario sobre a Inteligencia Artificial. Sugerimos ponderar se a sua exposicao a este setor especifico nao esta demasiado elevada."
+      "comentario": "Recuo de -0,22%. O setor de semicondutores e inteligência artificial atravessa uma fase de maior escrutínio por parte dos investidores. Se mantém a confiança no potencial tecnológico futuro, este período de consolidação pode ser monitorizado sem alarme."
     },
     {
       "ticker": "SGLD.AS",
@@ -18156,14 +18529,67 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 342.56,
+        "preco_atual": 342.63,
         "fecho_anterior": 342.56,
-        "variacao_pct": 0.0
+        "variacao_pct": 0.020434376459596327
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-07-24T07:00:00+00:00",
+              "fecho": 341.14
+            },
+            {
+              "quando": "2026-07-24T07:10:00+00:00",
+              "fecho": 341.64
+            },
+            {
+              "quando": "2026-07-24T07:20:00+00:00",
+              "fecho": 341.68
+            },
+            {
+              "quando": "2026-07-24T07:25:00+00:00",
+              "fecho": 341.89
+            },
+            {
+              "quando": "2026-07-24T07:30:00+00:00",
+              "fecho": 341.84
+            },
+            {
+              "quando": "2026-07-24T07:35:00+00:00",
+              "fecho": 341.79
+            },
+            {
+              "quando": "2026-07-24T07:50:00+00:00",
+              "fecho": 341.91
+            },
+            {
+              "quando": "2026-07-24T08:40:00+00:00",
+              "fecho": 342.5
+            },
+            {
+              "quando": "2026-07-24T08:45:00+00:00",
+              "fecho": 342.74
+            },
+            {
+              "quando": "2026-07-24T08:55:00+00:00",
+              "fecho": 342.94
+            },
+            {
+              "quando": "2026-07-24T09:00:00+00:00",
+              "fecho": 342.99
+            },
+            {
+              "quando": "2026-07-24T09:10:00+00:00",
+              "fecho": 342.62
+            },
+            {
+              "quando": "2026-07-24T09:18:09+00:00",
+              "fecho": 342.63
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -20199,6 +20625,10 @@
             {
               "quando": "2026-07-23T07:00:00+00:00",
               "fecho": 342.56
+            },
+            {
+              "quando": "2026-07-24T07:00:00+00:00",
+              "fecho": 342.63
             }
           ]
         },
@@ -20658,8 +21088,8 @@
               "fecho": 350.51
             },
             {
-              "quando": "2026-07-23T15:35:20+00:00",
-              "fecho": 342.56
+              "quando": "2026-07-24T09:18:09+00:00",
+              "fecho": 342.63
             }
           ]
         }
@@ -20671,14 +21101,14 @@
           "fonte": "Fortune"
         },
         {
-          "titulo": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzZXRS1RUlpXZ3phaC1kamdVNzdJQXJBM3g0MkFyazVGOG5NOExhVXY3SjRxQ2VkSUhZLUpZOUgzTVMxTFRudWFJUDBpakpVVVhoZDRmVzJQZHhwRW8tYk04eUFnSkFJZVd4RWtXU3U2WkV3MnFOOGRDbWNOVTdTbTUwc3BDWTjSAYwBQVVfeXFMUG5JZjZCVUVUNVpKSzJhQ3hJMW1mc0E2dGNXMjNKWFVJMkVYNjJMMkJiWEUxb0FyeGg1VFNOQ2ZVeW5XbTdPTGlDckt3LVN4SU1Rem8tb29mRTdYRjR3YUFEOEk4MktMZGZBVDlrQlVRTXVyNXQwTHZERnV6dkdodC1zX1pTMDdHYTJNMmM?oc=5",
-          "fonte": "CNBC"
-        },
-        {
           "titulo": "Newmont shrugs off 13% gold-price correction with record second-quarter free cash flow, tops earnings estimates - KITCO",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2JKWTA2OVZVY1RBQi04bzJSQUlNVHIzb0ZJNFhkaXlZTHkyU3U0bUdvU05MZjUzX1dKUzN2SlVTdHlSYnBwdHZEaFBuZV90aHpORWNNU2N4MjN0NEYzMTVnOW90ZU9QalM4ZF9jMVBWWWVYQlRmREFTOHEwVzFUTUhEcm1IenFrS2VMbk9XTEI3SmdnTkZycENvRVhxOG9QRFVVT0VRRmFhZ2UxRDlpZ1phZFFNZnFD?oc=5",
           "fonte": "KITCO"
+        },
+        {
+          "titulo": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzZXRS1RUlpXZ3phaC1kamdVNzdJQXJBM3g0MkFyazVGOG5NOExhVXY3SjRxQ2VkSUhZLUpZOUgzTVMxTFRudWFJUDBpakpVVVhoZDRmVzJQZHhwRW8tYk04eUFnSkFJZVd4RWtXU3U2WkV3MnFOOGRDbWNOVTdTbTUwc3BDWTjSAYwBQVVfeXFMUG5JZjZCVUVUNVpKSzJhQ3hJMW1mc0E2dGNXMjNKWFVJMkVYNjJMMkJiWEUxb0FyeGg1VFNOQ2ZVeW5XbTdPTGlDckt3LVN4SU1Rem8tb29mRTdYRjR3YUFEOEk4MktMZGZBVDlrQlVRTXVyNXQwTHZERnV6dkdodC1zX1pTMDdHYTJNMmM?oc=5",
+          "fonte": "CNBC"
         },
         {
           "titulo": "Gold Prices Have Tanked. Buying the Dip Makes Sense. - WSJ",
@@ -20686,7 +21116,7 @@
           "fonte": "WSJ"
         }
       ],
-      "comentario": "Apesar da queda de hoje, que decorre de uma correcao tecnica saudavel, o ouro mantem o seu papel de ativo de refugio contra a inflacao e instabilidade geopolitica. Sugerimos manter como elemento estabilizador da sua carteira."
+      "comentario": "Estabilidade hoje (+0,02%). O ouro passou recentemente por uma correção técnica, mas mantém intactas as suas propriedades de proteção contra riscos geopolíticos e inflação. Uma opção sensata para manter o equilíbrio defensivo da sua carteira."
     }
   ]
 }
