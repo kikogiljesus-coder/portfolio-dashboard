@@ -1,12 +1,12 @@
 {
-  "atualizado_em": "2026-07-29T14:56:59.734454+00:00",
-  "analise_geral": "A carteira apresenta hoje um desempenho misto, mas globalmente resiliente. Destaca-se a correcao no setor tecnologico e de semicondutores, visivel nas quedas de SEMI.AS e IS3N.DE, influenciadas por realizacao de lucros a nivel global. Em contrapartida, as posicoes com cobertura cambial (hedged), o ouro e o fundo de obrigações trazem estabilidade. Como sugestao, podera ser prudente manter a estrategia de diversificacao sem tomar decisoes precipitadas, aproveitando a volatilidade para monitorizar eventuais pontos de entrada atrativos nos ativos que recuaram.",
-  "analise_gerado_em": "2026-07-29T07:26:25.601885+00:00",
+  "atualizado_em": "2026-07-29T16:22:56.902644+00:00",
+  "analise_geral": "O dia de hoje apresenta uma tendência maioritariamente corretiva na carteira, influenciada sobretudo pela forte queda no setor tecnológico e de semicondutores, que arrastou os mercados emergentes. Em contrapartida, o fundo de obrigações (PIMCO) e o ouro mostram-se mais estáveis, servindo de amortecedores. Para um investidor não profissional, sugere-se manter a calma e evitar reações precipitadas. Se tiver liquidez, estes recuos pontuais em ativos globais (como o MSCI World ou S&P 500) podem ser vistos como oportunidades para reforçar posições a preços ligeiramente mais atrativos, mantendo sempre a diversificação e o foco no longo prazo.",
+  "analise_gerado_em": "2026-07-29T16:22:47.590407+00:00",
   "alertas_enviados": {
     "IS3N.DE": "2026-07-17",
     "IWDE.AS": "2026-07-13",
     "IUES.AS": "2026-07-13",
-    "SEMI.AS": "2026-07-28",
+    "SEMI.AS": "2026-07-29",
     "SGLD.AS": "2026-07-24"
   },
   "ativos": [
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 43.96,
+        "preco_atual": 44.046,
         "fecho_anterior": 44.952,
-        "variacao_pct": -2.2067983626979832
+        "variacao_pct": -2.0154831820608625
       },
       "historico": {
         "intradiario": {
@@ -389,8 +389,48 @@
               "fecho": 43.984
             },
             {
-              "quando": "2026-07-29T14:40:27+00:00",
+              "quando": "2026-07-29T14:40:00+00:00",
+              "fecho": 43.878
+            },
+            {
+              "quando": "2026-07-29T14:45:00+00:00",
+              "fecho": 43.881
+            },
+            {
+              "quando": "2026-07-29T14:50:00+00:00",
+              "fecho": 43.961
+            },
+            {
+              "quando": "2026-07-29T14:55:00+00:00",
+              "fecho": 43.954
+            },
+            {
+              "quando": "2026-07-29T15:00:00+00:00",
+              "fecho": 44.037
+            },
+            {
+              "quando": "2026-07-29T15:05:00+00:00",
+              "fecho": 44.054
+            },
+            {
+              "quando": "2026-07-29T15:10:00+00:00",
+              "fecho": 43.975
+            },
+            {
+              "quando": "2026-07-29T15:15:00+00:00",
+              "fecho": 44.02
+            },
+            {
+              "quando": "2026-07-29T15:20:00+00:00",
+              "fecho": 44.04
+            },
+            {
+              "quando": "2026-07-29T15:25:00+00:00",
               "fecho": 43.96
+            },
+            {
+              "quando": "2026-07-29T15:30:00+00:00",
+              "fecho": 44.046
             }
           ]
         },
@@ -2415,7 +2455,7 @@
             },
             {
               "quando": "2026-07-29T07:00:00+00:00",
-              "fecho": 43.96
+              "fecho": 44.046
             }
           ]
         },
@@ -3003,17 +3043,17 @@
               "fecho": 44.952
             },
             {
-              "quando": "2026-07-29T14:40:27+00:00",
-              "fecho": 43.96
+              "quando": "2026-07-29T15:36:12+00:00",
+              "fecho": 44.046
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Emerging-Market Stocks Sink Further as Asian Tech Slide Deepens - Bloomberg",
+          "titulo": "Emerging-Market Stocks Sink Further as Asian Tech Slide Deepens - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWtjNE9QUVA3S1U3WG04REtLbURjdl9OODNNZmlnbnJ1M3YwT2YwaTZSUEd0VHBWdk5CMFFPZHo0ME05SnFRWTRoSG9KUEI2T3h6bldDMmw0MkN1Mng1NVhkMVEtaTBfcnUzUV9wdWdyLWpzbVI2aUtpQUhKN3REMjdUNUQ2VUM3VkgxSTJsb2pKUllpZjJZSDh2V0h2b0haaFRiSklBWTl4dWtHQU1YbWVBaGQ?oc=5",
-          "fonte": "Bloomberg"
+          "fonte": "Bloomberg.com"
         },
         {
           "titulo": "Reckitt: What We Think of the Stock After Earnings - Morningstar",
@@ -3031,7 +3071,7 @@
           "fonte": "BNP Paribas Asset Management"
         }
       ],
-      "comentario": "Regista uma queda de 1.58%, pressionado pela correcao nas tecnologicas e semicondutores asiaticos. Sugere-se acompanhar de perto, pois a volatilidade nos mercados emergentes pode representar oportunidades de reforco a longo prazo para quem procura diversificacao geografica."
+      "comentario": "O mercado emergente recuou significativamente, pressionado pela forte correção das ações tecnológicas asiáticas. Sugere-se acompanhar com prudência, lembrando que a volatilidade é típica desta classe de ativos, mas que o seu potencial de crescimento a longo prazo continua relevante."
     },
     {
       "ticker": "IWDE.AS",
@@ -3039,9 +3079,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 116.0,
+        "preco_atual": 115.84,
         "fecho_anterior": 116.74,
-        "variacao_pct": -0.6338872708583133
+        "variacao_pct": -0.7709439780709195
       },
       "historico": {
         "intradiario": {
@@ -3120,7 +3160,7 @@
               "fecho": 115.94
             },
             {
-              "quando": "2026-07-29T14:34:03+00:00",
+              "quando": "2026-07-29T14:30:00+00:00",
               "fecho": 116.0
             }
           ]
@@ -5162,7 +5202,7 @@
             },
             {
               "quando": "2026-07-29T07:00:00+00:00",
-              "fecho": 116.0
+              "fecho": 115.84
             }
           ]
         },
@@ -5915,7 +5955,7 @@
             },
             {
               "quando": "2026-07-29T14:34:03+00:00",
-              "fecho": 116.0
+              "fecho": 115.84
             }
           ]
         }
@@ -5942,7 +5982,7 @@
           "fonte": "Statista"
         }
       ],
-      "comentario": "Apresenta uma ligeira subida de 0.15%, demonstrando a robustez de um indice global com cobertura cambial. Sugere-se a manutencao da posicao para garantir exposicao diversificada as maiores economias mundiais, mitigando o risco cambial imediato."
+      "comentario": "Com uma ligeira queda, este ETF global demonstra resiliência graças à sua ampla diversificação. Pode ser uma boa opção para reforços periódicos com o objetivo de construir património, beneficiando da cobertura cambial em euros."
     },
     {
       "ticker": "IUES.AS",
@@ -5950,9 +5990,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 151.5,
+        "preco_atual": 151.39,
         "fecho_anterior": 152.78,
-        "variacao_pct": -0.8378059955491565
+        "variacao_pct": -0.9098049482916709
       },
       "historico": {
         "intradiario": {
@@ -6047,8 +6087,20 @@
               "fecho": 151.4
             },
             {
-              "quando": "2026-07-29T14:40:07+00:00",
-              "fecho": 151.5
+              "quando": "2026-07-29T14:40:00+00:00",
+              "fecho": 151.25
+            },
+            {
+              "quando": "2026-07-29T14:55:00+00:00",
+              "fecho": 151.39
+            },
+            {
+              "quando": "2026-07-29T15:20:00+00:00",
+              "fecho": 151.37
+            },
+            {
+              "quando": "2026-07-29T15:30:00+00:00",
+              "fecho": 151.39
             }
           ]
         },
@@ -8089,7 +8141,7 @@
             },
             {
               "quando": "2026-07-29T07:00:00+00:00",
-              "fecho": 151.5
+              "fecho": 151.39
             }
           ]
         },
@@ -8841,22 +8893,22 @@
               "fecho": 152.78
             },
             {
-              "quando": "2026-07-29T14:40:07+00:00",
-              "fecho": 151.5
+              "quando": "2026-07-29T15:35:29+00:00",
+              "fecho": 151.39
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Stock market today: Dow, S&P 500, Nasdaq slip in countdown to Fed decision, AI earnings test - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWVHcDBlVjd0RHprWXNCa29VSEdUNm1FUFhDS2ZDeFI0VjQ1a0YyTjRwVFlQaXRTbG5sTzRjdHJWT2VKcWppWERZYzZ0djJuWnkxdnU2ZHRKY3NxMTNHbmJNUFlKbjEtdmhMcTZ1elhIYjI3N0Q5RGFPbWZ3b25yekpES1pITldwdHdMMl9BSFhtT1gtNFNsS3E5NVdKWm5lMjAyVnFCMzl6X0FG?oc=5",
-          "fonte": "Yahoo Finance"
+          "titulo": "Dow tumbles 900 points as losses accelerate ahead of Fed decision: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tYmcyY1dKZDZXZm10Ni1sS185eklFbWhkUU1hOFhpbG9EY0VmWjZvN21IaUVKbUpWYXpZVm81czBfOFM1dGcwT1h0eUZiMHhua1hCTTRwRjBySkY0VmRWdmlTRWE4T0xjTjVya08zNjZKUVpnYk5F0gF8QVVfeXFMT3EzdGU3SjJheXZwV25YRXRpSnR3MTcxRHJEZ2wxRzVGVmFBWTE0M3licnBPcHV1TC1KN1NpTFlfMkxtdUNWQnNfY3ktbG5oNFhtS2M4akdZcGRDSnlrVWNYNGhKZk02cWlUTlNkeVNPUzR6MmVxMzVUOXg0TQ?oc=5",
+          "fonte": "CNBC"
         },
         {
-          "titulo": "JPMorgan Sees S&P 500 Poised to Rally as New Buy Signal Flashes - Bloomberg",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1dXd0ZYTFZZUDJVby1zVHlkZUphVGs0Uk1BeXVEOXQtajBCaWp3SUs2NEk0cWNYdDlPM1kxWUVzdUNRRzVMejlwNTNVcGJ3YlpUandyTjI5SFZFTmRkNGZ4dVpleTJ5MldXVWtnSlljRG1XbjVyb3FoQWJPU0Z6MGo5X3EzdnQ2OUF2dVR5cHN1ak9wTWFfRXBxNUxHak1TaHdfMlJzZU5wOGR2RWs0NTBlakI?oc=5",
-          "fonte": "Bloomberg"
+          "titulo": "Why the Dow Is Having an Especially Bad Day - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUNtZHV1S1VtdVFISm5oYWR4TndWd0dmRTg2YzBWRWttZFhrT01UOFRpWkpEY0VQTmkxMTFhWk5qUDlKWVdpQ2ZYLXRjeldBMVVWTFFzeEYtOFpBRWtDQXF1SUhQNWJLcWJsVlg0R2hyazVJWEVNMi1Hc2ZubGd4bG9vNEI1c29pUU13NjY4Q3JXQm5YNWtxX0FiZ05uRjgtdWJjeDJLWjJiR3dlVEhiejRRYWhfbWo2WFVUN3F5VllzNk1xaF9Eemdxc2t2YXlmVEpz?oc=5",
+          "fonte": "Barron's"
         },
         {
           "titulo": "S&P 500 ends higher as investors await tech earnings - Reuters",
@@ -8869,7 +8921,7 @@
           "fonte": "Barron's"
         }
       ],
-      "comentario": "Com uma ligeira valorizacao de 0.18%, o S&P 500 resiste bem a volatilidade do setor tecnologico nos EUA. A protecao cambial continua a cumprir o seu papel. Sugere-se manter como base de crescimento norte-americano no seu portefolio."
+      "comentario": "O mercado norte-americano recuou ligeiramente, influenciado pela expectativa das decisões da Fed e resultados das tecnológicas. Sugere-se focar no longo prazo, pois estas flutuações diárias são comuns e não alteram os fundamentos das maiores empresas dos EUA."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -12666,12 +12718,12 @@
           "fonte": "Morgan Stanley"
         },
         {
-          "titulo": "Invesco Bond Income Plus Q1 2026: Generating income through market turbulence - invesco.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWhiX3ZEUENWYnhfWUpXSjJ6RHZWejlLWXRfQXpONENSTEZmOXpEYlZGX3lodHdmU29Pa1VqektoNy03MkNKa3ljcGtUc1NfM2NtQWJad25VOEpuRHJld2tFZTFpN3p3aWFNeU4zcDZ5SUVFbHY2Sm9MaVNIdWJZN0VEc1VyZ3N0Z3FrcFY1cm5NTzBsLWlDUUpuZlJ6SnM1WExtS184YXJLczB1b0NUU09raw?oc=5",
-          "fonte": "invesco.com"
+          "titulo": "US bond market avoids big rate bets as inflation dims Fed outlook - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3Bldlk3YjRqNDRPX1pMd0JXT2w1WVY0VVI4QjlxU3BLbU13d0llU25ndjZZbzVZcnB5Q0d1bS13UEgtYmdOalZISzRpcjdyT090R055b04zeU54cm9PNUJxOVcxQ0lFM0pKMEdUak5IZFRhcGhhMEowakpwc0dsZ29ZemNLNW11UGVNaVNDNmRZT2kyaFZLazRndGRKcVMtSVVoY2E3aEhucHc?oc=5",
+          "fonte": "Reuters"
         }
       ],
-      "comentario": "Este fundo de obrigacoes da PIMCO avanca 0.28%, cumprindo o seu papel de gerador de rendimento e estabilizador em dias de maior turbulencia acionista. Sugere-se a manutencao deste ativo para equilibrar o perfil de risco global da carteira."
+      "comentario": "Foi o único ativo no verde hoje. Este fundo de obrigações cumpre o seu papel defensivo e estabilizador em dias de maior volatilidade acionista. Sugere-se mantê-lo para equilibrar o risco geral da carteira."
     },
     {
       "ticker": "IMAE.AS",
@@ -12679,9 +12731,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 104.4,
+        "preco_atual": 104.53,
         "fecho_anterior": 104.935,
-        "variacao_pct": -0.5098394244055812
+        "variacao_pct": -0.3859532091294622
       },
       "historico": {
         "intradiario": {
@@ -12996,8 +13048,48 @@
               "fecho": 104.48
             },
             {
-              "quando": "2026-07-29T14:40:27+00:00",
-              "fecho": 104.4
+              "quando": "2026-07-29T14:40:00+00:00",
+              "fecho": 104.33
+            },
+            {
+              "quando": "2026-07-29T14:45:00+00:00",
+              "fecho": 104.335
+            },
+            {
+              "quando": "2026-07-29T14:50:00+00:00",
+              "fecho": 104.415
+            },
+            {
+              "quando": "2026-07-29T14:55:00+00:00",
+              "fecho": 104.385
+            },
+            {
+              "quando": "2026-07-29T15:00:00+00:00",
+              "fecho": 104.455
+            },
+            {
+              "quando": "2026-07-29T15:05:00+00:00",
+              "fecho": 104.515
+            },
+            {
+              "quando": "2026-07-29T15:10:00+00:00",
+              "fecho": 104.57
+            },
+            {
+              "quando": "2026-07-29T15:15:00+00:00",
+              "fecho": 104.545
+            },
+            {
+              "quando": "2026-07-29T15:20:00+00:00",
+              "fecho": 104.53
+            },
+            {
+              "quando": "2026-07-29T15:25:00+00:00",
+              "fecho": 104.475
+            },
+            {
+              "quando": "2026-07-29T15:30:00+00:00",
+              "fecho": 104.53
             }
           ]
         },
@@ -15046,7 +15138,7 @@
             },
             {
               "quando": "2026-07-29T07:00:00+00:00",
-              "fecho": 104.4
+              "fecho": 104.53
             }
           ]
         },
@@ -15858,8 +15950,8 @@
               "fecho": 104.935
             },
             {
-              "quando": "2026-07-29T14:40:27+00:00",
-              "fecho": 104.4
+              "quando": "2026-07-29T15:35:05+00:00",
+              "fecho": 104.53
             }
           ]
         }
@@ -15881,12 +15973,12 @@
           "fonte": "Goldman Sachs"
         },
         {
-          "titulo": "European stocks end higher as investors mull potential Iran ceasefire extension - cnbc.com",
+          "titulo": "European stocks end higher as investors mull potential Iran ceasefire extension - CNBC",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdnpZYzd5bDA3ZmFlUU1qcVNSb0pCX09rUWwyNkZDd0taV09hZk9MancxSmxIdWdhV2xsUDN6T3JpakdHeXNkZ2o3RlNSR1paSjY1M2V6MF9rX3RnMmNYRDcxcjBqSnRmTFM3SWpzMXJzWEMybzhZYWZBUFBuNXJHQndTdVMyUFNiRm1kM2FkS0h0TnNi0gGaAUFVX3lxTE8wSEdKMFRreUFrT0ZnWklzdWNyQWdONHVqTHBUWk9Bd0hXNmhqbWJ6R05HaUQtcC1wamVXQlFRaHQ1d1lYLWlhSVczRm1fc0J5bGFla0RBY2V4RzBQVE91X2REZzd0VmpBNlg1aHVLSHQ4R3RrOXFCU0ZuelFuWXZ3Ynl3c2dBekozcUxYMzhVeDdTZDNDMVExWFE?oc=5",
-          "fonte": "cnbc.com"
+          "fonte": "CNBC"
         }
       ],
-      "comentario": "Sobe 0.32%, refletindo o otimismo moderado nas bolsas europeias face a dados de inflacao mais controlados. Face a atratividade das avaliacoes na Europa, sugere-se manter este ETF para captar a dinâmica das empresas europeias."
+      "comentario": "As ações europeias registaram uma descida muito ligeira, mostrando maior estabilidade do que os mercados americano e emergente. Sugere-se este ativo para manter uma exposição equilibrada a empresas europeias consolidadas."
     },
     {
       "ticker": "SEMI.AS",
@@ -15894,9 +15986,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 17.4,
+        "preco_atual": 17.356,
         "fecho_anterior": 18.118,
-        "variacao_pct": -3.962909813445193
+        "variacao_pct": -4.205762225411176
       },
       "historico": {
         "intradiario": {
@@ -16256,11 +16348,51 @@
             },
             {
               "quando": "2026-07-29T14:35:00+00:00",
-              "fecho": 17.428
+              "fecho": 17.4
             },
             {
-              "quando": "2026-07-29T14:38:56+00:00",
-              "fecho": 17.4
+              "quando": "2026-07-29T14:40:00+00:00",
+              "fecho": 17.3
+            },
+            {
+              "quando": "2026-07-29T14:45:00+00:00",
+              "fecho": 17.38
+            },
+            {
+              "quando": "2026-07-29T14:50:00+00:00",
+              "fecho": 17.396
+            },
+            {
+              "quando": "2026-07-29T14:55:00+00:00",
+              "fecho": 17.354
+            },
+            {
+              "quando": "2026-07-29T15:00:00+00:00",
+              "fecho": 17.488
+            },
+            {
+              "quando": "2026-07-29T15:05:00+00:00",
+              "fecho": 17.448
+            },
+            {
+              "quando": "2026-07-29T15:10:00+00:00",
+              "fecho": 17.39
+            },
+            {
+              "quando": "2026-07-29T15:15:00+00:00",
+              "fecho": 17.396
+            },
+            {
+              "quando": "2026-07-29T15:20:00+00:00",
+              "fecho": 17.376
+            },
+            {
+              "quando": "2026-07-29T15:25:00+00:00",
+              "fecho": 17.38
+            },
+            {
+              "quando": "2026-07-29T15:30:00+00:00",
+              "fecho": 17.356
             }
           ]
         },
@@ -18309,7 +18441,7 @@
             },
             {
               "quando": "2026-07-29T07:00:00+00:00",
-              "fecho": 17.4
+              "fecho": 17.356
             }
           ]
         },
@@ -19361,35 +19493,35 @@
               "fecho": 18.118
             },
             {
-              "quando": "2026-07-29T14:38:56+00:00",
-              "fecho": 17.4
+              "quando": "2026-07-29T15:35:25+00:00",
+              "fecho": 17.356
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Semiconductor stocks are going up in smoke. But the S&P 500 is holding strong. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXFnUjdwQ2UyME1LWjYzcVJySktGbXEyMWxmOGpmUTN2WlFQT0hnM2FZM1JWd3BlRW9rUWc2el9EWjFTQ2VzVUdfX3JDR2liVDV0Vnd0dG5USEFIVmRvWEZKeXE2RWRzbjl2VXc3bnc4QUNZV2hQNTRWeTVRRVhqVVNuYkpUZk9ubFA1RGxyRzBtVmFfMjV3dVF4b2xpQzZqaDBmTnJMNDlPZmlBemIxOVFnWnAyQ2w2WXJXck5CTzBuNG9fUDZqR0ZJdU4?oc=5",
+          "titulo": "Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQkkzUG9jOE01dWlQdGNjN3hMcldYZEdMSGl4cTBkQnFBZEpCWENVQjByYTkyYU5SLTh3M1JIRXE0UkNkYUZ4Smo4bDVodlFmQXN2UTJOT2V3RFVGNHIwVl9hSjBtR0xNVFlXNkRkMllDLTBLbTRqb2FlMV83endmWkt2MmxvMUVoN2RoQWFGWjR1MFN1cDhYT1BEM0dlTlNYMUpHWWVQLXd1VGRlXzNSaFJpTFBSRkJNUFBPNkY2SHo1cTQyWVZVTWIzTUx4NEE?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom - cnbc.com",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWm5mYzh3X2p6d2t2clJubjIzc1VBR2txNEU4V2FvVEM5RmNHZGdHOFJOX1cxZlhEMG5zaEpJQ21WRmZncG0tZm1EQVF4ZnFDMTBhMHFKMXBxN0pUaVFaYmtUbTJ5b0ZxVzJXWHpOVkFqNXBxRTNxTU5tQ3VBS0ZsbNIBhgFBVV95cUxQT0hDOFV0dDBHN25YOE5KWGNWdGlvUEhuSF9XVjhpSV9sWDdxSXozSTJwSXNSTFZnZk0zNVc1bGJJTFVkX2Z5MmpYTXRqNjVRekNHN3B4ZlJIdFZmVk9heW0wY3ZiXzFIQUNfM2o5NVNWYmxWb3RXSHBZbHJ4LWNOSWd4SUQwZw?oc=5",
-          "fonte": "cnbc.com"
-        },
-        {
-          "titulo": "Chip stocks tumble as AI sell-off deepens - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOU5EQzYzM1h5cUFtRE1hbWhzLW5KMm9ZVjZ4SFY0SE5Xc3IweTFEbS1XRTBjbThoVUJodHphUUprdWlEV2dyZ0tsazM0S01adW5EM255NXNhdmV1Vi1fR0dkVXNaRjNvT08ydm1GRlE2TC1XMVBrR3MxRkVwSEVRTnR1Nkc?oc=5",
-          "fonte": "Financial Times"
+          "titulo": "Why KOSPI And The Semiconductor Sector Is Crashing (NASDAQ:SOXX) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQk43S1lrd1dlWHBrREE3NVZVTEpfWDgxQy1GNzBGeG9xV1BuNTAweGhLal8wZlVabXdLNjlyd09QdTVZM2tyRWREYlNRSkdYaXFNUUxDUmxPVS02RXJNLTdLcjZJNXhFU09NT3FiN09idlVnTjNFUFVjcEsxbmdINzZfdkJQeDIydm1BQ08zQl8zS0dkN2c?oc=5",
+          "fonte": "Seeking Alpha"
         },
         {
           "titulo": "SK Hynix stock rout shines light on this stunning semiconductor stock reality - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2N6aWFhUXJ0dUJvLXhWSVhiWFNFZE9qQ3EwbF9mQ01zRkJWNGxoOFdPOFZXV25pTFFhU05XcDk2cEFhaElzRUUyY2hfNGNfbUxhQVlUMXVfQmFfRlA1R3k1SHpmYmIzUE5JcFB2OFE2ODZhOG5sMnlTUEdpLUFrckJHdDI3emxCd1I0REgtUkdmaEhMZm9vWHg3N1BRUzFpR0hOSUJxMmdibS1yeFV2TmhlT1ZHWGFyckpxSWF3UzVrcEVFalJiREttanJNNHc?oc=5",
           "fonte": "Yahoo Finance"
+        },
+        {
+          "titulo": "Asian chip stocks slide as China competition fears rattle AI trade - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbm9DUFBRMVNrTExpUDkzSlpGZGxTaEtRbTVWZTNjTVlzRklHX0lBVW9fcU5ULTFBbFlZb040TlVRR0pkNGZsRUo1TkhiLU95SzVwX0N0OC1PU2x3bXkySE1ZSmlDcldEZjF1OWR5NnU1M3RVQ3lvQ2pLeHlMNjQxT3dienkwRERwZlhWWlZwMXpTRVQ1czlFVVZReFpoelhHb202ZVB1VnFpR0llQ1Fsd2N0RDNsa0hiRlE?oc=5",
+          "fonte": "Reuters"
         }
       ],
-      "comentario": "Recua 2.03% devido a forte realizacao de lucros global no setor dos chips e IA. Sugere-se serenidade, dado que este setor e historicamente volatil. Pode ser uma oportunidade de analise para quem pretende reforcar tecnologia a precos mais baixos."
+      "comentario": "Com uma queda acentuada de 4,21%, o setor de semicondutores sofreu com a volatilidade do segmento tecnológico. Sugere-se prudência e paciência, pois quedas expressivas podem representar oportunidades de reforço, desde que o seu perfil tolere maior risco."
     },
     {
       "ticker": "SGLD.AS",
@@ -19397,9 +19529,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 338.0,
+        "preco_atual": 339.07,
         "fecho_anterior": 340.47,
-        "variacao_pct": -0.7254677357770221
+        "variacao_pct": -0.41119628748495723
       },
       "historico": {
         "intradiario": {
@@ -19566,8 +19698,24 @@
               "fecho": 338.2
             },
             {
-              "quando": "2026-07-29T14:39:37+00:00",
+              "quando": "2026-07-29T14:35:00+00:00",
               "fecho": 338.0
+            },
+            {
+              "quando": "2026-07-29T14:55:00+00:00",
+              "fecho": 338.38
+            },
+            {
+              "quando": "2026-07-29T15:20:00+00:00",
+              "fecho": 338.56
+            },
+            {
+              "quando": "2026-07-29T15:25:00+00:00",
+              "fecho": 339.09
+            },
+            {
+              "quando": "2026-07-29T15:30:00+00:00",
+              "fecho": 339.07
             }
           ]
         },
@@ -21608,7 +21756,7 @@
             },
             {
               "quando": "2026-07-29T07:00:00+00:00",
-              "fecho": 338.0
+              "fecho": 339.07
             }
           ]
         },
@@ -22068,8 +22216,8 @@
               "fecho": 340.47
             },
             {
-              "quando": "2026-07-29T14:39:37+00:00",
-              "fecho": 338.0
+              "quando": "2026-07-29T15:35:23+00:00",
+              "fecho": 339.07
             }
           ]
         }
@@ -22096,7 +22244,7 @@
           "fonte": "WSJ"
         }
       ],
-      "comentario": "Sobe ligeiramente 0.23%, sustentado pelo papel tradicional do ouro como ativo de refugio. Sugere-se manter a posicao como um valioso diversificador e porto seguro contra a inflacao e a incerteza geopolitica mundial."
+      "comentario": "O ouro recuou ligeiramente, mas continua a ser um porto seguro importante. Sugere-se manter a posição como proteção contra a inflação e tensões geopolíticas, ajudando a mitigar perdas em momentos de queda dos mercados acionistas."
     }
   ]
 }
