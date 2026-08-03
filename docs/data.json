@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-08-03T13:42:50.822559+00:00",
-  "analise_geral": "Hoje, a sua carteira apresenta um desempenho globalmente positivo, impulsionada pela forte recuperação das ações norte-americanas (S&P 500) e globais com proteção cambial. A Europa acompanha esta tendência favorável. Em contrapartida, o setor de semicondutores e os ativos de rendimento fixo registam ligeiras perdas, influenciados pela volatilidade no setor tecnológico e pelas taxas de juro. O ouro mantém-se estável como refúgio. Sugere-se manter a calma perante a volatilidade a curto prazo e avaliar se o peso de cada classe de ativos na carteira continua alinhado com o seu perfil de risco, ponderando pequenos reforços se pretender reequilibrar.",
-  "analise_gerado_em": "2026-08-03T10:57:15.302603+00:00",
+  "atualizado_em": "2026-08-03T16:23:40.380299+00:00",
+  "analise_geral": "O seu portefolio apresenta hoje um desempenho globalmente positivo, impulsionado pela forte valorizacao das acoes globais e norte-americanas (IWDE.AS e IUES.AS), que beneficiam de um ambiente macroeconomico mais calmo e do otimismo do mercado. Por outro lado, os ativos defensivos, como o ouro (SGLD.AS) e as obrigacoes (PIMCO), registam ligeiras correcoes, refletindo uma rotacao natural para ativos de maior risco. Os semicondutores (SEMI.AS) mostram alguma volatilidade devido a concorrencia, mas o setor mantem-se solido a longo prazo. Sugere-se manter a estrategia de diversificacao atual. Pode ser um bom momento para ponderar reforcos graduais nos mercados emergentes ou na Europa, caso pretenda equilibrar a forte exposicao aos EUA. Lembre-se de reavaliar o seu perfil de risco periodicamente.",
+  "analise_gerado_em": "2026-08-03T16:23:40.380255+00:00",
   "alertas_enviados": {
     "IS3N.DE": "2026-07-31",
     "IWDE.AS": "2026-07-13",
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 45.174,
+        "preco_atual": 45.475,
         "fecho_anterior": 45.356,
-        "variacao_pct": -0.4012699532586695
+        "variacao_pct": 0.2623688155922034
       },
       "historico": {
         "intradiario": {
@@ -330,11 +330,107 @@
             },
             {
               "quando": "2026-08-03T13:25:00+00:00",
-              "fecho": 45.185
+              "fecho": 45.175
             },
             {
-              "quando": "2026-08-03T13:27:36+00:00",
-              "fecho": 45.174
+              "quando": "2026-08-03T13:30:00+00:00",
+              "fecho": 45.006
+            },
+            {
+              "quando": "2026-08-03T13:35:00+00:00",
+              "fecho": 45.128
+            },
+            {
+              "quando": "2026-08-03T13:40:00+00:00",
+              "fecho": 44.991
+            },
+            {
+              "quando": "2026-08-03T13:45:00+00:00",
+              "fecho": 45.11
+            },
+            {
+              "quando": "2026-08-03T13:50:00+00:00",
+              "fecho": 45.097
+            },
+            {
+              "quando": "2026-08-03T13:55:00+00:00",
+              "fecho": 45.21
+            },
+            {
+              "quando": "2026-08-03T14:00:00+00:00",
+              "fecho": 45.18
+            },
+            {
+              "quando": "2026-08-03T14:05:00+00:00",
+              "fecho": 45.11
+            },
+            {
+              "quando": "2026-08-03T14:10:00+00:00",
+              "fecho": 45.254
+            },
+            {
+              "quando": "2026-08-03T14:15:00+00:00",
+              "fecho": 45.31
+            },
+            {
+              "quando": "2026-08-03T14:20:00+00:00",
+              "fecho": 45.378
+            },
+            {
+              "quando": "2026-08-03T14:25:00+00:00",
+              "fecho": 45.37
+            },
+            {
+              "quando": "2026-08-03T14:30:00+00:00",
+              "fecho": 45.42
+            },
+            {
+              "quando": "2026-08-03T14:35:00+00:00",
+              "fecho": 45.44
+            },
+            {
+              "quando": "2026-08-03T14:40:00+00:00",
+              "fecho": 45.43
+            },
+            {
+              "quando": "2026-08-03T14:45:00+00:00",
+              "fecho": 45.51
+            },
+            {
+              "quando": "2026-08-03T14:50:00+00:00",
+              "fecho": 45.565
+            },
+            {
+              "quando": "2026-08-03T14:55:00+00:00",
+              "fecho": 45.565
+            },
+            {
+              "quando": "2026-08-03T15:00:00+00:00",
+              "fecho": 45.53
+            },
+            {
+              "quando": "2026-08-03T15:05:00+00:00",
+              "fecho": 45.459
+            },
+            {
+              "quando": "2026-08-03T15:10:00+00:00",
+              "fecho": 45.395
+            },
+            {
+              "quando": "2026-08-03T15:15:00+00:00",
+              "fecho": 45.421
+            },
+            {
+              "quando": "2026-08-03T15:20:00+00:00",
+              "fecho": 45.35
+            },
+            {
+              "quando": "2026-08-03T15:25:00+00:00",
+              "fecho": 45.33
+            },
+            {
+              "quando": "2026-08-03T15:30:00+00:00",
+              "fecho": 45.475
             }
           ]
         },
@@ -2351,7 +2447,7 @@
             },
             {
               "quando": "2026-08-03T07:00:00+00:00",
-              "fecho": 45.174
+              "fecho": 45.475
             }
           ]
         },
@@ -2939,8 +3035,8 @@
               "fecho": 45.356
             },
             {
-              "quando": "2026-08-03T13:27:36+00:00",
-              "fecho": 45.174
+              "quando": "2026-08-03T15:35:51+00:00",
+              "fecho": 45.475
             }
           ]
         }
@@ -2967,7 +3063,7 @@
           "fonte": "Goldman Sachs"
         }
       ],
-      "comentario": "O mercado emergente subiu ligeiramente hoje (+0,14%). A volatilidade no setor tecnológico asiático e a oscilação do preço do petróleo continuam a testar os investidores. Sugere-se manter a posição para garantir uma diversificação geográfica a longo prazo."
+      "comentario": "Com uma ligeira subida de 0,26%, os mercados emergentes mostram resiliencia. Apesar das quedas pontuais em tecnologicas sul-coreanas, analistas apontam para o potencial de subida impulsionado pela inteligencia artificial. Pode ser interessante manter ou reforcar moderadamente para diversificacao geografica fora do eixo EUA/Europa."
     },
     {
       "ticker": "IWDE.AS",
@@ -2975,9 +3071,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 117.68,
+        "preco_atual": 118.22,
         "fecho_anterior": 116.52,
-        "variacao_pct": 0.9955372468245887
+        "variacao_pct": 1.458976999656714
       },
       "historico": {
         "intradiario": {
@@ -3085,11 +3181,31 @@
             },
             {
               "quando": "2026-08-03T13:25:00+00:00",
-              "fecho": 117.74
+              "fecho": 117.68
             },
             {
-              "quando": "2026-08-03T13:27:06+00:00",
-              "fecho": 117.68
+              "quando": "2026-08-03T14:05:00+00:00",
+              "fecho": 118.08
+            },
+            {
+              "quando": "2026-08-03T14:15:00+00:00",
+              "fecho": 118.12
+            },
+            {
+              "quando": "2026-08-03T14:35:00+00:00",
+              "fecho": 118.18
+            },
+            {
+              "quando": "2026-08-03T14:45:00+00:00",
+              "fecho": 118.26
+            },
+            {
+              "quando": "2026-08-03T14:50:00+00:00",
+              "fecho": 118.2
+            },
+            {
+              "quando": "2026-08-03T15:30:00+00:00",
+              "fecho": 118.22
             }
           ]
         },
@@ -5122,7 +5238,7 @@
             },
             {
               "quando": "2026-08-03T07:00:00+00:00",
-              "fecho": 117.68
+              "fecho": 118.22
             }
           ]
         },
@@ -5874,8 +5990,8 @@
               "fecho": 116.52
             },
             {
-              "quando": "2026-08-03T13:27:06+00:00",
-              "fecho": 117.68
+              "quando": "2026-08-03T15:35:28+00:00",
+              "fecho": 118.22
             }
           ]
         }
@@ -5887,11 +6003,6 @@
           "fonte": "Investing.com"
         },
         {
-          "titulo": "MSCI World Index: 4847.88 (Jul 2026) — Historical Chart & Data - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aT2R4ZDM2bjRab2FyNkJPRDZ1QXc5aEc3R3BYdXZQMXVjQ18xel83bzNWdV9sSUdzOVVmVEZfTlp2VjdVanpfVTVEbG5GY1RPRTRKTG9SVEVobXBUYzlselFTM2RwUzBBTkdPcmdNc3ZUOV90c1E?oc=5",
-          "fonte": "GuruFocus"
-        },
-        {
           "titulo": "Indra Group joins the prestigious MSCI world index for the first time thanks to its stock market performance - Indra Group",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeHhrVmlXc3lTemhXWlU3OGtLcVZBaWhsOHRUQ2ctUGhBUEd4VXh0a3lEY1lTZF9pckJZTWcwNDZKMzd3ZUROQ1dGamlMbkw1UlhqZXkyUDRrbkF3amZrUVo5Yi1nZnlscG1za0x3T3AtUU1QaWYzdlJoejBUNXhRU3EweU5FSy1RQnpjeGd0MGpiT0xwRDl1UjZjbno5VldzY0xrbGUzZl96dzE1MFBobkd0QThpMXM3ZzRSYkJqWUZwbXluU2x1ZGtPQ1l4bUFSZC1YOHZvTHdIWVU?oc=5",
           "fonte": "Indra Group"
@@ -5900,9 +6011,14 @@
           "titulo": "The Best Index Funds for 2026 - Morningstar",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CT3VYLUNKQzhYb05rbGtqNTBESnNhSFFuWV8tdTZaQXpXMzZPbjUxSXI1VUVVejFsbmV4RDA2ZkhyT2VnVGQwMnNBNTQ2ZDJuakdiSUpGRmVoOFhlcWMw?oc=5",
           "fonte": "Morningstar"
+        },
+        {
+          "titulo": "Phoenix Financial Joins MSCI World Index - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZThhXzRCUmMtRzJtd0ZBRkIyZGNNSU5zQmxZbHdxVGFkNHJQVEtOT3FNUjlPR0tnb21QVWhzVUJxNU0wRzhwRWRGalZyY2ZGcnNSNEZCWFdyZGZ4LVNiSkVDdkxFaXdpbTA1R3FWOTIyMDhDU3lJUjNWSjNMMkI2MGdnQ005UHJ3Qy1PV0w3LTJyeHdaY2RmYjJNQnprdUIzS1lVb3BoMGZ3Zw?oc=5",
+          "fonte": "Yahoo Finance"
         }
       ],
-      "comentario": "Excelente dia (+1,06%) para este ETF global com cobertura cambial. Beneficia do bom momento das maiores empresas do mundo. É uma excelente base de diversificação para a sua carteira, sugerindo-se a sua manutenção estrutural."
+      "comentario": "Excelente desempenho hoje (+1,46%), refletindo a recuperacao dos mercados globais com protecao cambial em euros. A inclusao de novas empresas no indice valida a sua dinamica. Sugere-se manter como pilar central da carteira para obter uma exposicao global diversificada e com risco cambial minimizado."
     },
     {
       "ticker": "IUES.AS",
@@ -5910,9 +6026,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 154.83,
+        "preco_atual": 155.57,
         "fecho_anterior": 152.54,
-        "variacao_pct": 1.501245574931179
+        "variacao_pct": 1.9863642323325037
       },
       "historico": {
         "intradiario": {
@@ -6015,8 +6131,60 @@
               "fecho": 154.8
             },
             {
-              "quando": "2026-08-03T13:20:53+00:00",
+              "quando": "2026-08-03T13:20:00+00:00",
               "fecho": 154.83
+            },
+            {
+              "quando": "2026-08-03T13:40:00+00:00",
+              "fecho": 154.85
+            },
+            {
+              "quando": "2026-08-03T13:45:00+00:00",
+              "fecho": 154.93
+            },
+            {
+              "quando": "2026-08-03T13:50:00+00:00",
+              "fecho": 155.0
+            },
+            {
+              "quando": "2026-08-03T13:55:00+00:00",
+              "fecho": 155.2
+            },
+            {
+              "quando": "2026-08-03T14:05:00+00:00",
+              "fecho": 155.27
+            },
+            {
+              "quando": "2026-08-03T14:20:00+00:00",
+              "fecho": 155.45
+            },
+            {
+              "quando": "2026-08-03T14:35:00+00:00",
+              "fecho": 155.47
+            },
+            {
+              "quando": "2026-08-03T14:45:00+00:00",
+              "fecho": 155.55
+            },
+            {
+              "quando": "2026-08-03T14:55:00+00:00",
+              "fecho": 155.78
+            },
+            {
+              "quando": "2026-08-03T15:00:00+00:00",
+              "fecho": 155.65
+            },
+            {
+              "quando": "2026-08-03T15:10:00+00:00",
+              "fecho": 155.57
+            },
+            {
+              "quando": "2026-08-03T15:20:00+00:00",
+              "fecho": 155.64
+            },
+            {
+              "quando": "2026-08-03T15:25:00+00:00",
+              "fecho": 155.69
             }
           ]
         },
@@ -8049,7 +8217,7 @@
             },
             {
               "quando": "2026-08-03T07:00:00+00:00",
-              "fecho": 154.83
+              "fecho": 155.57
             }
           ]
         },
@@ -8801,35 +8969,35 @@
               "fecho": 152.54
             },
             {
-              "quando": "2026-08-03T13:20:53+00:00",
-              "fecho": 154.83
+              "quando": "2026-08-03T15:27:44+00:00",
+              "fecho": 155.57
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "These Were the Best and Worst S&P 500 Stocks in July - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kVGhEUlotX2ZMMUdGWE9JNThQMWVKWXV6TjlmWklKQnhzQkdjdzF3QjZhLV8xYk5OMnh3RWtJZ296OHRRVy1yZE1NdFE5ZjA4aVhZbDhwcEF3NzBRbEZaaTUyMEk5RkNwYjVURkIxWTVleENhX2JDelZnWQ?oc=5",
-          "fonte": "Barron's"
+          "titulo": "Stock Market Today: Dow surges 600 points toward a record high, S&P 500 and Nasdaq also rise; oil prices, Treasury yields fall on signs of U.S.-Iran war de-escalation; Palantir earnings on tap - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYlNadlNHcmdVcEtaWmh4V1VPLWotcVdHV0FuR3lmRlJEbXRTZUdzU293d09admZaNVlTNmJ0SVI1TDkzRGM3MUg1a04wSC1vd0l4ZUZHMXVydHlMNzZ4ZjN3RkEySEZSVUI4dnZtZjFOOGdvNkFQX1FpRFloRHM3MkF2T2tFZ1pfSVZOWUlZZlNEMTZ3RVQtUzVmSkZHSS1qRFFUaGJDamdqcWxuMEx6dVRNLXV1UVpkV3BmWWd3dnhJeU1f?oc=5",
+          "fonte": "MarketWatch"
         },
         {
-          "titulo": "Prediction: The Stock Market Will Hit Big Trouble in August. Here's How Much the S&P 500 Will Drop if History Repeats. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnZzV3JOdVN6eXBkei10ME4zT2tNVjZrMm5tV2V6TXNJdG1vOVlWdkRmc1FTbmM0QnVKNGV6S3N4ZzV6dmloeGlFZDVnSXBEdUtqbXd6VFIyRUM4OE40X3o0QTZPMVR5WDhxY0JxTEU3UlZpRUJoZk40U1ZvRlM0SGppZkZVWU54cGE4bGpPSkJvZ1d3NlE?oc=5",
-          "fonte": "The Motley Fool"
-        },
-        {
-          "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump calls off Iran attack, oil and bond yields ease - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWUZFZi1vZlVBVkhlLVBaMUdUMjBETjMwVUFxZGIwSjQ0cEQ4M1dfbDJqVjJOczBxQl83eTBxUE9ESlFONk8wSEQzb3RzcnFoNER3XzVtb0pKcWNLSVpmd0l4SldHdHIyY2FaTThqQlJxbFdWR05lLWh4QnZ4WEY1VWU2bEg0YUpJRG54WnZaVzlvSUpVa3N1VDZrRWdrckVlSk81N05hTnpYQQ?oc=5",
+          "titulo": "Stock market today: Nasdaq leads Dow, S&P 500 higher as Big Tech gains, oil prices ease - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkNnYmlpUUZ1UFBUdG13a1NLZlhpbXR4cEpMcUdqRkR5aXd1UjVKaEFFQTJyQ0JrQWFHN0I0Zk1wSDVOZ0RaRWM2aXpCb3BDQmE4c0dXaHFLQVhRcXdiZDZnSko3UGd6WlkwNlVncFNJdTVnbHVGaFJBTXltM0ttaUxkZ0ZFa2ptNVN5S3FTbXBPOTc3UHdZVEtVYVFqWXNMazVsZlhaY3hibzViazhyeXBta2RFWHF4Z1pN?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Trump, Iran Hope; Micron, SpaceX, Palantir, More Movers - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvX2dzNU5RRlJEcEtIWkRSZWtkWjJ2dE9ZU2xYMlRha3RiMllNQUMwbjhvSTFIUm5BRUVIRklidGRPZXExOHNwVmEtYml2dXdzTnFRUndoMFBqeXh0VkpfSkFlUUFXcVplZUpUS1YwWkFtZUpyaUE?oc=5",
+          "titulo": "How to navigate a treacherous stock market in August after a volatile July - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0cwLWszVUppQnRUTVdkampQOWFfSXVxMWhWYy1jVlh0cUJ1WVA5RjNwcjE5a2dERnd5dTM1N1ZvbnpQN0hiOVBLa192NHRaWEl2MzMyWEFHTjRub3NGem5xVm5XMVJ5NUVyMWhFNmdjWklMMkFmUGZLaGJqUXZ2VW9DNDVrLUszMUNlZzBYNU1jTnFzREVDVlEzR1BqTG9GNUpEd1pZR1Y?oc=5",
+          "fonte": "CNBC"
+        },
+        {
+          "titulo": "Ferguson Added to S&P 500 and the Plumbing Stock Pops. Where It Can Go Next. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43N29NTEI2dWZDSXFZQkwxbG5yNllJUkU3NHVHaWYxNFFCVW1PUnRnS1JQaXJEZ01sTTBNOURpX21jeWpvM3hkdUROcVNCX2w4TVZsV0FPYmdMa3J1MXNYVmZDTXNIblVfVDdRc2UtcXoyUQ?oc=5",
           "fonte": "Barron's"
         }
       ],
-      "comentario": "O grande destaque do dia (+1,41%), impulsionado pelo otimismo nos EUA e aparente desanuviamento de tensões geopolíticas. Sugere-se manter o plano de investimento regular, evitando tentar adivinhar os pontos altos do mercado."
+      "comentario": "O S&P 500 liderou os ganhos hoje (+1,99%), impulsionado pelo alivio das tensoes geopoliticas e forte desempenho das tecnologicas americanas. Como este ativo esta em maximos ou perto deles, sugere-se cautela com novos aportes imediatos de grande volume, preferindo compras fracionadas no tempo."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -12618,12 +12786,12 @@
           "fonte": "Governing"
         },
         {
-          "titulo": "Investors eager for Hong Kong’s Chinese bond futures, HKEX says - South China Morning Post",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeFRUOXlWRjhxMWltajZYZFBSaVVNN3R3RjRkSjZRTEV4VkxoYTZlanhGWmYyOEhXaVl2YVphT0JuakNDVXctMUl2cHE5SGtLX2hIM2hWNDJEbW15dkxNLU9ucW9fSVF0aGNSMTJUSGNzQ3BFMmdUVDFMNHNLM2lUdjlUSnJfR241NFBEQm5nRVp4SnEtOEZfcjlJYWNqT3poWnlBU3VxMGExVllQRHNXVkhNWUJ6emhmYi1FZHFxNzZuaXRnVUhFbmItNThyeVFUSThF0gHTAUFVX3lxTE9hTkliSkpsR2pteXUwbVJwX0RpQ0pFVWhNQXF0TzVKZDRDRFB1MkJ6U3lnMjd2Z0RibUEybGI1SlpWQkJwT0FjSl9lc3dBbzZGWExNMWZmZUtkQTQ3LUU5bkNrSXg3TUF6M2xDbTZTN3J5SlM2Y2g3QWJ0Z28wRGx6SnB5SmhuUWo0czNGaE1icXJLSUIza2RVQnNnQXBGXzdFTWQzTE11WVRvZEpIVkphUUJLUWZQSE9GN3RBbk42d0NDWUI5VW50eWJOYVhHbnQwZXc?oc=5",
-          "fonte": "South China Morning Post"
+          "titulo": "Bonds In Your Portfolio: Why Ditching Them Is The Wrong Move - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnZMZ1g4NmdUZzZMaGtVbTlKeEw5M19UUHdqaE1DWGtLX0FHMDdGN2k0T3Z3TmZjWVdTWDJYNmhHN2tfeWpEUUdoenJTXy02MDV1WUZLOXUtU1FKR2Fndk02OFhhTHhKTU53VXpPOF9VM3NSeDI5UEd5TXNONmR3REU0T25LMC1zQ1RxZGNR?oc=5",
+          "fonte": "Seeking Alpha"
         }
       ],
-      "comentario": "Recuo ligeiro (-0,41%) que reflete a volatilidade nas taxas de juro e obrigações. Sendo focado em rendimento, sugere-se paciência, pois as flutuações de curto prazo são normais neste tipo de fundo de obrigações."
+      "comentario": "O fundo de obrigacoes recuou 0,41% devido a volatilidade das taxas da Reserva Federal. No entanto, as obrigacoes continuam a ser fundamentais para equilibrar o risco da carteira em momentos de maior volatilidade acionista. Sugere-se manter a posicao para estabilidade e geracao de rendimento."
     },
     {
       "ticker": "IMAE.AS",
@@ -12631,9 +12799,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 105.58,
+        "preco_atual": 105.715,
         "fecho_anterior": 105.23,
-        "variacao_pct": 0.33260477050270293
+        "variacao_pct": 0.4608951819823239
       },
       "historico": {
         "intradiario": {
@@ -12924,8 +13092,100 @@
               "fecho": 105.52
             },
             {
-              "quando": "2026-08-03T13:27:44+00:00",
-              "fecho": 105.58
+              "quando": "2026-08-03T13:25:00+00:00",
+              "fecho": 105.545
+            },
+            {
+              "quando": "2026-08-03T13:30:00+00:00",
+              "fecho": 105.41
+            },
+            {
+              "quando": "2026-08-03T13:35:00+00:00",
+              "fecho": 105.41
+            },
+            {
+              "quando": "2026-08-03T13:40:00+00:00",
+              "fecho": 105.56
+            },
+            {
+              "quando": "2026-08-03T13:50:00+00:00",
+              "fecho": 105.625
+            },
+            {
+              "quando": "2026-08-03T14:00:00+00:00",
+              "fecho": 105.715
+            },
+            {
+              "quando": "2026-08-03T14:05:00+00:00",
+              "fecho": 105.705
+            },
+            {
+              "quando": "2026-08-03T14:10:00+00:00",
+              "fecho": 105.755
+            },
+            {
+              "quando": "2026-08-03T14:15:00+00:00",
+              "fecho": 105.8
+            },
+            {
+              "quando": "2026-08-03T14:20:00+00:00",
+              "fecho": 105.8
+            },
+            {
+              "quando": "2026-08-03T14:25:00+00:00",
+              "fecho": 105.82
+            },
+            {
+              "quando": "2026-08-03T14:30:00+00:00",
+              "fecho": 105.83
+            },
+            {
+              "quando": "2026-08-03T14:35:00+00:00",
+              "fecho": 105.825
+            },
+            {
+              "quando": "2026-08-03T14:40:00+00:00",
+              "fecho": 105.765
+            },
+            {
+              "quando": "2026-08-03T14:45:00+00:00",
+              "fecho": 105.745
+            },
+            {
+              "quando": "2026-08-03T14:50:00+00:00",
+              "fecho": 105.75
+            },
+            {
+              "quando": "2026-08-03T14:55:00+00:00",
+              "fecho": 105.78
+            },
+            {
+              "quando": "2026-08-03T15:00:00+00:00",
+              "fecho": 105.725
+            },
+            {
+              "quando": "2026-08-03T15:05:00+00:00",
+              "fecho": 105.73
+            },
+            {
+              "quando": "2026-08-03T15:10:00+00:00",
+              "fecho": 105.695
+            },
+            {
+              "quando": "2026-08-03T15:15:00+00:00",
+              "fecho": 105.725
+            },
+            {
+              "quando": "2026-08-03T15:20:00+00:00",
+              "fecho": 105.75
+            },
+            {
+              "quando": "2026-08-03T15:25:00+00:00",
+              "fecho": 105.725
+            },
+            {
+              "quando": "2026-08-03T15:30:00+00:00",
+              "fecho": 105.715
             }
           ]
         },
@@ -14966,7 +15226,7 @@
             },
             {
               "quando": "2026-08-03T07:00:00+00:00",
-              "fecho": 105.58
+              "fecho": 105.715
             }
           ]
         },
@@ -15778,8 +16038,8 @@
               "fecho": 105.23
             },
             {
-              "quando": "2026-08-03T13:27:44+00:00",
-              "fecho": 105.58
+              "quando": "2026-08-03T15:35:16+00:00",
+              "fecho": 105.715
             }
           ]
         }
@@ -15806,7 +16066,7 @@
           "fonte": "Modern Diplomacy"
         }
       ],
-      "comentario": "Ganho moderado (+0,43%) apoiado pelo otimismo nos resultados empresariais europeus. O mercado europeu continua a negociar perto de máximos. Sugere-se manter a exposição para equilibrar o peso dos EUA na sua carteira."
+      "comentario": "As acoes europeias registaram uma subida moderada de 0,46%, motivadas por bons resultados empresariais. Com avaliacoes historicamente mais atrativas do que as americanas, este ETF pode ser uma excelente opcao de diversificacao geografica. Sugere-se acompanhar os dados economicos europeus para eventuais reforcos."
     },
     {
       "ticker": "SEMI.AS",
@@ -15814,9 +16074,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 18.418,
+        "preco_atual": 18.724,
         "fecho_anterior": 18.792,
-        "variacao_pct": -1.9902085994040137
+        "variacao_pct": -0.3618561089825531
       },
       "historico": {
         "intradiario": {
@@ -16095,8 +16355,108 @@
               "fecho": 18.448
             },
             {
-              "quando": "2026-08-03T13:25:12+00:00",
+              "quando": "2026-08-03T13:25:00+00:00",
               "fecho": 18.418
+            },
+            {
+              "quando": "2026-08-03T13:30:00+00:00",
+              "fecho": 18.196
+            },
+            {
+              "quando": "2026-08-03T13:35:00+00:00",
+              "fecho": 18.304
+            },
+            {
+              "quando": "2026-08-03T13:40:00+00:00",
+              "fecho": 18.256
+            },
+            {
+              "quando": "2026-08-03T13:45:00+00:00",
+              "fecho": 18.25
+            },
+            {
+              "quando": "2026-08-03T13:50:00+00:00",
+              "fecho": 18.238
+            },
+            {
+              "quando": "2026-08-03T13:55:00+00:00",
+              "fecho": 18.42
+            },
+            {
+              "quando": "2026-08-03T14:00:00+00:00",
+              "fecho": 18.328
+            },
+            {
+              "quando": "2026-08-03T14:05:00+00:00",
+              "fecho": 18.408
+            },
+            {
+              "quando": "2026-08-03T14:10:00+00:00",
+              "fecho": 18.42
+            },
+            {
+              "quando": "2026-08-03T14:15:00+00:00",
+              "fecho": 18.518
+            },
+            {
+              "quando": "2026-08-03T14:20:00+00:00",
+              "fecho": 18.572
+            },
+            {
+              "quando": "2026-08-03T14:25:00+00:00",
+              "fecho": 18.67
+            },
+            {
+              "quando": "2026-08-03T14:30:00+00:00",
+              "fecho": 18.678
+            },
+            {
+              "quando": "2026-08-03T14:35:00+00:00",
+              "fecho": 18.748
+            },
+            {
+              "quando": "2026-08-03T14:40:00+00:00",
+              "fecho": 18.686
+            },
+            {
+              "quando": "2026-08-03T14:45:00+00:00",
+              "fecho": 18.74
+            },
+            {
+              "quando": "2026-08-03T14:50:00+00:00",
+              "fecho": 18.9
+            },
+            {
+              "quando": "2026-08-03T14:55:00+00:00",
+              "fecho": 18.928
+            },
+            {
+              "quando": "2026-08-03T15:00:00+00:00",
+              "fecho": 18.89
+            },
+            {
+              "quando": "2026-08-03T15:05:00+00:00",
+              "fecho": 18.856
+            },
+            {
+              "quando": "2026-08-03T15:10:00+00:00",
+              "fecho": 18.776
+            },
+            {
+              "quando": "2026-08-03T15:15:00+00:00",
+              "fecho": 18.766
+            },
+            {
+              "quando": "2026-08-03T15:20:00+00:00",
+              "fecho": 18.78
+            },
+            {
+              "quando": "2026-08-03T15:25:00+00:00",
+              "fecho": 18.646
+            },
+            {
+              "quando": "2026-08-03T15:30:00+00:00",
+              "fecho": 18.724
             }
           ]
         },
@@ -18137,7 +18497,7 @@
             },
             {
               "quando": "2026-08-03T07:00:00+00:00",
-              "fecho": 18.418
+              "fecho": 18.724
             }
           ]
         },
@@ -19189,8 +19549,8 @@
               "fecho": 18.792
             },
             {
-              "quando": "2026-08-03T13:25:12+00:00",
-              "fecho": 18.418
+              "quando": "2026-08-03T15:35:28+00:00",
+              "fecho": 18.724
             }
           ]
         }
@@ -19202,9 +19562,9 @@
           "fonte": "24/7 Wall St."
         },
         {
-          "titulo": "Semiconductor stocks sink over fears of increased competition from China - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVkxSm9xNmJkZVpPTHd3VUo4dUJ6bFlJbkw4TmtDbzFJaDdzT1o4SUlfSmpBMkVPX2VNczJlWVpCTFk1SHV1ckgwMWNTWVd5OXRwRVAtU3RkczE5WHIxSGJlSk5DRGJaY3EwTVV1TzhSam53dTVVeGc1Tjg2QXMySHkxZnlMU1EzdEpGWmYwNnFkUG16LV9DUDV2NEFjc0g4MXRCbHhRb0xnbkhTSlpGTVhuTXBZalRncXgtMm5n?oc=5",
-          "fonte": "Yahoo Finance UK"
+          "titulo": "Semiconductor stocks pair losses amid fears of increased competition from China - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQmJONnJqemNzYXN3Y1kwcTkyenItZkI1ZGFHSllia0RjTXJmTVBIZ2pGdHpSOGFDU2MzUGxIVi15RmJ3LXBqUXFQZ0ZqQnlOVE9RVHZNY3EwOXluYnVobmpkcWtRd1JtWlhBUlJmb0JUY19lN2FWVDZIYXVrQ09RRk5rU09WTmtvMjQybk9uYnFJdF9EQ3VIRnFtaHlIdk5pXy1aY3FCUTlTRmJ0TWtIUVdaZ09rbEE1bXZ2NWlMOEFFanM5M2otVmVXTjg0V25nSmc?oc=5",
+          "fonte": "Yahoo Finance"
         },
         {
           "titulo": "Semiconductor Sell-Off: 1 Chip Stock to Buy, 1 to Hold, and 1 to Sell - The Motley Fool",
@@ -19212,12 +19572,12 @@
           "fonte": "The Motley Fool"
         },
         {
-          "titulo": "Samsung, SK Hynix Plunge 7% as Kioxia Surges - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObXdDUloyME41eGphY0lHMDFwT0FEcFZkalNtSUJBT0FzN1hDdmxyeDU0dHFLdjFWQnVSb0dZVVg1YzNrdWVUdkx3SU1SSjVSWTJWN2F0bjZrSlMyTVg4QURKYXFPUWtPOHJQRnZBZXpyYU5RTVU4U0FtMHg1MTFIdUF0aU81V1FwTDRXbTJ3?oc=5",
-          "fonte": "조선일보"
+          "titulo": "ON Semiconductor Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings C - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTUoxdzI0bjAtLXNuQzBLUmlXb1ZXWmE5ck1FcVBhblRwbnFNS3Y5MkhSRm56cENVRmxpZkVWUEExaE1oaUMtZDNnbzhzcERhVUZhV1BEak0wcENNOENXZUhvaXNMQjhTcmtXTVFJNm9FbjBMQ2NmR3RVcjdGM0F0Q2VEbk9HaE5GZGlPTFlaQ1VpZ180cjNmZXczbWRXSXBoMDA1cEhBWW9QcDNYSGRGaUNGMHc0ODJZOGdzcEFUZmk2MG5LSGZJcXUxMGNISUxxRkExdDRfRG04RE1hcjI1QjRhYmY1RVF3U1UtdWhTQlozUXV6MHF3dDBwaUg0X0hJVkRieWFZNDUxT09hWWk4dG9R?oc=5",
+          "fonte": "Benzinga"
         }
       ],
-      "comentario": "Correção de -1,06% devido à volatilidade no setor da inteligência artificial. Se acredita no potencial tecnológico de longo prazo, estas descidas podem sugerir uma oportunidade para reforçar a sua posição a preços mais convidativos."
+      "comentario": "O setor de semicondutores recuou 0,36%, influenciado pelo receio de maior concorrencia chinesa. Contudo, a procura por chips associados a inteligencia artificial continua muito forte. Sendo um setor volatil, sugere-se manter a posicao se o seu horizonte temporal for de longo prazo."
     },
     {
       "ticker": "SGLD.AS",
@@ -19225,9 +19585,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 336.7,
+        "preco_atual": 337.29,
         "fecho_anterior": 337.73,
-        "variacao_pct": -0.30497734876973603
+        "variacao_pct": -0.13028158588221292
       },
       "historico": {
         "intradiario": {
@@ -19419,11 +19779,71 @@
             },
             {
               "quando": "2026-08-03T13:20:00+00:00",
-              "fecho": 336.77
+              "fecho": 336.7
             },
             {
-              "quando": "2026-08-03T13:23:33+00:00",
-              "fecho": 336.7
+              "quando": "2026-08-03T13:25:00+00:00",
+              "fecho": 336.5
+            },
+            {
+              "quando": "2026-08-03T13:30:00+00:00",
+              "fecho": 336.59
+            },
+            {
+              "quando": "2026-08-03T13:35:00+00:00",
+              "fecho": 335.88
+            },
+            {
+              "quando": "2026-08-03T13:40:00+00:00",
+              "fecho": 336.61
+            },
+            {
+              "quando": "2026-08-03T13:45:00+00:00",
+              "fecho": 336.43
+            },
+            {
+              "quando": "2026-08-03T13:50:00+00:00",
+              "fecho": 336.28
+            },
+            {
+              "quando": "2026-08-03T13:55:00+00:00",
+              "fecho": 336.6
+            },
+            {
+              "quando": "2026-08-03T14:25:00+00:00",
+              "fecho": 336.99
+            },
+            {
+              "quando": "2026-08-03T14:35:00+00:00",
+              "fecho": 337.12
+            },
+            {
+              "quando": "2026-08-03T14:40:00+00:00",
+              "fecho": 337.34
+            },
+            {
+              "quando": "2026-08-03T14:50:00+00:00",
+              "fecho": 337.09
+            },
+            {
+              "quando": "2026-08-03T14:55:00+00:00",
+              "fecho": 337.28
+            },
+            {
+              "quando": "2026-08-03T15:15:00+00:00",
+              "fecho": 337.65
+            },
+            {
+              "quando": "2026-08-03T15:20:00+00:00",
+              "fecho": 337.59
+            },
+            {
+              "quando": "2026-08-03T15:25:00+00:00",
+              "fecho": 337.26
+            },
+            {
+              "quando": "2026-08-03T15:30:00+00:00",
+              "fecho": 337.29
             }
           ]
         },
@@ -21456,7 +21876,7 @@
             },
             {
               "quando": "2026-08-03T07:00:00+00:00",
-              "fecho": 336.7
+              "fecho": 337.29
             }
           ]
         },
@@ -21916,8 +22336,8 @@
               "fecho": 337.73
             },
             {
-              "quando": "2026-08-03T13:23:33+00:00",
-              "fecho": 336.7
+              "quando": "2026-08-03T15:35:01+00:00",
+              "fecho": 337.29
             }
           ]
         }
@@ -21935,7 +22355,7 @@
         },
         {
           "titulo": "Gold Price Forecast: XAU/USD’s struggle with 21-day SMA extends ahead of US-Iran talks - FXStreet",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONUFZQjlyRFE4MFFYTjZCN0lqOXpvLTZScmpYaUpmeU5hLWJ1X2pUd05qMXk3a1VMUkdQWmU1ZFdZQTRIX3RJWFNwd3N6bmJyTE5ubHlNS2pSUm5hbkVHUVJrSXotWVNYUEE5cndFTm42elVLWDltRkdETkt2bmdZenEwcXY0aWszWkpjQl8wXzlrck5fWHlETk9qaTF3QjFHV1BQYzFsaEllVmRGeGpHUXlGRWEzWDRVVlloaW1UeW40a2NFRm9VcjB5OA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1o0T1lrRVRJdExqd0xIZGc1a3RzZ3V0cUN6Z2ZyWmFkWUJZWTh5VzRnUWl4VldnY2J6TExzVGozNFBzdFBsM3AtdnNMYVFsVndCZy1LdlBFWVNncWFELWMwVjR2TFNJSTB4WkNzV3NlT296N0VwdXhSM1dTdlhKMHlraWRYTTZDREpiWlRyaHpfYXBUUk5YQjdmNGRaM0d6THROZkdQRzFLc1F1YmRSY3c4V2c2dnJPVU56MXVKeTNxQWwwOEE?oc=5",
           "fonte": "FXStreet"
         },
         {
@@ -21944,7 +22364,7 @@
           "fonte": "Fortune"
         }
       ],
-      "comentario": "O ouro subiu ligeiramente (+0,21%), mantendo a sua trajetória sólida. Funciona como proteção contra a incerteza geopolítica e inflação. Sugere-se manter uma pequena exposição como estabilizador da carteira."
+      "comentario": "O ouro recuou ligeiramente (-0,13%), consolidando apos os recentes recordes. Continua a funcionar como um porto seguro essencial contra a inflacao e incertezas geopoliticas. Sugere-se manter a posicao atual sem necessidade de reforcos urgentes, servindo como protecao contra a volatilidade do mercado acionista."
     }
   ]
 }
