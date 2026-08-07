@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-07T10:15:31.969093+00:00",
+  "atualizado_em": "2026-08-07T11:10:04.811249+00:00",
   "analise_geral": "Hoje, a carteira apresenta um desempenho globalmente equilibrado. Destaca-se a forte valorizacao do ouro (SGLD.AS, +1.43%) e a solidez das acoes europeias (IMAE.AS, +0.45%), que ajudam a compensar as ligeiras quedas nos semicondutores e mercados emergentes. Os ativos com cobertura cambial (EUR hedged) mantem-se estaveis. O ouro continua a funcionar como refugio face a volatilidade global. Para manter o equilibrio da carteira, podera sugerir-se uma analise ao peso atual do ouro para avaliar a necessidade de um reequilibrio futuro, mantendo a rota planeada nos restantes ativos diversificados.",
   "analise_gerado_em": "2026-08-07T10:15:31.969044+00:00",
   "alertas_enviados": {
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 46.487,
+        "preco_atual": 46.466,
         "fecho_anterior": 46.598,
-        "variacao_pct": -0.2382076483969207
+        "variacao_pct": -0.2832739602558005
       },
       "historico": {
         "intradiario": {
@@ -166,11 +166,55 @@
             },
             {
               "quando": "2026-08-07T09:55:00+00:00",
-              "fecho": 46.477
+              "fecho": 46.487
             },
             {
-              "quando": "2026-08-07T09:58:59+00:00",
-              "fecho": 46.487
+              "quando": "2026-08-07T10:00:00+00:00",
+              "fecho": 46.49
+            },
+            {
+              "quando": "2026-08-07T10:05:00+00:00",
+              "fecho": 46.45
+            },
+            {
+              "quando": "2026-08-07T10:10:00+00:00",
+              "fecho": 46.46
+            },
+            {
+              "quando": "2026-08-07T10:15:00+00:00",
+              "fecho": 46.441
+            },
+            {
+              "quando": "2026-08-07T10:20:00+00:00",
+              "fecho": 46.401
+            },
+            {
+              "quando": "2026-08-07T10:25:00+00:00",
+              "fecho": 46.44
+            },
+            {
+              "quando": "2026-08-07T10:30:00+00:00",
+              "fecho": 46.47
+            },
+            {
+              "quando": "2026-08-07T10:35:00+00:00",
+              "fecho": 46.445
+            },
+            {
+              "quando": "2026-08-07T10:40:00+00:00",
+              "fecho": 46.478
+            },
+            {
+              "quando": "2026-08-07T10:45:00+00:00",
+              "fecho": 46.455
+            },
+            {
+              "quando": "2026-08-07T10:50:00+00:00",
+              "fecho": 46.47
+            },
+            {
+              "quando": "2026-08-07T10:53:12+00:00",
+              "fecho": 46.466
             }
           ]
         },
@@ -2195,7 +2239,7 @@
             },
             {
               "quando": "2026-08-07T07:00:00+00:00",
-              "fecho": 46.487
+              "fecho": 46.466
             }
           ]
         },
@@ -2787,8 +2831,8 @@
               "fecho": 46.799
             },
             {
-              "quando": "2026-08-07T09:58:59+00:00",
-              "fecho": 46.487
+              "quando": "2026-08-07T10:53:12+00:00",
+              "fecho": 46.466
             }
           ]
         }
@@ -5666,24 +5710,24 @@
       },
       "noticias": [
         {
+          "titulo": "MSCI Inc. (MSCI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdWlaUFZRTDd0ZGhwMXZfcjlRNTFTMC1VWE5TSlcyZnlIektrQW5pa2pGNEVNb1FuR0NOVXpFSXE3RkRicGRqRklaUkhjVmV6emc?oc=5",
+          "fonte": "Yahoo! Finance Canada"
+        },
+        {
           "titulo": "DWS launches an ETF that gives European investors access to the MSCI World index excluding US equities for the first time - RankiaPro",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTlFocGE1OW54WlRreXMtUWVab0tJSnZZNXI1dllwcE1SVWpUOXV0cFF3ZHlUU05acFFWWS1UMXp6dXZYb1E4S3huNTEzT3UxYjhTbVhVQ2NTdm1EMDRqSHI2Q1hGOUVWYTM5WnVPYVNIZU83VzJUWEVnQW9sN1owc2ozSUF6dmduUm1oVDRHcVBaOWpmYkppTTVSR1B5ZFZJR1JBR05naTVhNzJYYnpDd255LThXS29xT1JwSWlOeWp3VkgwRVBnbw?oc=5",
           "fonte": "RankiaPro"
         },
         {
+          "titulo": "Bitcoin is 49% below its record while the S&P 500 hits all-time highs - CoinDesk",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlBWZ3ZoZlV6d2dLWVpuUlM5d29ZZHZvYzdzYWZlNFdmYWZQU2xwZ3FGTGlrb2VLOTJYaDRxVXBmTWMyY0hlTUxMbUJ1YlAyS2ZHTDI0MUxnOHJVXzdEbm84dHhsQUgyeVdtRUFtUW1CNHU0S1d6MGdVSDNxeFpMZ0tLTkNZZzN5OWhZQVpkcGpENERDR19vZFBoQnN4LU1QY2VfYmN1MUlEY29DT2xZRU9jMHY4QQ?oc=5",
+          "fonte": "CoinDesk"
+        },
+        {
           "titulo": "Janus Henderson Global Research Fund Q2 2026 Portfolio Update - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmEtaldpRVhiQ0w2cWpoOUMtR2FiaEV1NUJPYWIyLVhpUWlaLTgzcTBHaVR4MDhTQjMydjhQUndsMmJsY1I2Q3hHUC1NRkplLWJXUkRzbENmUlpaUUdLZEk1VVhPbU1EdENSNFpkM2JCVV9aVDhoQVdUclVvODIwaEVnRWF0R1ZXV3VGQi1PNUd4cERZdlFQblJKdHBNeE9pdGI4RQ?oc=5",
           "fonte": "Seeking Alpha"
-        },
-        {
-          "titulo": "Bitcoin is 49% below its record while the S&P 500 hits all-time highs - coindesk.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlBWZ3ZoZlV6d2dLWVpuUlM5d29ZZHZvYzdzYWZlNFdmYWZQU2xwZ3FGTGlrb2VLOTJYaDRxVXBmTWMyY0hlTUxMbUJ1YlAyS2ZHTDI0MUxnOHJVXzdEbm84dHhsQUgyeVdtRUFtUW1CNHU0S1d6MGdVSDNxeFpMZ0tLTkNZZzN5OWhZQVpkcGpENERDR19vZFBoQnN4LU1QY2VfYmN1MUlEY29DT2xZRU9jMHY4QQ?oc=5",
-          "fonte": "coindesk.com"
-        },
-        {
-          "titulo": "Indra Group joins the prestigious MSCI world index for the first time thanks to its stock market performance - Indra Group",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeHhrVmlXc3lTemhXWlU3OGtLcVZBaWhsOHRUQ2ctUGhBUEd4VXh0a3lEY1lTZF9pckJZTWcwNDZKMzd3ZUROQ1dGamlMbkw1UlhqZXkyUDRrbkF3amZrUVo5Yi1nZnlscG1za0x3T3AtUU1QaWYzdlJoejBUNXhRU3EweU5FSy1RQnpjeGd0MGpiT0xwRDl1UjZjbno5VldzY0xrbGUzZl96dzE1MFBobkd0QThpMXM3ZzRSYkJqWUZwbXluU2x1ZGtPQ1l4bUFSZC1YOHZvTHdIWVU?oc=5",
-          "fonte": "Indra Group"
         }
       ],
       "comentario": "Este ETF global com cobertura cambial subiu 0.30%, beneficiando da estabilidade mundial. A protecao cambial ajuda a mitigar o risco do euro face ao dolar. E uma excelente base de diversificacao geografica. Sugere-se manter a posicao para assegurar resiliencia no nucleo da carteira."
@@ -5694,9 +5738,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 158.6,
+        "preco_atual": 158.51,
         "fecho_anterior": 158.31,
-        "variacao_pct": 0.18318489040489674
+        "variacao_pct": 0.12633440717578714
       },
       "historico": {
         "intradiario": {
@@ -5735,8 +5779,12 @@
               "fecho": 158.6
             },
             {
-              "quando": "2026-08-07T09:30:20+00:00",
-              "fecho": 158.6
+              "quando": "2026-08-07T10:15:00+00:00",
+              "fecho": 158.51
+            },
+            {
+              "quando": "2026-08-07T10:15:12+00:00",
+              "fecho": 158.51
             }
           ]
         },
@@ -7777,7 +7825,7 @@
             },
             {
               "quando": "2026-08-07T07:00:00+00:00",
-              "fecho": 158.6
+              "fecho": 158.51
             }
           ]
         },
@@ -8533,27 +8581,27 @@
               "fecho": 158.95
             },
             {
-              "quando": "2026-08-07T09:30:20+00:00",
-              "fecho": 158.6
+              "quando": "2026-08-07T10:15:12+00:00",
+              "fecho": 158.51
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "S&P 500 futures are little changed as traders await big jobs report: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5",
-          "fonte": "CNBC"
-        },
-        {
           "titulo": "Stock Market Today: Dow dives to first loss in six days, S&P 500 and Nasdaq also fall; rise in oil prices rally and Treasury yields add to jitters - MarketWatch",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQVF2MFB5Y0NPc3F2VF9tN2d3Rjdhdzk1YWZsMVlMYUZic21SRlQ2cHN1UXF6TWZ6SUVzdjU4Tm15WXppYU5xblgzV0RKSy1UR3hqbWZNYm4tc1VNU1FuZG54VW44NEtJdGIwWjZseTVOVWhaZ3BEeExyMXZjclduNW9ubGdDV1Z5OGJ2Q1YyaEFLX0FPOGppeXZGdFk3MGxxa1NIR0Q4cFk4b1hSekdjN1R3TzNOYlV4UlpKeV9oUm1ocWlRWFE?oc=5",
           "fonte": "MarketWatch"
         },
         {
-          "titulo": "The S&P 500 is back at a record high and the Dow just hit 54,000 - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sNTR6eTFUS1JYX1lnaWVIZGxJeVhmbENJMHN3SUc4TTlSaHpweUdwNUNLejJtSmIwb0x0SEQxalc2OVN1X2s1WFhPSWt2X2VrcFFVeXhVVVpxYVVnaUFjRDR3SUFxbzA?oc=5",
-          "fonte": "CNN"
+          "titulo": "CFRA gets more bullish, hikes S&P 500 year-end target to 8,050 - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODhwREhURERyTlJURkE0UWV4RGhBZzBMWXRRcTE4ZjBjUlc4Q2pKOURnSHhhWm9vZFNweUpoMnJhYUtrN2VJZ3NURzEwNTVNREpPY01MYkQ5ZW1UUmh3QThULXJYWm4zeGQ1WkNDcWhvZkhjaGwzRkFsZ2EwblZ0aDU4VjlBdlp3TUxiNV84dDcwWmRXb29EaTdWZDA?oc=5",
+          "fonte": "CNBC"
+        },
+        {
+          "titulo": "Stock market today: Dow, S&P 500 climb as Trump says Hormuz deal is close, Nasdaq gives up gains - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXZDMV95N0VrQ2UwdGlQcmR6ZmhPVmptX0JQcEl2eWllTmYtQ3Z3UnpkcUs4Rzd2UmJxZ3JtSUQ3WmtZeHBsMS1nTnAyZ0JJY2VLbGEzVUtZa0VWNkJUdnB1YTFSejk5eVhhazFLLXZNMHhkM2NsOWZUbmZLaEM0NHNreUc5TzE3RnNlQ0IzSG84SmdDSzhEZGZRemJsVVRWWGhtVDhmOHg2VW1DaDh5Znhibw?oc=5",
+          "fonte": "Yahoo Finance"
         },
         {
           "titulo": "This Famed Stock-Market Bubble Indicator Is Broken - Business Insider",
@@ -12362,9 +12410,9 @@
           "fonte": "Seeking Alpha"
         },
         {
-          "titulo": "Catastrophe bond funds draw strong inflows: Morningstar - Funds Europe",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZndnemVBS0lqakJsYWRiTV9ZSGRNYkgtUGotbzVab2g1dmFJc0RwamUxVDFPdGZmUUtPVWo1SVg2NGxmNHpxVWV3dzljWVFoVGtVY2MzS2dCYmoyWGJTcmlsUG55RVFZdWVZanhvZGJHN3NiUVFnVlQ0Mm9LSEZFbHdTdEFmS3M?oc=5",
-          "fonte": "Funds Europe"
+          "titulo": "Bond risk: How rates, duration, and structure drive fixed-income performance - britannica.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01ZXBETnhadU1CMVg4SmVSWVdMNGlpQXhNRFdjUjQzc1N1c2hoeGo1UTRtTVlUNTU5LW5DX1ZKQ21CWURVVEdTaGxHMlpZNmxSTFAzdTM2b1N2RWpHQ3dr?oc=5",
+          "fonte": "britannica.com"
         }
       ],
       "comentario": "Manteve-se inalterado (0.00%). Este fundo de obrigacoes globais foca-se na geracao de rendimento e estabilidade. Num cenario de taxas de juro elevadas, os ativos de rendimento fixo continuam a ser uma alternativa interessante. Sugere-se a manutencao do ativo para controlo de volatilidade global."
@@ -12375,9 +12423,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 107.21,
+        "preco_atual": 107.405,
         "fecho_anterior": 106.73,
-        "variacao_pct": 0.44973297104843035
+        "variacao_pct": 0.632436990536866
       },
       "historico": {
         "intradiario": {
@@ -12489,11 +12537,27 @@
             },
             {
               "quando": "2026-08-07T09:45:00+00:00",
-              "fecho": 107.15
+              "fecho": 107.21
             },
             {
-              "quando": "2026-08-07T09:48:26+00:00",
-              "fecho": 107.21
+              "quando": "2026-08-07T10:00:00+00:00",
+              "fecho": 107.305
+            },
+            {
+              "quando": "2026-08-07T10:05:00+00:00",
+              "fecho": 107.36
+            },
+            {
+              "quando": "2026-08-07T10:10:00+00:00",
+              "fecho": 107.345
+            },
+            {
+              "quando": "2026-08-07T10:40:00+00:00",
+              "fecho": 107.38
+            },
+            {
+              "quando": "2026-08-07T10:47:41+00:00",
+              "fecho": 107.405
             }
           ]
         },
@@ -14542,7 +14606,7 @@
             },
             {
               "quando": "2026-08-07T07:00:00+00:00",
-              "fecho": 107.21
+              "fecho": 107.405
             }
           ]
         },
@@ -15358,8 +15422,8 @@
               "fecho": 106.545
             },
             {
-              "quando": "2026-08-07T09:48:26+00:00",
-              "fecho": 107.21
+              "quando": "2026-08-07T10:47:41+00:00",
+              "fecho": 107.405
             }
           ]
         }
@@ -15371,9 +15435,9 @@
           "fonte": "Reuters"
         },
         {
-          "titulo": "European stocks hit record highs: The 10 best performers of 2026 - euronews.com",
+          "titulo": "European stocks hit record highs: The 10 best performers of 2026 - Euronews.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWW00MFhybUdZSUtmRVV3Nlo4cWV4dUFnVGNfQXVwWDV6MVUyYTcxSnJ0UFFSdmFOcGZwMXNtMW1HOVMwTjVzLUlMUm1BUmViUFRrZUxqZi1ZZ0FuWHVJeHB4R0EtUDd0V2c1anN1enQ5ZWtvRmlRSmZCdjBfWndDSHpiV3JZdTd2c01XRmZvdDBQREEzNDNKUmNEQmVrSFlsaXdkQl8tb3VIcWRY?oc=5",
-          "fonte": "euronews.com"
+          "fonte": "Euronews.com"
         },
         {
           "titulo": "Is Now a Good Time to Buy European Stocks? - Morningstar",
@@ -15394,9 +15458,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 19.848,
+        "preco_atual": 19.802,
         "fecho_anterior": 19.916,
-        "variacao_pct": -0.34143402289617086
+        "variacao_pct": -0.5724040972082787
       },
       "historico": {
         "intradiario": {
@@ -15475,8 +15539,40 @@
               "fecho": 19.848
             },
             {
-              "quando": "2026-08-07T09:42:54+00:00",
-              "fecho": 19.848
+              "quando": "2026-08-07T10:00:00+00:00",
+              "fecho": 19.846
+            },
+            {
+              "quando": "2026-08-07T10:05:00+00:00",
+              "fecho": 19.856
+            },
+            {
+              "quando": "2026-08-07T10:15:00+00:00",
+              "fecho": 19.824
+            },
+            {
+              "quando": "2026-08-07T10:20:00+00:00",
+              "fecho": 19.8
+            },
+            {
+              "quando": "2026-08-07T10:30:00+00:00",
+              "fecho": 19.814
+            },
+            {
+              "quando": "2026-08-07T10:35:00+00:00",
+              "fecho": 19.816
+            },
+            {
+              "quando": "2026-08-07T10:40:00+00:00",
+              "fecho": 19.836
+            },
+            {
+              "quando": "2026-08-07T10:45:00+00:00",
+              "fecho": 19.834
+            },
+            {
+              "quando": "2026-08-07T10:54:43+00:00",
+              "fecho": 19.802
             }
           ]
         },
@@ -17525,7 +17621,7 @@
             },
             {
               "quando": "2026-08-07T07:00:00+00:00",
-              "fecho": 19.848
+              "fecho": 19.802
             }
           ]
         },
@@ -18581,8 +18677,8 @@
               "fecho": 19.916
             },
             {
-              "quando": "2026-08-07T09:42:54+00:00",
-              "fecho": 19.848
+              "quando": "2026-08-07T10:54:43+00:00",
+              "fecho": 19.802
             }
           ]
         }
@@ -18617,9 +18713,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 359.98,
+        "preco_atual": 360.4,
         "fecho_anterior": 354.89,
-        "variacao_pct": 1.4342472315365415
+        "variacao_pct": 1.5525937614472065
       },
       "historico": {
         "intradiario": {
@@ -18742,8 +18838,40 @@
               "fecho": 360.23
             },
             {
-              "quando": "2026-08-07T09:59:06+00:00",
+              "quando": "2026-08-07T09:55:00+00:00",
               "fecho": 359.98
+            },
+            {
+              "quando": "2026-08-07T10:05:00+00:00",
+              "fecho": 359.95
+            },
+            {
+              "quando": "2026-08-07T10:10:00+00:00",
+              "fecho": 359.77
+            },
+            {
+              "quando": "2026-08-07T10:15:00+00:00",
+              "fecho": 359.95
+            },
+            {
+              "quando": "2026-08-07T10:20:00+00:00",
+              "fecho": 359.88
+            },
+            {
+              "quando": "2026-08-07T10:35:00+00:00",
+              "fecho": 360.31
+            },
+            {
+              "quando": "2026-08-07T10:40:00+00:00",
+              "fecho": 360.12
+            },
+            {
+              "quando": "2026-08-07T10:45:00+00:00",
+              "fecho": 360.45
+            },
+            {
+              "quando": "2026-08-07T10:52:59+00:00",
+              "fecho": 360.4
             }
           ]
         },
@@ -20784,7 +20912,7 @@
             },
             {
               "quando": "2026-08-07T07:00:00+00:00",
-              "fecho": 359.98
+              "fecho": 360.4
             }
           ]
         },
@@ -21248,8 +21376,8 @@
               "fecho": 354.52
             },
             {
-              "quando": "2026-08-07T09:59:06+00:00",
-              "fecho": 359.98
+              "quando": "2026-08-07T10:52:59+00:00",
+              "fecho": 360.4
             }
           ]
         }
@@ -21261,19 +21389,19 @@
           "fonte": "CNBC"
         },
         {
-          "titulo": "Gold Price Canada Today | Live Gold Price in CAD - KITCO",
+          "titulo": "Gold Price Canada Today | Live Gold Price in CAD - kitco.com",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-          "fonte": "KITCO"
-        },
-        {
-          "titulo": "Current price of gold as of August 7, 2026 - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGTTlYbjdaWTRQY3pSSFlsWWJHR2JhejRkeXVMbWd3eXhXUGx1dFo0Rm8xMVo3ODNKZjNJUmdrTU1JSVF5NjVuUkFlWHhqTURXalhNWFdTVmwtOGV3Q1JoX2szMUZSaDdQUjBTNDl3?oc=5",
-          "fonte": "Fortune"
+          "fonte": "kitco.com"
         },
         {
           "titulo": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
           "fonte": "LiteFinance"
+        },
+        {
+          "titulo": "Gold’s price potential still ‘explosive’ amid Beijing hoarding - South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ1c4VXhzZDF5clVXcFl2V0hjTTZqNWtsZTRvYlJxS0JmdF9HY19OaE5nRzhmZXViVFN2ZUwzUzF6MEl0MVdXdEV3eTFsaVFQVWp6bVhVMDF4U1cwTE1qaktROW9lbVVrXzdhUjAycGtHN2VfSTVCeHVoVFV2d2VabHFfT0k2SzFFT1VYQXFyd3N6UW1tM1pNOGlqOC10YnFid3RPNkgxdGNfSU9FMG40ak1FeVg1YWxIeHF2VmpMNWRHSTYzUzF5OFBRMWUxekF0bmZZRFM1RdIB1wFBVV95cUxOYWZmRVFMZGUyMEJvSWh6dF9nejBmQmFWVktBN3BwM2J3WklSaXA3WTNyZjBBRFVqZlR0bU1sck5vTVVtckN4OGRFRzdjUE90b1BjbEQ0WTZocXNqaWs2aTc5c3poTEx1aVplZEg1Zl8zSUNpTlJROURhczA2UXBNSXE2XzR4QndpTGFvTUVkeWkwTUo3cV9lYkF4UXp4dzlMbEVPeTRUSlZ3dXEtRmd1eFlBOXZHUUktYUwwS21zcDYtTThEWWx5QkkyRXA0aGdzTkhrSTRDOA?oc=5",
+          "fonte": "South China Morning Post"
         }
       ],
       "comentario": "Destacou-se hoje com uma forte subida de 1.43%, impulsionado pela procura de refugio e dados macroeconomicos. O ouro cumpre o seu papel de protecao contra a incerteza. Sugere-se avaliar se esta valorizacao nao desequilibrou a alocacao pretendida, ponderando realizar mais-valias parciais se necessario."
