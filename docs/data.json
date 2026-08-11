@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-11T07:03:15.795209+00:00",
+  "atualizado_em": "2026-08-11T08:16:18.960299+00:00",
   "analise_geral": "O seu portefólio apresenta hoje um comportamento globalmente estável, com ligeiras oscilações. Destaca-se a resiliência dos ativos com cobertura cambial (IWDE.AS e IUES.AS) e a ligeira correção no setor de semicondutores (SEMI.AS), que pode abrir portas a reforços pontuais devido ao otimismo contínuo no setor tecnológico. Os mercados emergentes (IS3N.DE) também mostram avaliações historicamente baixas face aos EUA, sugerindo um potencial de valorização a longo prazo. O ouro (SGLD.AS) e as obrigações (PIMCO) continuam a oferecer o equilíbrio necessário contra a volatilidade. Sugere-se manter a sua estratégia de reforços periódicos, sem necessidade de alterações bruscas, aproveitando eventuais quedas em setores estratégicos para acumular posições.",
   "analise_gerado_em": "2026-08-11T05:52:08.363021+00:00",
   "alertas_enviados": {
@@ -16,14 +16,71 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 46.428,
-        "fecho_anterior": 46.554,
-        "variacao_pct": -0.2706534347209794
+        "preco_atual": 46.521,
+        "fecho_anterior": 46.428,
+        "variacao_pct": 0.20031015766348656
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 46.475
+            },
+            {
+              "quando": "2026-08-11T07:05:00+00:00",
+              "fecho": 46.445
+            },
+            {
+              "quando": "2026-08-11T07:10:00+00:00",
+              "fecho": 46.466
+            },
+            {
+              "quando": "2026-08-11T07:15:00+00:00",
+              "fecho": 46.482
+            },
+            {
+              "quando": "2026-08-11T07:20:00+00:00",
+              "fecho": 46.454
+            },
+            {
+              "quando": "2026-08-11T07:25:00+00:00",
+              "fecho": 46.479
+            },
+            {
+              "quando": "2026-08-11T07:30:00+00:00",
+              "fecho": 46.495
+            },
+            {
+              "quando": "2026-08-11T07:35:00+00:00",
+              "fecho": 46.509
+            },
+            {
+              "quando": "2026-08-11T07:40:00+00:00",
+              "fecho": 46.494
+            },
+            {
+              "quando": "2026-08-11T07:45:00+00:00",
+              "fecho": 46.488
+            },
+            {
+              "quando": "2026-08-11T07:50:00+00:00",
+              "fecho": 46.493
+            },
+            {
+              "quando": "2026-08-11T07:55:00+00:00",
+              "fecho": 46.521
+            },
+            {
+              "quando": "2026-08-11T08:00:00+00:00",
+              "fecho": 46.511
+            },
+            {
+              "quando": "2026-08-11T08:01:03+00:00",
+              "fecho": 46.521
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -2039,6 +2096,10 @@
             {
               "quando": "2026-08-10T07:00:00+00:00",
               "fecho": 46.428
+            },
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 46.521
             }
           ]
         },
@@ -2630,22 +2691,22 @@
               "fecho": 46.554
             },
             {
-              "quando": "2026-08-10T15:35:59+00:00",
-              "fecho": 46.428
+              "quando": "2026-08-11T08:01:03+00:00",
+              "fecho": 46.521
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Emerging-Market Stock Valuations Sink Below Half of S&P 500’s - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1MySm1TX1ZFSUNwM1NDM2ZnT0pxMHJsMjVucTBKNFpNTENDYmNpZnRzV3JfQ2lMMG51dE5pUldCMi1xTktiWTJoM00xcUxVLUlzSlpnWXJZdjJyZE9tM0pmY2NmQjFfV1pLMThqcWoyX2F4eE14SUoxN0plVEFvWTFTM3BGRHlhczVXTTZ4TUVhRF9FUVR5ZXozbXgtdWhvTnY3OU1RNnJpUjFPWWc?oc=5",
-          "fonte": "Yahoo Finance"
-        },
-        {
           "titulo": "Emerging-Market Stock Valuations Sink Below Half of S&P 500’s - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUk2MW5qOTZhcTZoTldqd1lReWF6UkVTWV9WZWE4V3pVMUNZc1JaakZuVnd3cmZEdmpEcjB4U2xVX2h0aUszbUdfRnRoLUdDS3hiZmJ5ZElfVWV1SDQ4MUpVbW9ULUs1RTFMRFZRX2RBdVhrOHVLT2hWR2pRYUNqdzZhUlNMb205dndRS1dnWUFrOVFEaGZWdFNpY0FGel9TTDZURzV5cTJPVlMxdzFOUVd3?oc=5",
           "fonte": "Bloomberg.com"
+        },
+        {
+          "titulo": "Emerging-Market Stocks, Currencies Gain After Soft US Jobs Data - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVkzXzZ2TXJ6V2swMi16MlJDNHdUMTdLWGRZOUhJODM5NW1NNGlPbWJISzA1bFdRMmlhSHlpdHdVNjA3MVdvbkxSejR3dkNxQi1sYVY3VUNrWXVVbmVkR3A3c05IejFqWGRTRFlhdzViVkdoSnMwMXFyLWg0YmhwVDEtdWMxd21MbkdMSjZNQ21ralR0TGdSQ0hwVlluSHBTRGctSlhjbWQ2VXM?oc=5",
+          "fonte": "Yahoo Finance"
         },
         {
           "titulo": "View from the markets: What’s the meaning of the emerging market tech stock sell-off? - BNP Paribas Asset Management",
@@ -2666,14 +2727,23 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 121.18,
-        "fecho_anterior": 121.12,
-        "variacao_pct": 0.04953764861294771
+        "preco_atual": 121.14,
+        "fecho_anterior": 121.18,
+        "variacao_pct": -0.033008747318044436
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 121.14
+            },
+            {
+              "quando": "2026-08-11T07:04:11+00:00",
+              "fecho": 121.14
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -4705,6 +4775,10 @@
             {
               "quando": "2026-08-10T07:00:00+00:00",
               "fecho": 121.18
+            },
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 121.14
             }
           ]
         },
@@ -5460,8 +5534,8 @@
               "fecho": 121.12
             },
             {
-              "quando": "2026-08-10T15:10:27+00:00",
-              "fecho": 121.18
+              "quando": "2026-08-11T07:04:11+00:00",
+              "fecho": 121.14
             }
           ]
         }
@@ -5496,14 +5570,31 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 159.36,
-        "fecho_anterior": 159.32,
-        "variacao_pct": 0.02510670348984463
+        "preco_atual": 159.19,
+        "fecho_anterior": 159.36,
+        "variacao_pct": -0.10667670682731921
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 159.12
+            },
+            {
+              "quando": "2026-08-11T07:20:00+00:00",
+              "fecho": 159.15
+            },
+            {
+              "quando": "2026-08-11T07:30:00+00:00",
+              "fecho": 159.12
+            },
+            {
+              "quando": "2026-08-11T08:01:00+00:00",
+              "fecho": 159.19
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -7535,6 +7626,10 @@
             {
               "quando": "2026-08-10T07:00:00+00:00",
               "fecho": 159.36
+            },
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 159.19
             }
           ]
         },
@@ -8290,8 +8385,8 @@
               "fecho": 159.32
             },
             {
-              "quando": "2026-08-10T15:27:44+00:00",
-              "fecho": 159.36
+              "quando": "2026-08-11T08:01:00+00:00",
+              "fecho": 159.19
             }
           ]
         }
@@ -8303,6 +8398,11 @@
           "fonte": "Yahoo Finance"
         },
         {
+          "titulo": "Stock Market Today: Dow, S&P 500 and Nasdaq set for steady start as pivotal CPI report looms and oil reaches highest since July 31 - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVElkWGVUazVtbUN3YVBaYVprczgyQlBraEd3Y3h3MHg0V21QYjZXNVUwOTIwYUtRS2t1czlwQlZNbjE2cC10aTNDcTZ2VmV4elFwc2RzakNMTllJMFNtTGZjN2F4TWw0VmtVQWNHSThocUYtYk5jQUlhYk93THQ1ZHdBdGdWaVJMQVhpQm1NWFNkUmswb2t6b2N2R3Zsem8xc2tjZlpzSkxHWWwzbDlBOFJRWV9vc1RjNHRyR293?oc=5",
+          "fonte": "MarketWatch"
+        },
+        {
           "titulo": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1ZvaXJSRkhvX0htZnNIV19oUWQ0SUhzNFF1Z3AwQ2lPSnd1dFBVZVM4Z1psTkE5R21UNG9vM1dJZTQyOUZlTVF6QlRHVVVrNC14RnZMZmU2Ylc5d0ZlMllxZVU2N0hYaURnMjdzLU4xODBXTFFWNnpiODV0aWI4U0t2bGVhMXZVc0lScnNNazNjZE0wMjNPY2J4d2VzUnI2cEJDd1lFN0lQRDJFcFdWcWlKRQ?oc=5",
           "fonte": "Bloomberg.com"
@@ -8311,11 +8411,6 @@
           "titulo": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ0Q0eDN6S2MtSWdWVHNON1MwZm9LRldKWTYyczhOaFhnSXVjeTQ0N2xUdmFYSGNYYVh5c0dYbjJFVWJNenhwblpFYWJPVF9jUTZSNzlDVk4yZHprTFE3NFhyUEFDQW8yQ3l2X1NYYlUtODE2OG1kZ0lIdXRaa1RNcWFkUEVJZjVEWTFDb01Rbm9qbjIybGNTbE1oUkNjQQ?oc=5",
           "fonte": "Yahoo Finance"
-        },
-        {
-          "titulo": "JPMorgan is the latest to raise its S&P 500 target, this time to 8,000. Here's why - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM09FYzNkZHpNNElIU3MtdE9taGxNQlVUS2JoNDBBN1hlMlpZbmRNY2diVzJPbDRKek1DTi1kbzNUenc3cVVOVU1ubFdWTkQ1Z0pKVVd5NXpuUW52eHR3dXRBbzNWaGRMcVRDV2FsbWw0S2czTmJvS1ptRkM3RWxPenZaMkdEeGZRTFM5NjNKcHN3WnI5MERfT1JtVlFPXzJEdG9Td0lOZWdvMk5vdWV0dGdteGM?oc=5",
-          "fonte": "CNBC"
         }
       ],
       "comentario": "O S&P 500 com cobertura cambial negoceia quase inalterado, na expetativa de dados de inflação. Os analistas continuam otimistas com o impacto da inteligência artificial nas grandes tecnológicas americanas. Sugere-se acompanhar os dados macroeconómicos antes de novos reforços significativos."
@@ -12100,14 +12195,14 @@
       },
       "noticias": [
         {
-          "titulo": "Why today’s global bond market demands a more selective approach - Funds Europe",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSFRkRUNNcEFsbmhxTFZuVXY4SWNUdHJ1TUdqWGVFQlpkTkpfeEhER3FXdjBhai1WUk5KZTUxMVh5Q3N4NTJJWnl0MjhhMzVxVHJGR0R5N3RaU2JaUnNRM0ltU0xRaFRXXzNaMm5tUGpTcGlIOVZLUndRLU43RUJnYTJLc0ZjdEx5TnJNY1diZUtndWs?oc=5",
-          "fonte": "Funds Europe"
-        },
-        {
           "titulo": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
           "fonte": "The New York Times"
+        },
+        {
+          "titulo": "Why today’s global bond market demands a more selective approach - Funds Europe",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSFRkRUNNcEFsbmhxTFZuVXY4SWNUdHJ1TUdqWGVFQlpkTkpfeEhER3FXdjBhai1WUk5KZTUxMVh5Q3N4NTJJWnl0MjhhMzVxVHJGR0R5N3RaU2JaUnNRM0ltU0xRaFRXXzNaMm5tUGpTcGlIOVZLUndRLU43RUJnYTJLc0ZjdEx5TnJNY1diZUtndWs?oc=5",
+          "fonte": "Funds Europe"
         },
         {
           "titulo": "Goldman Sachs Converts 2 Fixed Income Funds to ETFs - ETF Database",
@@ -12128,14 +12223,67 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 107.11,
-        "fecho_anterior": 107.09,
-        "variacao_pct": 0.018675880100846035
+        "preco_atual": 107.045,
+        "fecho_anterior": 107.11,
+        "variacao_pct": -0.06068527681822213
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 107.315
+            },
+            {
+              "quando": "2026-08-11T07:05:00+00:00",
+              "fecho": 107.245
+            },
+            {
+              "quando": "2026-08-11T07:10:00+00:00",
+              "fecho": 107.28
+            },
+            {
+              "quando": "2026-08-11T07:15:00+00:00",
+              "fecho": 107.26
+            },
+            {
+              "quando": "2026-08-11T07:20:00+00:00",
+              "fecho": 107.2
+            },
+            {
+              "quando": "2026-08-11T07:25:00+00:00",
+              "fecho": 107.2
+            },
+            {
+              "quando": "2026-08-11T07:30:00+00:00",
+              "fecho": 107.185
+            },
+            {
+              "quando": "2026-08-11T07:35:00+00:00",
+              "fecho": 107.2
+            },
+            {
+              "quando": "2026-08-11T07:40:00+00:00",
+              "fecho": 107.105
+            },
+            {
+              "quando": "2026-08-11T07:45:00+00:00",
+              "fecho": 107.06
+            },
+            {
+              "quando": "2026-08-11T07:50:00+00:00",
+              "fecho": 107.04
+            },
+            {
+              "quando": "2026-08-11T07:55:00+00:00",
+              "fecho": 107.08
+            },
+            {
+              "quando": "2026-08-11T08:00:39+00:00",
+              "fecho": 107.045
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -14175,6 +14323,10 @@
             {
               "quando": "2026-08-10T07:00:00+00:00",
               "fecho": 107.11
+            },
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 107.045
             }
           ]
         },
@@ -14990,17 +15142,17 @@
               "fecho": 107.09
             },
             {
-              "quando": "2026-08-10T15:35:01+00:00",
-              "fecho": 107.11
+              "quando": "2026-08-11T08:00:39+00:00",
+              "fecho": 107.045
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Investors return to European stocks as strong earnings lift Iran war gloom - Financial Times",
+          "titulo": "Investors return to European stocks as strong earnings lift Iran war gloom - ft.com",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGJMWGE4aUhFdU91NmlrREFnMnVPa2N1WlFHaE9VdV9nU0hzQXRKZjNmM1BHRVFRYjBhdXl0X2p3cG13QUhvS0pFQXZ1VnVaYnJKWUk2NU5uZFExU3BEd00tMUphaVcwTkNKMURaUjhwMFE4Z2k5OV9VRk9PRnc1VnVMck4?oc=5",
-          "fonte": "Financial Times"
+          "fonte": "ft.com"
         },
         {
           "titulo": "3 Stocks to Sell and 3 Stocks to Buy in August - Morningstar",
@@ -15013,9 +15165,9 @@
           "fonte": "Fortune"
         },
         {
-          "titulo": "Oil jumps as Trump declares Iran ceasefire over, European stocks slide - Euronews",
+          "titulo": "Oil jumps as Trump declares Iran ceasefire over, European stocks slide - Euronews.com",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTUR6NlVSYjdCaFRfREhOZnJUVmpPQUJJUk1tOGE3N0Eya09XRXh4NUdyVm9FNUlfU0dta3I0bnRBZjBtdldJRDNPNkVfZEI0UDc4UHVNZFdEcWNSYWNSTXlXSENXNHM3M0tqak43QmFqNFFrdjItUW1TQUxWY2JzM043WEp5UU1PNVlsSjY0bHlZTm1TRHBMaGtVZFJNeC1vT0tTYmRRZlBqcUcteUsta0N6THd4bjRlNi1TMlBkYw?oc=5",
-          "fonte": "Euronews"
+          "fonte": "Euronews.com"
         }
       ],
       "comentario": "As ações europeias mostram-se estáveis após bons resultados empresariais. Com o interesse renovado dos investidores na Europa, este ETF de acumulação oferece uma exposição sólida ao continente. Sugere-se a manutenção do ativo para equilibrar o peso dos EUA na carteira."
@@ -15026,14 +15178,63 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 19.754,
-        "fecho_anterior": 19.942,
-        "variacao_pct": -0.9427339283923318
+        "preco_atual": 19.766,
+        "fecho_anterior": 19.754,
+        "variacao_pct": 0.06074719044242635
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 19.7
+            },
+            {
+              "quando": "2026-08-11T07:05:00+00:00",
+              "fecho": 19.684
+            },
+            {
+              "quando": "2026-08-11T07:10:00+00:00",
+              "fecho": 19.7
+            },
+            {
+              "quando": "2026-08-11T07:15:00+00:00",
+              "fecho": 19.672
+            },
+            {
+              "quando": "2026-08-11T07:20:00+00:00",
+              "fecho": 19.68
+            },
+            {
+              "quando": "2026-08-11T07:25:00+00:00",
+              "fecho": 19.674
+            },
+            {
+              "quando": "2026-08-11T07:30:00+00:00",
+              "fecho": 19.72
+            },
+            {
+              "quando": "2026-08-11T07:35:00+00:00",
+              "fecho": 19.75
+            },
+            {
+              "quando": "2026-08-11T07:40:00+00:00",
+              "fecho": 19.76
+            },
+            {
+              "quando": "2026-08-11T07:50:00+00:00",
+              "fecho": 19.742
+            },
+            {
+              "quando": "2026-08-11T07:55:00+00:00",
+              "fecho": 19.748
+            },
+            {
+              "quando": "2026-08-11T08:00:34+00:00",
+              "fecho": 19.766
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -17073,6 +17274,10 @@
             {
               "quando": "2026-08-10T07:00:00+00:00",
               "fecho": 19.754
+            },
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 19.766
             }
           ]
         },
@@ -18132,17 +18337,22 @@
               "fecho": 19.754
             },
             {
-              "quando": "2026-08-10T15:35:10+00:00",
-              "fecho": 19.754
+              "quando": "2026-08-11T08:00:34+00:00",
+              "fecho": 19.766
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Prediction: Micron and Taiwan Semiconductor Manufacturing Stocks Will Both Rebound to Fresh Highs Before 2026 Ends - The Motley Fool",
+          "titulo": "Prediction: Micron and Taiwan Semiconductor Manufacturing Stocks Will Both Rebound to Fresh Highs Before 2026 Ends - fool.com",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb3l2VTRfdmRrOHV2SDBPbXNtVFcyYU1jNjBwOHpVVVZnem14V3R4MXRqUWpNX2JpMjRBRGJPZjJBNERBY1dfdENmZ01hYnVFZkVidi1FUVBYOGIwbXpKdWQxTWtTVFlpX2hXZ2lPSV9FaVZ6dVJ1dFJJUHJCYWc4MDd3OW8wSU1wRUNQYy1YWG9WOHkwQjFJ?oc=5",
-          "fonte": "The Motley Fool"
+          "fonte": "fool.com"
+        },
+        {
+          "titulo": "CIO: prefer equipment makers and foundry stocks over memory names in semiconductor trades - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXhQZWpFVDFQSkNJb2dQdE9mMmIxZmRFNUM0UDhkZHN3R0RjbWh6RDd5aENIcEhDY0hqMlBjbkFLc2ZXSDBfYXdqNUJnYTZkZnJvN1p0UHFadmRZWVNDUGNveEEtcmFmdEszbEowalBlbU0zcDBVb005X1lsYlhpY1RIRWpKZzZiYzdiZGtVWGhoMDNFWTdiTlRSTTZmZ2d1VFpDRQ?oc=5",
+          "fonte": "CNBC"
         },
         {
           "titulo": "Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45% - Yahoo Finance",
@@ -18153,11 +18363,6 @@
           "titulo": "Which Stocks Will Go Up With The AI Boom? Part I: The Semiconductor Winners - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnU1VG9tN2NSSWU0WXN0Q21NMklvMkk2c1lOY2JYdjJVRTZQT056THN1WVg3cWY5a2UxVmtYX1BrRTRGR0tmWmo5THltTWRuZS02eWI1dEd4T2dJQTh6VGpZTEcyeC1MM2F6c0p5dVFXWFVGenloN2M5ZS02LXVMbUo5SDVOYzgtVzhLeXJ4T2dqZVg5b2FsRGNCVkRHUmpwUnlGaThUdUl6WV9Fa2J1Mk90d2g?oc=5",
           "fonte": "Seeking Alpha"
-        },
-        {
-          "titulo": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORDVYeTBsNm9CUFVBOVMzWWctWjBMVXJkZlpIc0FrRlRNelpER1JEZV91UmhBX3hnLVhNMHVIbFJuUmVpNnBZbUJqTnAtTFpwdXhQLWhfb0xXN1dfazhXM2gtZWRqQ1BDeGZhSC1PNEcwc3NqQ0dLMENqR0dpSlpYcnlWN0lYU01yZXY3WlNBaEZmMEh0UmJySWVRMlphY015NnkzUmhCVmxUTm9seWt3OExpaDZSS1ZzZmNyTHhOMGxjT2R6Z2xIVHJ2MF9lam1DVWlBOG01OXRESFFWaXdLakZWYTJjSlk0aGw5SnNxRU8xZm1nYUZxckZ5R0g4NDUzejRTNUZR?oc=5",
-          "fonte": "The Globe and Mail"
         }
       ],
       "comentario": "O setor de semicondutores regista a maior queda do dia, típica da sua elevada volatilidade. No entanto, o otimismo em torno da inteligência artificial e da TSMC sugere um forte potencial de recuperação. Pode ser um bom momento para ponderar reforços graduais."
@@ -18168,14 +18373,31 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 362.39,
-        "fecho_anterior": 362.16,
-        "variacao_pct": 0.06350784183785103
+        "preco_atual": 363.48,
+        "fecho_anterior": 362.39,
+        "variacao_pct": 0.30078092662601946
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 363.86
+            },
+            {
+              "quando": "2026-08-11T07:05:00+00:00",
+              "fecho": 363.79
+            },
+            {
+              "quando": "2026-08-11T07:30:00+00:00",
+              "fecho": 363.76
+            },
+            {
+              "quando": "2026-08-11T07:57:26+00:00",
+              "fecho": 363.48
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -20207,6 +20429,10 @@
             {
               "quando": "2026-08-10T07:00:00+00:00",
               "fecho": 362.39
+            },
+            {
+              "quando": "2026-08-11T07:00:00+00:00",
+              "fecho": 363.48
             }
           ]
         },
@@ -20670,8 +20896,8 @@
               "fecho": 362.16
             },
             {
-              "quando": "2026-08-10T15:35:16+00:00",
-              "fecho": 362.39
+              "quando": "2026-08-11T07:57:26+00:00",
+              "fecho": 363.48
             }
           ]
         }
