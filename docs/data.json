@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-13T11:12:45.508337+00:00",
+  "atualizado_em": "2026-08-13T12:01:48.276114+00:00",
   "analise_geral": "A carteira apresenta hoje um comportamento globalmente estavel, com valorizacoes ligeiras nos indices de acoes desenvolvidos (EUA e Europa), que beneficiam de dados de inflacao mais controlados. Em contrapartida, os semicondutores e os mercados emergentes corrigiram ligeiramente, enquanto o ouro registou uma queda mais expressiva apos maximos recentes. A carteira mantem-se bem equilibrada. Como sugestao, podera ser util rever a sua alocacao de ativos para garantir que a recente subida das acoes norte-americanas nao desequilibrou o seu perfil de risco, ponderando reforcos paulatinos nos ativos que sofreram ligeiras correcoes.",
   "analise_gerado_em": "2026-08-13T10:02:22.447521+00:00",
   "alertas_enviados": {
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 47.181,
+        "preco_atual": 47.215,
         "fecho_anterior": 47.19,
-        "variacao_pct": -0.01907183725365616
+        "variacao_pct": 0.05297732570461047
       },
       "historico": {
         "intradiario": {
@@ -209,8 +209,48 @@
               "fecho": 47.205
             },
             {
-              "quando": "2026-08-13T10:57:18+00:00",
-              "fecho": 47.181
+              "quando": "2026-08-13T10:55:00+00:00",
+              "fecho": 47.212
+            },
+            {
+              "quando": "2026-08-13T11:00:00+00:00",
+              "fecho": 47.205
+            },
+            {
+              "quando": "2026-08-13T11:05:00+00:00",
+              "fecho": 47.236
+            },
+            {
+              "quando": "2026-08-13T11:10:00+00:00",
+              "fecho": 47.221
+            },
+            {
+              "quando": "2026-08-13T11:15:00+00:00",
+              "fecho": 47.22
+            },
+            {
+              "quando": "2026-08-13T11:20:00+00:00",
+              "fecho": 47.197
+            },
+            {
+              "quando": "2026-08-13T11:25:00+00:00",
+              "fecho": 47.199
+            },
+            {
+              "quando": "2026-08-13T11:30:00+00:00",
+              "fecho": 47.18
+            },
+            {
+              "quando": "2026-08-13T11:35:00+00:00",
+              "fecho": 47.244
+            },
+            {
+              "quando": "2026-08-13T11:40:00+00:00",
+              "fecho": 47.238
+            },
+            {
+              "quando": "2026-08-13T11:42:46+00:00",
+              "fecho": 47.215
             }
           ]
         },
@@ -2231,7 +2271,7 @@
             },
             {
               "quando": "2026-08-13T07:00:00+00:00",
-              "fecho": 47.181
+              "fecho": 47.215
             }
           ]
         },
@@ -2823,17 +2863,17 @@
               "fecho": 46.649
             },
             {
-              "quando": "2026-08-13T10:57:18+00:00",
-              "fecho": 47.181
+              "quando": "2026-08-13T11:42:46+00:00",
+              "fecho": 47.215
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Emerging-Market Stock Valuations Sink Below Half of S&P 500’s - finance.yahoo.com",
+          "titulo": "Emerging-Market Stock Valuations Sink Below Half of S&P 500’s - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1MySm1TX1ZFSUNwM1NDM2ZnT0pxMHJsMjVucTBKNFpNTENDYmNpZnRzV3JfQ2lMMG51dE5pUldCMi1xTktiWTJoM00xcUxVLUlzSlpnWXJZdjJyZE9tM0pmY2NmQjFfV1pLMThqcWoyX2F4eE14SUoxN0plVEFvWTFTM3BGRHlhczVXTTZ4TUVhRF9FUVR5ZXozbXgtdWhvTnY3OU1RNnJpUjFPWWc?oc=5",
-          "fonte": "finance.yahoo.com"
+          "fonte": "Yahoo Finance"
         },
         {
           "titulo": "Korea Stock Bulls Drive Second Day of Emerging-Market Gains - Bloomberg.com",
@@ -2846,9 +2886,9 @@
           "fonte": "NerdWallet"
         },
         {
-          "titulo": "View from the markets: What’s the meaning of the emerging market tech stock sell-off? - BNP Paribas Asset Management",
+          "titulo": "View from the markets: What’s the meaning of the emerging market tech stock sell-off? - bnpparibas-am.com",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbjRiY3RDYzBZXzJTbVY5bXpVX1c4WFVtVlEyaU5XaVliQXZ4SHktdExHcEdaTVU5UjNHSml0N3FZSFAteG92bUNCdWh0SVZ0MjdlWnp6bUlHMDlzdG81OWFROE9hd1gwNjJleVc1dUhMV3h1Z3F4UXdLbE52Szdmam5wTnhtTkVEQVNzS3BObHROX0VTMTNaaThfbXkzNzl4NDdkRVZKUTRST0JDbkpBdE1CcEkyNE1zdWNwN0VFU201RDFlMjdSUHpB?oc=5",
-          "fonte": "BNP Paribas Asset Management"
+          "fonte": "bnpparibas-am.com"
         }
       ],
       "comentario": "Com uma ligeira descida de 0.08%, as avaliacoes dos mercados emergentes estao historicamente atrativas face aos EUA. Sugere-se paciencia, pois este ativo oferece excelente potencial de crescimento a longo prazo, embora com maior volatilidade associada."
@@ -2894,6 +2934,10 @@
             {
               "quando": "2026-08-13T10:25:00+00:00",
               "fecho": 121.42
+            },
+            {
+              "quando": "2026-08-13T10:40:00+00:00",
+              "fecho": 121.46
             },
             {
               "quando": "2026-08-13T10:42:29+00:00",
@@ -5713,9 +5757,9 @@
           "fonte": "Indra Group"
         },
         {
-          "titulo": "The Best Index Funds for 2026 - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CT3VYLUNKQzhYb05rbGtqNTBESnNhSFFuWV8tdTZaQXpXMzZPbjUxSXI1VUVVejFsbmV4RDA2ZkhyT2VnVGQwMnNBNTQ2ZDJuakdiSUpGRmVoOFhlcWMw?oc=5",
-          "fonte": "Morningstar"
+          "titulo": "MSCI Cuts Sembcorp, GoTo, Ayala Land From Global Benchmarks in Quarterly Review - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PZElzRTBvX1JRWkhZdVVDZl83V0ZvbUpCeEwyNTFYRG91WmRyRzBzY1A3bmtSVGNVZDJzcGVPNUtUSE9QNjczNENkbTBoLUhIQWJ3UG5nanhJM2E0bTR2VE9CUjg1OVNEY1FpOE9vSFZ2S2hYdXc?oc=5",
+          "fonte": "finance.biggo.com"
         }
       ],
       "comentario": "Subiu 0.18% hoje. Este ETF global com cobertura cambial protege contra as flutuacoes do euro e continua a ser uma excelente escolha para a base de qualquer carteira. Sugere-se manter a estrategia de reforcos periodicos para acumular patrimonio."
@@ -5726,9 +5770,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 159.46,
+        "preco_atual": 159.43,
         "fecho_anterior": 159.01,
-        "variacao_pct": 0.2830010691151607
+        "variacao_pct": 0.26413433117415
       },
       "historico": {
         "intradiario": {
@@ -5771,8 +5815,8 @@
               "fecho": 159.46
             },
             {
-              "quando": "2026-08-13T10:22:22+00:00",
-              "fecho": 159.46
+              "quando": "2026-08-13T11:42:14+00:00",
+              "fecho": 159.43
             }
           ]
         },
@@ -7809,7 +7853,7 @@
             },
             {
               "quando": "2026-08-13T07:00:00+00:00",
-              "fecho": 159.46
+              "fecho": 159.43
             }
           ]
         },
@@ -8565,31 +8609,31 @@
               "fecho": 159.0
             },
             {
-              "quando": "2026-08-13T10:22:22+00:00",
-              "fecho": 159.46
+              "quando": "2026-08-13T11:42:14+00:00",
+              "fecho": 159.43
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Stock market today: S&P 500, Nasdaq edge higher on cooler inflation data, strong earnings - finance.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXdvN0h0Nzd4NDdvWmZUVE1mVFloNkUtQ3BXWno1TzJmanYtREZ5cGhLSTJ2T2xHVjQ4VG1sb0VZS2gyZkdEZW45WlZGb1RHWUZ0N2NCeS1Ka0g2MDFuSlVBREJWY1lSWWJaR2J0U3Zva3lld1ktd1NjVjZiZjl4MFZ1M0Zqd25fZEFUMElPSU1iaVkyQ19fdnJlcW5aSk9nOVRfNEp5VjVaOGxDel81aUFfNWdxMmtsRG9hbDBR?oc=5",
-          "fonte": "finance.yahoo.com"
+          "titulo": "Stock Market Today: S&P 500, Nasdaq rise as tech stocks rally, while Dow dips; Treasury yields erase declines after inflation data; oil slips - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTW1jSXNES0p2V0I4TGxhVTQ3ZWFJM29maTBQejFSTU9sT0xKQ2syaklWd2g1Rmxmb3hqcWotOUs1dmZ1b3kzLV9hN2ZJRmVyU1BaQ0RUM1lud1ctVFBlZWgzRGVXU1B0MGFVZEJsRTQ0ZVpNVTB6Sk1nZUVRZV95RTBOVWJEYy01UnZjV0YtbEVoS3FGSndVTl92NEZrZ3RqR0tNc294WmtPUEJPWEZzYTd4UUJFejVnNExpLVZmNHhfY2s5eTJHeVRDd3VGZw?oc=5",
+          "fonte": "MarketWatch"
         },
         {
-          "titulo": "S&P 500 Earnings Season Update: August 7, 2026 - FactSet Insight",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByR0E0WUVvNEJYVThHamFLZlZEYUoxaklVNGk2eGlPOV9NbGl3Z2xiUXhiWWtEbnlUd3JBWGxGdTJ4dzVHTHFja2ltSkRzYTNON1E3VWNCUG1hNlBfbVhPYS1yMEJLTzJLMFZ5cmh4c1JKV2Q0NmdjQWpOMNIBiwFBVV95cUxNcXFFUjRWU2ZncDF0a2FGVi1ZZE9nUllkQ053UTlUbXp3ZWJFYTVBdW9qNXhOMmQ4dkd6YWZUVi1lZ0VGTlRUbUxDQzdjX3hpQ3lGS0xsM0dJeG9qTDhvdFFKSHJadG5qdzEtVG95U2FqN2h1ekFYX0ktZ255YzlfNnFBVnktenRWZ2VZ?oc=5",
-          "fonte": "FactSet Insight"
+          "titulo": "S&P 500 posts back-to-back losses, weighed down by tech sell-off and Iran uncertainty - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VmlwRjZlNm9iOXNSRXMtN2ZFN3ozMFYyd3RmX0lBa0NvbHVscFNFWURwMzNOejVPMGlRejgtamhCNzF2WF9UTTBxdGhMV2tkZDc2bGtvRWVNSDRjOUtzNnFMS0laRzlLMTI1eGpId1ViU1JNXzRB0gF8QVVfeXFMTlhUUHFmWm9NbFBpS2M5SW14N0FfUzBac3FBYldQWS12NEFra3BpZ1p3dVRYaWZmQ2lndW1Fdzk4dWlJaC1BYmpfN3dnUThEUTJUMVgwVjZicmZGTThZcGVJZWpsemp5bEs5SUlGUHZHSVI0Ylh0ZlkzcFE1bQ?oc=5",
+          "fonte": "CNBC"
         },
         {
-          "titulo": "S&P 500 Earnings Are So Good Investors Are Starting to Worry - finance.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnAzM3p4TjFRTUdzaXVwdmdFZExYQmtmS2JuQnhuT0cwaS1ZUVEyRXVrOFJJZEdyQXlrRGlpUlVFeERac3R6WGNTOHBWTzViMGVWNlRWbHFCSHk3ekxTaFpKbnNubDA2RzJ1QVNLWHNLclBteU1zNVFIMVBUdXlybEJ5SGI2NVhZNTBlVl9aNTlsN3ZZVElTTFRn?oc=5",
-          "fonte": "finance.yahoo.com"
+          "titulo": "Stock market today: Dow, S&P 500, Nasdaq trending higher on rate hike bets, earnings - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSl9Ib3p2bm0tU2hLdU5HUnhlcm9mTXo5dFlvUzh3SDBiV2h0dkpHNWFWRDZXVExlaFNoM1VlWWdPLWZfSVJWQ2ZkMHg2dGY2U0hneURRbVF2bE9wN0xWR29Nc3pjY1ZFaXBtV1dYa0w3dHIzX1EtV0p2QVJtSGcyd2pacEtRd2xjODg4NXhvdGJ3cnowai0wd1Y4dktpdjVEcEp0cUlZamNCcUFTR0NEMFp3bnR2Ni1ZTXNZZE1kbFJ6Q1BVUUZDX1BmQnNWdw?oc=5",
+          "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Super Micro Stock Surges as Earnings Smash Expectations and Revive AI Hope - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNXp6ejc3MVlDc2VWNXZSSVVHZy1mUVItX3pJRlhreFdfZWlPOHg3czlZNDJRTTlOUWVQUW5SWlQyWUFuNkgzUVhZcUNvOWFtX05WeG54aHo1NDREVzZsVDlqMERWNFQyMUR2RHN0bzBhZzI3UFkxNGM4dVlUZ0xCWVN5SE9scDdIZGRR?oc=5",
+          "titulo": "S&P 500 Futures Climb in Premarket Trading; Cerebras Systems, Andersen Group Lag - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzZVaE5FZkJoaEx0bHV1b00wV080cElnMjdIT0hxNUpZeF9GVFBkekJENnpmZlZMeEJQbnE5TGFkX2JJcFFWRmxLdXNqaWE5azNGMUVCbzFnQXQtcnZkRFZQTkQ4WGhnM2N4YXJCUTRCd19sTk9obW42UElxZHhjakMzU0Q1MjRWVVpuYURCQzZDZE5BWXFTVklza282akhNOUwta2hkQzh4TzZGNk1VRW84cVpqSTF3Q3VGNQ?oc=5",
           "fonte": "Barron's"
         }
       ],
@@ -12383,9 +12427,9 @@
       },
       "noticias": [
         {
-          "titulo": "Musical chairs in fixed income - bny.com",
+          "titulo": "Musical chairs in fixed income - BNY",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0hqUnFmbERvS2xRczkxbHpsRWp3Qy1pTXpPZUxkVkFla3ctQWtaZ1Q1dmZxVGdJWFdnNkJLSUd5Yjk2RW83VWlJUFUzVUtQUHlhX09LcjQ2N2V2QV9TeWpuUkNFLUV0MjdmejhZaWF4TnpiNkc3eFpLaVEyX08yLVZ4dzBmNDNvWk1obDhKc1NsUVZ5SkttR2xqdEVGTXgzU0xzbXJhMkJuRl8wcFlTWXBCMkx2UXZnRGc?oc=5",
-          "fonte": "bny.com"
+          "fonte": "BNY"
         },
         {
           "titulo": "The Yen Bailout Won’t Fix Japan’s Bond Problem - City Journal",
@@ -12393,14 +12437,14 @@
           "fonte": "City Journal"
         },
         {
-          "titulo": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk?oc=5",
-          "fonte": "Barron's"
-        },
-        {
           "titulo": "Columbia Threadneedle bolsters fixed income range with fund launch - Portfolio Adviser",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWVybjhVQkdxdXdzT1liS0k2WGFlSm9XUS1qbXFsMkZCTmQ0V2xnWGdON2g4RHRfMkxYczg3TVM1QkJqcVRLT2UtNDZZczlpQm1ZNndOUk1CZFJ4S0VucXRUaGdKTU81RHFmdUxKSHF1S2xDY1FScHpzb3JtUFRrVzU1Y3lMYW9IMWFYTDM1SlFwaWVaYU02R0NuMFk5UQ?oc=5",
           "fonte": "Portfolio Adviser"
+        },
+        {
+          "titulo": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk?oc=5",
+          "fonte": "Barron's"
         }
       ],
       "comentario": "Manteve-se estavel a 0.00%. Este fundo de rendimento fixo e ideal para reduzir a volatilidade global da carteira e assegurar alguma estabilidade. Sugere-se a sua manutencao como componente defensiva do seu portfolio."
@@ -12411,9 +12455,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 107.36,
+        "preco_atual": 107.24,
         "fecho_anterior": 107.0,
-        "variacao_pct": 0.3364485981308406
+        "variacao_pct": 0.22429906542055597
       },
       "historico": {
         "intradiario": {
@@ -12584,8 +12628,28 @@
               "fecho": 107.385
             },
             {
-              "quando": "2026-08-13T10:55:12+00:00",
+              "quando": "2026-08-13T10:55:00+00:00",
+              "fecho": 107.37
+            },
+            {
+              "quando": "2026-08-13T11:00:00+00:00",
               "fecho": 107.36
+            },
+            {
+              "quando": "2026-08-13T11:15:00+00:00",
+              "fecho": 107.32
+            },
+            {
+              "quando": "2026-08-13T11:20:00+00:00",
+              "fecho": 107.285
+            },
+            {
+              "quando": "2026-08-13T11:30:00+00:00",
+              "fecho": 107.25
+            },
+            {
+              "quando": "2026-08-13T11:37:49+00:00",
+              "fecho": 107.24
             }
           ]
         },
@@ -14630,7 +14694,7 @@
             },
             {
               "quando": "2026-08-13T07:00:00+00:00",
-              "fecho": 107.36
+              "fecho": 107.24
             }
           ]
         },
@@ -15446,17 +15510,17 @@
               "fecho": 107.145
             },
             {
-              "quando": "2026-08-13T10:55:12+00:00",
-              "fecho": 107.36
+              "quando": "2026-08-13T11:37:49+00:00",
+              "fecho": 107.24
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "European stocks ease from record highs as investors weigh earnings, Middle East risks - reuters.com",
+          "titulo": "European stocks ease from record highs as investors weigh earnings, Middle East risks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEJrelVuLWNvQVpMQ0FHVXF0aE9vZTZqcklqQUNLSHpCOGxiQkl3Tko1UVJZTHpnVUhUQ0R6RTNWc08yMXRrb2tMNUI1MWpFby1qM1RUWVllYU9NT0x6MzFzQk1tY0U2Q0lCcGhrNUVRYjJtdDVEbVFObndDeFBiVDdmTXdsQW5FV09uRl9aSzFzWVMtVTdkQkFWMFZPdjBzdk1pWA?oc=5",
-          "fonte": "reuters.com"
+          "fonte": "Reuters"
         },
         {
           "titulo": "Europe’s hot stock markets are creating a buzz among investors - Fortune",
@@ -15482,9 +15546,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 20.42,
+        "preco_atual": 20.415,
         "fecho_anterior": 20.445,
-        "variacao_pct": -0.12227928588896346
+        "variacao_pct": -0.14673514306677005
       },
       "historico": {
         "intradiario": {
@@ -15623,8 +15687,32 @@
               "fecho": 20.425
             },
             {
-              "quando": "2026-08-13T10:56:05+00:00",
+              "quando": "2026-08-13T11:00:00+00:00",
+              "fecho": 20.43
+            },
+            {
+              "quando": "2026-08-13T11:05:00+00:00",
+              "fecho": 20.43
+            },
+            {
+              "quando": "2026-08-13T11:20:00+00:00",
+              "fecho": 20.41
+            },
+            {
+              "quando": "2026-08-13T11:30:00+00:00",
+              "fecho": 20.39
+            },
+            {
+              "quando": "2026-08-13T11:35:00+00:00",
               "fecho": 20.42
+            },
+            {
+              "quando": "2026-08-13T11:40:00+00:00",
+              "fecho": 20.415
+            },
+            {
+              "quando": "2026-08-13T11:43:09+00:00",
+              "fecho": 20.415
             }
           ]
         },
@@ -17669,7 +17757,7 @@
             },
             {
               "quando": "2026-08-13T07:00:00+00:00",
-              "fecho": 20.42
+              "fecho": 20.415
             }
           ]
         },
@@ -18729,8 +18817,8 @@
               "fecho": 19.788
             },
             {
-              "quando": "2026-08-13T10:56:05+00:00",
-              "fecho": 20.42
+              "quando": "2026-08-13T11:43:09+00:00",
+              "fecho": 20.415
             }
           ]
         }
@@ -18742,9 +18830,9 @@
           "fonte": "thestreet.com"
         },
         {
-          "titulo": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday - finance.yahoo.com",
+          "titulo": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWhhX0RWS1FaOFlYYjEzS2RpSFktTW5VanFCSVcycGoyLUctSnhuZk56ZmVkNXh2VkYyRVp5dGFfX1BScmNNZ1dqbFBENlY5WUhPVTAzRVlfbU04NTdnR2FxOGQ3ajJzS29wUFBraUplZTlfdUppakZqNDdFOVM5d1JiLV9pZmRCcnpwX3RfYjZkaTNXdnZTX1hlNDlIZzA?oc=5",
-          "fonte": "finance.yahoo.com"
+          "fonte": "Yahoo Finance"
         },
         {
           "titulo": "Wednesday, August 12, 2026: Cramer says this semiconductor giant’s stock has a very good chance of breaking out - CNBC",
@@ -18852,6 +18940,10 @@
             {
               "quando": "2026-08-13T10:35:00+00:00",
               "fecho": 365.94
+            },
+            {
+              "quando": "2026-08-13T10:45:00+00:00",
+              "fecho": 366.08
             },
             {
               "quando": "2026-08-13T10:48:56+00:00",
@@ -21374,14 +21466,14 @@
           "fonte": "KITCO"
         },
         {
-          "titulo": "Gold prices today, Tuesday, August 11, 2026: Gold remains over $4,400 as Iran situation worsens - finance.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSEp1N05EdG5JZUZLTTZSaUwyUWwydUZHZHFRXzJtSVBNMThkZlVpa195c3pIdUNnSVBxYmRWbnBpYjdUTjJZdzdUck9lZ3Y1Vk51V3FQQjQxNDBuUDcyOXpFUVFmdVp5VWQ0NnFrZEtDZHdZYnZYRXZmTW9FMG5kNnRVSGdGOGVQUS1iSVlYdUJ3UDE2R21nUUxNVEtLU2lUTVdGbHF2V21uM0dya0paLV9FeGZ3M1VEaEFMVWNULVVDSDR2SUpaZWR1TUVwcm9CUXVOazI5MEhpV3pmQW1yZEVtRTNWQUtUUDRBbTI2dEJCempYS0NySQ?oc=5",
-          "fonte": "finance.yahoo.com"
+          "titulo": "Gold slips from over two-month peak as investors cash in on rally - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWRyNnFQd2twNlNReDRyTy1GMGJWTktnY1RhMWY2SXZXRTluaDQ5TW8tdi11YTJ1VEppaUVwWTdyZkNUMGZMQXdIdG1Bdm9uQnNFOUNMY0UyREk2NU45UzF0SDlXcjNrWmswYldOZ3dKUzg2YUZaTjJZYm5lNldFTlFXcmJnVl94VGdfRnlEbElyRG1SZE9ERG5NRVNicUdJOXhNNDdLbTNEbzVTOFNpSWI0OUM4dw?oc=5",
+          "fonte": "Reuters"
         },
         {
-          "titulo": "Gold slips from over two-month peak as investors cash in on rally - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWRyNnFQd2twNlNReDRyTy1GMGJWTktnY1RhMWY2SXZXRTluaDQ5TW8tdi11YTJ1VEppaUVwWTdyZkNUMGZMQXdIdG1Bdm9uQnNFOUNMY0UyREk2NU45UzF0SDlXcjNrWmswYldOZ3dKUzg2YUZaTjJZYm5lNldFTlFXcmJnVl94VGdfRnlEbElyRG1SZE9ERG5NRVNicUdJOXhNNDdLbTNEbzVTOFNpSWI0OUM4dw?oc=5",
-          "fonte": "reuters.com"
+          "titulo": "Gold Retains Wealth Management Allure - Family Wealth Report",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUngxQ3RVNU03MEwzaXJMcEVxQTdDUkhmMWVvUGdDbHdDalkyUVpibTJ3U2s5amx6ZmVWSFNheTdCODV5WjFOX3o5UUVaX3dickdSU1ktRE1ES3VLcVB4RGZndFRZVGZGNjROb1daS2hoUUZNb2h3dVpaSVltSHFGQlFSNS1rNHBHTnRCQlFMMA?oc=5",
+          "fonte": "Family Wealth Report"
         }
       ],
       "comentario": "Queda de 0.84% hoje, com investidores a realizarem lucros apos os picos recentes do ouro. O metal precioso continua a ser um excelente escudo contra a inflacao e crises geopoliticas. Sugere-se manter uma pequena percentagem como protecao."
