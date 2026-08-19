@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-19T13:41:41.686245+00:00",
+  "atualizado_em": "2026-08-19T14:30:33.081561+00:00",
   "analise_geral": "Hoje, a carteira apresenta um comportamento globalmente neutro, com ligeiras variações na maioria dos ativos. Destacam-se os mercados emergentes (IS3N.DE) e os semicondutores (SEMI.AS) com ligeiros ganhos, enquanto os índices globais e norte-americanos (IWDE.AS, IUES.AS) e as obrigações (PIMCO) recuam ligeiramente. A subida dos rendimentos das obrigações americanas continua a pressionar a renda fixa, enquanto o ouro (SGLD.AS) mantém uma postura de estabilidade com perspetivas de valorização futuras. Sugere-se manter a estratégia de diversificação atual. Pode ser uma boa altura para avaliar se o peso de obrigações e ouro na carteira está alinhado com o seu perfil de risco, sem necessidade de reações impulsivas às flutuações diárias.",
   "analise_gerado_em": "2026-08-19T10:59:13.208005+00:00",
   "alertas_enviados": {
@@ -7,7 +7,7 @@
     "IWDE.AS": "2026-07-13",
     "IUES.AS": "2026-07-13",
     "SEMI.AS": "2026-08-19",
-    "SGLD.AS": "2026-08-10"
+    "SGLD.AS": "2026-08-19"
   },
   "ativos": [
     {
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 46.866,
+        "preco_atual": 46.401,
         "fecho_anterior": 46.385,
-        "variacao_pct": 1.0369731594265423
+        "variacao_pct": 0.034493909669085575
       },
       "historico": {
         "intradiario": {
@@ -330,11 +330,47 @@
             },
             {
               "quando": "2026-08-19T13:25:00+00:00",
-              "fecho": 46.877
+              "fecho": 46.85
             },
             {
-              "quando": "2026-08-19T13:26:20+00:00",
-              "fecho": 46.866
+              "quando": "2026-08-19T13:30:00+00:00",
+              "fecho": 46.764
+            },
+            {
+              "quando": "2026-08-19T13:35:00+00:00",
+              "fecho": 46.65
+            },
+            {
+              "quando": "2026-08-19T13:40:00+00:00",
+              "fecho": 46.741
+            },
+            {
+              "quando": "2026-08-19T13:45:00+00:00",
+              "fecho": 46.56
+            },
+            {
+              "quando": "2026-08-19T13:50:00+00:00",
+              "fecho": 46.499
+            },
+            {
+              "quando": "2026-08-19T13:55:00+00:00",
+              "fecho": 46.57
+            },
+            {
+              "quando": "2026-08-19T14:00:00+00:00",
+              "fecho": 46.49
+            },
+            {
+              "quando": "2026-08-19T14:05:00+00:00",
+              "fecho": 46.45
+            },
+            {
+              "quando": "2026-08-19T14:10:00+00:00",
+              "fecho": 46.38
+            },
+            {
+              "quando": "2026-08-19T14:12:49+00:00",
+              "fecho": 46.401
             }
           ]
         },
@@ -2355,7 +2391,7 @@
             },
             {
               "quando": "2026-08-19T07:00:00+00:00",
-              "fecho": 46.866
+              "fecho": 46.401
             }
           ]
         },
@@ -2947,17 +2983,17 @@
               "fecho": 47.988
             },
             {
-              "quando": "2026-08-19T13:26:20+00:00",
-              "fecho": 46.866
+              "quando": "2026-08-19T14:12:49+00:00",
+              "fecho": 46.401
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Emerging markets march out of 'valley of tears' as investors diversify - reuters.com",
+          "titulo": "Emerging markets march out of 'valley of tears' as investors diversify - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5",
-          "fonte": "reuters.com"
+          "fonte": "Reuters"
         },
         {
           "titulo": "Is State Street SPDR S&P Emerging Markets Dividend ETF (EDIV) a Strong ETF Right Now? - Yahoo Finance",
@@ -2983,9 +3019,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 120.08,
+        "preco_atual": 120.26,
         "fecho_anterior": 120.2,
-        "variacao_pct": -0.09983361064892224
+        "variacao_pct": 0.04991680532446112
       },
       "historico": {
         "intradiario": {
@@ -3044,8 +3080,12 @@
               "fecho": 120.08
             },
             {
-              "quando": "2026-08-19T12:03:35+00:00",
-              "fecho": 120.08
+              "quando": "2026-08-19T13:35:00+00:00",
+              "fecho": 120.36
+            },
+            {
+              "quando": "2026-08-19T14:11:10+00:00",
+              "fecho": 120.26
             }
           ]
         },
@@ -5082,7 +5122,7 @@
             },
             {
               "quando": "2026-08-19T07:00:00+00:00",
-              "fecho": 120.08
+              "fecho": 120.26
             }
           ]
         },
@@ -5838,17 +5878,17 @@
               "fecho": 121.34
             },
             {
-              "quando": "2026-08-19T12:03:35+00:00",
-              "fecho": 120.08
+              "quando": "2026-08-19T14:11:10+00:00",
+              "fecho": 120.26
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Four Indian stocks to be added, three removed from key global index in MSCI's August rejig - reuters.com",
+          "titulo": "Four Indian stocks to be added, three removed from key global index in MSCI's August rejig - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTFWTFJwY1ZVako1SFlqamo5S0V5RHp5SGZ2SnJXbUZkSVczeXM2Z0psbDB1NHZBcXY1UjRWV2p5SUZzdGE2NVNzM3d0ZEUyZUE5aDNIZG4ycjVKSFBiSTdMb2JwUk1SNHhUTE51bXhZLXlwNXZnLVVOTEZKMUt1eTM2M0ZHM25OVlpQbzE4NWstamN0bHZxOTdwdVB3NTYyMTI3VHlaRVUzd1ozTjNTcXU0NkNIeGh6T1E2ZW5SZll0Z1E?oc=5",
-          "fonte": "reuters.com"
+          "fonte": "Reuters"
         },
         {
           "titulo": "Indra Group joins the prestigious MSCI world index for the first time thanks to its stock market performance - Indra Group",
@@ -5874,9 +5914,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 158.64,
+        "preco_atual": 158.3,
         "fecho_anterior": 158.02,
-        "variacao_pct": 0.39235539805086456
+        "variacao_pct": 0.17719276041007537
       },
       "historico": {
         "intradiario": {
@@ -5959,8 +5999,28 @@
               "fecho": 158.42
             },
             {
-              "quando": "2026-08-19T13:21:16+00:00",
+              "quando": "2026-08-19T13:20:00+00:00",
               "fecho": 158.64
+            },
+            {
+              "quando": "2026-08-19T13:35:00+00:00",
+              "fecho": 158.34
+            },
+            {
+              "quando": "2026-08-19T13:40:00+00:00",
+              "fecho": 158.38
+            },
+            {
+              "quando": "2026-08-19T13:45:00+00:00",
+              "fecho": 158.34
+            },
+            {
+              "quando": "2026-08-19T14:00:00+00:00",
+              "fecho": 158.39
+            },
+            {
+              "quando": "2026-08-19T14:14:04+00:00",
+              "fecho": 158.3
             }
           ]
         },
@@ -7997,7 +8057,7 @@
             },
             {
               "quando": "2026-08-19T07:00:00+00:00",
-              "fecho": 158.64
+              "fecho": 158.3
             }
           ]
         },
@@ -8753,8 +8813,8 @@
               "fecho": 159.56
             },
             {
-              "quando": "2026-08-19T13:21:16+00:00",
-              "fecho": 158.64
+              "quando": "2026-08-19T14:14:04+00:00",
+              "fecho": 158.3
             }
           ]
         }
@@ -8766,19 +8826,19 @@
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Stock market calm hides the churn underneath - Axios",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSTd6Vm95Y0RBOGxfLUhlT01QRWx2bktpS2h2eFF4WFY5ZmNCU1JXeWtJcFB4aGtCMXlucVJSQVVlQlF4M0x5RjMwazdpSC1BYm9xTDdULUJOenRmd1lpNHVMY0FFUEFib3E0Zndqbw?oc=5",
-          "fonte": "Axios"
+          "titulo": "15 S&P 500 stocks are up 100% or more this year — here's what they have in common - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX01iei1kdndPOEJ5SlJ0VDJsN2pOeFNjNFJlQS1GY3pJMjZSR1dqTV9ESXhDUTFSTjB4NS1vbUtadXk3WjdxOWFNSEpaN2gyQkVmeEFIZjFleGR6elNURlZWcURYNFhuMUJKQnN5RTdaM3lobWxkYzhYRkhXdzhSbHlEUi13VzBTeHZzQ2w0Ymo1T0xPSmVybjR3N2lZUlUxZmw2TkpHZlRMU01vbDNZUmEwbjlPNTFMRVNPMEczRENlY3dZWDRXdm1DVnZzcWM?oc=5",
+          "fonte": "Yahoo Finance"
+        },
+        {
+          "titulo": "The Best S&P 500 ETFs to Buy Now - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Lemd0eVpFNWFrcnZFMEhBQ0tnUEJCMEE3VURmby1lNmVxTVpJZ0pCZUx3S1pNWS0zMTEwd0xUQ1JRY0tOMF94VkZTazhUaGtjSE9TN1FBZm5QeTliN2Y5c09hYVNfaVByYlFMYzVLeGpyLW5U?oc=5",
+          "fonte": "Morningstar"
         },
         {
           "titulo": "NVIDIA, Oracle valuations cheaper than S&P 500 despite massive growth, Adam Johnson says - Fox Business",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fRTFNeWVNRlZsRUtWYmZtQlJDR2dUTVdzWmdlR2Vtc3FZNWVYTjM3MUdta0ZOMVFELVlVZC0xdGhMZUVmbVE3U2plcEN6TDUwMUlBNV83SzVZYXM?oc=5",
           "fonte": "Fox Business"
-        },
-        {
-          "titulo": "Kalshi files for stock index perpetuals in challenge to traditional exchanges - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1Z5dF9JeldqYkdfMk8xRWJMTGtXVUFwX05qVW9paEJKRWJtRzdZdF9OemprbFRXc1ROc1M1V1NhaTE3Ujk5OTc0ZlBVd1o4aVNEVHZUU3dCRVNuVUlQcWJaNmM3RTRhUVE2N1NLMHFEc1hzZ3dKN0FIZGxGWE15Y05sMWN2LXdLckpQR3FUM2NpR1BDUzhTMlVGUTVpX1ZoTFpZY3V1aU56LWEycVRxa2FyeUU?oc=5",
-          "fonte": "reuters.com"
         }
       ],
       "comentario": "Com uma ligeira queda de 0,04%, o S&P 500 reflete a cautela do mercado antes da divulgação da ata da Fed. A cobertura cambial protege do risco cambial do dólar. Sugere-se manter o investimento regular (DCA), aproveitando a estabilidade histórica das grandes empresas americanas."
@@ -12575,9 +12635,9 @@
       },
       "noticias": [
         {
-          "titulo": "Treasury announces upscaled buyback operation for longer-term debt, sending yields lower - cnbc.com",
+          "titulo": "Treasury announces upscaled buyback operation for longer-term debt, sending yields lower - CNBC",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz?oc=5",
-          "fonte": "cnbc.com"
+          "fonte": "CNBC"
         },
         {
           "titulo": "Bonds Are Getting Hammered, and Wall Street Says the Rout Won’t End Anytime Soon - wsj.com",
@@ -12585,9 +12645,9 @@
           "fonte": "wsj.com"
         },
         {
-          "titulo": "Japan bond yields near 3% as inflation, fiscal worries mount - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVliSFc4NzVQTGlyM0ZZbzR6dWQyUWV2RWpfR3JCYmxzZDlnRW1zM2czNnZhd3RHVC1TdW9FQ25WZko0MlFpeExLMWZHYTdwcl96ZzFydlY3T3duWDNGZDhiR1VhRHExTndrYWlSNUVSX0xodjluUk1aOThRYmlBTkg5X0ZBcE13ckpxMWVDSkFsdWVvdEFiM3ZSSHpkbFduaXBheUx4SEtaNWl1Ujc4?oc=5",
-          "fonte": "reuters.com"
+          "titulo": "Alphabet raises $3.9 billion in inaugural Australian dollar bond - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWowTDhsUGNUOXVDQ1Q0STlaemFrQ2tRQUFsUVo0Z3VaYURVQnV3U1VhUV9oTmthdm9PM2xFaUhzRlhGQ2JyNGJYMjVIX1FrT0Z5R0RjXzhsWUVSMXRGWGg4eHd5VlhRQjUtTS1id0YzTXhpdE9GN2hCVHFVQi0wNkFsd3NBUFEyc0pyRVBZcnB1OTZBQ0RDdlpQSzk3NHVTdHRRVjB4T1FpeVJ0ODBQbjZn?oc=5",
+          "fonte": "Reuters"
         },
         {
           "titulo": "Why Treasury Yields Are Surging—and What It Means for Your Money - Investopedia",
@@ -12603,9 +12663,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 106.01,
+        "preco_atual": 105.865,
         "fecho_anterior": 105.935,
-        "variacao_pct": 0.07079813092934616
+        "variacao_pct": -0.06607825553406087
       },
       "historico": {
         "intradiario": {
@@ -12876,8 +12936,48 @@
               "fecho": 105.98
             },
             {
-              "quando": "2026-08-19T13:20:46+00:00",
+              "quando": "2026-08-19T13:20:00+00:00",
               "fecho": 106.01
+            },
+            {
+              "quando": "2026-08-19T13:25:00+00:00",
+              "fecho": 105.96
+            },
+            {
+              "quando": "2026-08-19T13:30:00+00:00",
+              "fecho": 105.93
+            },
+            {
+              "quando": "2026-08-19T13:35:00+00:00",
+              "fecho": 105.95
+            },
+            {
+              "quando": "2026-08-19T13:40:00+00:00",
+              "fecho": 105.97
+            },
+            {
+              "quando": "2026-08-19T13:45:00+00:00",
+              "fecho": 105.91
+            },
+            {
+              "quando": "2026-08-19T13:50:00+00:00",
+              "fecho": 105.88
+            },
+            {
+              "quando": "2026-08-19T13:55:00+00:00",
+              "fecho": 105.925
+            },
+            {
+              "quando": "2026-08-19T14:05:00+00:00",
+              "fecho": 105.915
+            },
+            {
+              "quando": "2026-08-19T14:10:00+00:00",
+              "fecho": 105.885
+            },
+            {
+              "quando": "2026-08-19T14:14:57+00:00",
+              "fecho": 105.865
             }
           ]
         },
@@ -14922,7 +15022,7 @@
             },
             {
               "quando": "2026-08-19T07:00:00+00:00",
-              "fecho": 106.01
+              "fecho": 105.865
             }
           ]
         },
@@ -15738,8 +15838,8 @@
               "fecho": 106.665
             },
             {
-              "quando": "2026-08-19T13:20:46+00:00",
-              "fecho": 106.01
+              "quando": "2026-08-19T14:14:57+00:00",
+              "fecho": 105.865
             }
           ]
         }
@@ -15751,14 +15851,14 @@
           "fonte": "Morningstar"
         },
         {
-          "titulo": "European shares edge lower as luxury stocks weigh; US-Iran tensions linger - reuters.com",
+          "titulo": "European shares edge lower as luxury stocks weigh; US-Iran tensions linger - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPenJsTEhGekYtakl1UXZLOWwzQmh3V0l1MlpBN2xJQV8tVVZnb2YyYkd1a1UyZjdsUzRZN0dQUklnNWxacklqakUwYWlPZHRrS3FsSkg5eF9DU2FSVG9yWG1XX2kxRkNtRVdwbUJDZWlCbGFvT29SUWpXYjUxSFF4dEpMZDZ2MzRBSFlUMk5OT04tNzc3bU1OSGl4bDZ3V0pHVzhqNndvWThfekthSGc?oc=5",
-          "fonte": "reuters.com"
+          "fonte": "Reuters"
         },
         {
-          "titulo": "EU stock markets at a standstill amid sell-offs in tech shares and anticipation of the Fed’s decision. In Milan, the focus is on the banking crisis; the MPS board meeting is tomorrow - Il Sole 24 ORE",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjB6VldYX21mLWtTSUxxT2t2Vk1Bdklrbm14eGlodEQweVhWZWhCM3B2ejFqbUttdXRhNVhrZ29zdkVfX1JEZ2E1ZXpMNHZUcDZmR2ZFZjRVSy1aZFp2WkRJZzJmZGRYQTdLXzlSNU5BZUNtVld6QjQ0bHo0X0RtRkJWUVlIUFVaTF92R0oyb0ZjNHMwREJrY3BtSlphU0ZnOV9paXNZRXI?oc=5",
-          "fonte": "Il Sole 24 ORE"
+          "titulo": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs - coindesk.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcGlqRTZuQnhuNVZxWGUzTC1UQTktX3gxS1RPVzRsOFhIV0lLUU5RRWpsc05ib0NUa2F0RFMzNFk4ZXMzbXBTd09RVUVpN0dtbjg0VXBVTklSc3ZtcGpKUG10S25wVVBJRC1KSjZDcGNHUDJlbXJSR0E4cmpoQXJvOHdqaVhDRTl1WkI2aWdFdmxCQjB1QmFPU3hVMFA5TS10cXczbWNWY0hhZw?oc=5",
+          "fonte": "coindesk.com"
         },
         {
           "titulo": "Europe’s Consolidated Stock Market Tape Could Invigorate Trading and Boost Investment - Goldman Sachs",
@@ -15774,9 +15874,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 20.085,
+        "preco_atual": 19.338,
         "fecho_anterior": 19.746,
-        "variacao_pct": 1.7168034032209167
+        "variacao_pct": -2.0662412640534678
       },
       "historico": {
         "intradiario": {
@@ -16059,8 +16159,52 @@
               "fecho": 20.1
             },
             {
-              "quando": "2026-08-19T13:18:41+00:00",
+              "quando": "2026-08-19T13:15:00+00:00",
               "fecho": 20.085
+            },
+            {
+              "quando": "2026-08-19T13:25:00+00:00",
+              "fecho": 20.03
+            },
+            {
+              "quando": "2026-08-19T13:30:00+00:00",
+              "fecho": 19.98
+            },
+            {
+              "quando": "2026-08-19T13:35:00+00:00",
+              "fecho": 19.736
+            },
+            {
+              "quando": "2026-08-19T13:40:00+00:00",
+              "fecho": 19.768
+            },
+            {
+              "quando": "2026-08-19T13:45:00+00:00",
+              "fecho": 19.574
+            },
+            {
+              "quando": "2026-08-19T13:50:00+00:00",
+              "fecho": 19.478
+            },
+            {
+              "quando": "2026-08-19T13:55:00+00:00",
+              "fecho": 19.534
+            },
+            {
+              "quando": "2026-08-19T14:00:00+00:00",
+              "fecho": 19.516
+            },
+            {
+              "quando": "2026-08-19T14:05:00+00:00",
+              "fecho": 19.46
+            },
+            {
+              "quando": "2026-08-19T14:10:00+00:00",
+              "fecho": 19.342
+            },
+            {
+              "quando": "2026-08-19T14:15:12+00:00",
+              "fecho": 19.354
             }
           ]
         },
@@ -18105,7 +18249,7 @@
             },
             {
               "quando": "2026-08-19T07:00:00+00:00",
-              "fecho": 20.085
+              "fecho": 19.354
             }
           ]
         },
@@ -19169,17 +19313,17 @@
               "fecho": 21.1
             },
             {
-              "quando": "2026-08-19T13:18:41+00:00",
-              "fecho": 20.085
+              "quando": "2026-08-19T14:15:12+00:00",
+              "fecho": 19.354
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Why Micron Stock and Its Memory Peers Are Falling - barrons.com",
+          "titulo": "Why Micron Stock and Its Memory Peers Are Falling - Barron's",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlZXdXFYWHIxWGgyeFNaU2ROU01lRFloRnFFRUNMZm5MN3dCN0prS3lwd2NLazdwUThLcGpaT0taT0lrRmQ2aHFtdXBySzF2OExoemNBM1psaGlFdnJaODMzejlzdllMbXJrSDVwYVJlY3pUWldyM0NJVXIxLTZTTDRZY0ZsQ3V5UVNvRktR?oc=5",
-          "fonte": "barrons.com"
+          "fonte": "Barron's"
         },
         {
           "titulo": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026 - Yahoo Finance",
@@ -19205,9 +19349,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 368.66,
+        "preco_atual": 369.13,
         "fecho_anterior": 361.86,
-        "variacao_pct": 1.8791797932902259
+        "variacao_pct": 2.0090642790029243
       },
       "historico": {
         "intradiario": {
@@ -19330,8 +19474,36 @@
               "fecho": 368.11
             },
             {
-              "quando": "2026-08-19T13:19:07+00:00",
+              "quando": "2026-08-19T13:15:00+00:00",
               "fecho": 368.66
+            },
+            {
+              "quando": "2026-08-19T13:25:00+00:00",
+              "fecho": 368.15
+            },
+            {
+              "quando": "2026-08-19T13:30:00+00:00",
+              "fecho": 368.39
+            },
+            {
+              "quando": "2026-08-19T13:35:00+00:00",
+              "fecho": 367.77
+            },
+            {
+              "quando": "2026-08-19T13:45:00+00:00",
+              "fecho": 367.53
+            },
+            {
+              "quando": "2026-08-19T13:50:00+00:00",
+              "fecho": 367.57
+            },
+            {
+              "quando": "2026-08-19T14:05:00+00:00",
+              "fecho": 368.38
+            },
+            {
+              "quando": "2026-08-19T14:10:18+00:00",
+              "fecho": 369.13
             }
           ]
         },
@@ -21368,7 +21540,7 @@
             },
             {
               "quando": "2026-08-19T07:00:00+00:00",
-              "fecho": 368.66
+              "fecho": 369.13
             }
           ]
         },
@@ -21832,8 +22004,8 @@
               "fecho": 367.28
             },
             {
-              "quando": "2026-08-19T13:19:07+00:00",
-              "fecho": 368.66
+              "quando": "2026-08-19T14:10:18+00:00",
+              "fecho": 369.13
             }
           ]
         }
@@ -21845,9 +22017,9 @@
           "fonte": "thestreet.com"
         },
         {
-          "titulo": "Current price of gold as of August 17, 2026 - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OdGFOMnV1ODJDM0dEbzhqSHYxVEQ3dG1TbHBUWjVxS0hYR3FKV3EwQW9xbzNRLU9Jbm5hakFKdDhkemczeEozWkozR2EzcmdHTGRzVzh5MVFqelpFUEMtalY1eEJxWkg3RUtsX1N3?oc=5",
-          "fonte": "Fortune"
+          "titulo": "Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORnlValFZWW94aVA2SXQ2ajBrVzRlVlJ2SzhqWFdfZ0I3QXB0Y2NXTUd2ZGg2VVJ6ZmxON1l3bkRIeHF6UGVtWlJEYnRhOHB6aUpWWS1Ib0JQNE1qcXRLazBHR1o0MFlEWXVJV24tcGkyVU9pUWw3WjNHSTdUNDFoNERpaGxSMnk2eXpPS0phYzl0ald1eUZwUHZnMGVidzJYSWhEMGhPWkFiME5JZTZOUDJXaXp5dndqN04wWjJRRUsxcVVXQVRNdV9ucXZGYkxXTHZWOHljVE5wMWZ3Z2l6dFRRVE5DZ2pDWjZIQzYtMmp5NEE?oc=5",
+          "fonte": "Yahoo Finance"
         },
         {
           "titulo": "Gold Price Today on August 19, 2026 - USA Today",
