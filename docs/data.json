@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-19T10:59:13.208050+00:00",
+  "atualizado_em": "2026-08-19T11:32:33.052888+00:00",
   "analise_geral": "Hoje, a carteira apresenta um comportamento globalmente neutro, com ligeiras variações na maioria dos ativos. Destacam-se os mercados emergentes (IS3N.DE) e os semicondutores (SEMI.AS) com ligeiros ganhos, enquanto os índices globais e norte-americanos (IWDE.AS, IUES.AS) e as obrigações (PIMCO) recuam ligeiramente. A subida dos rendimentos das obrigações americanas continua a pressionar a renda fixa, enquanto o ouro (SGLD.AS) mantém uma postura de estabilidade com perspetivas de valorização futuras. Sugere-se manter a estratégia de diversificação atual. Pode ser uma boa altura para avaliar se o peso de obrigações e ouro na carteira está alinhado com o seu perfil de risco, sem necessidade de reações impulsivas às flutuações diárias.",
   "analise_gerado_em": "2026-08-19T10:59:13.208005+00:00",
   "alertas_enviados": {
@@ -198,10 +198,38 @@
             },
             {
               "quando": "2026-08-19T10:40:00+00:00",
-              "fecho": 46.518
+              "fecho": 46.491
             },
             {
-              "quando": "2026-08-19T10:43:31+00:00",
+              "quando": "2026-08-19T10:45:00+00:00",
+              "fecho": 46.51
+            },
+            {
+              "quando": "2026-08-19T10:50:00+00:00",
+              "fecho": 46.503
+            },
+            {
+              "quando": "2026-08-19T10:55:00+00:00",
+              "fecho": 46.49
+            },
+            {
+              "quando": "2026-08-19T11:00:00+00:00",
+              "fecho": 46.539
+            },
+            {
+              "quando": "2026-08-19T11:05:00+00:00",
+              "fecho": 46.58
+            },
+            {
+              "quando": "2026-08-19T11:10:00+00:00",
+              "fecho": 46.525
+            },
+            {
+              "quando": "2026-08-19T11:15:00+00:00",
+              "fecho": 46.525
+            },
+            {
+              "quando": "2026-08-19T11:17:25+00:00",
               "fecho": 46.51
             }
           ]
@@ -2815,7 +2843,7 @@
               "fecho": 47.988
             },
             {
-              "quando": "2026-08-19T10:43:31+00:00",
+              "quando": "2026-08-19T11:17:25+00:00",
               "fecho": 46.51
             }
           ]
@@ -2851,9 +2879,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 120.1,
+        "preco_atual": 120.12,
         "fecho_anterior": 120.2,
-        "variacao_pct": -0.08319467554077248
+        "variacao_pct": -0.0665557404326109
       },
       "historico": {
         "intradiario": {
@@ -2896,8 +2924,16 @@
               "fecho": 120.06
             },
             {
-              "quando": "2026-08-19T10:43:25+00:00",
+              "quando": "2026-08-19T10:40:00+00:00",
               "fecho": 120.1
+            },
+            {
+              "quando": "2026-08-19T10:50:00+00:00",
+              "fecho": 120.08
+            },
+            {
+              "quando": "2026-08-19T11:10:00+00:00",
+              "fecho": 120.12
             }
           ]
         },
@@ -4934,7 +4970,7 @@
             },
             {
               "quando": "2026-08-19T07:00:00+00:00",
-              "fecho": 120.1
+              "fecho": 120.12
             }
           ]
         },
@@ -5690,8 +5726,8 @@
               "fecho": 121.34
             },
             {
-              "quando": "2026-08-19T10:43:25+00:00",
-              "fecho": 120.1
+              "quando": "2026-08-19T11:10:00+00:00",
+              "fecho": 120.12
             }
           ]
         }
@@ -5726,9 +5762,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 157.95,
+        "preco_atual": 158.0,
         "fecho_anterior": 158.02,
-        "variacao_pct": -0.04429819010253234
+        "variacao_pct": -0.012656625743583236
       },
       "historico": {
         "intradiario": {
@@ -5779,8 +5815,16 @@
               "fecho": 157.92
             },
             {
-              "quando": "2026-08-19T10:37:40+00:00",
+              "quando": "2026-08-19T10:35:00+00:00",
               "fecho": 157.95
+            },
+            {
+              "quando": "2026-08-19T10:40:00+00:00",
+              "fecho": 157.97
+            },
+            {
+              "quando": "2026-08-19T11:01:06+00:00",
+              "fecho": 158.0
             }
           ]
         },
@@ -7817,7 +7861,7 @@
             },
             {
               "quando": "2026-08-19T07:00:00+00:00",
-              "fecho": 157.95
+              "fecho": 158.0
             }
           ]
         },
@@ -8573,32 +8617,32 @@
               "fecho": 159.56
             },
             {
-              "quando": "2026-08-19T10:37:40+00:00",
-              "fecho": 157.95
+              "quando": "2026-08-19T11:01:06+00:00",
+              "fecho": 158.0
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Stock futures are little changed after S&P 500 posts third straight losing day: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52WVUwei1VUlFvc0FwU3lkWlBjY2lHYlNOei1RSnktZVRxQmpYWlFRN25yNS12NE96QlpuM2ZOUWpseURQV0JIcFVHZDRiYjJSb2tTSkJ3Vk5UNEpuNTJLRkFfcEZaZUluNVRXWXFFVHBvUDhSallz0gF8QVVfeXFMTnJZcUR5RmdKSDBwYlQyeXdhN2V6NFJYTVhHMVhZNzBxZFNkeFZ4OWZuMUZKLW83VWtXcWh6MVZpMHNjamVEbThLYzB4SzRIN2E2Ym5Ua2JOMU5vb2x2Y2hYSklqWi0tX210RS1neHZGbnRBY1ZqcHRVblhMTg?oc=5",
-          "fonte": "CNBC"
+          "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures stall after Trump pauses tariffs on Canada - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVBqOWZXQ2JNMDRyeVF1bnRvU2RRaUFKTk1rbnlKMHBpSi1hc01GZThfS2ozcVJDbDBzVGo3d1B1NWVSbmM3RkhLRU9OOG9QMHM3ZW1CSlJjSjFCb3FfYWRUNjctM09LMFpKSEhXX2hZWF9nUHphMVR3OUVoOWV6SDRueUF1dnFaY0ttWklOSFdZZ19hYmxyRFlXZHRRcGhNYl9lMF81QTBlX2tGaU9N?oc=5",
+          "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Stock Market Today: Global Bonds Stabilize After Selloff, Dow Futures Muted - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYUV6eHp3ak9nQS1lelJ4bUNGcXhzb3dFZHIza09ycS0yWmpROHE1T21kTWN3SEJ2dzNQUHMzOVhBTk84TXkwRjgtZmVScTJLekltN3BsVTQzNEtSS2NudzRoQXlUNFFweS1lR1IyVkhrVHJHYmdpZWppMzQyell3SnFZYU5vdmM?oc=5",
-          "fonte": "WSJ"
+          "titulo": "Stock market calm hides the churn underneath - Axios",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSTd6Vm95Y0RBOGxfLUhlT01QRWx2bktpS2h2eFF4WFY5ZmNCU1JXeWtJcFB4aGtCMXlucVJSQVVlQlF4M0x5RjMwazdpSC1BYm9xTDdULUJOenRmd1lpNHVMY0FFUEFib3E0Zndqbw?oc=5",
+          "fonte": "Axios"
         },
         {
-          "titulo": "Stock Market Today: Dow, S&P 500 and Nasdaq set for cautious start as bond market selloff wanes; Fed minutes and Target results on tap - marketwatch.com",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWkFWeEtpMW5EaGV0bUhkMTFBSS0zX00yWVE0X0QydWxMOWNYaGREN1BVN2trMzVsUl9nTkJucE1zR096aW1jWjR5bk9zcTRIZ0t0VG10bzJIeFlSR1ROY0xMNkY3LU5iaWZFdUxnV0diOEZBYzMtVzlJazdjdGJOLUhieTltTEg4TzJVdWNoZE0yRENmTUNrUWdCZm0wejVSaG5DVUlOc215bGV6a3A2dklwa2lHNVNLdkJVLTNnWXRPMmRyX2x5eXB4NHE?oc=5",
-          "fonte": "marketwatch.com"
+          "titulo": "Kalshi files for stock index perpetuals in challenge to traditional exchanges - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1Z5dF9JeldqYkdfMk8xRWJMTGtXVUFwX05qVW9paEJKRWJtRzdZdF9OemprbFRXc1ROc1M1V1NhaTE3Ujk5OTc0ZlBVd1o4aVNEVHZUU3dCRVNuVUlQcWJaNmM3RTRhUVE2N1NLMHFEc1hzZ3dKN0FIZGxGWE15Y05sMWN2LXdLckpQR3FUM2NpR1BDUzhTMlVGUTVpX1ZoTFpZY3V1aU56LWEycVRxa2FyeUU?oc=5",
+          "fonte": "Reuters"
         },
         {
-          "titulo": "Dow Set to Open Up Ahead of Fed Minutes - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JWVloNGwwRXdraXVyY0tMRGZuZFRWSzFDWUp5Y2VVMHFLREUyaWxCdEk2b01wWWViM3g2V194LVhLV3hRanduM1R1SS1iVXJTRUJCRE1Gb2ljb28tQTdGWXhoVmhLRzdmZ0JIdUlxeDUwZk9aSHc?oc=5",
-          "fonte": "Barron's"
+          "titulo": "11 S&P 500 Stocks Soar To Record Highs In The Blink Of An Eye - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOFdTZjlJWkVCWHRjVFktWHJ2alhDQ2tYWmpNQ0U4eHIzMVVnaDAyeEhEYVR6a1Z5aG5ranU1MXFkQ1hvbF8wM0VwcENQaTZqMG5faW1nYzd0MUl5SlU3TXk3Z3U5RWZpY2JQYy1Cd0ZDR0xwODRScTRnQjJkSlZ3bkxGTEFEay1pYk5raURaUnN1Z1FHYjA4VzU4dzBFTVc3Smk4SDRTS285QQ?oc=5",
+          "fonte": "Investor's Business Daily"
         }
       ],
       "comentario": "Com uma ligeira queda de 0,04%, o S&P 500 reflete a cautela do mercado antes da divulgação da ata da Fed. A cobertura cambial protege do risco cambial do dólar. Sugere-se manter o investimento regular (DCA), aproveitando a estabilidade histórica das grandes empresas americanas."
@@ -12423,9 +12467,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 105.87,
+        "preco_atual": 105.91,
         "fecho_anterior": 105.935,
-        "variacao_pct": -0.061358380138762186
+        "variacao_pct": -0.023599376976453187
       },
       "historico": {
         "intradiario": {
@@ -12588,8 +12632,32 @@
               "fecho": 105.84
             },
             {
-              "quando": "2026-08-19T10:30:29+00:00",
+              "quando": "2026-08-19T10:30:00+00:00",
               "fecho": 105.87
+            },
+            {
+              "quando": "2026-08-19T10:40:00+00:00",
+              "fecho": 105.85
+            },
+            {
+              "quando": "2026-08-19T10:50:00+00:00",
+              "fecho": 105.845
+            },
+            {
+              "quando": "2026-08-19T10:55:00+00:00",
+              "fecho": 105.87
+            },
+            {
+              "quando": "2026-08-19T11:00:00+00:00",
+              "fecho": 105.96
+            },
+            {
+              "quando": "2026-08-19T11:05:00+00:00",
+              "fecho": 105.98
+            },
+            {
+              "quando": "2026-08-19T11:10:35+00:00",
+              "fecho": 105.91
             }
           ]
         },
@@ -14634,7 +14702,7 @@
             },
             {
               "quando": "2026-08-19T07:00:00+00:00",
-              "fecho": 105.87
+              "fecho": 105.91
             }
           ]
         },
@@ -15450,8 +15518,8 @@
               "fecho": 106.665
             },
             {
-              "quando": "2026-08-19T10:30:29+00:00",
-              "fecho": 105.87
+              "quando": "2026-08-19T11:10:35+00:00",
+              "fecho": 105.91
             }
           ]
         }
@@ -15486,9 +15554,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 19.792,
+        "preco_atual": 19.82,
         "fecho_anterior": 19.746,
-        "variacao_pct": 0.2329585738883973
+        "variacao_pct": 0.37475944495088437
       },
       "historico": {
         "intradiario": {
@@ -15548,7 +15616,7 @@
             },
             {
               "quando": "2026-08-19T08:15:00+00:00",
-              "fecho": 19.94
+              "fecho": 19.936
             },
             {
               "quando": "2026-08-19T08:20:00+00:00",
@@ -15655,8 +15723,36 @@
               "fecho": 19.794
             },
             {
-              "quando": "2026-08-19T10:43:30+00:00",
+              "quando": "2026-08-19T10:40:00+00:00",
               "fecho": 19.792
+            },
+            {
+              "quando": "2026-08-19T10:45:00+00:00",
+              "fecho": 19.784
+            },
+            {
+              "quando": "2026-08-19T10:50:00+00:00",
+              "fecho": 19.772
+            },
+            {
+              "quando": "2026-08-19T10:55:00+00:00",
+              "fecho": 19.746
+            },
+            {
+              "quando": "2026-08-19T11:00:00+00:00",
+              "fecho": 19.836
+            },
+            {
+              "quando": "2026-08-19T11:05:00+00:00",
+              "fecho": 19.856
+            },
+            {
+              "quando": "2026-08-19T11:10:00+00:00",
+              "fecho": 19.836
+            },
+            {
+              "quando": "2026-08-19T11:15:31+00:00",
+              "fecho": 19.82
             }
           ]
         },
@@ -17701,7 +17797,7 @@
             },
             {
               "quando": "2026-08-19T07:00:00+00:00",
-              "fecho": 19.792
+              "fecho": 19.82
             }
           ]
         },
@@ -18765,8 +18861,8 @@
               "fecho": 21.1
             },
             {
-              "quando": "2026-08-19T10:43:30+00:00",
-              "fecho": 19.792
+              "quando": "2026-08-19T11:15:31+00:00",
+              "fecho": 19.82
             }
           ]
         }
@@ -18783,14 +18879,14 @@
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Japanese Stocks Extend Losses Amid Selloff in Semiconductor; Oil Gains - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3ZEa3pqbV9nZXViX2l6NnNSMXREdzZrUGY4UEhoOHpXUlpRcVBxYWxzSUZ6MU9kTml1cUJoak5ZRHpyYV9feUJzcU1iMWJCSDF0YVF6ZjJrUzNnb3BIQVFHSWRNUGJ5dFFYSHRQM1JINnlhNGF5RTRITlRXaTFMLWliTTFZbDFVZ0lFcDF0UEZHOWtSOHMwbzU3blM1SHR1RjUwR1lMVGo3M1hBYnF4QQ?oc=5",
-          "fonte": "Moomoo"
+          "titulo": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026 - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1JQNVZZYlJmdHZNUjh6NGVkNXNaY081ZGZRZWgtYk05bEVmXzZOWHpheUJwbnZXMFRWTEpRVzRzTlZldWhha0xSUHBVNW9rSVAtbDFsWnJYNzB6NXlVSFp3YVJNSzlQWklzd3d4YmgtWkRta2ZENzRNRWVhc3JaTjhvcWdSOXd3R1hYQjl1WXhueHBjUE15Qg?oc=5",
+          "fonte": "The Motley Fool"
         },
         {
-          "titulo": "U.S. and South Korean semiconductor-related stocks weighed on the market, pushing prices below the 66,000 yen level. - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ01Gd3ZxQ2ZFX09nRkRVejAtSkVUel9iYTc2cFA0YUJkRWVZMGktS1lmeGx1aWtkWUcyOEdyQVZxYnJlTmttbFVadzhCR2lKQ0FzdS1PZnlJOEJEMW42SXllcWhVUkxNcjZXekoyZXYxZlpUYlFTUXA5VnhYcjVUU1o1SExUcE9Pa0JXX3FLZ2ZRU2JfdktTOEh3aU84dC1BTDlBaUdVeGs?oc=5",
-          "fonte": "Moomoo"
+          "titulo": "Semiconductor Stocks Face Renewed Selling Pressure as Credit Stress Returns - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUNMVHhjVEtZNjBXMVhBalgtN1NMYm9YQTNfeXhqbklDYnVHTFRRVTZaVVNlYWluMWhnMmhYMjBtMTRmOTlvVnhJVFlTYmEzV3pXc1p4NW1SamV2V3ZRdXNWN1V4WkVTQUVmUmlXemJ0enVJQ1F3YlhOSG04SWVtZVdBYzhiMjRycG04ZFlPSkY3WUIzZGp5SnUyYnRYOUlBN1ZlZmJJRzRBMzVIMndZV1JOMEpfNFk0bGc3Qg?oc=5",
+          "fonte": "Investing.com"
         }
       ],
       "comentario": "O setor de semicondutores recuperou hoje (+0,23%), apesar da recente pressão de venda na Ásia e nos EUA. Sendo um setor altamente tecnológico e cíclico, apresenta maior volatilidade. Sugere-se avaliar se a sua exposição a este nicho está adequada ao seu perfil de risco."
@@ -18801,9 +18897,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 361.91,
+        "preco_atual": 362.0,
         "fecho_anterior": 361.86,
-        "variacao_pct": 0.013817498480078308
+        "variacao_pct": 0.03868899574420669
       },
       "historico": {
         "intradiario": {
@@ -18878,8 +18974,20 @@
               "fecho": 361.29
             },
             {
-              "quando": "2026-08-19T10:35:59+00:00",
+              "quando": "2026-08-19T10:35:00+00:00",
               "fecho": 361.91
+            },
+            {
+              "quando": "2026-08-19T10:45:00+00:00",
+              "fecho": 361.91
+            },
+            {
+              "quando": "2026-08-19T10:50:00+00:00",
+              "fecho": 362.0
+            },
+            {
+              "quando": "2026-08-19T10:50:13+00:00",
+              "fecho": 362.0
             }
           ]
         },
@@ -20916,7 +21024,7 @@
             },
             {
               "quando": "2026-08-19T07:00:00+00:00",
-              "fecho": 361.91
+              "fecho": 362.0
             }
           ]
         },
@@ -21380,8 +21488,8 @@
               "fecho": 367.28
             },
             {
-              "quando": "2026-08-19T10:35:59+00:00",
-              "fecho": 361.91
+              "quando": "2026-08-19T10:50:13+00:00",
+              "fecho": 362.0
             }
           ]
         }
@@ -21403,9 +21511,9 @@
           "fonte": "KITCO"
         },
         {
-          "titulo": "Why Is Gold’s Price So Wild in 2026? Experts Reveal the Shocking Truth - futura-sciences.com",
+          "titulo": "Why Is Gold’s Price So Wild in 2026? Experts Reveal the Shocking Truth - Futura, le média qui explore le monde",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWEdjYU9hSnp2RURaaWQ5VjJOVzdiNTJZWjN0SWFyaUlZLUlHQkNKeHd0cDZtbjlLOEhqdDRXVmZlXzFZODlyTm9aZkFXRXF2LVFsVVBUazEtd1NNTm9fNHVhaWJWbWU4OEtvSEg5aGlNVm1Ia00xT2RZeWhNNXVZYnM5NWcyZm41dmxiRFJsbm9rdm4zbHNoS19Cd1NuSmxIV2YzWjJlX1hIelVTbURv?oc=5",
-          "fonte": "futura-sciences.com"
+          "fonte": "Futura, le média qui explore le monde"
         }
       ],
       "comentario": "O ouro manteve-se estável (+0,01%). Com previsões otimistas de analistas para os metais preciosos em 2026, o ouro continua a funcionar como um excelente refúgio e diversificador. Sugere-se manter este ativo como proteção contra a inflação e a instabilidade geopolítica."
