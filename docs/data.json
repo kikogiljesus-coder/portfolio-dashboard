@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-08-20T07:09:45.441162+00:00",
-  "analise_geral": "No geral, a carteira apresenta hoje um desempenho globalmente positivo, impulsionada pela excelente performance do ouro (SGLD.AS, +2,22%), que atua como refúgio face a movimentações nas obrigações norte-americanas. Os mercados acionistas globais e emergentes registam ganhos moderados, enquanto o setor tecnológico de semicondutores (SEMI.AS, -0,95%) sofre alguma correção técnica devido à rotação de ativos. As ações europeias mantêm-se quase inalteradas. Sugere-se acompanhar com calma esta rotação setorial sem impulsos. Se o peso do ouro tiver subido além do planeado, poderá fazer sentido ponderar um reequilíbrio futuro para os ativos que desvalorizaram, mantendo a diversificação a longo prazo.",
-  "analise_gerado_em": "2026-08-20T03:27:20.689268+00:00",
+  "atualizado_em": "2026-08-20T07:59:38.881468+00:00",
+  "analise_geral": "A carteira apresenta hoje um comportamento misto e equilibrado, sem grandes oscilações. Os mercados emergentes e o setor de semicondutores lideram as ligeiras subidas, enquanto as ações globais e norte-americanas com cobertura cambial registam pequenas correções. O ouro e as obrigações mantêm-se estáveis, servindo como bons amortecedores. Para um investidor não profissional, este cenário sugere a manutenção da estratégia de longo prazo. Pode ser uma boa oportunidade para reforçar passivamente os ativos que corrigiram ligeiramente, mantendo a diversificação intacta e sem necessidade de reações precipitadas face à volatilidade diária.",
+  "analise_gerado_em": "2026-08-20T07:59:38.881420+00:00",
   "alertas_enviados": {
     "IS3N.DE": "2026-08-19",
     "IWDE.AS": "2026-07-13",
@@ -16,14 +16,55 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 46.534,
+        "preco_atual": 46.76,
         "fecho_anterior": 46.534,
-        "variacao_pct": 0.0
+        "variacao_pct": 0.4856663944642608
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 46.805
+            },
+            {
+              "quando": "2026-08-20T07:05:00+00:00",
+              "fecho": 46.837
+            },
+            {
+              "quando": "2026-08-20T07:10:00+00:00",
+              "fecho": 46.804
+            },
+            {
+              "quando": "2026-08-20T07:15:00+00:00",
+              "fecho": 46.81
+            },
+            {
+              "quando": "2026-08-20T07:20:00+00:00",
+              "fecho": 46.8
+            },
+            {
+              "quando": "2026-08-20T07:25:00+00:00",
+              "fecho": 46.778
+            },
+            {
+              "quando": "2026-08-20T07:30:00+00:00",
+              "fecho": 46.74
+            },
+            {
+              "quando": "2026-08-20T07:35:00+00:00",
+              "fecho": 46.758
+            },
+            {
+              "quando": "2026-08-20T07:40:00+00:00",
+              "fecho": 46.77
+            },
+            {
+              "quando": "2026-08-20T07:42:08+00:00",
+              "fecho": 46.76
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -2039,6 +2080,10 @@
             {
               "quando": "2026-08-18T07:00:00+00:00",
               "fecho": 46.385
+            },
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 46.76
             }
           ]
         },
@@ -2630,22 +2675,22 @@
               "fecho": 46.385
             },
             {
-              "quando": "2026-08-19T15:36:06+00:00",
-              "fecho": 46.534
+              "quando": "2026-08-20T07:42:08+00:00",
+              "fecho": 46.76
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Emerging markets march out of 'valley of tears' as investors diversify - reuters.com",
+          "titulo": "Emerging markets march out of 'valley of tears' as investors diversify - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5",
-          "fonte": "reuters.com"
+          "fonte": "Reuters"
         },
         {
-          "titulo": "VEA vs VXUS: Does a Vanguard Developed Markets or Emerging Markets ETF Provide Better Growth Prospects?ure? - The Motley Fool",
+          "titulo": "VEA vs VXUS: Does a Vanguard Developed Markets or Emerging Markets ETF Provide Better Growth Prospects?ure? - fool.com",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORDJ4N0NHejducndwTHdvTl9CRTJrdG9TQ200QUxydG9maWpqVVRjRmljdlRDbXVSZ3pzYk1GMUVNMl9wTEFsdzVXWW5CX2tVOUV3dndSM2hrRFpGVFoyYjAxakt2b19tR2JmaWUtWXVROFZGOFM0MFF0MEdNaC1Hd0oxRXdvMHFLal9CVm5LRGZ4UEhZd1l4Zy1mLW9ka0pUT3kwWkJQVDNXM0VGSWJBLWFVMmplLUxTT3lORS1YV2xhX25PWncwZFVxWnF4cDZRUExuYWtsNmlNbG96SWRZNUF0R3NnbmM?oc=5",
-          "fonte": "The Motley Fool"
+          "fonte": "fool.com"
         },
         {
           "titulo": "Is State Street SPDR S&P Emerging Markets Dividend ETF (EDIV) a Strong ETF Right Now? - Yahoo Finance",
@@ -2658,7 +2703,7 @@
           "fonte": "NerdWallet"
         }
       ],
-      "comentario": "Com uma ligeira subida de 0,32%, os mercados emergentes continuam a sua rotação positiva à medida que os investidores procuram diversificar. Pode ser uma boa opção manter a posição para capturar o potencial de crescimento a longo prazo destas economias em recuperação."
+      "comentario": "Com uma ligeira subida de 0,49%, os mercados emergentes mostram resiliência à medida que os investidores procuram diversificar. Sugere-se acompanhar a evolução, pois continua a ser uma excelente ferramenta de diversificação geográfica a baixo custo para o seu portfólio."
     },
     {
       "ticker": "IWDE.AS",
@@ -2666,14 +2711,23 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 120.44,
-        "fecho_anterior": 120.2,
-        "variacao_pct": 0.19966722129783268
+        "preco_atual": 120.28,
+        "fecho_anterior": 120.44,
+        "variacao_pct": -0.13284623048820707
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 120.28
+            },
+            {
+              "quando": "2026-08-20T07:04:12+00:00",
+              "fecho": 120.28
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -4705,6 +4759,10 @@
             {
               "quando": "2026-08-18T07:00:00+00:00",
               "fecho": 120.2
+            },
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 120.28
             }
           ]
         },
@@ -5460,22 +5518,22 @@
               "fecho": 120.2
             },
             {
-              "quando": "2026-08-19T15:15:15+00:00",
-              "fecho": 120.44
+              "quando": "2026-08-20T07:04:12+00:00",
+              "fecho": 120.28
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "The 3 Best Global Index Funds - Investopedia",
+          "titulo": "The 3 Best Global Index Funds - investopedia.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXlOX3FoaU9KamNKYXpiQy1jTm5kRm51Y1VULXAtazlrU204WW1ZQVlWdkI0aEtUS1l4THpNVmQwbkUxSUt6WW9SOGpPSTQwNndrbEZvbzBHazJSd1dXV1JCVmhxSVFZMnN0VzVCQnE3YkdOM1pnWmdEUFpzMkw1T0pjLW0tUFU0eHRMYkxXQTVaMEdtYmVLV2NxajNVLUE?oc=5",
-          "fonte": "Investopedia"
+          "fonte": "investopedia.com"
         },
         {
-          "titulo": "Four Indian stocks to be added, three removed from key global index in MSCI's August rejig - reuters.com",
+          "titulo": "Four Indian stocks to be added, three removed from key global index in MSCI's August rejig - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTFWTFJwY1ZVako1SFlqamo5S0V5RHp5SGZ2SnJXbUZkSVczeXM2Z0psbDB1NHZBcXY1UjRWV2p5SUZzdGE2NVNzM3d0ZEUyZUE5aDNIZG4ycjVKSFBiSTdMb2JwUk1SNHhUTE51bXhZLXlwNXZnLVVOTEZKMUt1eTM2M0ZHM25OVlpQbzE4NWstamN0bHZxOTdwdVB3NTYyMTI3VHlaRVUzd1ozTjNTcXU0NkNIeGh6T1E2ZW5SZll0Z1E?oc=5",
-          "fonte": "reuters.com"
+          "fonte": "Reuters"
         },
         {
           "titulo": "Indra Group joins the prestigious MSCI world index for the first time thanks to its stock market performance - Indra Group",
@@ -5488,7 +5546,7 @@
           "fonte": "Focus Taiwan"
         }
       ],
-      "comentario": "Este fundo global com cobertura cambial subiu 0,20%. É a base ideal de diversificação geográfica mundial. As alterações recentes no índice MSCI reforçam a relevância de manter este ativo para assegurar estabilidade na carteira face às oscilações das moedas."
+      "comentario": "Teve uma queda marginal de 0,13%. Sendo um fundo global com cobertura cambial, protege o seu investimento contra oscilações do euro. As alterações recentes no índice MSCI mostram a dinâmica constante dos mercados. Sugere-se manter a posição para exposição global simplificada."
     },
     {
       "ticker": "IUES.AS",
@@ -5496,14 +5554,23 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 158.65,
-        "fecho_anterior": 158.02,
-        "variacao_pct": 0.39868371092266514
+        "preco_atual": 158.42,
+        "fecho_anterior": 158.65,
+        "variacao_pct": -0.14497321147180472
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 158.42
+            },
+            {
+              "quando": "2026-08-20T07:04:05+00:00",
+              "fecho": 158.42
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -7535,6 +7602,10 @@
             {
               "quando": "2026-08-18T07:00:00+00:00",
               "fecho": 158.02
+            },
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 158.42
             }
           ]
         },
@@ -8290,8 +8361,8 @@
               "fecho": 158.02
             },
             {
-              "quando": "2026-08-19T15:16:27+00:00",
-              "fecho": 158.65
+              "quando": "2026-08-20T07:04:05+00:00",
+              "fecho": 158.42
             }
           ]
         }
@@ -8303,22 +8374,22 @@
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Tech Futures Rise After Biotechs Soar, These Sectors Lag - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSDk0WFZEcFZJOE9PeU9sR2s3R3A0VGFMdk9RbkI1d0U3RTlDUlU1bnJpTzdxZVJMSGtpYjBndFJvVkx4MXZHT0pNZWlBMlBjNHo2czlrN3ZVTEozTVgyeXd6SWxraHN5bnRiRGdMQlh6NzFqaFlJRnQ2MG16elZOVXV5bnpzVGtHNkUwS1dUUXI1c1MyOXhiT3BzWEZPN2lNUEc1NnhxNlhtMmkxRVpxYmYzTVVsTFRwS2NHM3F5M0ZhNmRoU3h1VHVDUlJJd0hicU9QOHpoc0ZTdw?oc=5",
-          "fonte": "Investor's Business Daily"
-        },
-        {
-          "titulo": "S&P 500 snaps 3-day losing streak as extraordinary Treasury action provides some rate relief - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52WVUwei1VUlFvc0FwU3lkWlBjY2lHYlNOei1RSnktZVRxQmpYWlFRN25yNS12NE96QlpuM2ZOUWpseURQV0JIcFVHZDRiYjJSb2tTSkJ3Vk5UNEpuNTJLRkFfcEZaZUluNVRXWXFFVHBvUDhSallz0gF8QVVfeXFMTnJZcUR5RmdKSDBwYlQyeXdhN2V6NFJYTVhHMVhZNzBxZFNkeFZ4OWZuMUZKLW83VWtXcWh6MVZpMHNjamVEbThLYzB4SzRIN2E2Ym5Ua2JOMU5vb2x2Y2hYSklqWi0tX210RS1neHZGbnRBY1ZqcHRVblhMTg?oc=5",
-          "fonte": "CNBC"
-        },
-        {
           "titulo": "Trump Accounts will offer primarily S&P 500 ETFs to keep investing simple, Robinhood CEO says - Business Insider",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ19TMFZhTzczUk1FV1BZNDZJMW45Z1BTQ0ZpMnp4aElyeHV6aWVBaExiUDJERGdHQ0RTRzlIZWNYZzc5SFktNW5LX1V1SVpEXzdoUUl1eldiS3pwakw2RDRabGRRVVFOdlBiSTBmRnBfT1ZxbU40SFJjVVA4cW1GVXlkaE9YakRzM1BHS1BCam1XT0NxemhUNmgzWkpQeDMtZWN2Y0E3dlVSZw?oc=5",
           "fonte": "Business Insider"
+        },
+        {
+          "titulo": "Stock market calm hides the churn underneath - Axios",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSTd6Vm95Y0RBOGxfLUhlT01QRWx2bktpS2h2eFF4WFY5ZmNCU1JXeWtJcFB4aGtCMXlucVJSQVVlQlF4M0x5RjMwazdpSC1BYm9xTDdULUJOenRmd1lpNHVMY0FFUEFib3E0Zndqbw?oc=5",
+          "fonte": "Axios"
+        },
+        {
+          "titulo": "Moderna Could Be First S&P 500 Stock Since 2008 to Double in a Day - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTG40d3p2d1lVXzI3Q2VZMm5tQWhXek9uR0M0VG82WGhSWFhvSjZORGpsSi1CZ0wzSl9oajNfSjZGYndJZWtqVFV1X2ZnMjU0Tm9JYktoRk95a2ZNWXN2UTB6c282R3JOZEx4M2FBRmQ0WE9CT3hYQnJUaXdmSlYtbXZDQS1HSU9pQ3R5TnNGNVdMaUFadUJaRUtFamJCOUtZdkFWdzc0RGlOc3MtMHRiaFhhYUJqUUVOZFlpVXRnVkJLcFpvTFhnc2FVZ2pZWnR2STZGZkR2eWllRUJubHBXNURBaUtzN1Vvc0tWZnJwZ05sQQ?oc=5",
+          "fonte": "Barron's"
         }
       ],
-      "comentario": "O S&P 500 com cobertura cambial valorizou 0,40%, recuperando de perdas recentes. O mercado norte-americano demonstra resiliência. Sugere-se continuar a acompanhar a evolução das taxas de juro nos EUA, mantendo o reforço periódico planeado sem pressas."
+      "comentario": "Recuou 0,14% num dia de alguma acalmia em Wall Street. A proteção cambial continua ativa contra o risco do dólar. Como o S&P 500 é o motor principal das ações mundiais, sugere-se manter o investimento programado sem preocupações com variações diárias."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -12127,12 +12198,12 @@
           "fonte": "CNN"
         },
         {
-          "titulo": "Treasury doubles debt buybacks as Bessent moves to steady bond market - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz?oc=5",
+          "titulo": "U.S. government debt yields are surging at a bad time. Here's what's behind the move - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFJ4QWF6ZXRKT3NEQzd5U1J5bi1JVGQwZnotbWZGeVNzZEdhdGVGQy00RnJDSUtVZE1VYVR5bFYzcDBKZktkX2xXNVJubmUtZ1VlZDR3RXNHQXVkcVNNVExodkNwcHRQVEV0UzMyZEZjS2Z6bkFQZ3I3Nm9kTTkxOFNaalhnN2FzQTRkcWpVdWpYMVFfa0J0Zi1xRTZHdDhyNVV5V0FtZFlrb0dxUkJ0ZDBKdkJPbGfSAbwBQVVfeXFMTWVadE82UFBkbndVWks0UzdhajNTZlhaVDdnLVhnTlpOQUJqWHBPbFRxMFpZSi1fOXp6em5NalBzSnNfMzY4MW1YVWdMLWwyMUxpNnV4YVd0V09kN1pCWEtYREI0dHMwN2NaQ2NjTm5zWFhNQi12MlZTLXdaLUU3SnRQUmFhbk1KaXpPNHpzNjFiZGk3M0dVOXNUQW1laWRxRXczRFBidW94NGpRbC1ZM01nMGhNSkdyMl84MTk?oc=5",
           "fonte": "CNBC"
         }
       ],
-      "comentario": "Este fundo de obrigações manteve-se estável hoje (0,00%). As yields das obrigações do Tesouro norte-americano continuam sob o foco dos investidores devido às medidas do governo. Para um perfil conservador, pode sugerir-se a manutenção deste ativo para gerar rendimento e mitigar volatilidade."
+      "comentario": "Estável hoje (0,00%). Com as taxas das obrigações sob pressão e em foco nas notícias, este fundo de rendimento continua a cumprir o seu papel de estabilizador de carteira. Sugere-se manter para amortecer a volatilidade do mercado acionista."
     },
     {
       "ticker": "IMAE.AS",
@@ -12140,14 +12211,51 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 105.8,
-        "fecho_anterior": 105.935,
-        "variacao_pct": -0.12743663567282307
+        "preco_atual": 105.815,
+        "fecho_anterior": 105.8,
+        "variacao_pct": 0.014177693761815283
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 105.855
+            },
+            {
+              "quando": "2026-08-20T07:05:00+00:00",
+              "fecho": 105.865
+            },
+            {
+              "quando": "2026-08-20T07:10:00+00:00",
+              "fecho": 105.78
+            },
+            {
+              "quando": "2026-08-20T07:15:00+00:00",
+              "fecho": 105.7
+            },
+            {
+              "quando": "2026-08-20T07:20:00+00:00",
+              "fecho": 105.75
+            },
+            {
+              "quando": "2026-08-20T07:25:00+00:00",
+              "fecho": 105.7
+            },
+            {
+              "quando": "2026-08-20T07:30:00+00:00",
+              "fecho": 105.685
+            },
+            {
+              "quando": "2026-08-20T07:35:00+00:00",
+              "fecho": 105.745
+            },
+            {
+              "quando": "2026-08-20T07:41:07+00:00",
+              "fecho": 105.815
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -14187,6 +14295,10 @@
             {
               "quando": "2026-08-18T07:00:00+00:00",
               "fecho": 105.935
+            },
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 105.815
             }
           ]
         },
@@ -15002,8 +15114,8 @@
               "fecho": 105.935
             },
             {
-              "quando": "2026-08-19T15:35:13+00:00",
-              "fecho": 105.8
+              "quando": "2026-08-20T07:41:07+00:00",
+              "fecho": 105.815
             }
           ]
         }
@@ -15015,9 +15127,9 @@
           "fonte": "Morningstar"
         },
         {
-          "titulo": "European shares edge lower as luxury stocks weigh; US-Iran tensions linger - reuters.com",
+          "titulo": "European shares edge lower as luxury stocks weigh; US-Iran tensions linger - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPenJsTEhGekYtakl1UXZLOWwzQmh3V0l1MlpBN2xJQV8tVVZnb2YyYkd1a1UyZjdsUzRZN0dQUklnNWxacklqakUwYWlPZHRrS3FsSkg5eF9DU2FSVG9yWG1XX2kxRkNtRVdwbUJDZWlCbGFvT29SUWpXYjUxSFF4dEpMZDZ2MzRBSFlUMk5OT04tNzc3bU1OSGl4bDZ3V0pHVzhqNndvWThfekthSGc?oc=5",
-          "fonte": "reuters.com"
+          "fonte": "Reuters"
         },
         {
           "titulo": "Europe’s Consolidated Stock Market Tape Could Invigorate Trading and Boost Investment - Goldman Sachs",
@@ -15030,7 +15142,7 @@
           "fonte": "CoinDesk"
         }
       ],
-      "comentario": "O mercado europeu recuou ligeiramente (-0,13%), pressionado pelo setor do luxo. Contudo, há analistas que apontam para ações europeias subavaliadas. Pode ponderar manter o plano de investimento, aproveitando estas pequenas correções para acumular posições a preços potencialmente mais atrativos."
+      "comentario": "Praticamente inalterado (+0,01%). O mercado europeu segue calmo, apesar de algumas pressões no setor do luxo. Sendo um pilar europeu de acumulação, sugere-se manter o ativo para garantir uma exposição sólida e de baixo custo às maiores empresas europeias."
     },
     {
       "ticker": "SEMI.AS",
@@ -15038,14 +15150,47 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 19.558,
-        "fecho_anterior": 19.746,
-        "variacao_pct": -0.9520915628481659
+        "preco_atual": 19.71,
+        "fecho_anterior": 19.558,
+        "variacao_pct": 0.7771755803251919
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 19.696
+            },
+            {
+              "quando": "2026-08-20T07:05:00+00:00",
+              "fecho": 19.754
+            },
+            {
+              "quando": "2026-08-20T07:10:00+00:00",
+              "fecho": 19.764
+            },
+            {
+              "quando": "2026-08-20T07:15:00+00:00",
+              "fecho": 19.736
+            },
+            {
+              "quando": "2026-08-20T07:20:00+00:00",
+              "fecho": 19.716
+            },
+            {
+              "quando": "2026-08-20T07:30:00+00:00",
+              "fecho": 19.698
+            },
+            {
+              "quando": "2026-08-20T07:35:00+00:00",
+              "fecho": 19.716
+            },
+            {
+              "quando": "2026-08-20T07:43:53+00:00",
+              "fecho": 19.71
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -17085,6 +17230,10 @@
             {
               "quando": "2026-08-18T07:00:00+00:00",
               "fecho": 19.746
+            },
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 19.71
             }
           ]
         },
@@ -18148,8 +18297,8 @@
               "fecho": 19.746
             },
             {
-              "quando": "2026-08-19T15:35:02+00:00",
-              "fecho": 19.558
+              "quando": "2026-08-20T07:43:53+00:00",
+              "fecho": 19.71
             }
           ]
         }
@@ -18161,22 +18310,22 @@
           "fonte": "Barron's"
         },
         {
-          "titulo": "Best Semiconductor Stocks to Buy: Marvell Stock vs. Broadcom Stock - The Motley Fool",
+          "titulo": "Best Semiconductor Stocks to Buy: Marvell Stock vs. Broadcom Stock - fool.com",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUW51aEhGLXNVTmFpMm13TW1palRXSzh0bm5aREV3LVNpQi1DeWhUYmQtOVNDaklFbFBjLXI4VlkySGs5SkFZUl95UDdzNFZ3dXp2bEtqOFBBZ0ZReEx6VHlsZ1dkUW5YcWRFelc1NE9sZzhXajhEMDA5ZWozNGlkNHVEUndkSnp2NVZOend5NzFQWkVLc1p3?oc=5",
-          "fonte": "The Motley Fool"
+          "fonte": "fool.com"
         },
         {
-          "titulo": "Cathie Wood buys $22.3 million of surging semiconductor stock - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeE1qcUdJVmpyMWlKY3JqY1V4NERENWdQM3NXZExRQmdFX3JUTEFPOTBWd1Y2SWpidkdocGs3bm42MnNPMTBGNnMtWjg5YXdTMGo4OEh3dE5GcG1hYmZTYXlNeGxpcExhdGc4NWVwWXZBdE9PLXctVi15ZGJnUURSTHNncFp0c3doYWlVYVlOOA?oc=5",
+          "titulo": "2 Semiconductor Stocks Worth Your Attention and 1 We Brush Off - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnlFTEtXQzYxSXVqU2FWcXRyV295RnQwQUNhSWNGZmxOVEI3TU9WVlZLR05TVWhFVWtocDNVRWZaMGl4VldpMDRiMFk3ci1GQThlVHk5cXc3QWE0UEJNR0ZEWjRlaEpINHJFWnpfbFZ5eV9OdlA5SHU3cHM1dWhoT0ZuNEVqNG5TQUZKSF8zZkRPTk44QzNqU2RZUjNJUmdSZ3R1WDlR?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "I Changed My Mind, Broadcom And Semiconductors Have Peaked For Now (NASDAQ:AVGO) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSDFGLXVqS1JQcHp0VFhpNGtWalNWNDkzeEpvRlhuRnZWenBnSVhJU0pvRjZObUg3MC1FcWowT3pRX3p4OHdyZVBWbE5NWjNqdkVCcml5SEJURGRWbG1IWFVpT21PbUt5WmpuY2IwME5BRXdwVjJoVDdwc1hzOXZQeUE5M0hJZFc5SDBuVi05aHZ2MjBPdHdpYy1ocGo4WWQxVUN3Q2FRVWdKQQ?oc=5",
-          "fonte": "Seeking Alpha"
+          "titulo": "Cathie Wood buys $22.3 million of surging semiconductor stock - thestreet.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTjZwdzVLRGpOVXlfdUZxbXl1Nk5SUmNVbkJZeVIzS1dYZW13bnAyNnJTZkVxaTVlRURvZ21ZR1ltSVVaWkxUbmJVVG1FU1Y0dW52V1VfdElUR0dwUUsxY1hXb2RLR0FmVmlWTV9tNFZqWVVyTjA3WVNNdnNlTzhTeldQajZUVjQ1bkZFSGlnRlNfT1VoYUJHS01Ndnl4WTRITG5QY2RoRVYwN2FrckxoYWI2a1N2QQ?oc=5",
+          "fonte": "thestreet.com"
         }
       ],
-      "comentario": "O setor dos semicondutores recuou 0,95%, reflexo de alguma realização de mais-valias e rotação de carteiras no mercado tecnológico. Dada a volatilidade típica deste setor de elevado crescimento, poderá ser prudente evitar reações precipitadas e focar-se no horizonte temporal longo."
+      "comentario": "Subiu 0,78% hoje, destacando-se pela positiva. É um setor muito volátil mas com forte potencial de crescimento tecnológico a longo prazo. Se o seu perfil tolerar o risco, sugere-se manter ou reforçar moderadamente, sem descurar a diversificação global da carteira."
     },
     {
       "ticker": "SGLD.AS",
@@ -18184,14 +18333,35 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 369.9,
-        "fecho_anterior": 361.86,
-        "variacao_pct": 2.2218537555960767
+        "preco_atual": 369.66,
+        "fecho_anterior": 369.9,
+        "variacao_pct": -0.06488240064881111
       },
       "historico": {
         "intradiario": {
           "ok": true,
-          "pontos": []
+          "pontos": [
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 369.6
+            },
+            {
+              "quando": "2026-08-20T07:10:00+00:00",
+              "fecho": 369.62
+            },
+            {
+              "quando": "2026-08-20T07:20:00+00:00",
+              "fecho": 369.59
+            },
+            {
+              "quando": "2026-08-20T07:30:00+00:00",
+              "fecho": 369.36
+            },
+            {
+              "quando": "2026-08-20T07:38:21+00:00",
+              "fecho": 369.66
+            }
+          ]
         },
         "diario": {
           "ok": true,
@@ -20223,6 +20393,10 @@
             {
               "quando": "2026-08-18T07:00:00+00:00",
               "fecho": 361.86
+            },
+            {
+              "quando": "2026-08-20T07:00:00+00:00",
+              "fecho": 369.66
             }
           ]
         },
@@ -20686,8 +20860,8 @@
               "fecho": 361.86
             },
             {
-              "quando": "2026-08-19T15:20:40+00:00",
-              "fecho": 369.9
+              "quando": "2026-08-20T07:38:21+00:00",
+              "fecho": 369.66
             }
           ]
         }
@@ -20714,7 +20888,7 @@
           "fonte": "Investor's Business Daily"
         }
       ],
-      "comentario": "O ouro disparou 2,22% hoje, atingindo máximos de dois meses, impulsionado por tensões e decisões do Tesouro dos EUA. Sendo um excelente ativo de refúgio, se a valorização recente desviar o ouro do seu peso ideal na carteira, pode sugerir-se um reequilíbrio estratégico."
+      "comentario": "Teve uma descida ligeira de 0,06%. O ouro continua forte, impulsionado pelas notícias de recompras de dívida pública dos EUA. Sugere-se manter como ativo de refúgio e proteção contra a inflação ou tensões geopolíticas globais."
     }
   ]
 }
