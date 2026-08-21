@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-08-21T10:27:24.258647+00:00",
-  "analise_geral": "O portefólio apresenta hoje um comportamento misto, com alguma pressão corretiva nas ações globais e norte-americanas (IWDE.AS, IUES.AS), influenciadas pela volatilidade das yields das obrigações. Em contrapartida, os ativos de refúgio e de rendimento destacam-se pela positiva: o ouro (SGLD.AS) lidera os ganhos (+0.73%) com perspetivas de valorização a longo prazo, seguido pelo fundo de obrigações PIMCO (+0.41%). Os semicondutores (SEMI.AS) mostram alguma fadiga, mas continuam a ser um setor estratégico de crescimento económico global. Para um investidor não profissional, sugere-se manter uma estratégia de diversificação equilibrada. Momentos de correção em índices amplos como o S&P 500 podem representar janelas para reforços graduais (DCA), mantendo sempre uma reserva em ativos defensivos para mitigar a volatilidade do mercado acionista.",
-  "analise_gerado_em": "2026-08-21T06:41:41.840954+00:00",
+  "atualizado_em": "2026-08-21T11:01:21.190611+00:00",
+  "analise_geral": "A carteira apresenta hoje um desempenho globalmente positivo, impulsionada pelo dinamismo do setor dos semicondutores e pela forte valorização do ouro, que serve de refúgio face à volatilidade das taxas de juro. Os mercados emergentes também recuperaram ligeiramente, enquanto os índices acionistas globais e norte-americanos com cobertura cambial registaram ligeiras quedas, pressionados pelas pressões nas yields das obrigações. Com o rendimento da dívida pública sob tensão e o ouro em alta, sugere-se uma postura de prudência. Pode ser um bom momento para rever a alocação de ativos, assegurando que o peso de ativos de refúgio e geográficos está equilibrado de acordo com o seu perfil de risco, sem necessidade de decisões precipitadas nas ações globais.",
+  "analise_gerado_em": "2026-08-21T11:01:21.190571+00:00",
   "alertas_enviados": {
     "IS3N.DE": "2026-08-19",
     "IWDE.AS": "2026-07-13",
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 47.1,
+        "preco_atual": 47.081,
         "fecho_anterior": 46.621,
-        "variacao_pct": 1.0274339889749236
+        "variacao_pct": 0.9866798223976337
       },
       "historico": {
         "intradiario": {
@@ -177,8 +177,36 @@
               "fecho": 47.113
             },
             {
-              "quando": "2026-08-21T10:10:55+00:00",
-              "fecho": 47.1
+              "quando": "2026-08-21T10:10:00+00:00",
+              "fecho": 47.097
+            },
+            {
+              "quando": "2026-08-21T10:15:00+00:00",
+              "fecho": 47.095
+            },
+            {
+              "quando": "2026-08-21T10:20:00+00:00",
+              "fecho": 47.066
+            },
+            {
+              "quando": "2026-08-21T10:25:00+00:00",
+              "fecho": 47.102
+            },
+            {
+              "quando": "2026-08-21T10:30:00+00:00",
+              "fecho": 47.081
+            },
+            {
+              "quando": "2026-08-21T10:35:00+00:00",
+              "fecho": 47.073
+            },
+            {
+              "quando": "2026-08-21T10:40:00+00:00",
+              "fecho": 47.071
+            },
+            {
+              "quando": "2026-08-21T10:45:20+00:00",
+              "fecho": 47.081
             }
           ]
         },
@@ -2199,7 +2227,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 47.1
+              "fecho": 47.081
             }
           ]
         },
@@ -2791,8 +2819,8 @@
               "fecho": 46.534
             },
             {
-              "quando": "2026-08-21T10:10:55+00:00",
-              "fecho": 47.1
+              "quando": "2026-08-21T10:45:20+00:00",
+              "fecho": 47.081
             }
           ]
         }
@@ -2819,7 +2847,7 @@
           "fonte": "BNP Paribas Asset Management"
         }
       ],
-      "comentario": "O ETF de mercados emergentes registou uma ligeira subida (+0.19%). O otimismo em relação à classe média emergente contrabalança a recente rotação de capitais na Ásia. Pode ser interessante manter a posição para capturar o potencial de crescimento destas economias a longo prazo, beneficiando da diversificação geográfica."
+      "comentario": "Registou uma subida interessante de 0,99%. O debate atual foca-se no risco de concentração setorial face aos fatores macroeconómicos nos mercados emergentes. Sugere-se acompanhar a exposição à tecnologia asiática, ponderando se este fundo ainda cumpre o seu propósito de diversificação geográfica na sua carteira."
     },
     {
       "ticker": "IWDE.AS",
@@ -5694,7 +5722,7 @@
           "fonte": "Indra Group"
         }
       ],
-      "comentario": "Com uma queda de 0.50%, este ETF global com cobertura cambial reflete o nervosismo recente nos mercados internacionais. Sendo um pilar de diversificação, sugere-se a sua manutenção. As flutuações de curto prazo não invalidam o seu papel central de estabilidade cambial em euros num portefólio equilibrado."
+      "comentario": "Com uma variação quase neutra de -0,07%, este fundo global com cobertura cambial mantém-se estável. É uma excelente base de diversificação internacional. A manutenção desta posição poderá ser adequada para captar o crescimento mundial a longo prazo, minimizando o impacto direto das oscilações do euro."
     },
     {
       "ticker": "IUES.AS",
@@ -5755,7 +5783,19 @@
               "fecho": 157.42
             },
             {
-              "quando": "2026-08-21T09:49:08+00:00",
+              "quando": "2026-08-21T10:20:00+00:00",
+              "fecho": 157.42
+            },
+            {
+              "quando": "2026-08-21T10:25:00+00:00",
+              "fecho": 157.38
+            },
+            {
+              "quando": "2026-08-21T10:30:00+00:00",
+              "fecho": 157.43
+            },
+            {
+              "quando": "2026-08-21T10:44:47+00:00",
               "fecho": 157.42
             }
           ]
@@ -8549,7 +8589,7 @@
               "fecho": 158.65
             },
             {
-              "quando": "2026-08-21T09:49:08+00:00",
+              "quando": "2026-08-21T10:44:47+00:00",
               "fecho": 157.42
             }
           ]
@@ -8577,7 +8617,7 @@
           "fonte": "Barron's"
         }
       ],
-      "comentario": "O recuo de 0.64% acompanha a volatilidade em Wall Street devido à subida das yields das obrigações. Apesar do ruído de curto prazo, as perspetivas continuam robustas. Se o seu perfil de risco o permitir, correções pontuais podem ser encaradas como oportunidades para acumulação progressiva deste índice de referência."
+      "comentario": "Teve uma ligeira queda de 0,14%, influenciado pela volatilidade gerada pelas yields do Tesouro dos EUA. Sendo um pilar do mercado norte-americano com cobertura cambial, sugere-se paciência, dado que as flutuações diárias são normais e o mercado dos EUA tende a demonstrar resiliência no longo prazo."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -12391,7 +12431,7 @@
           "fonte": "Reuters"
         }
       ],
-      "comentario": "Este fundo de obrigações subiu 0.41% num ambiente de yields elevadas. Com a volatilidade atual no mercado de dívida, o PIMCO Income oferece um rendimento regular interessante e proteção contra a volatilidade acionista. Sugere-se manter para equilibrar a carteira, vigiando as decisões de política monetária dos bancos centrais."
+      "comentario": "Subiu 0,41% num contexto de grande volatilidade no mercado de dívida pública. As yields elevadas trazem incerteza, mas também oportunidades de rendimento neste fundo da PIMCO. Pode ser prudente manter a posição para obter rendimento regular, monitorizando o comportamento global das taxas de juro."
     },
     {
       "ticker": "IMAE.AS",
@@ -12399,9 +12439,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 105.85,
+        "preco_atual": 105.775,
         "fecho_anterior": 105.635,
-        "variacao_pct": 0.20353102664835443
+        "variacao_pct": 0.1325318313059124
       },
       "historico": {
         "intradiario": {
@@ -12544,8 +12584,36 @@
               "fecho": 105.81
             },
             {
-              "quando": "2026-08-21T10:05:55+00:00",
+              "quando": "2026-08-21T10:05:00+00:00",
               "fecho": 105.85
+            },
+            {
+              "quando": "2026-08-21T10:10:00+00:00",
+              "fecho": 105.78
+            },
+            {
+              "quando": "2026-08-21T10:15:00+00:00",
+              "fecho": 105.81
+            },
+            {
+              "quando": "2026-08-21T10:20:00+00:00",
+              "fecho": 105.805
+            },
+            {
+              "quando": "2026-08-21T10:25:00+00:00",
+              "fecho": 105.82
+            },
+            {
+              "quando": "2026-08-21T10:35:00+00:00",
+              "fecho": 105.77
+            },
+            {
+              "quando": "2026-08-21T10:40:00+00:00",
+              "fecho": 105.765
+            },
+            {
+              "quando": "2026-08-21T10:43:48+00:00",
+              "fecho": 105.775
             }
           ]
         },
@@ -14590,7 +14658,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 105.85
+              "fecho": 105.775
             }
           ]
         },
@@ -15406,8 +15474,8 @@
               "fecho": 105.8
             },
             {
-              "quando": "2026-08-21T10:05:55+00:00",
-              "fecho": 105.85
+              "quando": "2026-08-21T10:43:48+00:00",
+              "fecho": 105.775
             }
           ]
         }
@@ -15434,7 +15502,7 @@
           "fonte": "Morningstar"
         }
       ],
-      "comentario": "A Europa recuou ligeiramente (-0.16%), mas as avaliações permanecem atrativas em várias empresas europeias. Com o mercado atento aos resultados empresariais e possíveis reformas estruturais, este ETF mantém-se como uma excelente ferramenta para exposição ao mercado europeu de baixo custo. Sugere-se a manutenção da posição estratégica."
+      "comentario": "Subiu 0,13%, apoiado por resultados empresariais sólidos na Europa que contrariam os choques globais. O mercado europeu continua a apresentar avaliações interessantes. Sugere-se manter a exposição para beneficiar desta estabilidade europeia, que serve de bom contrapeso à volatilidade de outras geografias."
     },
     {
       "ticker": "SEMI.AS",
@@ -15442,9 +15510,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 19.896,
+        "preco_atual": 19.878,
         "fecho_anterior": 19.492,
-        "variacao_pct": 2.0726451877693406
+        "variacao_pct": 1.9802996100964458
       },
       "historico": {
         "intradiario": {
@@ -15567,8 +15635,32 @@
               "fecho": 19.884
             },
             {
-              "quando": "2026-08-21T10:08:56+00:00",
+              "quando": "2026-08-21T10:05:00+00:00",
               "fecho": 19.896
+            },
+            {
+              "quando": "2026-08-21T10:10:00+00:00",
+              "fecho": 19.888
+            },
+            {
+              "quando": "2026-08-21T10:15:00+00:00",
+              "fecho": 19.882
+            },
+            {
+              "quando": "2026-08-21T10:20:00+00:00",
+              "fecho": 19.884
+            },
+            {
+              "quando": "2026-08-21T10:25:00+00:00",
+              "fecho": 19.876
+            },
+            {
+              "quando": "2026-08-21T10:35:00+00:00",
+              "fecho": 19.88
+            },
+            {
+              "quando": "2026-08-21T10:39:38+00:00",
+              "fecho": 19.878
             }
           ]
         },
@@ -17613,7 +17705,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 19.896
+              "fecho": 19.878
             }
           ]
         },
@@ -18677,18 +18769,13 @@
               "fecho": 19.558
             },
             {
-              "quando": "2026-08-21T10:08:56+00:00",
-              "fecho": 19.896
+              "quando": "2026-08-21T10:39:38+00:00",
+              "fecho": 19.878
             }
           ]
         }
       },
       "noticias": [
-        {
-          "titulo": "Cathie Wood buys $22.3 million of surging semiconductor stock - thestreet.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTjZwdzVLRGpOVXlfdUZxbXl1Nk5SUmNVbkJZeVIzS1dYZW13bnAyNnJTZkVxaTVlRURvZ21ZR1ltSVVaWkxUbmJVVG1FU1Y0dW52V1VfdElUR0dwUUsxY1hXb2RLR0FmVmlWTV9tNFZqWVVyTjA3WVNNdnNlTzhTeldQajZUVjQ1bkZFSGlnRlNfT1VoYUJHS01Ndnl4WTRITG5QY2RoRVYwN2FrckxoYWI2a1N2QQ?oc=5",
-          "fonte": "thestreet.com"
-        },
         {
           "titulo": "Best Semiconductor Stocks to Buy: Marvell Stock vs. Broadcom Stock - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUW51aEhGLXNVTmFpMm13TW1palRXSzh0bm5aREV3LVNpQi1DeWhUYmQtOVNDaklFbFBjLXI4VlkySGs5SkFZUl95UDdzNFZ3dXp2bEtqOFBBZ0ZReEx6VHlsZ1dkUW5YcWRFelc1NE9sZzhXajhEMDA5ZWozNGlkNHVEUndkSnp2NVZOend5NzFQWkVLc1p3?oc=5",
@@ -18703,9 +18790,14 @@
           "titulo": "I Changed My Mind, Broadcom And Semiconductors Have Peaked For Now (NASDAQ:AVGO) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSDFGLXVqS1JQcHp0VFhpNGtWalNWNDkzeEpvRlhuRnZWenBnSVhJU0pvRjZObUg3MC1FcWowT3pRX3p4OHdyZVBWbE5NWjNqdkVCcml5SEJURGRWbG1IWFVpT21PbUt5WmpuY2IwME5BRXdwVjJoVDdwc1hzOXZQeUE5M0hJZFc5SDBuVi05aHZ2MjBPdHdpYy1ocGo4WWQxVUN3Q2FRVWdKQQ?oc=5",
           "fonte": "Seeking Alpha"
+        },
+        {
+          "titulo": "Cathie Wood buys $22.3 million of surging semiconductor stock - thestreet.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTjZwdzVLRGpOVXlfdUZxbXl1Nk5SUmNVbkJZeVIzS1dYZW13bnAyNnJTZkVxaTVlRURvZ21ZR1ltSVVaWkxUbmJVVG1FU1Y0dW52V1VfdElUR0dwUUsxY1hXb2RLR0FmVmlWTV9tNFZqWVVyTjA3WVNNdnNlTzhTeldQajZUVjQ1bkZFSGlnRlNfT1VoYUJHS01Ndnl4WTRITG5QY2RoRVYwN2FrckxoYWI2a1N2QQ?oc=5",
+          "fonte": "thestreet.com"
         }
       ],
-      "comentario": "O setor de semicondutores recuou 0.34%, confirmando alguma saturação após fortes valorizações históricas. Embora alguns analistas sugiram que o pico de curto prazo foi atingido, a procura estrutural por tecnologia e IA permanece sólida. Sugere-se prudência, mantendo a posição sem sobreexposição da carteira."
+      "comentario": "Destacou-se hoje com uma valorização de 1,98%. Apesar de alguns analistas apontarem para um possível pico temporário no setor, o interesse em semicondutores e inteligência artificial continua forte. Recomenda-se ponderar se a exposição a este setor dinâmico, mas volátil, está ajustada à sua tolerância ao risco."
     },
     {
       "ticker": "SGLD.AS",
@@ -18713,9 +18805,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 376.63,
+        "preco_atual": 377.48,
         "fecho_anterior": 372.61,
-        "variacao_pct": 1.0788760366066348
+        "variacao_pct": 1.3069965916105324
       },
       "historico": {
         "intradiario": {
@@ -18863,11 +18955,35 @@
             },
             {
               "quando": "2026-08-21T10:10:00+00:00",
-              "fecho": 376.91
+              "fecho": 376.54
             },
             {
-              "quando": "2026-08-21T10:11:31+00:00",
-              "fecho": 376.63
+              "quando": "2026-08-21T10:15:00+00:00",
+              "fecho": 376.99
+            },
+            {
+              "quando": "2026-08-21T10:20:00+00:00",
+              "fecho": 376.81
+            },
+            {
+              "quando": "2026-08-21T10:25:00+00:00",
+              "fecho": 377.01
+            },
+            {
+              "quando": "2026-08-21T10:30:00+00:00",
+              "fecho": 377.07
+            },
+            {
+              "quando": "2026-08-21T10:35:00+00:00",
+              "fecho": 377.4
+            },
+            {
+              "quando": "2026-08-21T10:40:00+00:00",
+              "fecho": 377.34
+            },
+            {
+              "quando": "2026-08-21T10:43:37+00:00",
+              "fecho": 377.48
             }
           ]
         },
@@ -20904,7 +21020,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 376.63
+              "fecho": 377.48
             }
           ]
         },
@@ -21368,8 +21484,8 @@
               "fecho": 369.9
             },
             {
-              "quando": "2026-08-21T10:11:31+00:00",
-              "fecho": 376.63
+              "quando": "2026-08-21T10:43:37+00:00",
+              "fecho": 377.48
             }
           ]
         }
@@ -21391,12 +21507,12 @@
           "fonte": "KITCO"
         },
         {
-          "titulo": "Gold price prediction: Gold is rally, but should you buy? Check August 21, 2026 outlook - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPdHFkMWJfTkJsNTlyR29SM2RLblJQVnEyR2xGWVg5RENQd21PQm1TcmJTWHFXLTRJUmpsQ0FZaUdhckdLcFFSckYyVEdrdlcwbGtaMExvYUlvSmRYOEFRakdlZnFfNU93OWxYM0FqQzdBbmd2d2ZxeE9waVRCREdraEpOaWE5YlpZUTVvMmZvaDBfU0x0MVJDYkZ1VExPM1BZMHJxWWh3WDR4YU5XUzhXSm9QYThQeC14YlU5SkdOMXkzMlgxNzhIUUttaWh1Nk5HZ3NjS1IzcWhkZEh5LWU4NmR0bmJCMzhMMWJOY1B4RzJEa0ZHYVBWSFk4SVJPUEpJZ2F1MWlfTVNiZGF0R0YzN1FMQ193RkEzLXpPSGNkb9IBpAJBVV95cUxPTnNXc19ucVRSMVgwZDdDTmRnd1RkczZwTVQ4akFHUGRZTnA3LW5KeERRc0FKTWk1QVJEZm9HNW90UEtjNlNZT3pxTXFVRUZ3QkxTemVMVHg5S2pCQWRqdDhzX3p0MGd1Q2VPWlZ4dGRIVVVxVXF2amRfYU9JbWo2bVlSTUdGQlk4ZnVXY0RsaGh0UU54X3lWSFc1YUg5X0t4UGlUV0RTZ1NabnZBUGRPWHdYc3lMR3RkNXRvVXZGMlZMdnBXcWt5VTR6RGFwMGNHYkFUR3dFM3BkVXpKS1lxSTVMR2pkOFRkQm1oSzBGLXphcFNQeFlHVXJlZlRiNVBibF9qcngyQXpKWEI5bFJ2NlJtcmdNRE0zM1FKZ2FmZFI2TVkt?oc=5",
-          "fonte": "The Times of India"
+          "titulo": "Morgan Stanley is out with its gold price outlook for 2027 - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjZWcDRYQXN5Wl9FclVuVzBpbk9aZlExQnF3VmRnenZtYWk5NkJKRlBraGhhTkNPX3poRUVVUkxzUlQzeXQ4Rk5xRzJGUzY2cjFWeG5pZElwY3FkVGRRTlpEdUlRQ0Rta1VFeUZNN3M3MU9WVmUwN0k5ODJxeUlJakQwaEZ4Z1RLdGI1VnNUYTc1THBHY0NLd2VnZV9TNktCMW9FNVNqbFN0blE2dVNVc3JFVDQ?oc=5",
+          "fonte": "Investing.com"
         }
       ],
-      "comentario": "O ouro lidera as subidas (+0.73%), impulsionado por projeções otimistas para os próximos anos. Atua como um excelente estabilizador em momentos de incerteza económica e de taxas de juro elevadas. Sugere-se manter a posição como proteção contra a inflação e volatilidade geopolítica global."
+      "comentario": "Subiu 1,31%, impulsionado pela incerteza macroeconómica e perspetivas muito otimistas para os próximos anos. O ouro continua a demonstrar a sua utilidade tradicional como ativo de refúgio. Sugere-se manter este ETC para proteção do portefólio contra a inflação e instabilidade financeira."
     }
   ]
 }
