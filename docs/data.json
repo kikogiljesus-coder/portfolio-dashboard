@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-21T08:19:50.774528+00:00",
+  "atualizado_em": "2026-08-21T09:02:52.776020+00:00",
   "analise_geral": "O portefólio apresenta hoje um comportamento misto, com alguma pressão corretiva nas ações globais e norte-americanas (IWDE.AS, IUES.AS), influenciadas pela volatilidade das yields das obrigações. Em contrapartida, os ativos de refúgio e de rendimento destacam-se pela positiva: o ouro (SGLD.AS) lidera os ganhos (+0.73%) com perspetivas de valorização a longo prazo, seguido pelo fundo de obrigações PIMCO (+0.41%). Os semicondutores (SEMI.AS) mostram alguma fadiga, mas continuam a ser um setor estratégico de crescimento económico global. Para um investidor não profissional, sugere-se manter uma estratégia de diversificação equilibrada. Momentos de correção em índices amplos como o S&P 500 podem representar janelas para reforços graduais (DCA), mantendo sempre uma reserva em ativos defensivos para mitigar a volatilidade do mercado acionista.",
   "analise_gerado_em": "2026-08-21T06:41:41.840954+00:00",
   "alertas_enviados": {
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 47.326,
+        "preco_atual": 47.174,
         "fecho_anterior": 46.621,
-        "variacao_pct": 1.5121940756311496
+        "variacao_pct": 1.1861607430127996
       },
       "historico": {
         "intradiario": {
@@ -74,11 +74,47 @@
             },
             {
               "quando": "2026-08-21T08:00:00+00:00",
-              "fecho": 47.3
+              "fecho": 47.326
             },
             {
-              "quando": "2026-08-21T08:04:34+00:00",
-              "fecho": 47.326
+              "quando": "2026-08-21T08:05:00+00:00",
+              "fecho": 47.265
+            },
+            {
+              "quando": "2026-08-21T08:10:00+00:00",
+              "fecho": 47.181
+            },
+            {
+              "quando": "2026-08-21T08:15:00+00:00",
+              "fecho": 47.203
+            },
+            {
+              "quando": "2026-08-21T08:20:00+00:00",
+              "fecho": 47.092
+            },
+            {
+              "quando": "2026-08-21T08:25:00+00:00",
+              "fecho": 47.164
+            },
+            {
+              "quando": "2026-08-21T08:30:00+00:00",
+              "fecho": 47.17
+            },
+            {
+              "quando": "2026-08-21T08:35:00+00:00",
+              "fecho": 47.17
+            },
+            {
+              "quando": "2026-08-21T08:40:00+00:00",
+              "fecho": 47.18
+            },
+            {
+              "quando": "2026-08-21T08:45:00+00:00",
+              "fecho": 47.163
+            },
+            {
+              "quando": "2026-08-21T08:47:45+00:00",
+              "fecho": 47.174
             }
           ]
         },
@@ -2099,7 +2135,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 47.326
+              "fecho": 47.174
             }
           ]
         },
@@ -2691,8 +2727,8 @@
               "fecho": 46.534
             },
             {
-              "quando": "2026-08-21T08:04:34+00:00",
-              "fecho": 47.326
+              "quando": "2026-08-21T08:47:45+00:00",
+              "fecho": 47.174
             }
           ]
         }
@@ -2727,9 +2763,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 119.72,
+        "preco_atual": 119.76,
         "fecho_anterior": 119.84,
-        "variacao_pct": -0.1001335113484684
+        "variacao_pct": -0.06675567423230833
       },
       "historico": {
         "intradiario": {
@@ -2748,8 +2784,20 @@
               "fecho": 119.6
             },
             {
-              "quando": "2026-08-21T08:00:30+00:00",
+              "quando": "2026-08-21T08:00:00+00:00",
               "fecho": 119.72
+            },
+            {
+              "quando": "2026-08-21T08:10:00+00:00",
+              "fecho": 119.7
+            },
+            {
+              "quando": "2026-08-21T08:30:00+00:00",
+              "fecho": 119.76
+            },
+            {
+              "quando": "2026-08-21T08:31:01+00:00",
+              "fecho": 119.76
             }
           ]
         },
@@ -4786,7 +4834,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 119.72
+              "fecho": 119.76
             }
           ]
         },
@@ -5542,8 +5590,8 @@
               "fecho": 120.44
             },
             {
-              "quando": "2026-08-21T08:00:30+00:00",
-              "fecho": 119.72
+              "quando": "2026-08-21T08:31:01+00:00",
+              "fecho": 119.76
             }
           ]
         }
@@ -5578,9 +5626,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 157.3,
+        "preco_atual": 157.25,
         "fecho_anterior": 157.64,
-        "variacao_pct": -0.21568129916263323
+        "variacao_pct": -0.2473991372747947
       },
       "historico": {
         "intradiario": {
@@ -5604,11 +5652,15 @@
             },
             {
               "quando": "2026-08-21T07:55:00+00:00",
-              "fecho": 157.33
+              "fecho": 157.3
             },
             {
-              "quando": "2026-08-21T07:57:33+00:00",
-              "fecho": 157.3
+              "quando": "2026-08-21T08:20:00+00:00",
+              "fecho": 157.25
+            },
+            {
+              "quando": "2026-08-21T08:22:03+00:00",
+              "fecho": 157.25
             }
           ]
         },
@@ -7645,7 +7697,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 157.3
+              "fecho": 157.25
             }
           ]
         },
@@ -8401,17 +8453,17 @@
               "fecho": 158.65
             },
             {
-              "quando": "2026-08-21T07:57:33+00:00",
-              "fecho": 157.3
+              "quando": "2026-08-21T08:22:03+00:00",
+              "fecho": 157.25
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Stock Market on Aug. 20, 2026: Dow drops around 700 points, S&P 500 and Nasdaq end lower as Bessent buybacks fail to calm bond market; Treasury yields climb; Walmart shares tumble after earnings results; Big Tech stocks retreat - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdVBuZVRMajBWYzd1NklTc1VYWnpTQ1VUSU9yTl8yTlRhVEM1RzFQb2pVVTg5eExlOUZmWHViX1B0NnJ4TVFLTTlGNl9SY2h0ZFJ1V2F5TGE1bHRibzduaTF5X2pRSURjbEhvLVd4UXlPeEk2S0FLaWN6Z0FCU1BUTzhINnhTR0lmMlRRVndOUV9iVVNsVl9hUE5UR3V3OWc3NGJQUzRPY0Q1V3duR2xVTkplTUFVRDdpSXAzUWlTWmlXRFVjdVBBLXNTZnJKenZaVDRoUg?oc=5",
-          "fonte": "MarketWatch"
+          "titulo": "Dow tumbles 700 points, S&P 500 falls as Treasury plan to subdue yields fails - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8teUxWQ1hsU240emRnZElJWExIWnE4UDEyV2xEWEVmZTZYVklUeWU3YlU5NUhaMGNOemdRdXJOOHFSb2ZVeXh6SmVjQUNLMmhzRHRrczZLYUhieVdxSGxPWEs0OFFyR2RoTlNaYnFUbWsxQ00tRjQ00gF8QVVfeXFMUEVDcDhJU2RrSk9PdEwySEhJTUZLdFdXNHFLeUhrRjJPLW1yTk05MmJpTTU2WndPbjlYeXJkVERRLU8tbHNHQnp0eVJwdWV3ZzBoejI2UVVmMEtic3psYS1vbWFwc0RHU2Z1VGRHdUQ2UEN1STl5cGJWQkVCTQ?oc=5",
+          "fonte": "CNBC"
         },
         {
           "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures drift higher despite Treasury yield pressures persisting - Yahoo Finance",
@@ -8419,9 +8471,9 @@
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3lXajYxSGFNQnJrNWtBcDRBakF0amdndHNVRU5KQnFFS3NMbFhEY3pRZnhPbmVUTTh3N3U2VDluSmw1NjBraXdCTUV1eFREMUR5d0pVTEpNSUV0NE9RZmduMWU3VU5uT3REUTFIOW8xaHhGYzdpVE03VWs5UXNJY1d1VFdTeFA5UVNsSDZvenhOX0o2RHVOWFlRbHBaaWZr0gGmAUFVX3lxTE5mYlFNdWRTWFN2Y21zeF94WjlaY0ZmZTNrS2E0ak8zSTVSVnV3dWcyNTBsZVdCVmI2YVVlU2w4YVNCX3JWdzJLT09Hc19PQnN0R2hhcERNbjlNemtIN3o3eG9OR2dDUDB6WUNiNjkxS1ZDN29JODBQdVVrSUxlUkJpZEpwN2lVcTdwQkxhdFU5V1BSMjJzaWh4Y2tUazhpM0FxOUN5WGc?oc=5",
-          "fonte": "CNBC"
+          "titulo": "Dow Set to Open Up as Futures Rebound - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Sb0FFRVdEZlhJVGd6RnNMZ2VoMWF5dmNrZFNOTEVzR3ZlaHNLRUVsVEZvbXRXRWtJQjgyeWUzS0RXb1RBb2twMHE3MzlPZlVLVTVISFVLOFMydU9ReGt5Wncza2RSYlluUkZtVDdoQ2dFd3hrM3c?oc=5",
+          "fonte": "Barron's"
         },
         {
           "titulo": "The Index Fund Turns 50: How Jack Bogle Changed Investing Forever - Morningstar",
@@ -12251,9 +12303,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 105.94,
+        "preco_atual": 105.905,
         "fecho_anterior": 105.635,
-        "variacao_pct": 0.288730061059301
+        "variacao_pct": 0.25559710323282625
       },
       "historico": {
         "intradiario": {
@@ -12304,8 +12356,48 @@
               "fecho": 105.99
             },
             {
-              "quando": "2026-08-21T08:04:15+00:00",
+              "quando": "2026-08-21T08:00:00+00:00",
               "fecho": 105.94
+            },
+            {
+              "quando": "2026-08-21T08:05:00+00:00",
+              "fecho": 105.9
+            },
+            {
+              "quando": "2026-08-21T08:10:00+00:00",
+              "fecho": 105.9
+            },
+            {
+              "quando": "2026-08-21T08:15:00+00:00",
+              "fecho": 105.925
+            },
+            {
+              "quando": "2026-08-21T08:20:00+00:00",
+              "fecho": 105.92
+            },
+            {
+              "quando": "2026-08-21T08:25:00+00:00",
+              "fecho": 105.94
+            },
+            {
+              "quando": "2026-08-21T08:30:00+00:00",
+              "fecho": 105.91
+            },
+            {
+              "quando": "2026-08-21T08:35:00+00:00",
+              "fecho": 105.92
+            },
+            {
+              "quando": "2026-08-21T08:40:00+00:00",
+              "fecho": 105.955
+            },
+            {
+              "quando": "2026-08-21T08:45:00+00:00",
+              "fecho": 105.92
+            },
+            {
+              "quando": "2026-08-21T08:47:22+00:00",
+              "fecho": 105.905
             }
           ]
         },
@@ -14350,7 +14442,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 105.94
+              "fecho": 105.905
             }
           ]
         },
@@ -15166,8 +15258,8 @@
               "fecho": 105.8
             },
             {
-              "quando": "2026-08-21T08:04:15+00:00",
-              "fecho": 105.94
+              "quando": "2026-08-21T08:47:22+00:00",
+              "fecho": 105.905
             }
           ]
         }
@@ -15202,9 +15294,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 19.882,
+        "preco_atual": 19.816,
         "fecho_anterior": 19.492,
-        "variacao_pct": 2.000820849579317
+        "variacao_pct": 1.662220398112036
       },
       "historico": {
         "intradiario": {
@@ -15252,11 +15344,31 @@
             },
             {
               "quando": "2026-08-21T08:00:00+00:00",
-              "fecho": 19.886
+              "fecho": 19.882
             },
             {
-              "quando": "2026-08-21T08:04:26+00:00",
-              "fecho": 19.882
+              "quando": "2026-08-21T08:05:00+00:00",
+              "fecho": 19.842
+            },
+            {
+              "quando": "2026-08-21T08:10:00+00:00",
+              "fecho": 19.806
+            },
+            {
+              "quando": "2026-08-21T08:15:00+00:00",
+              "fecho": 19.782
+            },
+            {
+              "quando": "2026-08-21T08:20:00+00:00",
+              "fecho": 19.738
+            },
+            {
+              "quando": "2026-08-21T08:35:00+00:00",
+              "fecho": 19.81
+            },
+            {
+              "quando": "2026-08-21T08:37:04+00:00",
+              "fecho": 19.816
             }
           ]
         },
@@ -17301,7 +17413,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 19.882
+              "fecho": 19.816
             }
           ]
         },
@@ -18365,8 +18477,8 @@
               "fecho": 19.558
             },
             {
-              "quando": "2026-08-21T08:04:26+00:00",
-              "fecho": 19.882
+              "quando": "2026-08-21T08:37:04+00:00",
+              "fecho": 19.816
             }
           ]
         }
@@ -18401,9 +18513,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 375.68,
+        "preco_atual": 376.69,
         "fecho_anterior": 372.61,
-        "variacao_pct": 0.8239177692493472
+        "variacao_pct": 1.0949786640186747
       },
       "historico": {
         "intradiario": {
@@ -18458,8 +18570,36 @@
               "fecho": 375.64
             },
             {
-              "quando": "2026-08-21T08:03:03+00:00",
+              "quando": "2026-08-21T08:00:00+00:00",
               "fecho": 375.68
+            },
+            {
+              "quando": "2026-08-21T08:05:00+00:00",
+              "fecho": 375.28
+            },
+            {
+              "quando": "2026-08-21T08:20:00+00:00",
+              "fecho": 376.25
+            },
+            {
+              "quando": "2026-08-21T08:30:00+00:00",
+              "fecho": 376.72
+            },
+            {
+              "quando": "2026-08-21T08:35:00+00:00",
+              "fecho": 376.56
+            },
+            {
+              "quando": "2026-08-21T08:40:00+00:00",
+              "fecho": 376.62
+            },
+            {
+              "quando": "2026-08-21T08:45:00+00:00",
+              "fecho": 376.68
+            },
+            {
+              "quando": "2026-08-21T08:47:19+00:00",
+              "fecho": 376.69
             }
           ]
         },
@@ -20496,7 +20636,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 375.68
+              "fecho": 376.69
             }
           ]
         },
@@ -20960,8 +21100,8 @@
               "fecho": 369.9
             },
             {
-              "quando": "2026-08-21T08:03:03+00:00",
-              "fecho": 375.68
+              "quando": "2026-08-21T08:47:19+00:00",
+              "fecho": 376.69
             }
           ]
         }
