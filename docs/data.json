@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-21T13:42:33.139032+00:00",
+  "atualizado_em": "2026-08-21T14:32:16.183971+00:00",
   "analise_geral": "A carteira apresenta hoje um desempenho globalmente positivo, impulsionada pelo dinamismo do setor dos semicondutores e pela forte valorização do ouro, que serve de refúgio face à volatilidade das taxas de juro. Os mercados emergentes também recuperaram ligeiramente, enquanto os índices acionistas globais e norte-americanos com cobertura cambial registaram ligeiras quedas, pressionados pelas pressões nas yields das obrigações. Com o rendimento da dívida pública sob tensão e o ouro em alta, sugere-se uma postura de prudência. Pode ser um bom momento para rever a alocação de ativos, assegurando que o peso de ativos de refúgio e geográficos está equilibrado de acordo com o seu perfil de risco, sem necessidade de decisões precipitadas nas ações globais.",
   "analise_gerado_em": "2026-08-21T11:01:21.190571+00:00",
   "alertas_enviados": {
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 47.154,
+        "preco_atual": 47.002,
         "fecho_anterior": 46.621,
-        "variacao_pct": 1.1432616202998676
+        "variacao_pct": 0.8172282876815173
       },
       "historico": {
         "intradiario": {
@@ -330,11 +330,51 @@
             },
             {
               "quando": "2026-08-21T13:25:00+00:00",
-              "fecho": 47.169
+              "fecho": 47.24
             },
             {
-              "quando": "2026-08-21T13:26:29+00:00",
-              "fecho": 47.154
+              "quando": "2026-08-21T13:30:00+00:00",
+              "fecho": 47.09
+            },
+            {
+              "quando": "2026-08-21T13:35:00+00:00",
+              "fecho": 47.052
+            },
+            {
+              "quando": "2026-08-21T13:40:00+00:00",
+              "fecho": 47.13
+            },
+            {
+              "quando": "2026-08-21T13:45:00+00:00",
+              "fecho": 47.16
+            },
+            {
+              "quando": "2026-08-21T13:50:00+00:00",
+              "fecho": 47.1
+            },
+            {
+              "quando": "2026-08-21T13:55:00+00:00",
+              "fecho": 47.12
+            },
+            {
+              "quando": "2026-08-21T14:00:00+00:00",
+              "fecho": 47.068
+            },
+            {
+              "quando": "2026-08-21T14:05:00+00:00",
+              "fecho": 47.097
+            },
+            {
+              "quando": "2026-08-21T14:10:00+00:00",
+              "fecho": 47.024
+            },
+            {
+              "quando": "2026-08-21T14:15:00+00:00",
+              "fecho": 47.0
+            },
+            {
+              "quando": "2026-08-21T14:16:23+00:00",
+              "fecho": 47.002
             }
           ]
         },
@@ -2355,7 +2395,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 47.154
+              "fecho": 47.002
             }
           ]
         },
@@ -2947,8 +2987,8 @@
               "fecho": 46.534
             },
             {
-              "quando": "2026-08-21T13:26:29+00:00",
-              "fecho": 47.154
+              "quando": "2026-08-21T14:16:23+00:00",
+              "fecho": 47.002
             }
           ]
         }
@@ -2960,11 +3000,6 @@
           "fonte": "Morningstar"
         },
         {
-          "titulo": "Wasatch Funds Emerging Markets Small Cap Q2 2026 Commentary (WAEMX) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVgwTUpnQUNvUVMxbEFqY2ZhOXRteHVjMXJLbk1XVmlpdzRGR2EwTzlLVl9razBkcjFYbUhsUkctZDNNU19IdkkyaW94VU9tZGdESmZDWTAtN01VT1BVSkd4Y2VrNTg1SG5NcllPb1ZvTkJobUpQY055VWJIZGl3b3pUNTRGQ3pUb1ZFVVFBQjhNVnVUMV9ONl9EeGRZQlhKUmc?oc=5",
-          "fonte": "Seeking Alpha"
-        },
-        {
           "titulo": "How to Bet on the Middle Class in Emerging Markets - Barron's",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSmtCYzJ3VFNqbmtYNVJHQjdOQkZhSEJVM2VaYnF2LTY3MFFRVHRwQUxVaXp0RVFaZy0yQkF4b2ZCdWdBZHM1U3FJUHNpYmpFdTJSLTRpTkE4WjBUakFpVFQ1THk0TDIwLTQydC0waUJXVE83UXRlTTd1SU1TSGVCMnFBUXgzeWp0S0RIZA?oc=5",
           "fonte": "Barron's"
@@ -2973,6 +3008,11 @@
           "titulo": "View from the markets: What’s the meaning of the emerging market tech stock sell-off? - BNP Paribas Asset Management",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbjRiY3RDYzBZXzJTbVY5bXpVX1c4WFVtVlEyaU5XaVliQXZ4SHktdExHcEdaTVU5UjNHSml0N3FZSFAteG92bUNCdWh0SVZ0MjdlWnp6bUlHMDlzdG81OWFROE9hd1gwNjJleVc1dUhMV3h1Z3F4UXdLbE52Szdmam5wTnhtTkVEQVNzS3BObHROX0VTMTNaaThfbXkzNzl4NDdkRVZKUTRST0JDbkpBdE1CcEkyNE1zdWNwN0VFU201RDFlMjdSUHpB?oc=5",
           "fonte": "BNP Paribas Asset Management"
+        },
+        {
+          "titulo": "Wasatch Funds Emerging Markets Small Cap Q2 2026 Commentary (WAEMX) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVgwTUpnQUNvUVMxbEFqY2ZhOXRteHVjMXJLbk1XVmlpdzRGR2EwTzlLVl9razBkcjFYbUhsUkctZDNNU19IdkkyaW94VU9tZGdESmZDWTAtN01VT1BVSkd4Y2VrNTg1SG5NcllPb1ZvTkJobUpQY055VWJIZGl3b3pUNTRGQ3pUb1ZFVVFBQjhNVnVUMV9ONl9EeGRZQlhKUmc?oc=5",
+          "fonte": "Seeking Alpha"
         }
       ],
       "comentario": "Registou uma subida interessante de 0,99%. O debate atual foca-se no risco de concentração setorial face aos fatores macroeconómicos nos mercados emergentes. Sugere-se acompanhar a exposição à tecnologia asiática, ponderando se este fundo ainda cumpre o seu propósito de diversificação geográfica na sua carteira."
@@ -2983,9 +3023,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 119.98,
+        "preco_atual": 119.82,
         "fecho_anterior": 119.84,
-        "variacao_pct": 0.11682242990654253
+        "variacao_pct": -0.016688918558085974
       },
       "historico": {
         "intradiario": {
@@ -3072,8 +3112,16 @@
               "fecho": 119.98
             },
             {
-              "quando": "2026-08-21T13:02:15+00:00",
-              "fecho": 119.98
+              "quando": "2026-08-21T13:25:00+00:00",
+              "fecho": 119.82
+            },
+            {
+              "quando": "2026-08-21T13:30:00+00:00",
+              "fecho": 119.82
+            },
+            {
+              "quando": "2026-08-21T13:33:40+00:00",
+              "fecho": 119.82
             }
           ]
         },
@@ -5110,7 +5158,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 119.98
+              "fecho": 119.82
             }
           ]
         },
@@ -5866,8 +5914,8 @@
               "fecho": 120.44
             },
             {
-              "quando": "2026-08-21T13:02:15+00:00",
-              "fecho": 119.98
+              "quando": "2026-08-21T13:33:40+00:00",
+              "fecho": 119.82
             }
           ]
         }
@@ -5889,9 +5937,9 @@
           "fonte": "Reuters"
         },
         {
-          "titulo": "iShares MSCI World ETF: Investors Keep the Cash Flowing While MSCI Weighs a Rulebook Shift - Ad-hoc-news.de",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQkVKd3NKYWV1SFREUVNtRm1wWlBrR05lZWN4WjZZLXdKVjNHVGlEZ1MzdUxwU0hlSXF4MjlUUkt0TVJ0eDZyYW1VMF85WkJBYUR2T2NFekhXS1pvOWNHTDBoc0o4MFBFbkNNcGxfMkQ1aGVYc01MVEhRWHU4bTlGSTdJY3ZvalBPeDBRMUxnVmRnTWZPRGM5WTdtVjZueEZCc1VJMEU3b3dqOGQ1QUNDT184eEhabUthMmEtb3pkc01vTEZZTE96TmRySVlOc0tmeW5hYUdLM3NFTEJh?oc=5",
-          "fonte": "Ad-hoc-news.de"
+          "titulo": "Indra Group joins the prestigious MSCI world index for the first time thanks to its stock market performance - Indra Group",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeHhrVmlXc3lTemhXWlU3OGtLcVZBaWhsOHRUQ2ctUGhBUEd4VXh0a3lEY1lTZF9pckJZTWcwNDZKMzd3ZUROQ1dGamlMbkw1UlhqZXkyUDRrbkF3amZrUVo5Yi1nZnlscG1za0x3T3AtUU1QaWYzdlJoejBUNXhRU3EweU5FSy1RQnpjeGd0MGpiT0xwRDl1UjZjbno5VldzY0xrbGUzZl96dzE1MFBobkd0QThpMXM3ZzRSYkJqWUZwbXluU2x1ZGtPQ1l4bUFSZC1YOHZvTHdIWVU?oc=5",
+          "fonte": "Indra Group"
         }
       ],
       "comentario": "Com uma variação quase neutra de -0,07%, este fundo global com cobertura cambial mantém-se estável. É uma excelente base de diversificação internacional. A manutenção desta posição poderá ser adequada para captar o crescimento mundial a longo prazo, minimizando o impacto direto das oscilações do euro."
@@ -5902,9 +5950,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 157.7,
+        "preco_atual": 157.35,
         "fecho_anterior": 157.64,
-        "variacao_pct": 0.03806140573458658
+        "variacao_pct": -0.18396346105048977
       },
       "historico": {
         "intradiario": {
@@ -5979,8 +6027,28 @@
               "fecho": 157.7
             },
             {
-              "quando": "2026-08-21T12:41:39+00:00",
-              "fecho": 157.7
+              "quando": "2026-08-21T13:30:00+00:00",
+              "fecho": 157.35
+            },
+            {
+              "quando": "2026-08-21T13:55:00+00:00",
+              "fecho": 157.25
+            },
+            {
+              "quando": "2026-08-21T14:00:00+00:00",
+              "fecho": 157.3
+            },
+            {
+              "quando": "2026-08-21T14:05:00+00:00",
+              "fecho": 157.43
+            },
+            {
+              "quando": "2026-08-21T14:10:00+00:00",
+              "fecho": 157.42
+            },
+            {
+              "quando": "2026-08-21T14:14:30+00:00",
+              "fecho": 157.35
             }
           ]
         },
@@ -8017,7 +8085,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 157.7
+              "fecho": 157.35
             }
           ]
         },
@@ -8773,8 +8841,8 @@
               "fecho": 158.65
             },
             {
-              "quando": "2026-08-21T12:41:39+00:00",
-              "fecho": 157.7
+              "quando": "2026-08-21T14:14:30+00:00",
+              "fecho": 157.35
             }
           ]
         }
@@ -8786,19 +8854,19 @@
           "fonte": "CNBC"
         },
         {
-          "titulo": "Stock Market on Aug. 20, 2026: Dow drops around 700 points, S&P 500 and Nasdaq end lower as Bessent buybacks fail to calm bond market; Treasury yields climb; Walmart shares tumble after earnings results; Big Tech stocks retreat - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdVBuZVRMajBWYzd1NklTc1VYWnpTQ1VUSU9yTl8yTlRhVEM1RzFQb2pVVTg5eExlOUZmWHViX1B0NnJ4TVFLTTlGNl9SY2h0ZFJ1V2F5TGE1bHRibzduaTF5X2pRSURjbEhvLVd4UXlPeEk2S0FLaWN6Z0FCU1BUTzhINnhTR0lmMlRRVndOUV9iVVNsVl9hUE5UR3V3OWc3NGJQUzRPY0Q1V3duR2xVTkplTUFVRDdpSXAzUWlTWmlXRFVjdVBBLXNTZnJKenZaVDRoUg?oc=5",
-          "fonte": "MarketWatch"
-        },
-        {
-          "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures drift higher as bitcoin surges - Yahoo Finance",
+          "titulo": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUjg1dUFUenpZVUZkX2FWa2JncmdfQ0MyZDg4YnlPNlkwSmpYSHNyQ2JtYnpobGh3MDJfNkhqWFREMi11OUpQbG04bWRYUnpycHZFcE1aNTFCSFY3RmRLU1dsbnk2d0R2aEhRTFJwaVJLYVBMNXN1ZVNyRTdGSkQxOU13dm1ZUTVQM2QtMDc3ZGFUOGJFMW1kc0luLVMyY0xkMDdDUzNFejBsMGs?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Stock Market Today: Dow, Nasdaq Futures Edges Higher; Yields Steady — Live Updates - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWg3azFqLWQ4Wk4weVZuYVFjYVBwZnBuak94TWxuUlZNQ1BZWXNzaWhfR05teG1VWEtrNVdwZFRxTmZCVTdRVkFuZm9hLS1XSV8wUlQwckE4UWk4MXJxdVNFZWllNktGaUxMRFNEN25TVXJveDBEYWFhMUVXazR1VTBQR200UFE?oc=5",
-          "fonte": "WSJ"
+          "titulo": "Billionaire Stanley Druckenmiller Bought This Newly Added S&P 500 Stock That's Up 351% Since Its IPO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHNCenZBTkVyYUs4cG1rQlhPclZCYmhrblFtUmk0NVhwai0tY0pnM1MtTDJPZURMcmo5ejFJOHJnS0p6Mng4Ylc3cDZtZnhvRFRCdWxqT3g0ZHhEb09udEhvZnJuQjR2SEM3VmxPVWNFTTNSOWVRN2dUdG5wU3hKTE1uX09JR2dTWVc2Y3g1MlZRWnJDWGRrTEp5Q3N6TVM1Ukg1M0owVnlCRmxMb1JPUQ?oc=5",
+          "fonte": "Yahoo Finance"
+        },
+        {
+          "titulo": "UBS Sees S&P 500 at 8,100 but Prediction Markets Don't Buy It - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbXFNWlloZ0MwTE50VmFpUkZzMjUxUnI0aVBWempIdjFBcXZnZVMtcnlnR005S3ZKTm5KR1ZMM2tXQkpxVFg2RHd3NVBQaDM2bnJhLThVSndkU191SGVESDRKaGJTbWVsYTdXTFdOc29uNW1tVGUzVEFXQnVfanRvZmhPdkp2dFNH?oc=5",
+          "fonte": "Yahoo Finance"
         }
       ],
       "comentario": "Teve uma ligeira queda de 0,14%, influenciado pela volatilidade gerada pelas yields do Tesouro dos EUA. Sendo um pilar do mercado norte-americano com cobertura cambial, sugere-se paciência, dado que as flutuações diárias são normais e o mercado dos EUA tende a demonstrar resiliência no longo prazo."
@@ -12623,9 +12691,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 106.045,
+        "preco_atual": 106.275,
         "fecho_anterior": 105.635,
-        "variacao_pct": 0.38812893453873865
+        "variacao_pct": 0.6058598002555976
       },
       "historico": {
         "intradiario": {
@@ -12897,11 +12965,47 @@
             },
             {
               "quando": "2026-08-21T13:20:00+00:00",
-              "fecho": 106.06
+              "fecho": 106.045
             },
             {
-              "quando": "2026-08-21T13:24:25+00:00",
-              "fecho": 106.045
+              "quando": "2026-08-21T13:25:00+00:00",
+              "fecho": 106.095
+            },
+            {
+              "quando": "2026-08-21T13:30:00+00:00",
+              "fecho": 106.13
+            },
+            {
+              "quando": "2026-08-21T13:35:00+00:00",
+              "fecho": 106.24
+            },
+            {
+              "quando": "2026-08-21T13:40:00+00:00",
+              "fecho": 106.175
+            },
+            {
+              "quando": "2026-08-21T13:45:00+00:00",
+              "fecho": 106.225
+            },
+            {
+              "quando": "2026-08-21T13:50:00+00:00",
+              "fecho": 106.215
+            },
+            {
+              "quando": "2026-08-21T13:55:00+00:00",
+              "fecho": 106.25
+            },
+            {
+              "quando": "2026-08-21T14:00:00+00:00",
+              "fecho": 106.345
+            },
+            {
+              "quando": "2026-08-21T14:10:00+00:00",
+              "fecho": 106.26
+            },
+            {
+              "quando": "2026-08-21T14:16:07+00:00",
+              "fecho": 106.275
             }
           ]
         },
@@ -14946,7 +15050,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 106.045
+              "fecho": 106.275
             }
           ]
         },
@@ -15762,8 +15866,8 @@
               "fecho": 105.8
             },
             {
-              "quando": "2026-08-21T13:24:25+00:00",
-              "fecho": 106.045
+              "quando": "2026-08-21T14:16:07+00:00",
+              "fecho": 106.275
             }
           ]
         }
@@ -15780,14 +15884,14 @@
           "fonte": "Morningstar"
         },
         {
+          "titulo": "Europe, the secret outperformer - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM29YMEFLbHk4NllkVFBtWVFtTjV5QzdjVUVCcUxwQURoQ3RJdGI3RDA3TzlnS0czdEpCQWZzQlk5SG81TzhDdjhVYU8zY051WmQ1ZGkyZkc5a0JzTEJzM3hCN244b3RtemhKMmY4LVhuNVROQ29IZUt5MnhTQXA2Nkk3c3g?oc=5",
+          "fonte": "Financial Times"
+        },
+        {
           "titulo": "European stocks notch monthly gain on earnings optimism - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGpDWHI3V2xsbTU0Q0NoaEg3SjZ2OVQ0TW9aNVFkQVNiTmgwWThMaXVqbUliZ0hLd2xNcUhaX1FOSXdpMUdTVkVOcFFrMGFESjI3QWJvV3dXS0ZTbDNqRHplcGVjRWlObnNxT2NLTFNtem5obmp6QjhHSkJtUllXWHp5SUR3T0ZrVzVtSHVkcHE4eWFWUUd2dk1CR2VQcVk?oc=5",
           "fonte": "Reuters"
-        },
-        {
-          "titulo": "10 Stocks the Best Europe Equity Income Fund Managers Have Been Buying - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSU5GSUZnQWxVNW1QWE5oSG51OE1UbWJpbWItT1psYUdQYzVGRHg2OWRacmtZeFZGVEtUUlN6N2t2OVhpSEpYZmZXNTVVWVF4Q0RLZU14dE5CdEhSUnd4RGRibU94UHJMTnRhdnpnNGJ1c0FxNXlyWGJTOUplT2gyUTZJc0d1ODFPM3V0dXN1SUxNUl9xZm80Q1l5Y3pGaWR5WEQzb1JKRjZfZHBWRmRz?oc=5",
-          "fonte": "Morningstar"
         }
       ],
       "comentario": "Subiu 0,13%, apoiado por resultados empresariais sólidos na Europa que contrariam os choques globais. O mercado europeu continua a apresentar avaliações interessantes. Sugere-se manter a exposição para beneficiar desta estabilidade europeia, que serve de bom contrapeso à volatilidade de outras geografias."
@@ -15798,9 +15902,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 19.86,
+        "preco_atual": 19.518,
         "fecho_anterior": 19.492,
-        "variacao_pct": 1.887954032423551
+        "variacao_pct": 0.13338805663861994
       },
       "historico": {
         "intradiario": {
@@ -16023,8 +16127,48 @@
               "fecho": 19.87
             },
             {
-              "quando": "2026-08-21T13:25:01+00:00",
-              "fecho": 19.86
+              "quando": "2026-08-21T13:25:00+00:00",
+              "fecho": 19.91
+            },
+            {
+              "quando": "2026-08-21T13:30:00+00:00",
+              "fecho": 19.792
+            },
+            {
+              "quando": "2026-08-21T13:35:00+00:00",
+              "fecho": 19.666
+            },
+            {
+              "quando": "2026-08-21T13:40:00+00:00",
+              "fecho": 19.736
+            },
+            {
+              "quando": "2026-08-21T13:45:00+00:00",
+              "fecho": 19.74
+            },
+            {
+              "quando": "2026-08-21T13:50:00+00:00",
+              "fecho": 19.672
+            },
+            {
+              "quando": "2026-08-21T13:55:00+00:00",
+              "fecho": 19.68
+            },
+            {
+              "quando": "2026-08-21T14:00:00+00:00",
+              "fecho": 19.6
+            },
+            {
+              "quando": "2026-08-21T14:05:00+00:00",
+              "fecho": 19.602
+            },
+            {
+              "quando": "2026-08-21T14:10:00+00:00",
+              "fecho": 19.526
+            },
+            {
+              "quando": "2026-08-21T14:15:42+00:00",
+              "fecho": 19.518
             }
           ]
         },
@@ -18069,7 +18213,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 19.86
+              "fecho": 19.518
             }
           ]
         },
@@ -19133,8 +19277,8 @@
               "fecho": 19.558
             },
             {
-              "quando": "2026-08-21T13:25:01+00:00",
-              "fecho": 19.86
+              "quando": "2026-08-21T14:15:42+00:00",
+              "fecho": 19.518
             }
           ]
         }
@@ -19156,8 +19300,8 @@
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "I Changed My Mind, Broadcom And Semiconductors Have Peaked For Now (NASDAQ:AVGO) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSDFGLXVqS1JQcHp0VFhpNGtWalNWNDkzeEpvRlhuRnZWenBnSVhJU0pvRjZObUg3MC1FcWowT3pRX3p4OHdyZVBWbE5NWjNqdkVCcml5SEJURGRWbG1IWFVpT21PbUt5WmpuY2IwME5BRXdwVjJoVDdwc1hzOXZQeUE5M0hJZFc5SDBuVi05aHZ2MjBPdHdpYy1ocGo4WWQxVUN3Q2FRVWdKQQ?oc=5",
+          "titulo": "Nvidia receives 'top pick' as BMO initiates coverage on array of semiconductor stocks - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlNsLUxzbHZJdnB0bzBTY2kyMUw0OUZHQTItZTVZMUZmQVI4NXdDOFQ0SFdQTklRLVdNR3M0U2FLN1gzcVQ0Q0QtWFJQN0JEY0JIY0h1d2JJMUpEZTJ1RHptR28waW94NHRhT3R0OFpXS04zMnpNTERINEExQmJfampYN0p1VDFLTzZQeWM2dXNBazF5UTNmTHdBbk04ZFJ3R2xEVlh6a2JIWTFVRU9WZnRHWDhKYjJOTnE4VF9n?oc=5",
           "fonte": "Seeking Alpha"
         }
       ],
@@ -19169,9 +19313,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 377.43,
+        "preco_atual": 377.99,
         "fecho_anterior": 372.61,
-        "variacao_pct": 1.2935777354338298
+        "variacao_pct": 1.4438689246128649
       },
       "historico": {
         "intradiario": {
@@ -19434,8 +19578,36 @@
               "fecho": 377.43
             },
             {
-              "quando": "2026-08-21T13:23:03+00:00",
+              "quando": "2026-08-21T13:20:00+00:00",
               "fecho": 377.43
+            },
+            {
+              "quando": "2026-08-21T13:30:00+00:00",
+              "fecho": 376.8
+            },
+            {
+              "quando": "2026-08-21T13:40:00+00:00",
+              "fecho": 377.59
+            },
+            {
+              "quando": "2026-08-21T13:45:00+00:00",
+              "fecho": 378.0
+            },
+            {
+              "quando": "2026-08-21T13:50:00+00:00",
+              "fecho": 377.0
+            },
+            {
+              "quando": "2026-08-21T13:55:00+00:00",
+              "fecho": 377.32
+            },
+            {
+              "quando": "2026-08-21T14:00:00+00:00",
+              "fecho": 377.8
+            },
+            {
+              "quando": "2026-08-21T14:17:06+00:00",
+              "fecho": 377.99
             }
           ]
         },
@@ -21472,7 +21644,7 @@
             },
             {
               "quando": "2026-08-21T07:00:00+00:00",
-              "fecho": 377.43
+              "fecho": 377.99
             }
           ]
         },
@@ -21936,8 +22108,8 @@
               "fecho": 369.9
             },
             {
-              "quando": "2026-08-21T13:23:03+00:00",
-              "fecho": 377.43
+              "quando": "2026-08-21T14:17:06+00:00",
+              "fecho": 377.99
             }
           ]
         }
