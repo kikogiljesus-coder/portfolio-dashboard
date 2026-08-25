@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-25T15:39:47.321933+00:00",
+  "atualizado_em": "2026-08-25T16:18:29.470784+00:00",
   "analise_geral": "A sua carteira apresenta hoje um desempenho globalmente positivo, impulsionada pela forte recuperação no setor tecnológico e de semicondutores, visível na subida da SEMI.AS e nos mercados emergentes (IS3N.DE). Os índices globais e europeus mantêm-se estáveis, enquanto o ouro e a renda fixa registam ligeiras correções de consolidação. Destaca-se a forte dependência atual do setor tecnológico (especialmente inteligência artificial) que influencia quer os semicondutores quer os mercados emergentes e americanos. Como sugestão, poderá ser prudente ponderar se a sua exposição a este setor não está demasiado concentrada. Se procura estabilidade, reforçar ligeiramente posições em ativos mais defensivos, como obrigações ou o próprio mercado europeu (que tem menor peso tecnológico), pode ajudar a equilibrar o portefólio face à volatilidade que se avizinha com a divulgação de resultados das grandes tecnológicas.",
   "analise_gerado_em": "2026-08-25T11:47:48.683253+00:00",
   "alertas_enviados": {
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 47.052,
+        "preco_atual": 47.145,
         "fecho_anterior": 46.468,
-        "variacao_pct": 1.2567788585693296
+        "variacao_pct": 1.456916587759317
       },
       "historico": {
         "intradiario": {
@@ -414,7 +414,15 @@
             },
             {
               "quando": "2026-08-25T15:20:00+00:00",
-              "fecho": 47.084
+              "fecho": 47.057
+            },
+            {
+              "quando": "2026-08-25T15:25:00+00:00",
+              "fecho": 47.105
+            },
+            {
+              "quando": "2026-08-25T15:30:00+00:00",
+              "fecho": 47.145
             }
           ]
         },
@@ -2431,7 +2439,7 @@
             },
             {
               "quando": "2026-08-25T07:00:00+00:00",
-              "fecho": 47.052
+              "fecho": 47.145
             }
           ]
         },
@@ -3023,13 +3031,18 @@
               "fecho": 47.154
             },
             {
-              "quando": "2026-08-25T15:23:25+00:00",
-              "fecho": 47.052
+              "quando": "2026-08-25T15:35:54+00:00",
+              "fecho": 47.145
             }
           ]
         }
       },
       "noticias": [
+        {
+          "titulo": "Looking at International Stocks? Lean Into Emerging Markets, Instead - ETF Database",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1IySEZ1X3RVYzZfQTlaMnZVclJrTUg5S01LTjdYVGhndEhGNG1OYmNwSERFWm5vR1VSQ21zY3lGeEhFUmcyQTN4emlqQ2IwNkR3bVJzaWg1SDdERzFVazZRSFVPRENXS3ZIZlg3NTFVX2l6MmJHOVQyWk1QTThCNlNmWENwbzNNZFA1akxfeWI3NlU?oc=5",
+          "fonte": "ETF Database"
+        },
         {
           "titulo": "Are Emerging Markets Now An AI Trade? TSMC, Samsung, SK Hynix Drive More Than Half The Gains - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbm1QZmpCVGhRSjItVFEwcmlDR19YWk5EZEtXVXlsMXBXWlIyUUtfMHFudC1ZRGk2U1JzbS1fX01FaGVQTE1xNExjUVZMZEROSngyRlhsY3JiZmlUWkdSOXRoeC1VWC1GUVl5d2V2ekNLTGdnMjVaU3B5U3hPeld0dzE3ZUJvNUZ2ZGM5SGN1WmJXZENPT1lzQm93?oc=5",
@@ -3039,11 +3052,6 @@
           "titulo": "Vanguard International Stock ETF vs Schwab Emerging Markets ETF. Which Fund Gives You More Profitable International Exposure? - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYjhOMzY0TjgtUE5hX0tQWWFON1VCVWw1bjJxN0dPbkJOemFjYUtCTWlVWEhyd3hWYzRmT2djdlJZMUhYc2tPbDY5X1RSUFpGM0lFbUpFbmd2RVRDaGRWM0xoTHhyWWRXUWtzemlYaWx1bGdPUEpPMlFMRzhhaHFVazFLUzlib2lxNFk3WXRwTTk0VkJKMlJEb2RLb09iM3NJaXc3M1FzS1BZZ1paUjduMjNIeFg0ZGFBSWM0ZTh1Q2RFdlI4SUtJZzBoRXQ0ZjZZRzUzbFo0dlpVUHE0akdUR0txeUhfcEZWeWNSUGFBVDNVV0VjS1VfUkEwS3RwUGs?oc=5",
           "fonte": "The Motley Fool"
-        },
-        {
-          "titulo": "For Emerging Market Stock Funds, Concentration Risk May Be Eclipsing Macro Risk - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanRJRjg5S0R1aW91VXBFdHBNV0lSVkNscVVlelJhUi1kTTRaa3BNQzhpZ1VCZVVuOTdRNFd4SDlqS0QwdzhxakRXOWk1eDhaWDdjNTkySnpta1RUb2hjT28xVjBsOFBoa0g2R1hCRlREdUo2RzN0UmlJU1hIdFYzY29IVUZXWEl0UDI5RDlGNi1uU29MTF9hb3Q0N2F6RGNlQjBYbWxCY0dCN3hkUWU0?oc=5",
-          "fonte": "Morningstar"
         },
         {
           "titulo": "This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock - 24/7 Wall St.",
@@ -3059,9 +3067,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 120.0,
+        "preco_atual": 120.04,
         "fecho_anterior": 119.72,
-        "variacao_pct": 0.23387905111927929
+        "variacao_pct": 0.26729034413632424
       },
       "historico": {
         "intradiario": {
@@ -3142,6 +3150,14 @@
             {
               "quando": "2026-08-25T14:40:00+00:00",
               "fecho": 119.94
+            },
+            {
+              "quando": "2026-08-25T15:05:00+00:00",
+              "fecho": 120.0
+            },
+            {
+              "quando": "2026-08-25T15:30:00+00:00",
+              "fecho": 120.04
             }
           ]
         },
@@ -5174,7 +5190,7 @@
             },
             {
               "quando": "2026-08-25T07:00:00+00:00",
-              "fecho": 120.0
+              "fecho": 120.04
             }
           ]
         },
@@ -5930,18 +5946,13 @@
               "fecho": 120.02
             },
             {
-              "quando": "2026-08-25T15:09:56+00:00",
-              "fecho": 120.0
+              "quando": "2026-08-25T15:35:20+00:00",
+              "fecho": 120.04
             }
           ]
         }
       },
       "noticias": [
-        {
-          "titulo": "Four Indian stocks to be added, three removed from key global index in MSCI's August rejig - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTFWTFJwY1ZVako1SFlqamo5S0V5RHp5SGZ2SnJXbUZkSVczeXM2Z0psbDB1NHZBcXY1UjRWV2p5SUZzdGE2NVNzM3d0ZEUyZUE5aDNIZG4ycjVKSFBiSTdMb2JwUk1SNHhUTE51bXhZLXlwNXZnLVVOTEZKMUt1eTM2M0ZHM25OVlpQbzE4NWstamN0bHZxOTdwdVB3NTYyMTI3VHlaRVUzd1ozTjNTcXU0NkNIeGh6T1E2ZW5SZll0Z1E?oc=5",
-          "fonte": "Reuters"
-        },
         {
           "titulo": "The 3 Best Global Index Funds - Investopedia",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXlOX3FoaU9KamNKYXpiQy1jTm5kRm51Y1VULXAtazlrU204WW1ZQVlWdkI0aEtUS1l4THpNVmQwbkUxSUt6WW9SOGpPSTQwNndrbEZvbzBHazJSd1dXV1JCVmhxSVFZMnN0VzVCQnE3YkdOM1pnWmdEUFpzMkw1T0pjLW0tUFU0eHRMYkxXQTVaMEdtYmVLV2NxajNVLUE?oc=5",
@@ -5956,6 +5967,11 @@
           "titulo": "The MSCI World ETF's August Crossroads: Gold Ratings, Tepid Flows, and a Benchmark in Transition - Ad-hoc-news.de",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd1VYQ3gxcW44M2phQzgxRnB2cGhxZnhQOGh1ai1mczNoTFQ0Ny01dnJvZC1VQmxRc3BVT1NKUEUzTV9QUUFNeHFBMFJleWFoZEt2RS1YcUNhM2w1c0sxbVZDNmQwbEVMXzJpN2JuWlB1TEpDdDY4ZEkyRWxXaWswb2UtWmJyWDVtbDlEN05TbnBPTEZmOF9yVEs0VGItQVJuYWxCRkpJVUhkU1RpVi1xSjdBLXdBMjZvck5HeTlPRHBCRXZYd0JfT3B3MmwzTUhsdjNudmxEU0c?oc=5",
           "fonte": "Ad-hoc-news.de"
+        },
+        {
+          "titulo": "International Value Has Outshone US Growth - MSCI",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2htUHZHR0ZoYzhXMEtuaVA3akhSQzhlVlVBTllDdUJBUml3T1FEbVd2MXZoZU1aTEM5eHBFY1Jvc2g3N0JsdVVrTFZGbFl2eFdjWWlQTmZ0UkNrRXFmRnFzcXhiTHpLZ2NlWjVXZ3B5V3VQemF6LU9VcjRtQTZBaHFVQ2JOX2xtQkdGQ2hVQ0dVQmdWNzRhRnhmSQ?oc=5",
+          "fonte": "MSCI"
         }
       ],
       "comentario": "Este fundo global protegido cambialmente subiu 0,37%, continuando a oferecer uma base sólida e diversificada para a sua carteira. É uma excelente opção para manter a exposição global a países desenvolvidos sem se preocupar excessivamente com as oscilações do euro face ao dólar."
@@ -5966,9 +5982,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 157.3,
+        "preco_atual": 157.44,
         "fecho_anterior": 157.13,
-        "variacao_pct": 0.10819067014574933
+        "variacao_pct": 0.19728886908929058
       },
       "historico": {
         "intradiario": {
@@ -6093,6 +6109,10 @@
             {
               "quando": "2026-08-25T15:05:00+00:00",
               "fecho": 157.31
+            },
+            {
+              "quando": "2026-08-25T15:15:00+00:00",
+              "fecho": 157.3
             }
           ]
         },
@@ -8125,7 +8145,7 @@
             },
             {
               "quando": "2026-08-25T07:00:00+00:00",
-              "fecho": 157.3
+              "fecho": 157.44
             }
           ]
         },
@@ -8882,7 +8902,7 @@
             },
             {
               "quando": "2026-08-25T15:15:25+00:00",
-              "fecho": 157.3
+              "fecho": 157.44
             }
           ]
         }
@@ -8904,7 +8924,7 @@
           "fonte": "Yahoo! Finance Canada"
         },
         {
-          "titulo": "Stock Market Today: Indexes Open Higher After Losing Day for S&P 500, Nasdaq; Oil Prices Drop; Bitcoin Briefly Tops $80K - Investopedia",
+          "titulo": "Stock Market Today: Major Indexes Advance After Losing Day for S&P 500, Nasdaq; Oil Prices Sink; Bitcoin Briefly Tops $80K - Investopedia",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnFCUFpWelV1alQ1anRxd1VHcGZ3ajFZdTdmRFFMWWhVUURvcDE2NDJvb0YyeWhzX2pQWXNueDN2VGEyZUZHaUpZRnY4N2htRnhMQ2IwcUdpVXRLdnhQeXRhR3NReGg1bDNuc3VENXd4dTV1Q0Y5WFNzbGQ1dldoSkJpbkJ6ZzUzNXVhdURKeUQ?oc=5",
           "fonte": "Investopedia"
         }
@@ -12699,14 +12719,14 @@
       },
       "noticias": [
         {
-          "titulo": "Why Higher Bond Yields May Make Fixed Income More Attractive - Northwestern Mutual",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSWtuVEIwSUtqZ3RlNW9FSUdmcFY3clZaMVJ0czVqM2RNV05qSnZibHhSX1FtOV9GN3ZzMFYtQW9YaHBxVVE5UHgyRzZQSW1FUXYzWG5YZ0l4U09KUUJiU0x6WGhTcmJVVlUwX1JLOVNPX3YwZy1jZ0lZNzZrb21TenhubDFmZTZTdlZTMEpYSXdJUldHOVNhcTdXRmVvczk2ZTVwMWpfMm0tZDNfbDBnaA?oc=5",
-          "fonte": "Northwestern Mutual"
-        },
-        {
           "titulo": "The U.S. is competing with tech companies for money - Axios",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wN2lweWlZTDNPQXV2RFJrU1lxLWxHelQxZzlacEF0SWtOSEdmTUxVd0hmc2tsSGloQ1UxTlltUGEyZElVOHI4dF9yUnh5bzBSZjBkeUwtX3BkamdDWUlOSE5RX0tuaHc?oc=5",
           "fonte": "Axios"
+        },
+        {
+          "titulo": "This Is the Broad Bond ETF to Consider Now - ETF Database",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0pJMkVhWFp5TDNOem4xR0xzX0VJMGtJeVEyRkN6UFg0NDZ0V2p3WWdVZFVyT1dOaTVDVWwzQkIyZjhZd290LVR3aHZzRmRHNU9nQTkzLXNJUk9Bc0ZUNVN6bkg4cHFrVGJmdHdvQlFWWl9fOWdKbGR1aHh2dGJVODh5TjFMLW8xcGNR?oc=5",
+          "fonte": "ETF Database"
         },
         {
           "titulo": "The Treasury's attempts to get bond yields down amount to 'financial repression,' Citadel Securities says - Business Insider",
@@ -12727,9 +12747,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 106.73,
+        "preco_atual": 106.68,
         "fecho_anterior": 106.335,
-        "variacao_pct": 0.3714675318568771
+        "variacao_pct": 0.32444632529271933
       },
       "historico": {
         "intradiario": {
@@ -13053,7 +13073,15 @@
             },
             {
               "quando": "2026-08-25T15:20:00+00:00",
-              "fecho": 106.745
+              "fecho": 106.73
+            },
+            {
+              "quando": "2026-08-25T15:25:00+00:00",
+              "fecho": 106.71
+            },
+            {
+              "quando": "2026-08-25T15:30:00+00:00",
+              "fecho": 106.68
             }
           ]
         },
@@ -15094,7 +15122,7 @@
             },
             {
               "quando": "2026-08-25T07:00:00+00:00",
-              "fecho": 106.73
+              "fecho": 106.68
             }
           ]
         },
@@ -15910,8 +15938,8 @@
               "fecho": 106.305
             },
             {
-              "quando": "2026-08-25T15:23:12+00:00",
-              "fecho": 106.73
+              "quando": "2026-08-25T15:35:03+00:00",
+              "fecho": 106.68
             }
           ]
         }
@@ -15946,9 +15974,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 19.39,
+        "preco_atual": 19.404,
         "fecho_anterior": 19.032,
-        "variacao_pct": 1.8810424548129496
+        "variacao_pct": 1.9546027742749046
       },
       "historico": {
         "intradiario": {
@@ -16237,6 +16265,18 @@
             {
               "quando": "2026-08-25T15:15:00+00:00",
               "fecho": 19.348
+            },
+            {
+              "quando": "2026-08-25T15:20:00+00:00",
+              "fecho": 19.39
+            },
+            {
+              "quando": "2026-08-25T15:25:00+00:00",
+              "fecho": 19.418
+            },
+            {
+              "quando": "2026-08-25T15:30:00+00:00",
+              "fecho": 19.404
             }
           ]
         },
@@ -18277,7 +18317,7 @@
             },
             {
               "quando": "2026-08-25T07:00:00+00:00",
-              "fecho": 19.39
+              "fecho": 19.404
             }
           ]
         },
@@ -19341,8 +19381,8 @@
               "fecho": 19.622
             },
             {
-              "quando": "2026-08-25T15:23:21+00:00",
-              "fecho": 19.39
+              "quando": "2026-08-25T15:35:12+00:00",
+              "fecho": 19.404
             }
           ]
         }
@@ -19364,9 +19404,9 @@
           "fonte": "CNBC"
         },
         {
-          "titulo": "Top Semiconductor Stocks for AI Server CPU Growth, Says Raymond James - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTXR0YXlKRmRVSG1GT2JJNDlRS29ZN2hiNVRhcHVCX3U3OHFjX2FxSWlxWEw3S1BwNXlkZllzMjYyODViZWhWX3FxSGVRVGVaMnExN0ltUXlJYkhHS1RwX2JBM1RELW9RSU0xSUN1WEVTWENwemp0dU9PeDBVOUpubnRpd0tHODhUdjRJTlhlSDFKWnFiTUs3Z0ljWTA0aVhjMVdoTWlFbmUzUzhTOGQtTmkwX2JhNlBua1hWRTAyQ0M2NGlUWjNHWkdB?oc=5",
-          "fonte": "Investing.com"
+          "titulo": "The 2026 Semiconductor Selloff Creates an Opportunity - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzd6X0lNbmczSUdrZDhweVVlZlpsZlBKWkdUREh3dGZGVlJOMWZYR0JTckw4UUV6YkZZbW04bnpiNFRYZDVPVnhZdUtObHE4MndsUkFXeW96c3Zua3kyT3NmSzVDU2RJbkpKT0VwUXNYdExhR19EZGpDdWw5Y2I4cUpPOEtsRVAtR1RCb3k2T09EMjY0TUFiQ2ZwWnVNdk1CTVY2LWNlQklqbGg3M2duWEVmZTNka0k1dENn?oc=5",
+          "fonte": "TradingView"
         }
       ],
       "comentario": "Destaque do dia com mais 2,28%, impulsionado pela expectativa do setor de semicondutores. No entanto, prepare-se para forte volatilidade associada aos resultados das grandes empresas de chips. Se preferir menos oscilações, sugere-se evitar reforços excessivos neste momento."
@@ -19377,9 +19417,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 382.14,
+        "preco_atual": 382.49,
         "fecho_anterior": 385.18,
-        "variacao_pct": -0.7892413936341504
+        "variacao_pct": -0.6983747858144238
       },
       "historico": {
         "intradiario": {
@@ -19612,6 +19652,10 @@
             {
               "quando": "2026-08-25T15:00:00+00:00",
               "fecho": 382.14
+            },
+            {
+              "quando": "2026-08-25T15:25:00+00:00",
+              "fecho": 382.65
             }
           ]
         },
@@ -21644,7 +21688,7 @@
             },
             {
               "quando": "2026-08-25T07:00:00+00:00",
-              "fecho": 382.14
+              "fecho": 382.49
             }
           ]
         },
@@ -22108,8 +22152,8 @@
               "fecho": 379.23
             },
             {
-              "quando": "2026-08-25T15:00:16+00:00",
-              "fecho": 382.14
+              "quando": "2026-08-25T15:29:56+00:00",
+              "fecho": 382.49
             }
           ]
         }
