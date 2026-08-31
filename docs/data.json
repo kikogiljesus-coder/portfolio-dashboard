@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-08-31T15:10:38.496917+00:00",
-  "analise_geral": "Hoje assiste-se a uma correcao generalizada na carteira, influenciada por preocupacoes com as taxas de juro da Fed e tensoes geopoliticas no Medio Oriente. A queda mais acentuada ocorre no ouro e no S&P 500. Este cenario de volatilidade sugere prudencia. Para um investidor nao profissional, pode ser oportuno manter a calma, evitar decisoes precipitadas e ponderar reforcos graduais em ativos de base ampla se pretender manter a estrategia de longo prazo.",
-  "analise_gerado_em": "2026-08-31T15:10:19.690636+00:00",
+  "atualizado_em": "2026-08-31T20:52:15.418590+00:00",
+  "analise_geral": "Hoje, a carteira apresenta uma correção generalizada, influenciada por receios de subidas de juros nos EUA e volatilidade global. Todos os ativos registam quedas, com o ouro (SGLD.AS) e o setor de semicondutores (SEMI.AS) a liderar as perdas diárias. Por outro lado, o fundo de obrigações (PIMCO) demonstra a sua resiliência defensiva ao registar uma perda muito ligeira. Sugere-se uma abordagem de prudência: momentos de queda generalizada como este podem ser oportunidades interessantes para reforços graduais em ativos de base global e sólida (como IWDE.AS ou IUES.AS) a preços mais acessíveis, sem necessidade de tomar decisões precipitadas motivadas pelo pânico de curto prazo.",
+  "analise_gerado_em": "2026-08-31T20:52:15.418545+00:00",
   "alertas_enviados": {
     "IS3N.DE": "2026-08-19",
     "IWDE.AS": "2026-07-13",
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 47.499,
+        "preco_atual": 47.363,
         "fecho_anterior": 47.845,
-        "variacao_pct": -0.7231685651583165
+        "variacao_pct": -1.0074197930818254
       },
       "historico": {
         "intradiario": {
@@ -401,8 +401,40 @@
               "fecho": 47.53
             },
             {
-              "quando": "2026-08-31T14:53:53+00:00",
+              "quando": "2026-08-31T14:50:00+00:00",
               "fecho": 47.499
+            },
+            {
+              "quando": "2026-08-31T14:55:00+00:00",
+              "fecho": 47.473
+            },
+            {
+              "quando": "2026-08-31T15:00:00+00:00",
+              "fecho": 47.445
+            },
+            {
+              "quando": "2026-08-31T15:05:00+00:00",
+              "fecho": 47.408
+            },
+            {
+              "quando": "2026-08-31T15:10:00+00:00",
+              "fecho": 47.385
+            },
+            {
+              "quando": "2026-08-31T15:15:00+00:00",
+              "fecho": 47.383
+            },
+            {
+              "quando": "2026-08-31T15:20:00+00:00",
+              "fecho": 47.38
+            },
+            {
+              "quando": "2026-08-31T15:25:00+00:00",
+              "fecho": 47.446
+            },
+            {
+              "quando": "2026-08-31T15:30:00+00:00",
+              "fecho": 47.363
             }
           ]
         },
@@ -2414,8 +2446,12 @@
               "fecho": 47.552
             },
             {
+              "quando": "2026-08-28T07:00:00+00:00",
+              "fecho": 47.845
+            },
+            {
               "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 47.499
+              "fecho": 47.363
             }
           ]
         },
@@ -3007,8 +3043,8 @@
               "fecho": 47.552
             },
             {
-              "quando": "2026-08-31T14:53:53+00:00",
-              "fecho": 47.499
+              "quando": "2026-08-31T15:35:55+00:00",
+              "fecho": 47.363
             }
           ]
         }
@@ -3035,7 +3071,7 @@
           "fonte": "Seeking Alpha"
         }
       ],
-      "comentario": "O ETF de mercados emergentes recuou 0,72% devido as expectativas de juros altos nos EUA. Sugere-se acompanhar o peso de gigantes tecnologicos asiaticos neste ativo. E uma opcao util para diversificar a carteira a longo prazo."
+      "comentario": "Recuou 1,01%, penalizado pelas perspetivas das taxas da Fed. Sendo um fundo exposto a mercados emergentes com forte peso tecnológico (como TSMC e Samsung), sugere-se manter a paciência. A volatilidade é típica desta classe de ativos, que continua a ter forte potencial de crescimento a longo prazo."
     },
     {
       "ticker": "IWDE.AS",
@@ -3043,9 +3079,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 119.9,
+        "preco_atual": 119.84,
         "fecho_anterior": 121.08,
-        "variacao_pct": -0.9745622728774304
+        "variacao_pct": -1.0241162867525562
       },
       "historico": {
         "intradiario": {
@@ -3148,8 +3184,20 @@
               "fecho": 119.9
             },
             {
-              "quando": "2026-08-31T14:36:35+00:00",
+              "quando": "2026-08-31T14:55:00+00:00",
               "fecho": 119.9
+            },
+            {
+              "quando": "2026-08-31T15:00:00+00:00",
+              "fecho": 119.88
+            },
+            {
+              "quando": "2026-08-31T15:05:00+00:00",
+              "fecho": 119.88
+            },
+            {
+              "quando": "2026-08-31T15:30:00+00:00",
+              "fecho": 119.84
             }
           ]
         },
@@ -5177,8 +5225,12 @@
               "fecho": 120.44
             },
             {
+              "quando": "2026-08-28T07:00:00+00:00",
+              "fecho": 121.08
+            },
+            {
               "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 119.9
+              "fecho": 119.84
             }
           ]
         },
@@ -5934,8 +5986,8 @@
               "fecho": 120.44
             },
             {
-              "quando": "2026-08-31T14:36:35+00:00",
-              "fecho": 119.9
+              "quando": "2026-08-31T15:35:24+00:00",
+              "fecho": 119.84
             }
           ]
         }
@@ -5962,7 +6014,7 @@
           "fonte": "Yahoo Finance"
         }
       ],
-      "comentario": "Com uma queda de 0,97%, este ETF global reflete o sentimento negativo do mercado mundial. A cobertura cambial protege-o da volatilidade do euro. Sugere-se mante-lo como um dos pilares de estabilidade da sua carteira."
+      "comentario": "Teve uma queda de 1,02%. Sendo uma das maiores opções de exposição global com cobertura cambial, reflete o sentimento de aversão ao risco global. Sugere-se considerá-lo como o pilar de estabilidade acionista da carteira; quedas pontuais podem ser janelas para reforços estratégicos."
     },
     {
       "ticker": "IUES.AS",
@@ -5970,9 +6022,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 157.51,
+        "preco_atual": 157.56,
         "fecho_anterior": 159.34,
-        "variacao_pct": -1.1484875109828119
+        "variacao_pct": -1.1171080707920178
       },
       "historico": {
         "intradiario": {
@@ -6135,8 +6187,24 @@
               "fecho": 157.47
             },
             {
-              "quando": "2026-08-31T14:47:39+00:00",
+              "quando": "2026-08-31T14:45:00+00:00",
               "fecho": 157.51
+            },
+            {
+              "quando": "2026-08-31T14:55:00+00:00",
+              "fecho": 157.5
+            },
+            {
+              "quando": "2026-08-31T15:05:00+00:00",
+              "fecho": 157.54
+            },
+            {
+              "quando": "2026-08-31T15:10:00+00:00",
+              "fecho": 157.5
+            },
+            {
+              "quando": "2026-08-31T15:30:00+00:00",
+              "fecho": 157.56
             }
           ]
         },
@@ -8164,8 +8232,12 @@
               "fecho": 158.48
             },
             {
+              "quando": "2026-08-28T07:00:00+00:00",
+              "fecho": 159.34
+            },
+            {
               "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 157.51
+              "fecho": 157.56
             }
           ]
         },
@@ -8921,35 +8993,35 @@
               "fecho": 158.48
             },
             {
-              "quando": "2026-08-31T14:47:39+00:00",
-              "fecho": 157.51
+              "quando": "2026-08-31T15:35:04+00:00",
+              "fecho": 157.56
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "S&P 500 falls Friday after Fed’s Warsh highlights inflation worries, but index posts positive week - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rNFZvcEhsdFdNUWJGaHNfck9XLWRYbTZoeURzSjQ2MTdCbVVsaXBKei1IUEx3VmsyNjRPaFVYaU5udmtxUzB0QmlCbWVZcUk3QlF5OWhOdGdnb3ZzTGl0UjE3Q2p4ZlZaRk5vdGZ2R0I4SGEtT2VN0gF8QVVfeXFMTWxKRVZ3YVptQm9SMGdOMUxkQXAxY1J2NkQyTXBWTi1SNHlqRlVmTi11V2lVYTJ3UFVxU3NQTzZFTFNkb1RoNjktSy1CQmhjN2w3d3NkWk1CdG5vZkJjZGo1R1lNYjgxZ1VGUlFfSTJMY1ZJc0NIZ0NjR29JUg?oc=5",
-          "fonte": "CNBC"
+          "titulo": "Tesla Tops S&P 500. Was It Cybercab Buzz, Or Elon Musk's New FSD Tease? - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORzVlN1dFMUpZNkplemRIZnQ4M2xuUlVWT0JPYkJ2Q1lNdGpvdXBiWWVRUk4ydEoyd09aSEh4MUpGcE0yX0ZuTHYxSUQ4WWJ0UUZLVC1obHp3ZU1VVnE4ZVR5NW11S0lZZTVZdXZtcjhOV2RQNFd2NFhhNWN2R2xSLTNIOVlObUNZM2pWZ0VBOEwtQXlx?oc=5",
+          "fonte": "Investor's Business Daily"
         },
         {
-          "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures fall as US strikes Iran, rate-hike bets jump - Yahoo Finance",
+          "titulo": "Stock market today: Dow, S&P 500, Nasdaq slip but cap winning month for stocks - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDF1ZmtVSFBxOUJsQlN5MEdsSUhoYk9UbWtOYXRSU1BWbWZuSlMtbFJtbXFFcExoVnhHUHNTNHp2LWhrZXdNMndSZzRIWnFtdzZOc09WVmxwWkNRb1BkSW95TDhKMTdDaTc0cWdQRnN0cFJmMEFYRVBNcHFIRGNyYUxhMHk1WklvNngwV2xfdTR5c0VGLTkxQzZmSHZ0QTE1dm4zSjRreU5JRjQ?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Stock Market Today: Dow falls 350 points, S&P 500 and Nasdaq lower as Trump threatens fresh Iran strikes; Brent oil tops $90 and 30-year yields hits 5.25% - MarketWatch",
+          "titulo": "Stock Market Today: Dow ends lower but still logs fifth month of gains; Nasdaq and S&P 500 gain in August despite Brent oil above $90 and 30-year yields at 5.25% - MarketWatch",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMXRCVktYMXh5ak45eDRlN011MF81bHBSSDJ3d1pGbktLdzRvS0U5WGNhOTF0aWJ3Y0xtdjdxWWZNcXU3Vy1UYlJvbjBNV3N0SllLYXJDV0thbzZmT3doT0JFZUZHYmpJRjBzMEdjNnFwSkRjX0x4SXdNYXZ4bEF6Tng2dVpuNFFjbDBtQ3l4STc4dHpwaXF4QkxmRzk4RzlRV1B5cVFSTlo1YmxZc3RyVVg3a1JuX2I1c2tRenA5VVgxcEhEaE1ZQnk0dGJwcTlJTGRZRUVZYw?oc=5",
           "fonte": "MarketWatch"
         },
         {
-          "titulo": "Dow Falls as Market Reacts to Fed's Warsh, Iran Strikes - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tcGQwQ0NCUG0wWmtmMmk2Q05UdEJkbk1MUFJOd3NLNVFXVWJkTmZ3UVoxamVwSzlfdHlicG5HUFBZajNpYWRHZk1idnFHT2lkVWRTSGJqQVBnbm5VWTFFcG1LV0lOTFU4Zzl4TTdxUFZITGN1NlE?oc=5",
-          "fonte": "Barron's"
+          "titulo": "Markets News, Aug. 31, 2026: Major Stock Indexes Post Gains for August Despite Falling Monday Amid Rising Oil Prices - Investopedia",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDBaWHRkUENIdjNqdmxleEFoWkF2aUduUHFpOTZUR0R3eklaUnVPNzBHWXNJR0pLQ3VGNXBiRm45YTZZNlFVTW1aUzJKWWV3M0VNTEpEMXB0eGxvSjdJUzE4TGdRYjNxRHB2RFhqR003SVZSY2cwNTF2Yi01UjRsS0RCRHluVlRHRzQtYklsRF8?oc=5",
+          "fonte": "Investopedia"
         }
       ],
-      "comentario": "O S&P 500 com cobertura cambial caiu 1,15%, pressionado por receios de inflacao. Sendo as acoes americanas o motor global, estas oscilacoes sao normais. Sugere-se paciencia, pois historicamente o mercado norte-americano tende a recuperar no longo prazo."
+      "comentario": "O ETF do S&P 500 caiu 1,12% hoje, apesar do bom momento recente de empresas como a Tesla. Sendo protegido contra o risco cambial do Euro, sugere-se acompanhar de perto a evolução económica americana, mantendo a confiança na resiliência histórica do mercado dos EUA."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -8957,9 +9029,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 7.23,
-        "fecho_anterior": 7.28,
-        "variacao_pct": -0.6868131868131844
+        "preco_atual": 7.2,
+        "fecho_anterior": 7.23,
+        "variacao_pct": -0.414937759336103
       },
       "historico": {
         "intradiario": {
@@ -12739,6 +12811,16 @@
       },
       "noticias": [
         {
+          "titulo": "How economics impact callable bonds - bondbuyer.com",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UMUtnRUNUX0l3RUwwVjJfUG9ETEFXZUlRMHBCWloxcU5BWnNMZVdyaUNlWWVFTkxaLXlMYmxkRzgxTHFqbE9EMnhRcVFvbm1UMVBUSWdad0ZxSW9WeG4zaWZuR3laRl9heFBvS0tGdzYwVzJm?oc=5",
+          "fonte": "bondbuyer.com"
+        },
+        {
+          "titulo": "Opinion | Trump vs. the Bond Market - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2ZrOEtDM1NLVU5mYW5jTTA5eEJfYVFUclg4TnRGSDNaSGE5QkY1d21vT1N0TUN0WTJaT2hoMUc3VDJhcU5qa29NblJyQmtEdDdOUGtoMVRYSkVSdUJvT3k3LWdIcjg2a21sbkVjRWl3SjNzalVYY296VEtja1NSREpENUhtNU9waVBXTk9n?oc=5",
+          "fonte": "The New York Times"
+        },
+        {
           "titulo": "The danger of hitting mute on US bond markets - Atlantic Council",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVZ0RHNQRGlkU2FmMnF0LVdPbGI3T1VrTGtnNjF6MkJsUnFYbW4tTWJ0cFFwUlpLSkFmU3Q1ZURydG40dWpKbElKa2NRbHJ4Z1ZkaTRwZEVCaGFmY0M0c1FHbndmejlUTnVrTTFlVTljYzZXUndnX2N4SzF6RGFqZEVCeHNsQm9xVHZ2N1BDNFFtRnpaTXpXYnVHMGlYX2FMTHhwdHhEWmtKWjJoSzIySg?oc=5",
           "fonte": "Atlantic Council"
@@ -12747,19 +12829,9 @@
           "titulo": "Bond Risks | Rates, Credit Quality, Liquidity, & Call Risk - Britannica",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01ZXBETnhadU1CMVg4SmVSWVdMNGlpQXhNRFdjUjQzc1N1c2hoeGo1UTRtTVlUNTU5LW5DX1ZKQ21CWURVVEdTaGxHMlpZNmxSTFAzdTM2b1N2RWpHQ3dr?oc=5",
           "fonte": "Britannica"
-        },
-        {
-          "titulo": "Allspring High Yield Municipal Bond Fund Q2 2026 Commentary - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSEdWdWF1MVR0TEc5Vko5YkI0ZTdBNElqWTZneVlPSmpYSTVOVGxMVWtZX2xVRG5IMDdVSFdtTUVjQjVEN0xBLVdyaEtIWU1NcXpoV3UxSVlGTHcwQzc0b1lPVEtnQ21pRmVPUDNSckNmbF9CS285MVhtdjRPOGZIVUptbWRNV1QydjgtUXA3OVdmTlBRZlFuRmNYNGdxNlI3bVE?oc=5",
-          "fonte": "Seeking Alpha"
-        },
-        {
-          "titulo": "Why Is Wall Street’s Bull Market Holding Up Despite a Treasury Bear Market? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNVFDeF8zaXljbTNqaUt0OGNPdmZvVkgtWWk5OGRLYVo4Qk1nZjQwdktSSHN1aG5qWGJlVFlIR29LbWtLX1RfVnN4MDI3ZzJKRXRacVhiZEIxWU11dldzcDRFeFdkUnNYV19KNW1RUnZFUE5qS1BEbXZDdDAwWEtyX3hFYTh1YzFKOGF4Zl94VDQ3bHdPeVNiTlhvSWJaR0JBY3ltRVpGaTFIazlLNGl4SzVnWW5XU2NZUkFMcWY5T1AyVV9kcDQ0XzZUVnRnQQ?oc=5",
-          "fonte": "TradingView"
         }
       ],
-      "comentario": "Este fundo de obrigacoes recuou ligeiramente 0,69%. Numa carteira equilibrada, as obrigacoes servem para amortecer a volatilidade das acoes. Sugere-se a sua manutencao para continuar a gerar rendimento e reduzir o risco global da carteira."
+      "comentario": "Com uma queda suave de 0,41%, o fundo de rendimento da PIMCO provou novamente o seu papel defensivo. No atual ambiente de incerteza política e de taxas de juro, sugere-se a sua manutenção para mitigar a volatilidade das ações e garantir estabilidade."
     },
     {
       "ticker": "IMAE.AS",
@@ -12767,9 +12839,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 105.735,
+        "preco_atual": 105.57,
         "fecho_anterior": 106.445,
-        "variacao_pct": -0.667011132509741
+        "variacao_pct": -0.8220207618958147
       },
       "historico": {
         "intradiario": {
@@ -13141,11 +13213,39 @@
             },
             {
               "quando": "2026-08-31T14:50:00+00:00",
-              "fecho": 105.75
+              "fecho": 105.735
             },
             {
-              "quando": "2026-08-31T14:54:52+00:00",
-              "fecho": 105.735
+              "quando": "2026-08-31T14:55:00+00:00",
+              "fecho": 105.74
+            },
+            {
+              "quando": "2026-08-31T15:00:00+00:00",
+              "fecho": 105.745
+            },
+            {
+              "quando": "2026-08-31T15:05:00+00:00",
+              "fecho": 105.675
+            },
+            {
+              "quando": "2026-08-31T15:10:00+00:00",
+              "fecho": 105.64
+            },
+            {
+              "quando": "2026-08-31T15:15:00+00:00",
+              "fecho": 105.61
+            },
+            {
+              "quando": "2026-08-31T15:20:00+00:00",
+              "fecho": 105.61
+            },
+            {
+              "quando": "2026-08-31T15:25:00+00:00",
+              "fecho": 105.65
+            },
+            {
+              "quando": "2026-08-31T15:30:00+00:00",
+              "fecho": 105.57
             }
           ]
         },
@@ -15181,8 +15281,12 @@
               "fecho": 105.87
             },
             {
+              "quando": "2026-08-28T07:00:00+00:00",
+              "fecho": 106.445
+            },
+            {
               "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 105.735
+              "fecho": 105.57
             }
           ]
         },
@@ -15998,15 +16102,15 @@
               "fecho": 105.87
             },
             {
-              "quando": "2026-08-31T14:54:52+00:00",
-              "fecho": 105.735
+              "quando": "2026-08-31T15:35:20+00:00",
+              "fecho": 105.57
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Europe stocks edge lower as oil jumps; monthly gain in sight - Reuters",
+          "titulo": "Europe's STOXX 600 falls as oil prices jump, but secures fifth monthly gain - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzdFeEJfZ24zM2Yxemdobk42RnA2M1RVTWMwdWZ1NDA1X21PTS04d3BMWVZwTkNUTGRCNWdmS2phTUhJdUVZR29TMWVBU3dqUkhtVFdZRVgtUEM5WldFRlNFcGh4U05tdGYtN21pam5uU1hzd19aSlFGaXRzbXlMWFp2ZmZDMXdQeXc3QVRXdDM4UHg4OVlUODdmLTNCVk5PQzZEaQ?oc=5",
           "fonte": "Reuters"
         },
@@ -16016,9 +16120,9 @@
           "fonte": "Goldman Sachs"
         },
         {
-          "titulo": "These 16 European Stocks Pay Dividends in September 2026 - Morningstar",
+          "titulo": "These 16 European Stocks Pay Dividends in September 2026 - global.morningstar.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVY3WkZyM0luQ1Q3RTgzc1FMS016UC1xLWpqeUNWLXZsRV95cjdsX0tNb1RQTnJXRllKOTluLWFFTV80VDdGMXQ1N3RBV3pGaFZQR3MtVkp1TnpzdC1EOEUwYnpNd3ZnX25Cbks1WFZJeVQ4LXZraElHcVJidXNsR2VVaFBQcUZCZ1FZeFFjUmV2c28yRlFvdE53V3hsUQ?oc=5",
-          "fonte": "Morningstar"
+          "fonte": "global.morningstar.com"
         },
         {
           "titulo": "Stock Market Bargains Are Hiding in This Overlooked Place - WSJ",
@@ -16026,7 +16130,7 @@
           "fonte": "WSJ"
         }
       ],
-      "comentario": "O ETF de acoes europeias caiu 0,67%, mostrando maior resiliencia do que o mercado americano gracas aos resultados solidos das empresas europeias. Sugere-se manter a posicao, pois a Europa oferece boa diversificacao e dividendos atrativos."
+      "comentario": "Registou uma queda de 0,82%. Apesar do impacto da subida do preço do petróleo na Europa, os resultados das empresas europeias continuam robustos. Sugere-se manter o ativo para garantir uma diversificação geográfica equilibrada fora do eixo norte-americano."
     },
     {
       "ticker": "SEMI.AS",
@@ -16034,9 +16138,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 19.358,
+        "preco_atual": 19.252,
         "fecho_anterior": 19.57,
-        "variacao_pct": -1.0832907511497176
+        "variacao_pct": -1.6249361267245854
       },
       "historico": {
         "intradiario": {
@@ -16291,8 +16395,28 @@
               "fecho": 19.358
             },
             {
-              "quando": "2026-08-31T14:40:26+00:00",
-              "fecho": 19.358
+              "quando": "2026-08-31T14:55:00+00:00",
+              "fecho": 19.328
+            },
+            {
+              "quando": "2026-08-31T15:05:00+00:00",
+              "fecho": 19.28
+            },
+            {
+              "quando": "2026-08-31T15:10:00+00:00",
+              "fecho": 19.25
+            },
+            {
+              "quando": "2026-08-31T15:15:00+00:00",
+              "fecho": 19.23
+            },
+            {
+              "quando": "2026-08-31T15:25:00+00:00",
+              "fecho": 19.318
+            },
+            {
+              "quando": "2026-08-31T15:30:00+00:00",
+              "fecho": 19.252
             }
           ]
         },
@@ -18328,8 +18452,12 @@
               "fecho": 19.666
             },
             {
+              "quando": "2026-08-28T07:00:00+00:00",
+              "fecho": 19.57
+            },
+            {
               "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 19.358
+              "fecho": 19.252
             }
           ]
         },
@@ -19394,11 +19522,11 @@
             },
             {
               "quando": "2026-08-23T22:00:00+00:00",
-              "fecho": 19.666
+              "fecho": 19.57
             },
             {
-              "quando": "2026-08-31T14:40:26+00:00",
-              "fecho": 19.358
+              "quando": "2026-08-31T15:35:16+00:00",
+              "fecho": 19.252
             }
           ]
         }
@@ -19415,8 +19543,8 @@
           "fonte": "24/7 Wall St."
         },
         {
-          "titulo": "AEHR vs. COHU: Which Semiconductor Equipment Stock Is The Better Buy? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUs1eDBpTlZIbVZIRzdncUx6c1hBaGZnaDVaZUlNX0VTbkExZzBpenhIb0JaVnVIV3h5TEw3TzMtaG92TFE0UmRwLTVlSlN6UWgwUHp6bUlZLWZfdTNmbEt5ekVvMjEtdlEtOFQwRVpLaVRmQ0Q5aVRQODRXc1VmeDdjQmx4ODFkSm5kbFRIMHRGTGlmUGg4ZFZ2WWlLT2hZaWlJ?oc=5",
+          "titulo": "I've Covered Semiconductors for 5 Years. Nvidia Is My No. 1 Pick Heading Into 2027. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVZMOG9wN1c1V083MEVUa0FkOG1TYk10M1NGUUhrVUU2ZVVLM19ZVU1MSFJuX0dORzZMMFktSnNDRWlhaEVsOUNzcW5FVUZyYTFwWjNrS0J4OFhjSUo3bnVKdnN6eWRubWZLUVVQUUtSWUhsX0lKQlh3M0luMlkwdks0U092S3p6LWstZFdycWE3cUM2NGI2c2dZZENHN2M2?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
@@ -19425,7 +19553,7 @@
           "fonte": "The Motley Fool"
         }
       ],
-      "comentario": "O setor de semicondutores recuou 1,08%. E um segmento de elevada volatilidade mas com forte potencial de crescimento futuro. Sugere-se cautela na exposicao total, embora correcoes como esta possam abrir oportunidades interessantes de entrada."
+      "comentario": "O setor de semicondutores caiu 1,62%. É um setor conhecido pela sua alta volatilidade, mas fundamental para o futuro tecnológico (com Nvidia e TSMC). Sugere-se aproveitar correções acentuadas como esta para ponderar pequenos reforços, caso tenha um perfil tolerante ao risco."
     },
     {
       "ticker": "SGLD.AS",
@@ -19433,9 +19561,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 367.07,
+        "preco_atual": 366.87,
         "fecho_anterior": 378.51,
-        "variacao_pct": -3.0223772159256024
+        "variacao_pct": -3.0752159784417814
       },
       "historico": {
         "intradiario": {
@@ -19734,8 +19862,32 @@
               "fecho": 367.4
             },
             {
-              "quando": "2026-08-31T14:53:06+00:00",
+              "quando": "2026-08-31T14:50:00+00:00",
               "fecho": 367.07
+            },
+            {
+              "quando": "2026-08-31T14:55:00+00:00",
+              "fecho": 367.09
+            },
+            {
+              "quando": "2026-08-31T15:00:00+00:00",
+              "fecho": 367.41
+            },
+            {
+              "quando": "2026-08-31T15:10:00+00:00",
+              "fecho": 367.25
+            },
+            {
+              "quando": "2026-08-31T15:15:00+00:00",
+              "fecho": 367.25
+            },
+            {
+              "quando": "2026-08-31T15:25:00+00:00",
+              "fecho": 367.11
+            },
+            {
+              "quando": "2026-08-31T15:30:00+00:00",
+              "fecho": 366.87
             }
           ]
         },
@@ -21763,8 +21915,12 @@
               "fecho": 379.45
             },
             {
+              "quando": "2026-08-28T07:00:00+00:00",
+              "fecho": 378.51
+            },
+            {
               "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 367.07
+              "fecho": 366.87
             }
           ]
         },
@@ -22228,35 +22384,35 @@
               "fecho": 379.45
             },
             {
-              "quando": "2026-08-31T14:53:06+00:00",
-              "fecho": 367.07
+              "quando": "2026-08-31T15:35:02+00:00",
+              "fecho": 366.87
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "Here’s Why Gold Price Is Falling Again - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmZkZkxteXhwVXRFZ3hFVTVRNmhISTZmOEJ2N2RPMldwSzl3OGxpaVEtUGp5RDRycHZTbkFBME56OFpQdmpkY05hSE5ueVBCQmxfem5EV2hteGpGV2lWWHltT0xlcm9oRHREWHZZN3pVZ2xXclVMYTFLVVdkaVk1MXN2RS1rV2FoTFoySzZ1RzlpSGY5RmlKM0dXNFpyV19Ta2RGcHJnSC1PN2FpLWU4UkZ4MlBQdjRpSjFiblR2WVlFaWgwQWc?oc=5",
+          "fonte": "Forbes"
+        },
+        {
           "titulo": "Gold Is Forecast to Climb as Central Banks Buy the Precious Metal - Goldman Sachs",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3Rkbk5XV2w2ZFFsUGY2WVRfTlJjYWJKVnI4TUJFRktBV1dOejd2UktQaXd3RUVUMWhYVTFDWFk2d2VxbXhERWpKM2EtRnp4X2Q2MHRoV0dnRzFiLUxOSVQ5LXoyRllBZ1VRMjViSzlqTHF5UTh1WVRPUldOMmxRbnBYU3VHOVNPUGFOd0pBUldMZDM2SXlTYWxqYkNBVDA2TmVqb3AtdW9aM1dJM2hndGhn?oc=5",
           "fonte": "Goldman Sachs"
         },
         {
-          "titulo": "Gold price drops as Warsh warns Fed still has ‘work to do’ on inflation - Mining.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQekpOMy0wWTVzUW5GTVM4UnNKUFBJMnZUOUJmSXhCdDBqTzRwYTlMdWc3ZHRJNjRoV1NXdmVoallhTzc4bXR3VzU3X3Y4cEdma0xHOWpYYXlQT1VlU0oycU1lSktjelktVEg4Y3ZlWFVUUXpsY3VDcUpSZWVlQlJiN1hYekJ2ZzFobkh3SUprZF9UbTMyd1A5Qw?oc=5",
-          "fonte": "Mining.com"
+          "titulo": "Gold price is going to $20,000 as the Fed is ‘powerless’ to fight inflation, miners offer greatest upside - Crescat’s Kevin Smith - KITCO",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3RaU1RYeERlaFJkRU5ZVjBkSFlYV2xJVmtCV09NS1g2d185bFNNcy1nR1NDM25HX2djcEU3RHFxZFk4U0twMnZXZ0NNbmhkV1pVZnRMMWYxdExZa0RFRXpCUzd1Y0MzaUFsbWxGNkE4Y2dOaFo2NUkwQ2ZhczE2UThaMUltZHR1b0ptTG9wWmZ6NW1pRGFKQjY2RGYwODdNSUc3d1ExWUR3WmVJQW16Q2VlNkJCYXY1UFhMLQ?oc=5",
+          "fonte": "KITCO"
         },
         {
-          "titulo": "Current price of gold: Aug. 28, 2026 - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xWmxzNXVfOXZIdFUyV3pDMGMtb0xLTklMeUEtc3dwektqZV9MM2x4d2szcWwwNDQzMFlyaDNJVVBhejVEb01Qai0yREt2d1UtazdMcUlDTVVBd2hTS2Q1ZmNqaDFYbFN3QTY4QjhB?oc=5",
+          "titulo": "Current price of gold as of August 31, 2026 - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlR3MxRjVoV2IyTlVFUS1EU0lPQjJnckZ5ZnhOeHpVelJ2RG1zdmQwZVozVkswWUxSX2RTMUNHUVdEWURWQjBoOW1qV2ZzaTZUSTdtdHNvdlNwUzNsbkY4bjlUSFFmd1hncF9na2hR?oc=5",
           "fonte": "Fortune"
-        },
-        {
-          "titulo": "Gold Price Loses Its Technical Supports and Deepens Losses – Analysis – 31-08-2026 - Economies.com",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTW8waU52d28wcEZiQTFLWHhNYzBUd2o0UGs2TjZUazU0X01DUlJxeWxHb1ZBVTFSQVRfTTRHYVlURHBxa2M4c3JSX2RsMGE5R29nNW83SmpDb28xSHItR3V0enlsbGk1a2tTY0pyNjhkUDFQeXBxSmxYc0dpRzRtdDI3RjVFQ19zX25EM2VvRUg4RGZSUXphV21WbXVUQXdsWkIxZnJrR19fR0cxMnk5MER0Mlc2MUJsYzZvSDRrWmc2YkE4WGVHM3VPZjgyWHpkS0ZBREtZb3ZVMFRFWk1TNjgwYjV6cWJhNHZ0VEJR?oc=5",
-          "fonte": "Economies.com"
         }
       ],
-      "comentario": "O ouro registou a maior queda do dia (-3,02%) devido a pressao dos juros altos da Fed. Apesar desta correcao temporaria, o ouro continua a ser um ativo de refugio. Sugere-se a manutencao da posicao como protecao contra incertezas geopoliticas."
+      "comentario": "O ouro recuou 3,08% hoje, corrigindo de máximos recentes. Apesar desta quebra abrupta, os bancos centrais continuam a comprar metal precioso como refúgio contra a inflação. Sugere-se manter o ouro como proteção e seguro de carteira para o longo prazo."
     }
   ]
 }
