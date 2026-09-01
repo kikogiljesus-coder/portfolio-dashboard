@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-31T20:52:15.418590+00:00",
+  "atualizado_em": "2026-09-01T00:22:43.946945+00:00",
   "analise_geral": "Hoje, a carteira apresenta uma correção generalizada, influenciada por receios de subidas de juros nos EUA e volatilidade global. Todos os ativos registam quedas, com o ouro (SGLD.AS) e o setor de semicondutores (SEMI.AS) a liderar as perdas diárias. Por outro lado, o fundo de obrigações (PIMCO) demonstra a sua resiliência defensiva ao registar uma perda muito ligeira. Sugere-se uma abordagem de prudência: momentos de queda generalizada como este podem ser oportunidades interessantes para reforços graduais em ativos de base global e sólida (como IWDE.AS ou IUES.AS) a preços mais acessíveis, sem necessidade de tomar decisões precipitadas motivadas pelo pânico de curto prazo.",
   "analise_gerado_em": "2026-08-31T20:52:15.418545+00:00",
   "alertas_enviados": {
@@ -7,7 +7,7 @@
     "IWDE.AS": "2026-07-13",
     "IUES.AS": "2026-07-13",
     "SEMI.AS": "2026-08-19",
-    "SGLD.AS": "2026-08-31"
+    "SGLD.AS": "2026-09-01"
   },
   "ativos": [
     {
@@ -2448,10 +2448,6 @@
             {
               "quando": "2026-08-28T07:00:00+00:00",
               "fecho": 47.845
-            },
-            {
-              "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 47.363
             }
           ]
         },
@@ -3041,10 +3037,6 @@
             {
               "quando": "2026-07-31T22:00:00+00:00",
               "fecho": 47.552
-            },
-            {
-              "quando": "2026-08-31T15:35:55+00:00",
-              "fecho": 47.363
             }
           ]
         }
@@ -5227,10 +5219,6 @@
             {
               "quando": "2026-08-28T07:00:00+00:00",
               "fecho": 121.08
-            },
-            {
-              "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 119.84
             }
           ]
         },
@@ -5984,34 +5972,30 @@
             {
               "quando": "2026-07-31T22:00:00+00:00",
               "fecho": 120.44
-            },
-            {
-              "quando": "2026-08-31T15:35:24+00:00",
-              "fecho": 119.84
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "SanDisk Reverses Losses to Rise Over 5% Late in Session, Included in MSCI Global Index at Today's Close - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRU1rcTV2ajk3eFE1QTUyVkNSWjVMZkcwRTNKOHRMb1AzSGI1d0dvbUUydWJvd3h0bW4xV3FWbmlkVENqdmVpOThkMmdVbVN5Rm8xMlQtYUs2LWhLN3lIdmduVk42LTJkVkVkM0JPdjM4SjBuZ1hyNGtvdXNvNTVpT1BiZFBHaU40M08zRXR5Ykd5TDVwZEsyYnVKZllzX3paV0JqczZPc2ZxQVhzelRlYmg0aE9POHZmUk9CeElTZ2g4MHV0TW1FYjlqbW5zQTlXVTNJX053cw?oc=5",
+          "fonte": "TradingKey"
+        },
+        {
           "titulo": "Non-U.S. Equities: Why It’s About Companies, Not Countries - Lord, Abbett & Co LLC",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZk13eTBRTl9wenBCNjFjMTA2QTRiakdGek9pTmJIbF90T2lzT3c5YzIxT3FVbGtfRHdNaXByVGZMSHFzMVJzdDZuR0RLU0RfTXlXWjY4dElkN1ZXU1hiLXlpUExET3JFWW8yb1g0cGN3M1ZqN2ZVWk5MaFlOOUNQM2JTQUFKWERUcHZHeE0zeTFPZlo5dGJWWU8tT2liT2ZlYVEwRWo3WjVLdWpsaENIbUt2UlVub0hBTlZTTlptV0ZJNW52eFZqR3VHSWRuemVVV1c1SW1KcmtKUlBEUkE?oc=5",
           "fonte": "Lord, Abbett & Co LLC"
         },
         {
+          "titulo": "Top 20 by Trading Volume | SanDisk surges 5% in late trading, officially included in MSCI Global Index; Tesla rises over 5.5%, launches affordable Model 3 in Hong Kong and Macau; U.S. FTC sues Amazon for manipulating ad prices - 富途牛牛",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHRYQzVPbm01emJKTzdhRXRXVnhlbzlyYngtbWZHZm95STRYcEJhQXVhWS1HaXU1NUlINUhwdGVEZERFWkdQZlY4Tkl6ckV2LVBDX1FrR1JTc0ZjaExhV0RvVGd0WTZhMldiT2FIZVBWbFRZMkVmeEUwSkxDNjFXUkNhVkhaTjE1OHg0RjAzUHVJUzhs?oc=5",
+          "fonte": "富途牛牛"
+        },
+        {
           "titulo": "The 3 Largest Global Ex-U.S. ETFs - Investopedia",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEtFc2h3Nk5laUZZNzZ4UUZVU2NPVHdHRVdmeWxnOUZUQURIMVk5RUVSWUltT1licHJ3d2x6WXBWRmZPelFQQUJ2M2dIaTZYSVVweUdQVC1uZnFHQW5iRVl5bHI3T2dQYU41TmN0R1dlbkpOdlRvc3JEcEJ1a0ljaWlENm9xU2x3QloxQTRFeUpXa2p5OTJSZUxGZC13dW1vX3ptRA?oc=5",
           "fonte": "Investopedia"
-        },
-        {
-          "titulo": "Indra Group joins the prestigious MSCI world index for the first time thanks to its stock market performance - Indra Group",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeHhrVmlXc3lTemhXWlU3OGtLcVZBaWhsOHRUQ2ctUGhBUEd4VXh0a3lEY1lTZF9pckJZTWcwNDZKMzd3ZUROQ1dGamlMbkw1UlhqZXkyUDRrbkF3amZrUVo5Yi1nZnlscG1za0x3T3AtUU1QaWYzdlJoejBUNXhRU3EweU5FSy1RQnpjeGd0MGpiT0xwRDl1UjZjbno5VldzY0xrbGUzZl96dzE1MFBobkd0QThpMXM3ZzRSYkJqWUZwbXluU2x1ZGtPQ1l4bUFSZC1YOHZvTHdIWVU?oc=5",
-          "fonte": "Indra Group"
-        },
-        {
-          "titulo": "Insilico Medicine Included in MSCI Global Small Cap Indexes, Gaining Capital Market Endorsement in Core Strengths - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaXJFNVp0NDU0bkpZYVQzaHJmYmdXc21lUkZELVZQN1JMSDNsQWhXVkJVVkVtRFNrTm9Rd3lGQWRfMGNVd2RYVzJrc2QzU0RhZGNxOWI4cVJ2OUlwekFpT2tSanZPWnREUUU0N0Y5aWExdUVTRk5PQzJ2dHhrVl8zR192STh1WUdEUHp2dEQ4TWhVaGVtenhQdnFHRUptQzdnZjR2Tk9R?oc=5",
-          "fonte": "Yahoo Finance"
         }
       ],
       "comentario": "Teve uma queda de 1,02%. Sendo uma das maiores opções de exposição global com cobertura cambial, reflete o sentimento de aversão ao risco global. Sugere-se considerá-lo como o pilar de estabilidade acionista da carteira; quedas pontuais podem ser janelas para reforços estratégicos."
@@ -8234,10 +8218,6 @@
             {
               "quando": "2026-08-28T07:00:00+00:00",
               "fecho": 159.34
-            },
-            {
-              "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 157.56
             }
           ]
         },
@@ -8991,34 +8971,30 @@
             {
               "quando": "2026-07-31T22:00:00+00:00",
               "fecho": 158.48
-            },
-            {
-              "quando": "2026-08-31T15:35:04+00:00",
-              "fecho": 157.56
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Tesla Tops S&P 500. Was It Cybercab Buzz, Or Elon Musk's New FSD Tease? - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORzVlN1dFMUpZNkplemRIZnQ4M2xuUlVWT0JPYkJ2Q1lNdGpvdXBiWWVRUk4ydEoyd09aSEh4MUpGcE0yX0ZuTHYxSUQ4WWJ0UUZLVC1obHp3ZU1VVnE4ZVR5NW11S0lZZTVZdXZtcjhOV2RQNFd2NFhhNWN2R2xSLTNIOVlObUNZM2pWZ0VBOEwtQXlx?oc=5",
-          "fonte": "Investor's Business Daily"
-        },
-        {
           "titulo": "Stock market today: Dow, S&P 500, Nasdaq slip but cap winning month for stocks - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDF1ZmtVSFBxOUJsQlN5MEdsSUhoYk9UbWtOYXRSU1BWbWZuSlMtbFJtbXFFcExoVnhHUHNTNHp2LWhrZXdNMndSZzRIWnFtdzZOc09WVmxwWkNRb1BkSW95TDhKMTdDaTc0cWdQRnN0cFJmMEFYRVBNcHFIRGNyYUxhMHk1WklvNngwV2xfdTR5c0VGLTkxQzZmSHZ0QTE1dm4zSjRreU5JRjQ?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Stock Market Today: Dow ends lower but still logs fifth month of gains; Nasdaq and S&P 500 gain in August despite Brent oil above $90 and 30-year yields at 5.25% - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMXRCVktYMXh5ak45eDRlN011MF81bHBSSDJ3d1pGbktLdzRvS0U5WGNhOTF0aWJ3Y0xtdjdxWWZNcXU3Vy1UYlJvbjBNV3N0SllLYXJDV0thbzZmT3doT0JFZUZHYmpJRjBzMEdjNnFwSkRjX0x4SXdNYXZ4bEF6Tng2dVpuNFFjbDBtQ3l4STc4dHpwaXF4QkxmRzk4RzlRV1B5cVFSTlo1YmxZc3RyVVg3a1JuX2I1c2tRenA5VVgxcEhEaE1ZQnk0dGJwcTlJTGRZRUVZYw?oc=5",
+          "titulo": "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on. - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONDZWdFBWb2tkMWdHak9SdVFUbkVVLUtmdldPYXVEVmR0MTlsd01HR1lieWR0TEJxRWhKWmh6MkMwVVRDVzg5M1VTOFZLOXVHa2lPcWxGSzJpSEd3d2VIN3hERGIxVzNYU0M4ME0tbDdDYXhManBkbkdhT3hTMXNuOXo0V2hoOHQ5bzdPVWV2bmxwWFVIdEhpdk9RbHNRbzdIUVV3WDNRN0VReFN5YzUtck55NkU3SlBvSUNFOWRzeTBpM2REMGc?oc=5",
           "fonte": "MarketWatch"
         },
         {
-          "titulo": "Markets News, Aug. 31, 2026: Major Stock Indexes Post Gains for August Despite Falling Monday Amid Rising Oil Prices - Investopedia",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDBaWHRkUENIdjNqdmxleEFoWkF2aUduUHFpOTZUR0R3eklaUnVPNzBHWXNJR0pLQ3VGNXBiRm45YTZZNlFVTW1aUzJKWWV3M0VNTEpEMXB0eGxvSjdJUzE4TGdRYjNxRHB2RFhqR003SVZSY2cwNTF2Yi01UjRsS0RCRHluVlRHRzQtYklsRF8?oc=5",
-          "fonte": "Investopedia"
+          "titulo": "California Utility Stocks Plummet After Wildfire Legislation Announced - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE5GeHBDS3pwS0NoN0twdld5cER6dDNZSzdlZHkzbGRFN1prc0hNUlZWV1EyLWlaQUR6X0pMZjQxQnBkWTM1bUI1YUJGYzVTWGRaclJGZnpfd1Z6MDhnZExiaW9HU2dDNnZIQjU3Z2JyN2I1UDZFaHN5dllRNk9CSUhqdUhSdDdyRks2c252X2diSExkVFl5TFNR?oc=5",
+          "fonte": "Investor's Business Daily"
+        },
+        {
+          "titulo": "The S&P 500 usually falls in September. Why this year should be different. - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFZjanNkb2hhZVpRNW1LWV9pWkFoLU5TOTVLUEVkZ3F6WGttdEU4SU1hcEplM2RJZ0dVRVhBVjJiZTdYaGxrSVRUZzBWNVo0dV9scGJEWk9ZMF8tLUxOTWF6VjNoUGdSalYtQm5SOWNVNVZSeUVpY1RzUmR6dUJtbUpkYm5QWVBfYUtKRDNSUW1tVVpsTkdNQjFYUlotc3AtcVpZMkJMM2VJOHhLa3h2ZGlyZHltQQ?oc=5",
+          "fonte": "MarketWatch"
         }
       ],
       "comentario": "O ETF do S&P 500 caiu 1,12% hoje, apesar do bom momento recente de empresas como a Tesla. Sendo protegido contra o risco cambial do Euro, sugere-se acompanhar de perto a evolução económica americana, mantendo a confiança na resiliência histórica do mercado dos EUA."
@@ -12811,9 +12787,14 @@
       },
       "noticias": [
         {
-          "titulo": "How economics impact callable bonds - bondbuyer.com",
+          "titulo": "Global pension asset allocations and debt markets - CEPR",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejlqWlVBdWtfeHpjYTAyeENhZVBQQVo5WHFfYmlJQUlBSkhqN2Vvb0xObmZIVWExQ29MdmYtaFdPUTBxbUxLRjEwMEp4X05Ld3dESTRsVVM4Vk4tQ1EwTWx0cmhRT1dwNjZKbWYtTEluYXJHWDJ6Qlc5aDBpWnZZMmZwenRrWFE?oc=5",
+          "fonte": "CEPR"
+        },
+        {
+          "titulo": "How economics impact callable bonds - Bond Buyer",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UMUtnRUNUX0l3RUwwVjJfUG9ETEFXZUlRMHBCWloxcU5BWnNMZVdyaUNlWWVFTkxaLXlMYmxkRzgxTHFqbE9EMnhRcVFvbm1UMVBUSWdad0ZxSW9WeG4zaWZuR3laRl9heFBvS0tGdzYwVzJm?oc=5",
-          "fonte": "bondbuyer.com"
+          "fonte": "Bond Buyer"
         },
         {
           "titulo": "Opinion | Trump vs. the Bond Market - The New York Times",
@@ -12821,14 +12802,9 @@
           "fonte": "The New York Times"
         },
         {
-          "titulo": "The danger of hitting mute on US bond markets - Atlantic Council",
+          "titulo": "The danger of hitting mute on US bond markets - atlanticcouncil.org",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVZ0RHNQRGlkU2FmMnF0LVdPbGI3T1VrTGtnNjF6MkJsUnFYbW4tTWJ0cFFwUlpLSkFmU3Q1ZURydG40dWpKbElKa2NRbHJ4Z1ZkaTRwZEVCaGFmY0M0c1FHbndmejlUTnVrTTFlVTljYzZXUndnX2N4SzF6RGFqZEVCeHNsQm9xVHZ2N1BDNFFtRnpaTXpXYnVHMGlYX2FMTHhwdHhEWmtKWjJoSzIySg?oc=5",
-          "fonte": "Atlantic Council"
-        },
-        {
-          "titulo": "Bond Risks | Rates, Credit Quality, Liquidity, & Call Risk - Britannica",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01ZXBETnhadU1CMVg4SmVSWVdMNGlpQXhNRFdjUjQzc1N1c2hoeGo1UTRtTVlUNTU5LW5DX1ZKQ21CWURVVEdTaGxHMlpZNmxSTFAzdTM2b1N2RWpHQ3dr?oc=5",
-          "fonte": "Britannica"
+          "fonte": "atlanticcouncil.org"
         }
       ],
       "comentario": "Com uma queda suave de 0,41%, o fundo de rendimento da PIMCO provou novamente o seu papel defensivo. No atual ambiente de incerteza política e de taxas de juro, sugere-se a sua manutenção para mitigar a volatilidade das ações e garantir estabilidade."
@@ -15283,10 +15259,6 @@
             {
               "quando": "2026-08-28T07:00:00+00:00",
               "fecho": 106.445
-            },
-            {
-              "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 105.57
             }
           ]
         },
@@ -16100,10 +16072,6 @@
             {
               "quando": "2026-07-31T22:00:00+00:00",
               "fecho": 105.87
-            },
-            {
-              "quando": "2026-08-31T15:35:20+00:00",
-              "fecho": 105.57
             }
           ]
         }
@@ -16120,9 +16088,9 @@
           "fonte": "Goldman Sachs"
         },
         {
-          "titulo": "These 16 European Stocks Pay Dividends in September 2026 - global.morningstar.com",
+          "titulo": "These 16 European Stocks Pay Dividends in September 2026 - Morningstar",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVY3WkZyM0luQ1Q3RTgzc1FMS016UC1xLWpqeUNWLXZsRV95cjdsX0tNb1RQTnJXRllKOTluLWFFTV80VDdGMXQ1N3RBV3pGaFZQR3MtVkp1TnpzdC1EOEUwYnpNd3ZnX25Cbks1WFZJeVQ4LXZraElHcVJidXNsR2VVaFBQcUZCZ1FZeFFjUmV2c28yRlFvdE53V3hsUQ?oc=5",
-          "fonte": "global.morningstar.com"
+          "fonte": "Morningstar"
         },
         {
           "titulo": "Stock Market Bargains Are Hiding in This Overlooked Place - WSJ",
@@ -18454,10 +18422,6 @@
             {
               "quando": "2026-08-28T07:00:00+00:00",
               "fecho": 19.57
-            },
-            {
-              "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 19.252
             }
           ]
         },
@@ -19533,11 +19497,6 @@
       },
       "noticias": [
         {
-          "titulo": "Cathie Wood buys $53 million of popular semiconductor stock - thestreet.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEFUMzhSYzU1MkFscl9CZXcyMUM4U2pqNk5NaWlkWThFOXhzbEdDZUMzZVZkZlF3Q05XMVdsTS14RjRacUpsTG9jQ21zNGhranEtNUJGWkNnOURlUFJtb3Z1RUJGUXRmUERsN1JMV1NVSHY0U2YyakdmUV9aSnQtTkZXVFBzY3BYcENvakg0a2xZWGRDcVRBR2I0eWc3VF9MLUl4S09mdUk5ZVlBOUNyemhRaw?oc=5",
-          "fonte": "thestreet.com"
-        },
-        {
           "titulo": "3 Semiconductor Stocks to Buy Heading Into September - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMk5MWUQ5cDAyeS1XSnRqS3Z3ZlA1YmVsdUdIRW5TQ2laVmJ2SGFudmNsYzVBYU9VTFhMWDhNQ0NCaXhUZHVhcUNpRy1uOUhuWlJobUk4QWwtRk1JOUs1TlJadmh0Y01zY2hFam5JWlZUd21iVHhUTG1oY0tQZ2RWQXBLVXd4Ni1yQ25NMDZuX0lFR1Y1WlFMeGFiWkc?oc=5",
           "fonte": "24/7 Wall St."
@@ -19546,6 +19505,11 @@
           "titulo": "I've Covered Semiconductors for 5 Years. Nvidia Is My No. 1 Pick Heading Into 2027. - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVZMOG9wN1c1V083MEVUa0FkOG1TYk10M1NGUUhrVUU2ZVVLM19ZVU1MSFJuX0dORzZMMFktSnNDRWlhaEVsOUNzcW5FVUZyYTFwWjNrS0J4OFhjSUo3bnVKdnN6eWRubWZLUVVQUUtSWUhsX0lKQlh3M0luMlkwdks0U092S3p6LWstZFdycWE3cUM2NGI2c2dZZENHN2M2?oc=5",
           "fonte": "Yahoo Finance"
+        },
+        {
+          "titulo": "Cathie Wood buys $53 million of popular semiconductor stock - thestreet.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEFUMzhSYzU1MkFscl9CZXcyMUM4U2pqNk5NaWlkWThFOXhzbEdDZUMzZVZkZlF3Q05XMVdsTS14RjRacUpsTG9jQ21zNGhranEtNUJGWkNnOURlUFJtb3Z1RUJGUXRmUERsN1JMV1NVSHY0U2YyakdmUV9aSnQtTkZXVFBzY3BYcENvakg0a2xZWGRDcVRBR2I0eWc3VF9MLUl4S09mdUk5ZVlBOUNyemhRaw?oc=5",
+          "fonte": "thestreet.com"
         },
         {
           "titulo": "Billionaire Stanley Druckenmiller Just Bought Taiwan Semiconductor Stock. Is the Foundry Giant Still a Screaming Buy? - The Motley Fool",
@@ -21917,10 +21881,6 @@
             {
               "quando": "2026-08-28T07:00:00+00:00",
               "fecho": 378.51
-            },
-            {
-              "quando": "2026-08-31T07:00:00+00:00",
-              "fecho": 366.87
             }
           ]
         },
@@ -22382,10 +22342,6 @@
             {
               "quando": "2026-07-31T22:00:00+00:00",
               "fecho": 379.45
-            },
-            {
-              "quando": "2026-08-31T15:35:02+00:00",
-              "fecho": 366.87
             }
           ]
         }
@@ -22397,9 +22353,9 @@
           "fonte": "Forbes"
         },
         {
-          "titulo": "Gold Is Forecast to Climb as Central Banks Buy the Precious Metal - Goldman Sachs",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3Rkbk5XV2w2ZFFsUGY2WVRfTlJjYWJKVnI4TUJFRktBV1dOejd2UktQaXd3RUVUMWhYVTFDWFk2d2VxbXhERWpKM2EtRnp4X2Q2MHRoV0dnRzFiLUxOSVQ5LXoyRllBZ1VRMjViSzlqTHF5UTh1WVRPUldOMmxRbnBYU3VHOVNPUGFOd0pBUldMZDM2SXlTYWxqYkNBVDA2TmVqb3AtdW9aM1dJM2hndGhn?oc=5",
-          "fonte": "Goldman Sachs"
+          "titulo": "Gold price drops as Warsh warns Fed still has ‘work to do’ on inflation - Mining.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQekpOMy0wWTVzUW5GTVM4UnNKUFBJMnZUOUJmSXhCdDBqTzRwYTlMdWc3ZHRJNjRoV1NXdmVoallhTzc4bXR3VzU3X3Y4cEdma0xHOWpYYXlQT1VlU0oycU1lSktjelktVEg4Y3ZlWFVUUXpsY3VDcUpSZWVlQlJiN1hYekJ2ZzFobkh3SUprZF9UbTMyd1A5Qw?oc=5",
+          "fonte": "Mining.com"
         },
         {
           "titulo": "Gold price is going to $20,000 as the Fed is ‘powerless’ to fight inflation, miners offer greatest upside - Crescat’s Kevin Smith - KITCO",
@@ -22407,9 +22363,9 @@
           "fonte": "KITCO"
         },
         {
-          "titulo": "Current price of gold as of August 31, 2026 - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlR3MxRjVoV2IyTlVFUS1EU0lPQjJnckZ5ZnhOeHpVelJ2RG1zdmQwZVozVkswWUxSX2RTMUNHUVdEWURWQjBoOW1qV2ZzaTZUSTdtdHNvdlNwUzNsbkY4bjlUSFFmd1hncF9na2hR?oc=5",
-          "fonte": "Fortune"
+          "titulo": "Gold Is Forecast to Climb as Central Banks Buy the Precious Metal - Goldman Sachs",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3Rkbk5XV2w2ZFFsUGY2WVRfTlJjYWJKVnI4TUJFRktBV1dOejd2UktQaXd3RUVUMWhYVTFDWFk2d2VxbXhERWpKM2EtRnp4X2Q2MHRoV0dnRzFiLUxOSVQ5LXoyRllBZ1VRMjViSzlqTHF5UTh1WVRPUldOMmxRbnBYU3VHOVNPUGFOd0pBUldMZDM2SXlTYWxqYkNBVDA2TmVqb3AtdW9aM1dJM2hndGhn?oc=5",
+          "fonte": "Goldman Sachs"
         }
       ],
       "comentario": "O ouro recuou 3,08% hoje, corrigindo de máximos recentes. Apesar desta quebra abrupta, os bancos centrais continuam a comprar metal precioso como refúgio contra a inflação. Sugere-se manter o ouro como proteção e seguro de carteira para o longo prazo."
