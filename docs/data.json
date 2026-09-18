@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-18T13:01:36.471364+00:00",
+  "atualizado_em": "2026-09-18T17:07:00.975037+00:00",
   "analise_geral": "A carteira apresenta hoje um comportamento misto e globalmente estável, com ligeiras variações na maioria dos ativos. O destaque vai para a queda de quase 1% nas ações europeias (IMAE.AS) e, em sentido oposto, a recuperação do setor de semicondutores (SEMI.AS) e do ouro (SGLD.AS), que continua a funcionar como refúgio face à expectativa sobre as taxas de juro. Com uma diversificação robusta entre ações globais, obrigações e ouro, a carteira parece bem equilibrada para enfrentar a volatilidade macroeconómica. Como sugestão, poderá fazer sentido manter a estratégia de reforços periódicos, sem necessidade de ajustes impulsivos, vigiando a exposição setorial em tecnologia e o peso do ouro para garantir que se mantêm alinhados com o seu perfil de risco.",
   "analise_gerado_em": "2026-09-18T13:01:36.471318+00:00",
   "alertas_enviados": {
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 47.761,
+        "preco_atual": 47.702,
         "fecho_anterior": 47.793,
-        "variacao_pct": -0.06695541188039353
+        "variacao_pct": -0.19040445253489233
       },
       "historico": {
         "intradiario": {
@@ -294,11 +294,139 @@
             },
             {
               "quando": "2026-09-18T12:45:00+00:00",
+              "fecho": 47.771
+            },
+            {
+              "quando": "2026-09-18T12:50:00+00:00",
+              "fecho": 47.773
+            },
+            {
+              "quando": "2026-09-18T12:55:00+00:00",
+              "fecho": 47.732
+            },
+            {
+              "quando": "2026-09-18T13:00:00+00:00",
+              "fecho": 47.751
+            },
+            {
+              "quando": "2026-09-18T13:05:00+00:00",
+              "fecho": 47.743
+            },
+            {
+              "quando": "2026-09-18T13:10:00+00:00",
+              "fecho": 47.784
+            },
+            {
+              "quando": "2026-09-18T13:15:00+00:00",
+              "fecho": 47.785
+            },
+            {
+              "quando": "2026-09-18T13:20:00+00:00",
+              "fecho": 47.755
+            },
+            {
+              "quando": "2026-09-18T13:25:00+00:00",
+              "fecho": 47.79
+            },
+            {
+              "quando": "2026-09-18T13:30:00+00:00",
               "fecho": 47.78
             },
             {
-              "quando": "2026-09-18T12:46:01+00:00",
-              "fecho": 47.761
+              "quando": "2026-09-18T13:35:00+00:00",
+              "fecho": 47.787
+            },
+            {
+              "quando": "2026-09-18T13:40:00+00:00",
+              "fecho": 47.815
+            },
+            {
+              "quando": "2026-09-18T13:45:00+00:00",
+              "fecho": 47.795
+            },
+            {
+              "quando": "2026-09-18T13:50:00+00:00",
+              "fecho": 47.772
+            },
+            {
+              "quando": "2026-09-18T13:55:00+00:00",
+              "fecho": 47.755
+            },
+            {
+              "quando": "2026-09-18T14:00:00+00:00",
+              "fecho": 47.725
+            },
+            {
+              "quando": "2026-09-18T14:05:00+00:00",
+              "fecho": 47.722
+            },
+            {
+              "quando": "2026-09-18T14:10:00+00:00",
+              "fecho": 47.753
+            },
+            {
+              "quando": "2026-09-18T14:15:00+00:00",
+              "fecho": 47.743
+            },
+            {
+              "quando": "2026-09-18T14:20:00+00:00",
+              "fecho": 47.745
+            },
+            {
+              "quando": "2026-09-18T14:25:00+00:00",
+              "fecho": 47.712
+            },
+            {
+              "quando": "2026-09-18T14:30:00+00:00",
+              "fecho": 47.725
+            },
+            {
+              "quando": "2026-09-18T14:35:00+00:00",
+              "fecho": 47.712
+            },
+            {
+              "quando": "2026-09-18T14:40:00+00:00",
+              "fecho": 47.68
+            },
+            {
+              "quando": "2026-09-18T14:45:00+00:00",
+              "fecho": 47.676
+            },
+            {
+              "quando": "2026-09-18T14:50:00+00:00",
+              "fecho": 47.746
+            },
+            {
+              "quando": "2026-09-18T14:55:00+00:00",
+              "fecho": 47.71
+            },
+            {
+              "quando": "2026-09-18T15:00:00+00:00",
+              "fecho": 47.679
+            },
+            {
+              "quando": "2026-09-18T15:05:00+00:00",
+              "fecho": 47.677
+            },
+            {
+              "quando": "2026-09-18T15:10:00+00:00",
+              "fecho": 47.684
+            },
+            {
+              "quando": "2026-09-18T15:15:00+00:00",
+              "fecho": 47.676
+            },
+            {
+              "quando": "2026-09-18T15:20:00+00:00",
+              "fecho": 47.673
+            },
+            {
+              "quando": "2026-09-18T15:25:00+00:00",
+              "fecho": 47.697
+            },
+            {
+              "quando": "2026-09-18T15:30:00+00:00",
+              "fecho": 47.702
             }
           ]
         },
@@ -2319,7 +2447,7 @@
             },
             {
               "quando": "2026-09-18T07:00:00+00:00",
-              "fecho": 47.761
+              "fecho": 47.702
             }
           ]
         },
@@ -2915,32 +3043,32 @@
               "fecho": 47.189
             },
             {
-              "quando": "2026-09-18T12:46:01+00:00",
-              "fecho": 47.761
+              "quando": "2026-09-18T15:36:12+00:00",
+              "fecho": 47.702
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "AI Stocks Lift Emerging Markets While Fed Stays Hawkish - Finimize",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3QzakFDY2g4RjVYNmZadnl4ZUpIdlJ1cXNlOXNMZWdickNmZUNOVE1aSkJtRkFkUm0tcXBHU09jcWkwV2I1WDNKeEs0cGlNN3JxRE9HVlJ1bUtEVHBXaFIwd0xKdHJkSm5DWEFBZ25kMHRFVGlTR2dLWXplVVlQRUtObWdjVXJjdU1LXw?oc=5",
+          "fonte": "Finimize"
+        },
+        {
           "titulo": "The Ghost Rally: What We See Really Driving Emerging Markets in 2026 - Neuberger Berman",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOckF6TGJJOVlONDdlYzFlNkdrb2RxZTVoanZzR295QktyR3BIQWRHcGFHZ0xOT0c5ZmdSa1R2Mlgta1hLc21zMjYxSEhOdUJobnBQWmNwQ2JWZy1sUU9FVmNXbl9VZHIycTBlM1dHblRQZHprMkVZMjFfTWR5WTJITmNTb2Y5cC14QTZiTUQxSENnVXc?oc=5",
           "fonte": "Neuberger Berman"
         },
         {
+          "titulo": "VanEck launches VEEM ETF targeting analyst sent... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1cHc3U2ZhSVJBc0kyNFFkZ1VNQnQxaks2czNyczBjX3VpOXpwaFhPR1NGejViVUNoRF9UVjZLTXlmNEM5bk5rS2FSRk5MQ1YzWkZMdWlBS3c3YnBiRjFr?oc=5",
+          "fonte": "Pluang"
+        },
+        {
           "titulo": "Investing in Emerging Markets: EWY, FLKR and More Top-Performing ETFs - NerdWallet",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JQW5kYURpNjNOdFMxdGFOeHdWeWF4MFo0RGk0cjdLR1dmQjdkQXR4YzUybVAtVFB5V01QT0dwcGY5Y1Q2b3FsVTNjcFRiRU9aVW1vQWhhampwUmdrVnVacnBQSk5aakxnMWIzMEY5QnY2RmJWeHNN?oc=5",
           "fonte": "NerdWallet"
-        },
-        {
-          "titulo": "IEMG vs SCHE: Which Emerging Markets ETF Is the Smarter Choice Right Now? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPajNDdEVHRVZkWUlTUS0xUk9qWUo5VmUyN1MyeC1hM1dFNUtUQVlGeWM0NS1GeTBfc3BTU2FacUhXVjJubzU3Y0J3em43TDNHUDhDY1RjYm45R1ZJblJGOGc5OF9tbjMwcGhIb3BhMnZ6UGZJYk1FNkwzeUJUa2p3X21GR0dLRmJqRXpRcUsta3k5bU10dE1kb3Nn?oc=5",
-          "fonte": "Yahoo Finance"
-        },
-        {
-          "titulo": "For Emerging Market Stock Funds, Concentration Risk May Be Eclipsing Macro Risk - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ0MtX0JlZHlramMxejJ6TWVYZVZEcHBNaE93SUxfcDd5THBTeHRVMmlpUmkyaU04WHZNakJTVTh0VmE2Tk9RdFY1bjllUmd6dEQ1UXlaV0txemhVTXZ5WEFLM3hGQzYtcWZGdHlmTnJ6bDNmd21aR29KME4zQ2JvandfZ2RGUEpQemI2ZDhQMFBaV1daOVltMkNndFN6WlljcnoxOEpEWFZKRU9Vd05OTFJIVFB2c0xQUmFV?oc=5",
-          "fonte": "Morningstar"
         }
       ],
       "comentario": "O ETF de mercados emergentes recuou ligeiramente hoje (-0,07%). O foco recente está no risco de concentração e no impacto macroeconómico. Sugere-se uma abordagem de longo prazo, dado que estes mercados apresentam maior volatilidade mas oferecem uma diversificação geográfica importante para a sua carteira global."
@@ -2951,9 +3079,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 118.86,
+        "preco_atual": 118.68,
         "fecho_anterior": 119.0,
-        "variacao_pct": -0.1176470588235299
+        "variacao_pct": -0.26890756302520435
       },
       "historico": {
         "intradiario": {
@@ -3012,8 +3140,40 @@
               "fecho": 119.0
             },
             {
-              "quando": "2026-09-18T12:44:07+00:00",
+              "quando": "2026-09-18T12:40:00+00:00",
               "fecho": 118.86
+            },
+            {
+              "quando": "2026-09-18T12:50:00+00:00",
+              "fecho": 118.84
+            },
+            {
+              "quando": "2026-09-18T13:00:00+00:00",
+              "fecho": 118.86
+            },
+            {
+              "quando": "2026-09-18T13:25:00+00:00",
+              "fecho": 118.72
+            },
+            {
+              "quando": "2026-09-18T13:50:00+00:00",
+              "fecho": 118.72
+            },
+            {
+              "quando": "2026-09-18T14:40:00+00:00",
+              "fecho": 118.56
+            },
+            {
+              "quando": "2026-09-18T14:45:00+00:00",
+              "fecho": 118.62
+            },
+            {
+              "quando": "2026-09-18T15:10:00+00:00",
+              "fecho": 118.62
+            },
+            {
+              "quando": "2026-09-18T15:30:00+00:00",
+              "fecho": 118.68
             }
           ]
         },
@@ -5050,7 +5210,7 @@
             },
             {
               "quando": "2026-09-18T07:00:00+00:00",
-              "fecho": 118.86
+              "fecho": 118.68
             }
           ]
         },
@@ -5810,8 +5970,8 @@
               "fecho": 118.58
             },
             {
-              "quando": "2026-09-18T12:44:07+00:00",
-              "fecho": 118.86
+              "quando": "2026-09-18T15:35:29+00:00",
+              "fecho": 118.68
             }
           ]
         }
@@ -5828,9 +5988,9 @@
           "fonte": "Morningstar"
         },
         {
-          "titulo": "Non-U.S. Equities: Why It’s About Companies, Not Countries - Lord, Abbett & Co LLC",
+          "titulo": "Non-U.S. Equities: Why It’s About Companies, Not Countries - lordabbett.com",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZk13eTBRTl9wenBCNjFjMTA2QTRiakdGek9pTmJIbF90T2lzT3c5YzIxT3FVbGtfRHdNaXByVGZMSHFzMVJzdDZuR0RLU0RfTXlXWjY4dElkN1ZXU1hiLXlpUExET3JFWW8yb1g0cGN3M1ZqN2ZVWk5MaFlOOUNQM2JTQUFKWERUcHZHeE0zeTFPZlo5dGJWWU8tT2liT2ZlYVEwRWo3WjVLdWpsaENIbUt2UlVub0hBTlZTTlptV0ZJNW52eFZqR3VHSWRuemVVV1c1SW1KcmtKUlBEUkE?oc=5",
-          "fonte": "Lord, Abbett & Co LLC"
+          "fonte": "lordabbett.com"
         },
         {
           "titulo": "Low cost MSCI World exposure - invesco.com",
@@ -5846,9 +6006,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 156.66,
+        "preco_atual": 156.53,
         "fecho_anterior": 156.52,
-        "variacao_pct": 0.08944543828263887
+        "variacao_pct": 0.006388959877326159
       },
       "historico": {
         "intradiario": {
@@ -5935,8 +6095,48 @@
               "fecho": 156.66
             },
             {
-              "quando": "2026-09-18T12:11:11+00:00",
-              "fecho": 156.66
+              "quando": "2026-09-18T12:45:00+00:00",
+              "fecho": 156.68
+            },
+            {
+              "quando": "2026-09-18T13:00:00+00:00",
+              "fecho": 156.67
+            },
+            {
+              "quando": "2026-09-18T13:20:00+00:00",
+              "fecho": 156.7
+            },
+            {
+              "quando": "2026-09-18T13:35:00+00:00",
+              "fecho": 156.78
+            },
+            {
+              "quando": "2026-09-18T13:55:00+00:00",
+              "fecho": 156.5
+            },
+            {
+              "quando": "2026-09-18T14:05:00+00:00",
+              "fecho": 156.38
+            },
+            {
+              "quando": "2026-09-18T14:25:00+00:00",
+              "fecho": 156.32
+            },
+            {
+              "quando": "2026-09-18T14:40:00+00:00",
+              "fecho": 156.39
+            },
+            {
+              "quando": "2026-09-18T15:05:00+00:00",
+              "fecho": 156.47
+            },
+            {
+              "quando": "2026-09-18T15:10:00+00:00",
+              "fecho": 156.41
+            },
+            {
+              "quando": "2026-09-18T15:30:00+00:00",
+              "fecho": 156.53
             }
           ]
         },
@@ -7973,7 +8173,7 @@
             },
             {
               "quando": "2026-09-18T07:00:00+00:00",
-              "fecho": 156.66
+              "fecho": 156.53
             }
           ]
         },
@@ -8733,27 +8933,27 @@
               "fecho": 156.22
             },
             {
-              "quando": "2026-09-18T12:11:11+00:00",
-              "fecho": 156.66
+              "quando": "2026-09-18T15:35:02+00:00",
+              "fecho": 156.53
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil prices slip - Yahoo Finance",
+          "titulo": "Stock market today: Dow, S&P 500, Nasdaq slip as bond yields rise - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTQ4ZWJNcGhmdVVSY0JsQWxWb2dYRUJLU1cxWnNMU0tRRUtEeXVjTkFUZzdObEljT0ZOY0x0TDZDd1J1X1E2TExEdTBWSzFMMmdjRnRXS3BJQ3l1RURIV1V3elFCck5TcTZPTGUyV3FUSXJ0cFhVaEI3ajRCaFB0c2E4M09LMUo0WEs0MmJ4Sk1haU5tYmRwQjRtRGE2OUdFXzFVV0tqSVE1QXBFc2Rr?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Wall Street thinks the stock market can handle a few hikes - Axios",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zSkFfeEZ6REdycVozNXB1Vnl6UmZHbkNqZ3BCbVpMU2hyTXM5bVlkT0UxRnVXdm9sM0dhYmNmYTVtb3V5WWxhdi14U29IMUFOSUlGNnRocG0yalJjYkVKdTk2ajRhOGpnWGFzYQ?oc=5",
-          "fonte": "Axios"
+          "titulo": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as 10-year yields get back up to 5% and oil prices hold above $100 - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbTl3alo5ZGhnMDh2WnJQX0lGNklVT0FZOFlBdk1PUkh5VDFKUmlyazc3UHJILUpRZVhqTS1XcGRBUUMwbEFtZ0ZFWXlheEw5T2Q4ekVhRjhKODZpSXBZSzVHQXJsME9Fb3MyNm9WODhRT04xS1daMm90Z2hLWWdTSWtOT2dpMGlCOF96aTFVTUZIVnprSHpmYTV3Sm9pd2xUQ1k5TWtNVHdVUTBhT0JaZDJHeENUSW1QUTRsbVczQlZldjJYb0trZ2E4WVBWSW1ESnlPZUhR?oc=5",
+          "fonte": "MarketWatch"
         },
         {
-          "titulo": "S&P 500 Futures Rise in Premarket Trading; Xenon Pharmaceuticals, Icon PLC Lag - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTW9jZ3AzdE5CZjFfNU40Zm9jSEV5SUhUXzNkS2ZJclRrNmctZThXZ1ZxNlJSNzl4bEZLSmcwYmNNNVZsZFcxeE5OZlBjT0xySUF5UEtHcjExMk9pcmZaVGFLTUpxSlNQeVlQam9tQ2YzamRnemtwdjFEZjlWR3hMVGhaTEdVRmI0XzdmMzBBaFNLemJwUDZKMFZlX3RoVUwxN0NkUXVraVhlU2xvRTNUMVZNVTVQaGxidlE?oc=5",
-          "fonte": "Barron's"
+          "titulo": "S&P 500 falls as Treasury yields rise; index heads for losing week: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zb1FPNjVUSjZxQjBrLTQtUmxMUk1DZVlPcmMyZDk4cy10VXJ1djlDNVJKUVRJcUdQN0t1N1VMZl9pNUdNT3ZLRXpyZkhESDRjdlR0T2EwUFYzSEVyR3ZsaEQzbTlUVno5UzRBTTJCckt4N09xb1h30gF8QVVfeXFMTkNJQ1JtdXJ5cnhhZnB4OERzOFBZS0tkaFNCLTR5TUVGR1VwWEM2cEVKT2dNN0RXRW9BNXJwYl9oN00wSm14b196ZEZoMnpoOVc5NDB6T2UwQ21yV2pVYzZFRWFlTC1YRE1SeC1wLVhEMWU2VGZ1eUZVel9IbA?oc=5",
+          "fonte": "CNBC"
         },
         {
           "titulo": "The 5 Best S&P 500 ETFs to Buy - Morningstar",
@@ -12572,6 +12772,11 @@
           "fonte": "CNBC"
         },
         {
+          "titulo": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRlJ6YUhGYlluaURYaE1pUmx2Vmh6UU93clE0cW42dFJkN3lHZGEyT3VKUVpNSXpYMGZiRDZYLUUtSUNLZVQ2dnhCLXY1a0dLYThCNmlQMFBKOW1adTNxSFoyRW8wX1pxZm1GeExBaWFZLVIzdHA3dEV0eENiaGRwMnpqQi1KNGNCVlQ5OU1tNA?oc=5",
+          "fonte": "Yahoo Finance"
+        },
+        {
           "titulo": "What it's like to work in the bond market these days - marketplace.org",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenAzZEo4MnhRZG40SmNHaWJ4OWJUeDJnNHlTZ0Q0elZjRjhTQUlQa0FLTjRVaW5TQkJVOVdJd2ZxeVNiUndsWTEyc09QNzJ4SVkwNC1MMWY1RERKRHB5V1BtNWppVHRjdHJsdk1oRUVFOG9WX2gtVzhOX0otQzhUWTMzeHpoNzVKYUhNczBhVk1UUQ?oc=5",
           "fonte": "marketplace.org"
@@ -12580,11 +12785,6 @@
           "titulo": "The Bond Market Outlook For The Rest Of 2026, According To Experts - Forbes",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSW9NQzROQTZ3NDdiQ2FZem82dXhhTERmbVVSbDg3Z2dxZEpnZ1VaUHpIMkNnUTZIeDVHNHc2enkzbXhGaTJFTHB5eVhhc2VPYndMb1pGSmV6eVVMMGN6cmxhSEhlXzFHRlVQR0Y1RWxFdXY4RjZ3VGZTcFVQOXExNFE4NjFOdmRmMUdz?oc=5",
           "fonte": "Forbes"
-        },
-        {
-          "titulo": "Watch JPMorgan's Michele on Bonds: 'The Dominoes Are Starting to Fall' - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDR3QTJWeVV1bFFzckdoNnN2N1NtTm5zUm9MaWpkNi1Yd2tXaThzZ29PQ09ITEUzVEtYTER1UkxnVks1TXdLaGpmY1BncDg1QmpZV3Y3MF93cTZIbUtobzRGNE1rcWlpek9NMmo5Wkd3Zm9aYkpCV2RNQnBjaXY0MVhHd1ZyUnBYTDZibFhSR1dmMXphUklUUVgzTkVKbWRwTVIwWjUwa2x4T1U?oc=5",
-          "fonte": "Bloomberg.com"
         }
       ],
       "comentario": "Este fundo de obrigações da PIMCO manteve-se inalterado hoje. O mercado de renda fixa parece estar perto de um ponto de viragem favorável à medida que as taxas estabilizam. Sugere-se a manutenção deste ativo para gerar rendimento e atuar como amortecedor de volatilidade nas ações."
@@ -12595,9 +12795,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 103.42,
+        "preco_atual": 103.19,
         "fecho_anterior": 104.4,
-        "variacao_pct": -0.9386973180076665
+        "variacao_pct": -1.159003831417632
       },
       "historico": {
         "intradiario": {
@@ -12820,8 +13020,136 @@
               "fecho": 103.42
             },
             {
-              "quando": "2026-09-18T12:45:47+00:00",
-              "fecho": 103.42
+              "quando": "2026-09-18T12:45:00+00:00",
+              "fecho": 103.4
+            },
+            {
+              "quando": "2026-09-18T12:50:00+00:00",
+              "fecho": 103.425
+            },
+            {
+              "quando": "2026-09-18T12:55:00+00:00",
+              "fecho": 103.425
+            },
+            {
+              "quando": "2026-09-18T13:00:00+00:00",
+              "fecho": 103.46
+            },
+            {
+              "quando": "2026-09-18T13:05:00+00:00",
+              "fecho": 103.435
+            },
+            {
+              "quando": "2026-09-18T13:10:00+00:00",
+              "fecho": 103.435
+            },
+            {
+              "quando": "2026-09-18T13:15:00+00:00",
+              "fecho": 103.435
+            },
+            {
+              "quando": "2026-09-18T13:20:00+00:00",
+              "fecho": 103.395
+            },
+            {
+              "quando": "2026-09-18T13:25:00+00:00",
+              "fecho": 103.395
+            },
+            {
+              "quando": "2026-09-18T13:30:00+00:00",
+              "fecho": 103.335
+            },
+            {
+              "quando": "2026-09-18T13:35:00+00:00",
+              "fecho": 103.355
+            },
+            {
+              "quando": "2026-09-18T13:40:00+00:00",
+              "fecho": 103.29
+            },
+            {
+              "quando": "2026-09-18T13:45:00+00:00",
+              "fecho": 103.2
+            },
+            {
+              "quando": "2026-09-18T13:50:00+00:00",
+              "fecho": 103.14
+            },
+            {
+              "quando": "2026-09-18T13:55:00+00:00",
+              "fecho": 103.05
+            },
+            {
+              "quando": "2026-09-18T14:00:00+00:00",
+              "fecho": 103.125
+            },
+            {
+              "quando": "2026-09-18T14:05:00+00:00",
+              "fecho": 103.22
+            },
+            {
+              "quando": "2026-09-18T14:10:00+00:00",
+              "fecho": 103.32
+            },
+            {
+              "quando": "2026-09-18T14:15:00+00:00",
+              "fecho": 103.31
+            },
+            {
+              "quando": "2026-09-18T14:20:00+00:00",
+              "fecho": 103.33
+            },
+            {
+              "quando": "2026-09-18T14:25:00+00:00",
+              "fecho": 103.32
+            },
+            {
+              "quando": "2026-09-18T14:30:00+00:00",
+              "fecho": 103.235
+            },
+            {
+              "quando": "2026-09-18T14:35:00+00:00",
+              "fecho": 103.24
+            },
+            {
+              "quando": "2026-09-18T14:40:00+00:00",
+              "fecho": 103.07
+            },
+            {
+              "quando": "2026-09-18T14:45:00+00:00",
+              "fecho": 103.13
+            },
+            {
+              "quando": "2026-09-18T14:50:00+00:00",
+              "fecho": 103.16
+            },
+            {
+              "quando": "2026-09-18T14:55:00+00:00",
+              "fecho": 103.195
+            },
+            {
+              "quando": "2026-09-18T15:00:00+00:00",
+              "fecho": 103.15
+            },
+            {
+              "quando": "2026-09-18T15:05:00+00:00",
+              "fecho": 103.15
+            },
+            {
+              "quando": "2026-09-18T15:10:00+00:00",
+              "fecho": 103.155
+            },
+            {
+              "quando": "2026-09-18T15:20:00+00:00",
+              "fecho": 103.115
+            },
+            {
+              "quando": "2026-09-18T15:25:00+00:00",
+              "fecho": 103.14
+            },
+            {
+              "quando": "2026-09-18T15:30:00+00:00",
+              "fecho": 103.19
             }
           ]
         },
@@ -14866,7 +15194,7 @@
             },
             {
               "quando": "2026-09-18T07:00:00+00:00",
-              "fecho": 103.42
+              "fecho": 103.19
             }
           ]
         },
@@ -15686,8 +16014,8 @@
               "fecho": 103.485
             },
             {
-              "quando": "2026-09-18T12:45:47+00:00",
-              "fecho": 103.42
+              "quando": "2026-09-18T15:35:08+00:00",
+              "fecho": 103.19
             }
           ]
         }
@@ -15699,19 +16027,19 @@
           "fonte": "Jacques Delors Centre"
         },
         {
-          "titulo": "European stocks rise after Fed hike as oil slips, yields stabilise - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRm16cXFKWWRKaW9qbDZsVjgycGJVZy1Pbnd1dU5wd2dDcEk5UXktS2JuUzM2TFJRRC1xSE1LQXlWYWR1bEJxbWo1YjcyZjY4VnlhYlVwOTE1ODdTVkdIbWVVVXd5dmVXZEtPVmZsM1hVNEZ1QXZXR1dlbUg5cGwwd3J5UUh2RTQ4Qmg1UUpyZ1BFS0NQa0NhQVNR?oc=5",
-          "fonte": "Reuters"
-        },
-        {
           "titulo": "The Best Europe Equity Income ETFs to Buy - Morningstar",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQndKbHd1Sk50N29od1ZqQmdZZHB2QlpYRG9oY0Nad0V5S1I3V0hmYlhlTmtvOUJRaEhxM05mNTQzTkwzaWh1dUhnSENQMXpoQ2dFVzVGdGl1VFltZVBzZUwtSk9lb3FHNVFsZ3YzamFIT2FoMGR6T21CTG5PaFQ5LTRn?oc=5",
           "fonte": "Morningstar"
         },
         {
-          "titulo": "European Stocks Defy Global Shocks with Strong Earnings Growth - Goldman Sachs",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWNWVlI0NDU5LS1NMHJZMzF1cWlGbk5fN0YyODNSWndMbnNKN0hOYUFwcUNGQzE1dWFTRnhkYW9rQ05CYlgwTHA3aVB3cGNvRWY3Y2R3eWV5OXpYVHVhQzVhWnN4aHZfdWRGTGM4d3kwcDNIVjFmdHBzV1VOaFlpM1RUSkpUNU83ZWhucXk3UnptOEVFRXFMTUpJbUpuRFRuYnpJdXNrU3EzRFJSekE?oc=5",
-          "fonte": "Goldman Sachs"
+          "titulo": "European stocks rise after Fed hike as oil slips, yields stabilise - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRm16cXFKWWRKaW9qbDZsVjgycGJVZy1Pbnd1dU5wd2dDcEk5UXktS2JuUzM2TFJRRC1xSE1LQXlWYWR1bEJxbWo1YjcyZjY4VnlhYlVwOTE1ODdTVkdIbWVVVXd5dmVXZEtPVmZsM1hVNEZ1QXZXR1dlbUg5cGwwd3J5UUh2RTQ4Qmg1UUpyZ1BFS0NQa0NhQVNR?oc=5",
+          "fonte": "Reuters"
+        },
+        {
+          "titulo": "America’s AI slowdown brings little comfort to Europe’s markets - The Times",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGhTcUQtY0VoVy1KTDRWNVZpX1N2SURVMjE1NU15OUJvQXR1Wi14bVBMdjAyRmsyUEpyekdCb2toOTJjUmlGd3ZlMnRSSUtQUlJTZG1lZTY1Y1ZxTm1iN3p0RnRlVnlZR3Mxdi11ZDhiNkZTY1E5QVlXWlo3bENBWndfZDR6T280YlpBY1NPZkNZT2tOZVJnUDhPMGxsMkh0VHdINGRZZlRDbktCYU5MMi1fQ2tLZw?oc=5",
+          "fonte": "The Times"
         }
       ],
       "comentario": "As ações europeias registaram a maior queda do dia na carteira (-0,94%). A incerteza regulatória e macroeconómica pesa no continente, embora os resultados das empresas continuem sólidos. Pode ser uma oportunidade para avaliar se o peso da Europa na carteira está de acordo com os seus objetivos."
@@ -15722,9 +16050,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 19.89,
+        "preco_atual": 20.015,
         "fecho_anterior": 19.742,
-        "variacao_pct": 0.7496707527099569
+        "variacao_pct": 1.3828386181744488
       },
       "historico": {
         "intradiario": {
@@ -15899,8 +16227,88 @@
               "fecho": 19.85
             },
             {
-              "quando": "2026-09-18T12:37:00+00:00",
+              "quando": "2026-09-18T12:35:00+00:00",
               "fecho": 19.89
+            },
+            {
+              "quando": "2026-09-18T13:00:00+00:00",
+              "fecho": 19.868
+            },
+            {
+              "quando": "2026-09-18T13:25:00+00:00",
+              "fecho": 19.94
+            },
+            {
+              "quando": "2026-09-18T13:35:00+00:00",
+              "fecho": 20.0
+            },
+            {
+              "quando": "2026-09-18T13:40:00+00:00",
+              "fecho": 20.04
+            },
+            {
+              "quando": "2026-09-18T13:45:00+00:00",
+              "fecho": 20.055
+            },
+            {
+              "quando": "2026-09-18T14:00:00+00:00",
+              "fecho": 19.994
+            },
+            {
+              "quando": "2026-09-18T14:05:00+00:00",
+              "fecho": 19.962
+            },
+            {
+              "quando": "2026-09-18T14:10:00+00:00",
+              "fecho": 20.015
+            },
+            {
+              "quando": "2026-09-18T14:15:00+00:00",
+              "fecho": 20.01
+            },
+            {
+              "quando": "2026-09-18T14:20:00+00:00",
+              "fecho": 20.02
+            },
+            {
+              "quando": "2026-09-18T14:25:00+00:00",
+              "fecho": 20.005
+            },
+            {
+              "quando": "2026-09-18T14:30:00+00:00",
+              "fecho": 20.005
+            },
+            {
+              "quando": "2026-09-18T14:35:00+00:00",
+              "fecho": 20.0
+            },
+            {
+              "quando": "2026-09-18T14:40:00+00:00",
+              "fecho": 19.986
+            },
+            {
+              "quando": "2026-09-18T14:50:00+00:00",
+              "fecho": 20.0
+            },
+            {
+              "quando": "2026-09-18T15:10:00+00:00",
+              "fecho": 19.972
+            },
+            {
+              "quando": "2026-09-18T15:15:00+00:00",
+              "fecho": 19.98
+            },
+            {
+              "quando": "2026-09-18T15:20:00+00:00",
+              "fecho": 19.988
+            },
+            {
+              "quando": "2026-09-18T15:25:00+00:00",
+              "fecho": 19.99
+            },
+            {
+              "quando": "2026-09-18T15:30:00+00:00",
+              "fecho": 20.015
             }
           ]
         },
@@ -17945,7 +18353,7 @@
             },
             {
               "quando": "2026-09-18T07:00:00+00:00",
-              "fecho": 19.89
+              "fecho": 20.015
             }
           ]
         },
@@ -19025,22 +19433,22 @@
               "fecho": 19.444
             },
             {
-              "quando": "2026-09-18T12:37:00+00:00",
-              "fecho": 19.89
+              "quando": "2026-09-18T15:35:21+00:00",
+              "fecho": 20.015
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "Why Are Semiconductor Stocks Nvidia, AMD, Intel, and Broadcom Rising in Pre-Market Today, Sept. 18? - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmc1alFjc1Zhd21nYmFoTXpMb3ozT29OT1BHdkYxNWgyamtidlFldVV3LUYwLTdQZGFSVGdrSnp3bUk4RFIza1Znc25qOWVYbXlyNzVoOUphX3RTVkkyX2FjX0lDbU5vTWlTd29tTjBjNEJVdWhwdWtMSXp3TmlJU0lhbVNucmJxVEpCSi1xLW5QRkFfa21aVVBzUGhjeXFqNnJ0eW01V2VGMkMzZklUTkxwcG5PRFY3?oc=5",
+          "fonte": "TipRanks"
+        },
+        {
           "titulo": "3 Semiconductor Stocks to Buy Before AI Demand Explodes in September - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHcyZWZ5eExPSE10TXBTR29JMTUyOFNfbnRsQXdaRHVlZkdyQl9PZDZ2VmJ2ZHg4MTlDTXpVYjMwdzY4aTVCUVJVRVgxbWdENG82djN0RVQ1WEFTRjlTbV9UM0NHTy1QbkNCajJvQzJpdE15NkJOekxUMFVmdWZJdHJ3UjVQSzdxY2RNMXVVZnY1X3Z2ZktqbHRzUHdxaU1xZEdoLVNjUVZXRm51WE5VVURR?oc=5",
           "fonte": "24/7 Wall St."
-        },
-        {
-          "titulo": "3 Stocks to Buy as an Analyst Sees Semiconductor Spending Surging 88% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSFh3U09Qa1UtalNjdzRhbWdRLWlIcGhaRXFpclU4eTJLVGo0TUp2bXVXN1B4UDJDOVZNZVo2c21PT3JNZ29GdVdTeUJOamlSc0RxanpNSThCZC1wQXNtc3RMSlZibDhlcHhBdERWS0x3N1NGQ0J4NHMwMTVDTmx2djB6cnNNeURta2ZyVk5ZOTNfSEVq?oc=5",
-          "fonte": "Yahoo Finance"
         },
         {
           "titulo": "2 Undervalued Semiconductor Stocks to Buy While the Market Is Skeptical of AI Growth - Morningstar",
@@ -19048,9 +19456,9 @@
           "fonte": "Morningstar"
         },
         {
-          "titulo": "Semiconductor Sell-Off: 1 AI Chip Stock to Buy, 1 to Hold, and 1 to Sell After Broadcom's Beat - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHZIM1dWbnNnenpGaFVCaGdKdlNrbWczX2xCOHRJN0ptVkJNSUNSOUQySnhBQXh5UGlNX1k2M09ZWE5seGxxbDJKdFFFVFNXOXZkcnJ5YjVDeFZuX1VMY20yQ2xhNUg3bkJURkFERVhhX3lHLV9wNWJlSmlTQTNaVHlGME9ZWGJhWHNrbDVlVF9fSTFXOVFiOQ?oc=5",
-          "fonte": "The Motley Fool"
+          "titulo": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEdiMWFJUkJPdHBGUThBWTVzY1hjQjg0NjRiMkkzMFZ1dEo1eW02Vm1CNTlMd1VUdHNOR2JBR0k4cGRHWmJWcnJUNDc3d3lUVnhPVW5MOEVYTEw1ZG8tenU5bnFKRlpHV3VzR09yZ005RHFNTnNRRGRkZW9haFd5LXZaLUpvXzJMQ0p1clVTSFhTX2Zvbzg0b1VtbkdmU1k?oc=5",
+          "fonte": "Yahoo Finance"
         }
       ],
       "comentario": "O setor de semicondutores registou uma boa subida (+0,75%), impulsionado pelo otimismo contínuo em torno da inteligência artificial. Por ser um setor muito cíclico e volátil, sugere-se cautela no tamanho da posição, embora mantenha um excelente potencial de crescimento para o futuro."
@@ -19061,9 +19469,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 366.61,
+        "preco_atual": 365.41,
         "fecho_anterior": 365.11,
-        "variacao_pct": 0.41083509079455505
+        "variacao_pct": 0.08216701815891413
       },
       "historico": {
         "intradiario": {
@@ -19186,8 +19594,84 @@
               "fecho": 366.71
             },
             {
-              "quando": "2026-09-18T12:42:03+00:00",
+              "quando": "2026-09-18T12:40:00+00:00",
               "fecho": 366.61
+            },
+            {
+              "quando": "2026-09-18T12:45:00+00:00",
+              "fecho": 366.57
+            },
+            {
+              "quando": "2026-09-18T13:00:00+00:00",
+              "fecho": 366.35
+            },
+            {
+              "quando": "2026-09-18T13:05:00+00:00",
+              "fecho": 366.59
+            },
+            {
+              "quando": "2026-09-18T13:10:00+00:00",
+              "fecho": 366.61
+            },
+            {
+              "quando": "2026-09-18T13:15:00+00:00",
+              "fecho": 366.98
+            },
+            {
+              "quando": "2026-09-18T13:20:00+00:00",
+              "fecho": 366.64
+            },
+            {
+              "quando": "2026-09-18T13:25:00+00:00",
+              "fecho": 366.1
+            },
+            {
+              "quando": "2026-09-18T13:35:00+00:00",
+              "fecho": 365.62
+            },
+            {
+              "quando": "2026-09-18T13:40:00+00:00",
+              "fecho": 365.34
+            },
+            {
+              "quando": "2026-09-18T13:50:00+00:00",
+              "fecho": 365.08
+            },
+            {
+              "quando": "2026-09-18T13:55:00+00:00",
+              "fecho": 364.97
+            },
+            {
+              "quando": "2026-09-18T14:00:00+00:00",
+              "fecho": 364.95
+            },
+            {
+              "quando": "2026-09-18T14:15:00+00:00",
+              "fecho": 365.3
+            },
+            {
+              "quando": "2026-09-18T14:20:00+00:00",
+              "fecho": 364.92
+            },
+            {
+              "quando": "2026-09-18T14:35:00+00:00",
+              "fecho": 364.58
+            },
+            {
+              "quando": "2026-09-18T14:45:00+00:00",
+              "fecho": 365.38
+            },
+            {
+              "quando": "2026-09-18T15:10:00+00:00",
+              "fecho": 365.14
+            },
+            {
+              "quando": "2026-09-18T15:20:00+00:00",
+              "fecho": 365.19
+            },
+            {
+              "quando": "2026-09-18T15:30:00+00:00",
+              "fecho": 365.41
             }
           ]
         },
@@ -21224,7 +21708,7 @@
             },
             {
               "quando": "2026-09-18T07:00:00+00:00",
-              "fecho": 366.61
+              "fecho": 365.41
             }
           ]
         },
@@ -21692,8 +22176,8 @@
               "fecho": 362.61
             },
             {
-              "quando": "2026-09-18T12:42:03+00:00",
-              "fecho": 366.61
+              "quando": "2026-09-18T15:35:14+00:00",
+              "fecho": 365.41
             }
           ]
         }
@@ -21705,18 +22189,18 @@
           "fonte": "Fortune"
         },
         {
-          "titulo": "Gold extends gains to scale one-week high as crude prices ease - CNBC",
+          "titulo": "Gold reaches one-week high as crude oil prices ease - CNBC",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWWs4MWFWRlNadUhOVWkyMFJsZkdXWk1tRmMwXy11MU5KVUt2MWZuMmVvRmpFTHYxZ01FZUszanRTZUJqNkFEcVAtdWhlblE1bDZIVlo4YjU0Vk1RUGJGaUtqWFFfR1FEOW1MMmF4MGE5eHJmRlN6MU5lUmRzOVN2TzBZeEtMbmRoQk4yeFFZSmNYd2vSAZgBQVVfeXFMUDlNV3FqOFFjZFA0dmphY3pxcXl6elJqQTRuMFV5QjFWTFVvR1llOFdKTTh2YVE2ZUJoTWota3ZQTUFqeGtESm1IWEtpZjREVUZsWm1sbjVyXzI5WFBJMDVoVEZnRzFacTRQcUx1SzdKOWdOam5uUGl4YkJMZEFUZFNLUHljX2gyN010OHRTWTl6M3k1cFAtdGw?oc=5",
           "fonte": "CNBC"
         },
         {
-          "titulo": "Gold price rebounds above $4,340 as lower oil eases rate pressure - Kitco PM Report - KITCO",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQl96RGszVjVpMWNORGdsUGk0S1o5S2d5S3pRdGNrcTdpZW01Zm1UODJMa1lOdXhOYmVZa0lyRkFQUWVQak0tOVItSWxpLUFuMEZkNGZiYTdCLVNPc2tmY0hVSWxRM3FDaU5kLTkweXlnMXZxSmNLZU1qMEY3ZGJtazA0LUI3dHMwNWwyM0ZDeTU2dHhwelBHRTlxNnNqcUxtSzB2ZnZON0RDQTYxZndSOHBJOXVyZw?oc=5",
+          "titulo": "India’s festive season starts cautiously amid price volatility, gold ETFs and futures stay strong in August – WGC’s Chacko - KITCO",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVdJaWRiTHpZZ1UyRUpyd29zV0pncW5TaUV6TDd5cU9QVFlyS1N6X0M2OGF0ckoxOEZNV05aZ0VzUXNaYjBaUkI0UkhpZlVjRjlOV1dLTEtfYk9jekYySmxCaGV2ZjBGTXZIYkl1OFVhcENRaVdsalFFRjVweHYtZWY5U1diWUtDaHJpWWFGcHdiVmpsQkl6b3ZfZkZvZDB0MHpubzl4Q0dQaTJ1QjhpUDhZYldZVm1heHVSbnVB?oc=5",
           "fonte": "KITCO"
         },
         {
-          "titulo": "Gold price today, Wednesday, September 16, 2026: Gold holds in the $4,300 range, awaiting the Fed's decision - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbVZVZXRFa3hNMEZJUU1mS3RaMC1LWUZ2VVRlZHpQNk01Q1VOVVBMUWJHM01fRV90X25HSEVYWDVidExMYVBJQmJ3ZHBCQjVuLXVKejVYTjV4UUxBZGhIZzBuUENmX3BLVzA1ZW94NUN4alM1Rmc4RGpLVHVpRFROSlU3NTVFU0lCY1EwZjBRQTV1S25ZekxBb3BJbU9OQU9aZERPUGM4MWNLUzdmU0xHMHRRZDRURFpGamx2azZCOXA4a2FRbW1YNVppNWdaaExudEU4Ry1YVHVrX0RBUWVLNzZwVmRtVjFGenhZU3M4X0xPR0NWVlVOSUp6RmV1bUZaV3pnMUZKdw?oc=5",
+          "titulo": "Gold price today, Friday, September 18, 2026: Gold hits weekly high as inflation concerns fade - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOGpQQmdiaUdPVkEwN08tdzNack1YanZfaWdBYjBsQjVPenRPMlk4ZUx3QThNZ0NBRXpud0FWU3BjZmNuZmNUbXVyU29wdWJSZ3FKTXpkSXlkbmIzdlRXeHJxMG1FMDZHbkFDT0Z2RV9QRUdSS3l4NEZud3R4eGtEUnhfbm1wbmtpeEt3NEpna01KcUR4TDROcTB1cWZwb0ctSG9TRllSY3dKb3VfMGJ1UUJLZ21tM0FFRS1Vc0VWbnZqYm9tTnB6S2VYWjVXY0hsX0I5MXp6eTNfckh2a0MxNWhLdWVfaWtoWWhSelRoMEplTFExZ2ROUTJ3?oc=5",
           "fonte": "Yahoo Finance"
         }
       ],
