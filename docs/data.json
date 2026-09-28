@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-28T01:44:10.004486+00:00",
+  "atualizado_em": "2026-09-28T08:12:54.899771+00:00",
   "analise_geral": "O dia é globalmente positivo para a sua carteira, com destaque para a forte subida de 2.30% dos semicondutores (SEMI.AS) e a solidez das ações globais e norte-americanas. Em contrapartida, o fundo de obrigações PIMCO recuou ligeiramente (-0.71%), refletindo a recente subida das taxas de rendimento no mercado de dívida pública. De forma geral, o seu portefólio exibe uma excelente diversificação entre ações globais, tecnologia, rendimento fixo e ouro. Como sugestão, este momento de alta na tecnologia pode ser ideal para avaliar se a sua exposição a setores mais voláteis está equilibrada. Adicionalmente, a correção nas obrigações poderá vir a abrir portas para reforçar posições de rendimento a preços interessantes.",
   "analise_gerado_em": "2026-09-28T01:44:10.004443+00:00",
   "alertas_enviados": {
@@ -7,7 +7,7 @@
     "IWDE.AS": "2026-07-13",
     "IUES.AS": "2026-07-13",
     "SEMI.AS": "2026-09-22",
-    "SGLD.AS": "2026-09-04"
+    "SGLD.AS": "2026-09-28"
   },
   "ativos": [
     {
@@ -16,443 +16,63 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 48.697,
-        "fecho_anterior": 48.355,
-        "variacao_pct": 0.707269155206299
+        "preco_atual": 48.407,
+        "fecho_anterior": 48.697,
+        "variacao_pct": -0.5955192311641502
       },
       "historico": {
         "intradiario": {
           "ok": true,
           "pontos": [
             {
-              "quando": "2026-09-25T07:00:00+00:00",
-              "fecho": 48.694
+              "quando": "2026-09-28T07:05:00+00:00",
+              "fecho": 48.436
             },
             {
-              "quando": "2026-09-25T07:05:00+00:00",
-              "fecho": 48.68
+              "quando": "2026-09-28T07:10:00+00:00",
+              "fecho": 48.396
             },
             {
-              "quando": "2026-09-25T07:10:00+00:00",
-              "fecho": 48.69
+              "quando": "2026-09-28T07:15:00+00:00",
+              "fecho": 48.389
             },
             {
-              "quando": "2026-09-25T07:15:00+00:00",
-              "fecho": 48.68
+              "quando": "2026-09-28T07:20:00+00:00",
+              "fecho": 48.432
             },
             {
-              "quando": "2026-09-25T07:20:00+00:00",
-              "fecho": 48.691
+              "quando": "2026-09-28T07:25:00+00:00",
+              "fecho": 48.36
             },
             {
-              "quando": "2026-09-25T07:25:00+00:00",
-              "fecho": 48.695
+              "quando": "2026-09-28T07:30:00+00:00",
+              "fecho": 48.4
             },
             {
-              "quando": "2026-09-25T07:30:00+00:00",
-              "fecho": 48.659
+              "quando": "2026-09-28T07:35:00+00:00",
+              "fecho": 48.396
             },
             {
-              "quando": "2026-09-25T07:35:00+00:00",
-              "fecho": 48.677
+              "quando": "2026-09-28T07:40:00+00:00",
+              "fecho": 48.363
             },
             {
-              "quando": "2026-09-25T07:40:00+00:00",
-              "fecho": 48.68
+              "quando": "2026-09-28T07:45:00+00:00",
+              "fecho": 48.368
             },
             {
-              "quando": "2026-09-25T07:45:00+00:00",
-              "fecho": 48.68
+              "quando": "2026-09-28T07:50:00+00:00",
+              "fecho": 48.384
             },
             {
-              "quando": "2026-09-25T07:50:00+00:00",
-              "fecho": 48.687
-            },
-            {
-              "quando": "2026-09-25T07:55:00+00:00",
-              "fecho": 48.7
-            },
-            {
-              "quando": "2026-09-25T08:00:00+00:00",
-              "fecho": 48.677
-            },
-            {
-              "quando": "2026-09-25T08:05:00+00:00",
-              "fecho": 48.655
-            },
-            {
-              "quando": "2026-09-25T08:10:00+00:00",
-              "fecho": 48.739
-            },
-            {
-              "quando": "2026-09-25T08:15:00+00:00",
-              "fecho": 48.699
-            },
-            {
-              "quando": "2026-09-25T08:20:00+00:00",
-              "fecho": 48.705
-            },
-            {
-              "quando": "2026-09-25T08:25:00+00:00",
-              "fecho": 48.756
-            },
-            {
-              "quando": "2026-09-25T08:30:00+00:00",
-              "fecho": 48.825
-            },
-            {
-              "quando": "2026-09-25T08:35:00+00:00",
-              "fecho": 48.817
-            },
-            {
-              "quando": "2026-09-25T08:40:00+00:00",
-              "fecho": 48.843
-            },
-            {
-              "quando": "2026-09-25T08:45:00+00:00",
-              "fecho": 48.832
-            },
-            {
-              "quando": "2026-09-25T08:50:00+00:00",
-              "fecho": 48.839
-            },
-            {
-              "quando": "2026-09-25T08:55:00+00:00",
-              "fecho": 48.879
-            },
-            {
-              "quando": "2026-09-25T09:00:00+00:00",
-              "fecho": 48.879
-            },
-            {
-              "quando": "2026-09-25T09:05:00+00:00",
-              "fecho": 48.872
-            },
-            {
-              "quando": "2026-09-25T09:10:00+00:00",
-              "fecho": 48.893
-            },
-            {
-              "quando": "2026-09-25T09:15:00+00:00",
-              "fecho": 48.878
-            },
-            {
-              "quando": "2026-09-25T09:20:00+00:00",
-              "fecho": 48.829
-            },
-            {
-              "quando": "2026-09-25T09:25:00+00:00",
-              "fecho": 48.803
-            },
-            {
-              "quando": "2026-09-25T09:30:00+00:00",
-              "fecho": 48.838
-            },
-            {
-              "quando": "2026-09-25T09:35:00+00:00",
-              "fecho": 48.818
-            },
-            {
-              "quando": "2026-09-25T09:40:00+00:00",
-              "fecho": 48.8
-            },
-            {
-              "quando": "2026-09-25T09:45:00+00:00",
-              "fecho": 48.8
-            },
-            {
-              "quando": "2026-09-25T09:50:00+00:00",
-              "fecho": 48.77
-            },
-            {
-              "quando": "2026-09-25T09:55:00+00:00",
-              "fecho": 48.787
-            },
-            {
-              "quando": "2026-09-25T10:00:00+00:00",
-              "fecho": 48.79
-            },
-            {
-              "quando": "2026-09-25T10:05:00+00:00",
-              "fecho": 48.785
-            },
-            {
-              "quando": "2026-09-25T10:10:00+00:00",
-              "fecho": 48.8
-            },
-            {
-              "quando": "2026-09-25T10:15:00+00:00",
-              "fecho": 48.804
-            },
-            {
-              "quando": "2026-09-25T10:20:00+00:00",
-              "fecho": 48.796
-            },
-            {
-              "quando": "2026-09-25T10:25:00+00:00",
-              "fecho": 48.802
-            },
-            {
-              "quando": "2026-09-25T10:30:00+00:00",
-              "fecho": 48.778
-            },
-            {
-              "quando": "2026-09-25T10:35:00+00:00",
-              "fecho": 48.751
-            },
-            {
-              "quando": "2026-09-25T10:40:00+00:00",
-              "fecho": 48.744
-            },
-            {
-              "quando": "2026-09-25T10:45:00+00:00",
-              "fecho": 48.718
-            },
-            {
-              "quando": "2026-09-25T10:50:00+00:00",
-              "fecho": 48.739
-            },
-            {
-              "quando": "2026-09-25T10:55:00+00:00",
-              "fecho": 48.719
-            },
-            {
-              "quando": "2026-09-25T11:00:00+00:00",
-              "fecho": 48.714
-            },
-            {
-              "quando": "2026-09-25T11:05:00+00:00",
-              "fecho": 48.741
-            },
-            {
-              "quando": "2026-09-25T11:10:00+00:00",
-              "fecho": 48.8
-            },
-            {
-              "quando": "2026-09-25T11:15:00+00:00",
-              "fecho": 48.837
-            },
-            {
-              "quando": "2026-09-25T11:20:00+00:00",
-              "fecho": 48.828
-            },
-            {
-              "quando": "2026-09-25T11:25:00+00:00",
-              "fecho": 48.82
-            },
-            {
-              "quando": "2026-09-25T11:30:00+00:00",
-              "fecho": 48.788
-            },
-            {
-              "quando": "2026-09-25T11:35:00+00:00",
-              "fecho": 48.767
-            },
-            {
-              "quando": "2026-09-25T11:40:00+00:00",
-              "fecho": 48.773
-            },
-            {
-              "quando": "2026-09-25T11:45:00+00:00",
-              "fecho": 48.783
-            },
-            {
-              "quando": "2026-09-25T11:50:00+00:00",
-              "fecho": 48.753
-            },
-            {
-              "quando": "2026-09-25T11:55:00+00:00",
-              "fecho": 48.772
-            },
-            {
-              "quando": "2026-09-25T12:00:00+00:00",
-              "fecho": 48.775
-            },
-            {
-              "quando": "2026-09-25T12:05:00+00:00",
-              "fecho": 48.776
-            },
-            {
-              "quando": "2026-09-25T12:10:00+00:00",
-              "fecho": 48.753
-            },
-            {
-              "quando": "2026-09-25T12:15:00+00:00",
-              "fecho": 48.724
-            },
-            {
-              "quando": "2026-09-25T12:20:00+00:00",
-              "fecho": 48.789
-            },
-            {
-              "quando": "2026-09-25T12:25:00+00:00",
-              "fecho": 48.75
-            },
-            {
-              "quando": "2026-09-25T12:30:00+00:00",
-              "fecho": 48.73
-            },
-            {
-              "quando": "2026-09-25T12:35:00+00:00",
-              "fecho": 48.776
-            },
-            {
-              "quando": "2026-09-25T12:40:00+00:00",
-              "fecho": 48.765
-            },
-            {
-              "quando": "2026-09-25T12:45:00+00:00",
-              "fecho": 48.748
-            },
-            {
-              "quando": "2026-09-25T12:50:00+00:00",
-              "fecho": 48.729
-            },
-            {
-              "quando": "2026-09-25T12:55:00+00:00",
-              "fecho": 48.74
-            },
-            {
-              "quando": "2026-09-25T13:00:00+00:00",
-              "fecho": 48.738
-            },
-            {
-              "quando": "2026-09-25T13:05:00+00:00",
-              "fecho": 48.76
-            },
-            {
-              "quando": "2026-09-25T13:10:00+00:00",
-              "fecho": 48.832
-            },
-            {
-              "quando": "2026-09-25T13:15:00+00:00",
-              "fecho": 48.761
-            },
-            {
-              "quando": "2026-09-25T13:20:00+00:00",
-              "fecho": 48.76
-            },
-            {
-              "quando": "2026-09-25T13:25:00+00:00",
-              "fecho": 48.735
-            },
-            {
-              "quando": "2026-09-25T13:30:00+00:00",
-              "fecho": 48.675
-            },
-            {
-              "quando": "2026-09-25T13:35:00+00:00",
-              "fecho": 48.734
-            },
-            {
-              "quando": "2026-09-25T13:40:00+00:00",
-              "fecho": 48.722
-            },
-            {
-              "quando": "2026-09-25T13:45:00+00:00",
-              "fecho": 48.705
-            },
-            {
-              "quando": "2026-09-25T13:50:00+00:00",
-              "fecho": 48.85
-            },
-            {
-              "quando": "2026-09-25T13:55:00+00:00",
-              "fecho": 48.81
-            },
-            {
-              "quando": "2026-09-25T14:00:00+00:00",
-              "fecho": 48.7
-            },
-            {
-              "quando": "2026-09-25T14:05:00+00:00",
-              "fecho": 48.696
-            },
-            {
-              "quando": "2026-09-25T14:10:00+00:00",
-              "fecho": 48.649
-            },
-            {
-              "quando": "2026-09-25T14:15:00+00:00",
-              "fecho": 48.523
-            },
-            {
-              "quando": "2026-09-25T14:20:00+00:00",
-              "fecho": 48.565
-            },
-            {
-              "quando": "2026-09-25T14:25:00+00:00",
-              "fecho": 48.551
-            },
-            {
-              "quando": "2026-09-25T14:30:00+00:00",
-              "fecho": 48.594
-            },
-            {
-              "quando": "2026-09-25T14:35:00+00:00",
-              "fecho": 48.634
-            },
-            {
-              "quando": "2026-09-25T14:40:00+00:00",
-              "fecho": 48.564
-            },
-            {
-              "quando": "2026-09-25T14:45:00+00:00",
-              "fecho": 48.646
-            },
-            {
-              "quando": "2026-09-25T14:50:00+00:00",
-              "fecho": 48.624
-            },
-            {
-              "quando": "2026-09-25T14:55:00+00:00",
-              "fecho": 48.62
-            },
-            {
-              "quando": "2026-09-25T15:00:00+00:00",
-              "fecho": 48.645
-            },
-            {
-              "quando": "2026-09-25T15:05:00+00:00",
-              "fecho": 48.667
-            },
-            {
-              "quando": "2026-09-25T15:10:00+00:00",
-              "fecho": 48.642
-            },
-            {
-              "quando": "2026-09-25T15:15:00+00:00",
-              "fecho": 48.671
-            },
-            {
-              "quando": "2026-09-25T15:20:00+00:00",
-              "fecho": 48.702
-            },
-            {
-              "quando": "2026-09-25T15:25:00+00:00",
-              "fecho": 48.677
-            },
-            {
-              "quando": "2026-09-25T15:30:00+00:00",
-              "fecho": 48.697
+              "quando": "2026-09-28T07:54:38+00:00",
+              "fecho": 48.407
             }
           ]
         },
         "diario": {
           "ok": true,
           "pontos": [
-            {
-              "quando": "2024-09-25T07:00:00+00:00",
-              "fecho": 32.535
-            },
-            {
-              "quando": "2024-09-26T07:00:00+00:00",
-              "fecho": 33.369
-            },
-            {
-              "quando": "2024-09-27T07:00:00+00:00",
-              "fecho": 33.417
-            },
             {
               "quando": "2024-09-30T07:00:00+00:00",
               "fecho": 33.066
@@ -2460,6 +2080,10 @@
             {
               "quando": "2026-09-25T07:00:00+00:00",
               "fecho": 48.697
+            },
+            {
+              "quando": "2026-09-28T07:00:00+00:00",
+              "fecho": 48.407
             }
           ]
         },
@@ -3052,35 +2676,35 @@
             },
             {
               "quando": "2026-08-31T22:00:00+00:00",
-              "fecho": 48.873
+              "fecho": 48.355
             },
             {
-              "quando": "2026-09-25T15:35:53+00:00",
-              "fecho": 48.697
+              "quando": "2026-09-28T07:54:38+00:00",
+              "fecho": 48.407
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "Three undervalued emerging market stocks to consider - moneyweek.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGU1S2NBVmxFekE3YWtuWUE3b0hqTi05UUt5d0dzaGZmVmE4QnpEZFdNVDJUaVpiUUdBUlNSbjJaS0UwSVF5SHlyckMxbGRRQkZ6cG1lYlJ0ZDZWT2NqbDJJbFV0WkRuamhFZWxxbmh5Mm5JU0dReDJvQm9fNkJhTExwRDdSMVY5X0UtRldCYUFhdWN6UGdIaS1pUWFaOUM2LUxmX2xn?oc=5",
+          "fonte": "moneyweek.com"
+        },
+        {
+          "titulo": "BlackRock CIO Dumps Stocks for High-Grade Bonds. Here’s Why - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWwwLVhZUFlrWDRsMXhwTElUMWdQTkxLZmVmcDUzUEZTcy1VcTZ4dmpHb3hPV21MUWdnbTRzeUFvcVUwUm5TR0dVLWVOd0NfZzNoVlJwOWViR2lHd2g0Qy1RRWNRUXo0TUJHQWJDMElkU3ZPcU1saG9nZ2FXWWJxdmk5RWJIMnBvdTc2ckQ2QW40elRrWHlVY05QMTM?oc=5",
+          "fonte": "Yahoo Finance"
+        },
+        {
           "titulo": "The Ghost Rally: What We See Really Driving Emerging Markets in 2026 - Neuberger Berman",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOckF6TGJJOVlONDdlYzFlNkdrb2RxZTVoanZzR295QktyR3BIQWRHcGFHZ0xOT0c5ZmdSa1R2Mlgta1hLc21zMjYxSEhOdUJobnBQWmNwQ2JWZy1sUU9FVmNXbl9VZHIycTBlM1dHblRQZHprMkVZMjFfTWR5WTJITmNTb2Y5cC14QTZiTUQxSENnVXc?oc=5",
           "fonte": "Neuberger Berman"
         },
         {
-          "titulo": "Is iShares Emerging Markets Dividend ETF (DVYE) a Strong ETF Right Now? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMDhYWUJOMVg0MUJWTmRwdmxsUEN2Y3QwZGdac2FvejJQcnozRUJTM3RjcVlrdzFva1RvYk1SZUZ2UWxjaDN6UFNtZzdyV01UM2RiS3NPb0VkXzRaY2hLVU5Mc3BLMkI5ZnBhUXg0ZU9EYWh3VnF3OE5FOGNLVFpENWRSaEtxOEgtSE5qRVNwcFRBb3ZqTTF2NmYtaDZrUHpfaWJBVQ?oc=5",
-          "fonte": "Yahoo Finance"
-        },
-        {
-          "titulo": "Investing in Emerging Markets: EWY, FLKR and More Top-Performing ETFs - NerdWallet",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JQW5kYURpNjNOdFMxdGFOeHdWeWF4MFo0RGk0cjdLR1dmQjdkQXR4YzUybVAtVFB5V01QT0dwcGY5Y1Q2b3FsVTNjcFRiRU9aVW1vQWhhampwUmdrVnVacnBQSk5aakxnMWIzMEY5QnY2RmJWeHNN?oc=5",
-          "fonte": "NerdWallet"
-        },
-        {
-          "titulo": "View from the markets: What’s the meaning of the emerging market tech stock sell-off? - BNP Paribas Asset Management",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbjRiY3RDYzBZXzJTbVY5bXpVX1c4WFVtVlEyaU5XaVliQXZ4SHktdExHcEdaTVU5UjNHSml0N3FZSFAteG92bUNCdWh0SVZ0MjdlWnp6bUlHMDlzdG81OWFROE9hd1gwNjJleVc1dUhMV3h1Z3F4UXdLbE52Szdmam5wTnhtTkVEQVNzS3BObHROX0VTMTNaaThfbXkzNzl4NDdkRVZKUTRST0JDbkpBdE1CcEkyNE1zdWNwN0VFU201RDFlMjdSUHpB?oc=5",
-          "fonte": "BNP Paribas Asset Management"
+          "titulo": "Fidelity Asset Manager 50% Strategic Allocation Portfolio Q2 2026 Commentary (FASMX) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPemFlZVlRWkJvZ1pJc1Rha1dNcmRlR0RMTEsxdGtiTUlUUzZQVk1IU3lJc2EtZE1nQTQ5ek9OMFB3NHpIblNPTXZOZ2dsblpYQTFKM3lCOWhPa0JkTTMyQnhTbkQzNmZFNzZkeHJyaVJSS2o1XzVzSURhUUFfMlVTeFl0THVNU3RiNXFJeTR4dXVDaHV3cDBITEpENUJQbjlXbTBIOGEtSGV5Q3JpRldhSGZSc1FOTWZ1MGpYdEp3eDdqUFJIeHBpbzRfWE1XUElkbHc5bmU2QlRxWkk?oc=5",
+          "fonte": "Seeking Alpha"
         }
       ],
       "comentario": "Com uma subida de +0.71%, os mercados emergentes continuam a mostrar dinamismo. Este ETF oferece uma excelente diversificação geográfica. Sugere-se manter a posição para capturar o crescimento de longo prazo, prestando atenção à volatilidade do setor tecnológico asiático."
@@ -3091,115 +2715,35 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 119.84,
-        "fecho_anterior": 119.14,
-        "variacao_pct": 0.5875440658049377
+        "preco_atual": 119.78,
+        "fecho_anterior": 119.84,
+        "variacao_pct": -0.0500667556742342
       },
       "historico": {
         "intradiario": {
           "ok": true,
           "pontos": [
             {
-              "quando": "2026-09-25T07:00:00+00:00",
-              "fecho": 119.96
+              "quando": "2026-09-28T07:00:00+00:00",
+              "fecho": 119.72
             },
             {
-              "quando": "2026-09-25T07:40:00+00:00",
-              "fecho": 119.9
+              "quando": "2026-09-28T07:05:00+00:00",
+              "fecho": 119.76
             },
             {
-              "quando": "2026-09-25T07:50:00+00:00",
-              "fecho": 119.88
+              "quando": "2026-09-28T07:20:00+00:00",
+              "fecho": 119.78
             },
             {
-              "quando": "2026-09-25T08:05:00+00:00",
-              "fecho": 119.84
-            },
-            {
-              "quando": "2026-09-25T08:10:00+00:00",
-              "fecho": 119.9
-            },
-            {
-              "quando": "2026-09-25T08:25:00+00:00",
-              "fecho": 120.0
-            },
-            {
-              "quando": "2026-09-25T09:15:00+00:00",
-              "fecho": 120.18
-            },
-            {
-              "quando": "2026-09-25T09:35:00+00:00",
-              "fecho": 120.1
-            },
-            {
-              "quando": "2026-09-25T09:40:00+00:00",
-              "fecho": 120.12
-            },
-            {
-              "quando": "2026-09-25T10:05:00+00:00",
-              "fecho": 120.06
-            },
-            {
-              "quando": "2026-09-25T10:40:00+00:00",
-              "fecho": 120.02
-            },
-            {
-              "quando": "2026-09-25T10:45:00+00:00",
-              "fecho": 120.0
-            },
-            {
-              "quando": "2026-09-25T11:40:00+00:00",
-              "fecho": 120.14
-            },
-            {
-              "quando": "2026-09-25T11:50:00+00:00",
-              "fecho": 120.16
-            },
-            {
-              "quando": "2026-09-25T12:20:00+00:00",
-              "fecho": 120.08
-            },
-            {
-              "quando": "2026-09-25T12:35:00+00:00",
-              "fecho": 120.04
-            },
-            {
-              "quando": "2026-09-25T13:25:00+00:00",
-              "fecho": 119.9
-            },
-            {
-              "quando": "2026-09-25T13:50:00+00:00",
-              "fecho": 119.96
-            },
-            {
-              "quando": "2026-09-25T14:00:00+00:00",
-              "fecho": 119.92
-            },
-            {
-              "quando": "2026-09-25T15:05:00+00:00",
-              "fecho": 119.96
-            },
-            {
-              "quando": "2026-09-25T15:15:00+00:00",
-              "fecho": 119.84
+              "quando": "2026-09-28T07:20:51+00:00",
+              "fecho": 119.78
             }
           ]
         },
         "diario": {
           "ok": true,
           "pontos": [
-            {
-              "quando": "2024-09-25T07:00:00+00:00",
-              "fecho": 90.28
-            },
-            {
-              "quando": "2024-09-26T07:00:00+00:00",
-              "fecho": 90.625
-            },
-            {
-              "quando": "2024-09-27T07:00:00+00:00",
-              "fecho": 90.79
-            },
             {
               "quando": "2024-09-30T07:00:00+00:00",
               "fecho": 90.405
@@ -5223,6 +4767,10 @@
             {
               "quando": "2026-09-25T07:00:00+00:00",
               "fecho": 119.84
+            },
+            {
+              "quando": "2026-09-28T07:00:00+00:00",
+              "fecho": 119.78
             }
           ]
         },
@@ -5979,30 +5527,30 @@
             },
             {
               "quando": "2026-08-31T22:00:00+00:00",
-              "fecho": 120.0
+              "fecho": 119.14
             },
             {
-              "quando": "2026-09-25T15:17:42+00:00",
-              "fecho": 119.84
+              "quando": "2026-09-28T07:20:51+00:00",
+              "fecho": 119.78
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Xtrackers Brings S&P 500, Nasdaq 100 & MSCI World ETFs To SGX - DollarsAndSense.sg",
+          "titulo": "Xtrackers Brings S&P 500, Nasdaq 100 & MSCI World ETFs To SGX - dollarsandsense.sg",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTUJJSmtMWWRJenNYMjdvTVh5cnhCcnNzYzhxT2tkVldVZHR2NDdzcklEZVJ4d2stdlJVeF91OGl6V3hsd21oaWVYdUxEd3RKZFRVak44SGRxRXI4c3c1UG5sYk52bmVLWHNqeURpbXNHVG5fa1VMRjVoRVM0aXNfNW9nOF9tdXFGeVNhOEV3?oc=5",
-          "fonte": "DollarsAndSense.sg"
-        },
-        {
-          "titulo": "MSCI Inc. (MSCI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdWlaUFZRTDd0ZGhwMXZfcjlRNTFTMC1VWE5TSlcyZnlIektrQW5pa2pGNEVNb1FuR0NOVXpFSXE3RkRicGRqRklaUkhjVmV6emc?oc=5",
-          "fonte": "Yahoo! Finance Canada"
+          "fonte": "dollarsandsense.sg"
         },
         {
           "titulo": "Weekly value of MSCI World Index (USD) 2020-2026 - Statista",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04NUJkcnRUV1hFVHlPVDZIeWt1ZkpyWDZER3MzbURMbzFKYlVkVzh3VjZJWXdLQVJLSjlJUmpPZnF1MU4yOXhFOUM4WlN3TVI0Zkt2X1JEMVY5TmpDUHpybWxVOTk2bm8tZVZCZGFxaElJODdPM0FJ?oc=5",
           "fonte": "Statista"
+        },
+        {
+          "titulo": "MSCI WORLD GOLD URANIUM & R (^764719-USD-STRD) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUN0JkYWZoeTMtVlpvZjZucU1wN1FWbS1wUFpJSnBaLVpLZlZQNzg5ZU5uUGRSelRTbm5mSEt2b2dFM2JTMExIMjRTTk5WWkl3UTJfbHNva2tqZmREcW9zS2hxR2VIQXNyLTlJSA?oc=5",
+          "fonte": "Yahoo! Finance Canada"
         },
         {
           "titulo": "A Gold-Rated World Stock ETF - Morningstar",
@@ -6018,123 +5566,35 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 158.41,
-        "fecho_anterior": 157.28,
-        "variacao_pct": 0.7184638860630693
+        "preco_atual": 158.28,
+        "fecho_anterior": 158.41,
+        "variacao_pct": -0.08206552616627452
       },
       "historico": {
         "intradiario": {
           "ok": true,
           "pontos": [
             {
-              "quando": "2026-09-25T07:00:00+00:00",
-              "fecho": 158.27
+              "quando": "2026-09-28T07:00:00+00:00",
+              "fecho": 158.18
             },
             {
-              "quando": "2026-09-25T07:50:00+00:00",
-              "fecho": 158.29
+              "quando": "2026-09-28T07:15:00+00:00",
+              "fecho": 158.16
             },
             {
-              "quando": "2026-09-25T07:55:00+00:00",
-              "fecho": 158.23
+              "quando": "2026-09-28T07:40:00+00:00",
+              "fecho": 158.21
             },
             {
-              "quando": "2026-09-25T08:10:00+00:00",
-              "fecho": 158.22
-            },
-            {
-              "quando": "2026-09-25T08:20:00+00:00",
-              "fecho": 158.38
-            },
-            {
-              "quando": "2026-09-25T08:50:00+00:00",
-              "fecho": 158.54
-            },
-            {
-              "quando": "2026-09-25T08:55:00+00:00",
-              "fecho": 158.58
-            },
-            {
-              "quando": "2026-09-25T09:05:00+00:00",
-              "fecho": 158.61
-            },
-            {
-              "quando": "2026-09-25T10:00:00+00:00",
-              "fecho": 158.52
-            },
-            {
-              "quando": "2026-09-25T10:10:00+00:00",
-              "fecho": 158.52
-            },
-            {
-              "quando": "2026-09-25T10:15:00+00:00",
-              "fecho": 158.6
-            },
-            {
-              "quando": "2026-09-25T10:25:00+00:00",
-              "fecho": 158.57
-            },
-            {
-              "quando": "2026-09-25T10:45:00+00:00",
-              "fecho": 158.51
-            },
-            {
-              "quando": "2026-09-25T11:10:00+00:00",
-              "fecho": 158.59
-            },
-            {
-              "quando": "2026-09-25T11:30:00+00:00",
-              "fecho": 158.73
-            },
-            {
-              "quando": "2026-09-25T11:45:00+00:00",
-              "fecho": 158.7
-            },
-            {
-              "quando": "2026-09-25T12:45:00+00:00",
-              "fecho": 158.63
-            },
-            {
-              "quando": "2026-09-25T13:20:00+00:00",
-              "fecho": 158.41
-            },
-            {
-              "quando": "2026-09-25T13:35:00+00:00",
-              "fecho": 158.52
-            },
-            {
-              "quando": "2026-09-25T15:05:00+00:00",
-              "fecho": 158.48
-            },
-            {
-              "quando": "2026-09-25T15:20:00+00:00",
-              "fecho": 158.3
-            },
-            {
-              "quando": "2026-09-25T15:25:00+00:00",
-              "fecho": 158.29
-            },
-            {
-              "quando": "2026-09-25T15:30:00+00:00",
-              "fecho": 158.41
+              "quando": "2026-09-28T07:57:11+00:00",
+              "fecho": 158.28
             }
           ]
         },
         "diario": {
           "ok": true,
           "pontos": [
-            {
-              "quando": "2024-09-25T07:00:00+00:00",
-              "fecho": 120.145
-            },
-            {
-              "quando": "2024-09-26T07:00:00+00:00",
-              "fecho": 120.281
-            },
-            {
-              "quando": "2024-09-27T07:00:00+00:00",
-              "fecho": 120.54
-            },
             {
               "quando": "2024-09-30T07:00:00+00:00",
               "fecho": 120.269
@@ -8158,6 +7618,10 @@
             {
               "quando": "2026-09-25T07:00:00+00:00",
               "fecho": 158.41
+            },
+            {
+              "quando": "2026-09-28T07:00:00+00:00",
+              "fecho": 158.28
             }
           ]
         },
@@ -8914,35 +8378,35 @@
             },
             {
               "quando": "2026-08-31T22:00:00+00:00",
-              "fecho": 158.38
+              "fecho": 157.28
             },
             {
-              "quando": "2026-09-25T15:35:14+00:00",
-              "fecho": 158.41
+              "quando": "2026-09-28T07:57:11+00:00",
+              "fecho": 158.28
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "Thinking about buying stocks instead of a home? The S&P 500 has blown away the housing market - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYzR2NHNJdk9oSHo4ZzgyV1NZc1N5UFFHVW5XSm1EQ19ROHl4cE9qSEJHdzhKTUxLYmJNRXRGY1FqbGpFeXYxZkpFaDVXUkI2akJWNVdXX3FnUFBDVDNnaXA2V2l1MElEeWtiRW1ycFg1UnFsTTNYN0x1SzJSZ0tJa2o0LUNESjZpU2xHbmctaVd5R2Rkb3Q5TTJzS0VlU1Zw?oc=5",
+          "fonte": "Fortune"
+        },
+        {
           "titulo": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth - MarketWatch",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc1BoMWkyX0xibzdDSW1VMUFmNjdSNHdjNVRFMFBqaF9Tb1lJN281TnpYR2tWWW1HU2pXdk1lWEpHUEd3b19EcHQzWGZmQ2llU2owS3pIaTdxTVZtTXRTT3RpZHdhWFM2S0szUU4tZW1kSGVaWjRMZWNvOWpFOWc4bmEyQkdZOE14cHJBcDdLazdVMFo3bFZDTFZRdXpwdFZOTld5a09HbnA2Tjk4X1VlNlBmR18tc2YtdDF3alJKMXpZQnd0?oc=5",
           "fonte": "MarketWatch"
         },
         {
-          "titulo": "The S&P 500 Barely Yields Anything. This Vanguard ETF Pays Roughly Double It - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0x3MF9ORkVLSVVqd0UtaVdsdGZIc0NieTJILUZ6RndZRWd4Q3VBZWk3bUllMXJQejBBMFBQNWZOWUZ5bUV1RE5GaUp1Z2JoREFBdFFoY2RZbG95b19pemxQbE1oeXZHbm0weFBFRGhMeURZMkhONlV4Ujd5aUxqTU1XR0xCMjNBaWxsVW1rcUNxRjZoQ3QwNVRGTTdrZ3k2X3NvN2FFd3lyWHZUeV9ERGJzaFpsdHdZM0NNc0t6SQ?oc=5",
-          "fonte": "24/7 Wall St."
+          "titulo": "Stock Market: Will S&P 500 Open Up or Down Today? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlJkODdqUWp0UTNDMkRyUXg5OW81RFRDWlpiX2IteUgyRWRQOU5OTlIyaERuOUxJc1NoSUpFQmxhcHNaZnBucnRmeHp4UFV6N1ZlR3RJZzJVNWx4alY2bWFzREd4Wm1jZ2hVNWQtQWhPaFdSM3Z1MFJxVGdsRncyeUlPY1JJbFlyQXEzNWx0S2ZzZw?oc=5",
+          "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Thinking about buying stocks instead of a home? The S&P 500 has blown away the housing market - fortune.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYzR2NHNJdk9oSHo4ZzgyV1NZc1N5UFFHVW5XSm1EQ19ROHl4cE9qSEJHdzhKTUxLYmJNRXRGY1FqbGpFeXYxZkpFaDVXUkI2akJWNVdXX3FnUFBDVDNnaXA2V2l1MElEeWtiRW1ycFg1UnFsTTNYN0x1SzJSZ0tJa2o0LUNESjZpU2xHbmctaVd5R2Rkb3Q5TTJzS0VlU1Zw?oc=5",
-          "fonte": "fortune.com"
-        },
-        {
-          "titulo": "Is Charles River Laboratories Stock Outperforming the S&P 500? - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXFDSU1Vdlh6anJwWHhiZkIyTWd2OWVyR01zUy1udUtkRVRjRVphdndKTkVrOEhVaTF1S2RhQXBLRDZOU20xTlViWC03MXo5Tkw4VUZoYVBCWWNxRnlCWE1ELUxnMUZjdnRGblBhS3VDZkNVczduVWpsTnBwbkRiNk15QlpzSDdpbHZrSXJIbFdobENEZ2NqbTliR3ZyM0lZVG5iWGVhMVU?oc=5",
-          "fonte": "Barchart.com"
+          "titulo": "Stock Market Today: Dow, S&P 500 and Nasdaq set to fall as oil prices rise; bond selloff deepens - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOclp1bUNiWV9CdU16Sk5IMVRPMnF5RWtUMVpjZjlFQTFraER4aHdUQ2Y0MHUwb3BRN2VOUmZkd2Q5WmI4NTJRaDY1SDVLTHk3UXlla0NQbll5QTY2d2lZb2p4RFhOdVIxXzhQSFFJSjZxOXpTYVJiS2JDbFpFenNJNUk5d2FwTDE0V1FaNDRHNVZiV3YzbF91eTEwcjJraUZmNlFiQ0RGSDk0eG1UY25xb2xEY1ctZw?oc=5",
+          "fonte": "MarketWatch"
         }
       ],
       "comentario": "O ganho de +0.72% reflete o otimismo contínuo no S&P 500, impulsionado por perspetivas de lucros corporativos sólidos. A proteção cambial em euros continua a mitigar a volatilidade cambial. Sugere-se manter para assegurar exposição direta às maiores empresas americanas."
@@ -8965,18 +8429,6 @@
         "diario": {
           "ok": true,
           "pontos": [
-            {
-              "quando": "2024-09-25T06:00:00+00:00",
-              "fecho": 7.86
-            },
-            {
-              "quando": "2024-09-26T06:00:00+00:00",
-              "fecho": 7.86
-            },
-            {
-              "quando": "2024-09-27T06:00:00+00:00",
-              "fecho": 7.83
-            },
             {
               "quando": "2024-09-30T06:00:00+00:00",
               "fecho": 7.82
@@ -10920,6 +10372,10 @@
             {
               "quando": "2026-09-23T06:00:00+00:00",
               "fecho": 7.02
+            },
+            {
+              "quando": "2026-09-24T06:00:00+00:00",
+              "fecho": 6.97
             }
           ]
         },
@@ -12748,21 +12204,21 @@
             },
             {
               "quando": "2026-09-20T22:00:00+00:00",
-              "fecho": 7.02
+              "fecho": 6.97
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "Implications of rising bond yields - Vanguard Corporate",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXo5d0VnU1A4OXRGQlNjM3hjR01hV21aX0VCb29oU3FadkdiRmtCdllON0VETHdnck9RLU42YTJxaHpoMEdSU29mNl9DUWVETG1YZHR3VElJYTFPVzktNEJNSGNVWW45OGhjSzF2WUJBUzhkbFAxSEk2UV9rcEh3NGkwc0w3OE5OWmhtUjlHN3p4b2FPeEZkRDBxZkc5Vy1FUTJYdVBhNXZzejJD?oc=5",
+          "fonte": "Vanguard Corporate"
+        },
+        {
           "titulo": "10-year Treasury yield hit a 19-year high—and some investors see opportunity to buy bonds - CNBC",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xeGZGd2dtVTBWbzhHcUQycEVzX21HU0RBZV93TGZjZkppVEsxMkY5aFc1SUlOUlNUR04tV3k5aDlxNjBYeVByUEQ5R3RnZk5aaGhlUVJBYzNkSTlRaGpVY0ZZTUVhWjA0UDRzbEVB0gFzQVVfeXFMTUlFUTZEcWJxUVlRSXBUZkQyWVRxYkFDMUhtVnNfNEgzWTZJVTJyMnp2RHBEYkdqTUpla1FDdkRZUHZDVVpWZURvZFFiZzJnY2FKU2tLckxSSC1wUEFYVzcwSWU0RnlERElSalFBeXYtTFJCYw?oc=5",
           "fonte": "CNBC"
-        },
-        {
-          "titulo": "3 Bond Trading Platform Stocks Getting Attention As Yields Reset - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQzJoU21qaE50TVlPOGsyQnVDRXVkRGdXV3I0TkVNbTNKNV94dXFtOEg3dERmcHc0SEpScS1yZExGcXI4WEhlUllta0s5VXBNaDNOUmdiamJpbXhYeVlmcFR6V1o4MlBzMVlPYjh6cnROM2JNYmt5RmtraWxyZjVyeVFTOG1rWi1XWEVHaWliQ0ZZS3FNSEFWZlFaNA?oc=5",
-          "fonte": "Yahoo Finance"
         },
         {
           "titulo": "How the world's biggest bond managers are investing in a tumultuous market - Reuters",
@@ -12770,9 +12226,9 @@
           "fonte": "Reuters"
         },
         {
-          "titulo": "Bond Risks | Rates, Credit Quality, Liquidity, & Call Risk - Britannica",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01ZXBETnhadU1CMVg4SmVSWVdMNGlpQXhNRFdjUjQzc1N1c2hoeGo1UTRtTVlUNTU5LW5DX1ZKQ21CWURVVEdTaGxHMlpZNmxSTFAzdTM2b1N2RWpHQ3dr?oc=5",
-          "fonte": "Britannica"
+          "titulo": "Strategic allocation to Asia fixed income - South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOGNTcEJWRUY5RWUwMUxadTZEYVRwZ3duRVg4UVFJcldIdzhPamI4d2hNcFZJazlTVHJzcUFMOUJIeGVwMDdnMVdaSHB3bHk0V3NjSWVEV1VTLVI5MVFKa1cxSVZQeFd0LWtuV2UtbnA3eHhib1JsbDEyeVRUUFZvQnREUzQzR3dET0xwRlFrRUNUNllSZHlIYU5VVXU2LUJiQ0lxdjUxaEJWbUpNRkRRdUQyekNIRktscHNsemRnOVk4Q2RrTEV2Uk5PanFxS0ZZZld0UlRjTFNDZlpib1U4Vw?oc=5",
+          "fonte": "South China Morning Post"
         }
       ],
       "comentario": "O ligeiro recuo de -0.71% deve-se à subida das yields das obrigações globais. No entanto, taxas mais elevadas sugerem pontos de entrada interessantes para quem procura rendimento regular. Pode ser oportuno acompanhar para eventuais reforços ponderados."
@@ -12783,391 +12239,67 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 103.87,
-        "fecho_anterior": 103.465,
-        "variacao_pct": 0.3914367177306346
+        "preco_atual": 104.32,
+        "fecho_anterior": 103.87,
+        "variacao_pct": 0.4332338500048027
       },
       "historico": {
         "intradiario": {
           "ok": true,
           "pontos": [
             {
-              "quando": "2026-09-25T07:00:00+00:00",
-              "fecho": 104.195
-            },
-            {
-              "quando": "2026-09-25T07:05:00+00:00",
-              "fecho": 104.23
-            },
-            {
-              "quando": "2026-09-25T07:10:00+00:00",
-              "fecho": 104.24
-            },
-            {
-              "quando": "2026-09-25T07:15:00+00:00",
-              "fecho": 104.16
-            },
-            {
-              "quando": "2026-09-25T07:20:00+00:00",
-              "fecho": 104.235
-            },
-            {
-              "quando": "2026-09-25T07:25:00+00:00",
-              "fecho": 104.25
-            },
-            {
-              "quando": "2026-09-25T07:30:00+00:00",
-              "fecho": 104.19
-            },
-            {
-              "quando": "2026-09-25T07:35:00+00:00",
-              "fecho": 104.165
-            },
-            {
-              "quando": "2026-09-25T07:40:00+00:00",
-              "fecho": 104.15
-            },
-            {
-              "quando": "2026-09-25T07:45:00+00:00",
+              "quando": "2026-09-28T07:00:00+00:00",
               "fecho": 104.075
             },
             {
-              "quando": "2026-09-25T07:50:00+00:00",
-              "fecho": 104.08
-            },
-            {
-              "quando": "2026-09-25T07:55:00+00:00",
-              "fecho": 104.1
-            },
-            {
-              "quando": "2026-09-25T08:00:00+00:00",
+              "quando": "2026-09-28T07:05:00+00:00",
               "fecho": 104.06
             },
             {
-              "quando": "2026-09-25T08:05:00+00:00",
-              "fecho": 104.08
-            },
-            {
-              "quando": "2026-09-25T08:10:00+00:00",
-              "fecho": 104.185
-            },
-            {
-              "quando": "2026-09-25T08:15:00+00:00",
-              "fecho": 104.165
-            },
-            {
-              "quando": "2026-09-25T08:20:00+00:00",
-              "fecho": 104.13
-            },
-            {
-              "quando": "2026-09-25T08:25:00+00:00",
-              "fecho": 104.275
-            },
-            {
-              "quando": "2026-09-25T08:30:00+00:00",
-              "fecho": 104.31
-            },
-            {
-              "quando": "2026-09-25T08:35:00+00:00",
-              "fecho": 104.325
-            },
-            {
-              "quando": "2026-09-25T08:40:00+00:00",
-              "fecho": 104.36
-            },
-            {
-              "quando": "2026-09-25T08:45:00+00:00",
-              "fecho": 104.39
-            },
-            {
-              "quando": "2026-09-25T08:50:00+00:00",
-              "fecho": 104.41
-            },
-            {
-              "quando": "2026-09-25T08:55:00+00:00",
-              "fecho": 104.48
-            },
-            {
-              "quando": "2026-09-25T09:00:00+00:00",
-              "fecho": 104.425
-            },
-            {
-              "quando": "2026-09-25T09:05:00+00:00",
-              "fecho": 104.45
-            },
-            {
-              "quando": "2026-09-25T09:15:00+00:00",
-              "fecho": 104.37
-            },
-            {
-              "quando": "2026-09-25T09:20:00+00:00",
-              "fecho": 104.33
-            },
-            {
-              "quando": "2026-09-25T09:25:00+00:00",
-              "fecho": 104.27
-            },
-            {
-              "quando": "2026-09-25T09:30:00+00:00",
-              "fecho": 104.325
-            },
-            {
-              "quando": "2026-09-25T09:35:00+00:00",
-              "fecho": 104.24
-            },
-            {
-              "quando": "2026-09-25T09:40:00+00:00",
-              "fecho": 104.24
-            },
-            {
-              "quando": "2026-09-25T09:45:00+00:00",
-              "fecho": 104.185
-            },
-            {
-              "quando": "2026-09-25T09:55:00+00:00",
-              "fecho": 104.225
-            },
-            {
-              "quando": "2026-09-25T10:00:00+00:00",
-              "fecho": 104.195
-            },
-            {
-              "quando": "2026-09-25T10:05:00+00:00",
-              "fecho": 104.155
-            },
-            {
-              "quando": "2026-09-25T10:10:00+00:00",
-              "fecho": 104.14
-            },
-            {
-              "quando": "2026-09-25T10:15:00+00:00",
-              "fecho": 104.18
-            },
-            {
-              "quando": "2026-09-25T10:20:00+00:00",
-              "fecho": 104.185
-            },
-            {
-              "quando": "2026-09-25T10:30:00+00:00",
-              "fecho": 104.135
-            },
-            {
-              "quando": "2026-09-25T10:35:00+00:00",
-              "fecho": 104.08
-            },
-            {
-              "quando": "2026-09-25T10:40:00+00:00",
-              "fecho": 104.04
-            },
-            {
-              "quando": "2026-09-25T10:45:00+00:00",
-              "fecho": 103.98
-            },
-            {
-              "quando": "2026-09-25T10:50:00+00:00",
-              "fecho": 104.01
-            },
-            {
-              "quando": "2026-09-25T10:55:00+00:00",
-              "fecho": 104.06
-            },
-            {
-              "quando": "2026-09-25T11:05:00+00:00",
-              "fecho": 104.17
-            },
-            {
-              "quando": "2026-09-25T11:10:00+00:00",
-              "fecho": 104.17
-            },
-            {
-              "quando": "2026-09-25T11:15:00+00:00",
-              "fecho": 104.18
-            },
-            {
-              "quando": "2026-09-25T11:20:00+00:00",
-              "fecho": 104.155
-            },
-            {
-              "quando": "2026-09-25T11:30:00+00:00",
-              "fecho": 104.13
-            },
-            {
-              "quando": "2026-09-25T11:35:00+00:00",
-              "fecho": 104.16
-            },
-            {
-              "quando": "2026-09-25T11:45:00+00:00",
-              "fecho": 104.15
-            },
-            {
-              "quando": "2026-09-25T11:50:00+00:00",
-              "fecho": 104.18
-            },
-            {
-              "quando": "2026-09-25T11:55:00+00:00",
-              "fecho": 104.145
-            },
-            {
-              "quando": "2026-09-25T12:00:00+00:00",
-              "fecho": 104.1
-            },
-            {
-              "quando": "2026-09-25T12:05:00+00:00",
-              "fecho": 104.11
-            },
-            {
-              "quando": "2026-09-25T12:10:00+00:00",
-              "fecho": 104.115
-            },
-            {
-              "quando": "2026-09-25T12:15:00+00:00",
-              "fecho": 104.045
-            },
-            {
-              "quando": "2026-09-25T12:20:00+00:00",
-              "fecho": 104.135
-            },
-            {
-              "quando": "2026-09-25T12:25:00+00:00",
+              "quando": "2026-09-28T07:10:00+00:00",
               "fecho": 104.12
             },
             {
-              "quando": "2026-09-25T12:30:00+00:00",
+              "quando": "2026-09-28T07:15:00+00:00",
+              "fecho": 104.175
+            },
+            {
+              "quando": "2026-09-28T07:20:00+00:00",
+              "fecho": 104.135
+            },
+            {
+              "quando": "2026-09-28T07:25:00+00:00",
               "fecho": 104.15
             },
             {
-              "quando": "2026-09-25T12:45:00+00:00",
+              "quando": "2026-09-28T07:30:00+00:00",
+              "fecho": 104.145
+            },
+            {
+              "quando": "2026-09-28T07:35:00+00:00",
               "fecho": 104.19
             },
             {
-              "quando": "2026-09-25T12:50:00+00:00",
-              "fecho": 104.125
+              "quando": "2026-09-28T07:40:00+00:00",
+              "fecho": 104.225
             },
             {
-              "quando": "2026-09-25T12:55:00+00:00",
-              "fecho": 104.1
+              "quando": "2026-09-28T07:45:00+00:00",
+              "fecho": 104.145
             },
             {
-              "quando": "2026-09-25T13:00:00+00:00",
-              "fecho": 104.125
+              "quando": "2026-09-28T07:50:00+00:00",
+              "fecho": 104.225
             },
             {
-              "quando": "2026-09-25T13:05:00+00:00",
-              "fecho": 104.125
-            },
-            {
-              "quando": "2026-09-25T13:10:00+00:00",
-              "fecho": 104.17
-            },
-            {
-              "quando": "2026-09-25T13:15:00+00:00",
-              "fecho": 104.085
-            },
-            {
-              "quando": "2026-09-25T13:20:00+00:00",
-              "fecho": 104.05
-            },
-            {
-              "quando": "2026-09-25T13:25:00+00:00",
-              "fecho": 104.0
-            },
-            {
-              "quando": "2026-09-25T13:35:00+00:00",
-              "fecho": 104.025
-            },
-            {
-              "quando": "2026-09-25T13:40:00+00:00",
-              "fecho": 103.99
-            },
-            {
-              "quando": "2026-09-25T13:45:00+00:00",
-              "fecho": 103.9
-            },
-            {
-              "quando": "2026-09-25T13:50:00+00:00",
-              "fecho": 104.0
-            },
-            {
-              "quando": "2026-09-25T13:55:00+00:00",
-              "fecho": 104.0
-            },
-            {
-              "quando": "2026-09-25T14:00:00+00:00",
-              "fecho": 103.845
-            },
-            {
-              "quando": "2026-09-25T14:05:00+00:00",
-              "fecho": 103.71
-            },
-            {
-              "quando": "2026-09-25T14:10:00+00:00",
-              "fecho": 103.78
-            },
-            {
-              "quando": "2026-09-25T14:20:00+00:00",
-              "fecho": 103.79
-            },
-            {
-              "quando": "2026-09-25T14:25:00+00:00",
-              "fecho": 103.76
-            },
-            {
-              "quando": "2026-09-25T14:30:00+00:00",
-              "fecho": 103.685
-            },
-            {
-              "quando": "2026-09-25T14:35:00+00:00",
-              "fecho": 103.77
-            },
-            {
-              "quando": "2026-09-25T14:40:00+00:00",
-              "fecho": 103.77
-            },
-            {
-              "quando": "2026-09-25T14:45:00+00:00",
-              "fecho": 103.83
-            },
-            {
-              "quando": "2026-09-25T14:55:00+00:00",
-              "fecho": 103.8
-            },
-            {
-              "quando": "2026-09-25T15:05:00+00:00",
-              "fecho": 103.8
-            },
-            {
-              "quando": "2026-09-25T15:10:00+00:00",
-              "fecho": 103.81
-            },
-            {
-              "quando": "2026-09-25T15:15:00+00:00",
-              "fecho": 103.8
-            },
-            {
-              "quando": "2026-09-25T15:20:00+00:00",
-              "fecho": 103.8
-            },
-            {
-              "quando": "2026-09-25T15:30:00+00:00",
-              "fecho": 103.87
+              "quando": "2026-09-28T07:56:49+00:00",
+              "fecho": 104.32
             }
           ]
         },
         "diario": {
           "ok": true,
           "pontos": [
-            {
-              "quando": "2024-09-25T07:00:00+00:00",
-              "fecho": 80.005
-            },
-            {
-              "quando": "2024-09-26T07:00:00+00:00",
-              "fecho": 81.01
-            },
-            {
-              "quando": "2024-09-27T07:00:00+00:00",
-              "fecho": 81.405
-            },
             {
               "quando": "2024-09-30T07:00:00+00:00",
               "fecho": 80.605
@@ -15199,6 +14331,10 @@
             {
               "quando": "2026-09-25T07:00:00+00:00",
               "fecho": 103.87
+            },
+            {
+              "quando": "2026-09-28T07:00:00+00:00",
+              "fecho": 104.32
             }
           ]
         },
@@ -16015,25 +15151,25 @@
             },
             {
               "quando": "2026-08-31T22:00:00+00:00",
-              "fecho": 104.0
+              "fecho": 103.465
             },
             {
-              "quando": "2026-09-25T15:35:10+00:00",
-              "fecho": 103.87
+              "quando": "2026-09-28T07:56:49+00:00",
+              "fecho": 104.32
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "European shares close at two-month low as ECB hike fuels further tightening bets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzVPR1RxVzdqb0FKVHRJTW1SSXpyME5FTzRoV2JJVUt0SFBqZDlwdWgxb0JQaDl0MGJkcWlVOU5Pa2hVTWF2cEtuQUctZ0ZDeGJYMkNWb3hsMEVFRF95cVBXOS1sR1p3YllPQ0lQT3I5bzV2MnpHMG4yVWdGSk5ldXVLcVFpdTZsU2F3YkJkNmtsWjhEWVM0NGpyUUFWOGtxNW9zejVaZE8?oc=5",
-          "fonte": "Reuters"
-        },
-        {
           "titulo": "How to Revive Europe’s Stock Market Listings - Jacques Delors Centre",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmtFN01rZDc1T0NfNEw0LVlDU01Lb1o2SmdHUnpPT3dUV3hndUhqM3pGbWdHQkU0VVNxMVlwakJPUEhqVE0tSEp3STVYMEtKSG1XT1FlaEplV25QSE53S01XMmpYSWRBaUQ2cklxRjk5OTItNTk3dVlzNk9EcHkzbnBsYk5QcFVpVWhSWFZBN2x1cGV0cHU5ektyRkRBdDJsT3Z3MXFCVUdWZw?oc=5",
           "fonte": "Jacques Delors Centre"
+        },
+        {
+          "titulo": "European shares close at two-month low as ECB hike fuels further tightening bets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzVPR1RxVzdqb0FKVHRJTW1SSXpyME5FTzRoV2JJVUt0SFBqZDlwdWgxb0JQaDl0MGJkcWlVOU5Pa2hVTWF2cEtuQUctZ0ZDeGJYMkNWb3hsMEVFRF95cVBXOS1sR1p3YllPQ0lQT3I5bzV2MnpHMG4yVWdGSk5ldXVLcVFpdTZsU2F3YkJkNmtsWjhEWVM0NGpyUUFWOGtxNW9zejVaZE8?oc=5",
+          "fonte": "Reuters"
         },
         {
           "titulo": "These 16 European Stocks Pay Dividends in September 2026 - Morningstar",
@@ -16041,9 +15177,9 @@
           "fonte": "Morningstar"
         },
         {
-          "titulo": "Are European Stocks Poised to Outperform the S&P? - Goldman Sachs",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1B2UkdrVS1qSjV3Z2xfdng3RlRSOUJMV2pnMFNEcDFUREtYd0xHcXhMUW12djBCSXhOb2hObnpPb2k3NFVUcDcyLXdGQjFMdVVTUV9FTEE5OVFGSjZ4ZXZUa3FjNXk0NE5VZVpnR2dWa3FEb1dfU0xDQUl2TnZXdko5NzRjS0hRYU84WjdoS1hiZ3pMSFQ1Y2NnZ0lKSmd0a004cA?oc=5",
-          "fonte": "Goldman Sachs"
+          "titulo": "Europe can attract more stock trading with fewer, better markets - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUlxTzhZR3NZbVlDUzVBR2tHbFpyRnZWRnN2anBJVXZ5b0U4YU1FUGtaRkVfazl2eGVGX182STl4UXo0cUplVnBFaTh3Z3pqUm1kSnZLd0F0ZXdxaVY2cHYwTTVpUklQZjdZOVBYSzFibnRFVmxRT1hFZUtlQkFWUjVNU0c?oc=5",
+          "fonte": "Financial Times"
         }
       ],
       "comentario": "A subida de +0.39% mostra alguma resiliência das ações europeias perante a política monetária do BCE. Sendo um mercado com avaliações interessantes e bons dividendos, sugere-se manter a posição para equilibrar a forte componente americana da carteira."
@@ -16054,311 +15190,63 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 21.31,
-        "fecho_anterior": 20.83,
-        "variacao_pct": 2.304368698991841
+        "preco_atual": 21.0,
+        "fecho_anterior": 21.31,
+        "variacao_pct": -1.4547160957296985
       },
       "historico": {
         "intradiario": {
           "ok": true,
           "pontos": [
             {
-              "quando": "2026-09-25T07:00:00+00:00",
-              "fecho": 21.42
+              "quando": "2026-09-28T07:00:00+00:00",
+              "fecho": 20.97
             },
             {
-              "quando": "2026-09-25T07:05:00+00:00",
-              "fecho": 21.425
+              "quando": "2026-09-28T07:05:00+00:00",
+              "fecho": 20.965
             },
             {
-              "quando": "2026-09-25T07:10:00+00:00",
-              "fecho": 21.395
+              "quando": "2026-09-28T07:10:00+00:00",
+              "fecho": 20.955
             },
             {
-              "quando": "2026-09-25T07:15:00+00:00",
-              "fecho": 21.435
+              "quando": "2026-09-28T07:20:00+00:00",
+              "fecho": 20.95
             },
             {
-              "quando": "2026-09-25T07:20:00+00:00",
-              "fecho": 21.425
+              "quando": "2026-09-28T07:25:00+00:00",
+              "fecho": 20.97
             },
             {
-              "quando": "2026-09-25T07:25:00+00:00",
-              "fecho": 21.42
+              "quando": "2026-09-28T07:30:00+00:00",
+              "fecho": 20.975
             },
             {
-              "quando": "2026-09-25T07:30:00+00:00",
-              "fecho": 21.41
+              "quando": "2026-09-28T07:35:00+00:00",
+              "fecho": 20.95
             },
             {
-              "quando": "2026-09-25T07:35:00+00:00",
-              "fecho": 21.4
+              "quando": "2026-09-28T07:40:00+00:00",
+              "fecho": 20.965
             },
             {
-              "quando": "2026-09-25T07:45:00+00:00",
-              "fecho": 21.375
+              "quando": "2026-09-28T07:45:00+00:00",
+              "fecho": 20.965
             },
             {
-              "quando": "2026-09-25T07:50:00+00:00",
-              "fecho": 21.415
+              "quando": "2026-09-28T07:50:00+00:00",
+              "fecho": 20.97
             },
             {
-              "quando": "2026-09-25T07:55:00+00:00",
-              "fecho": 21.41
-            },
-            {
-              "quando": "2026-09-25T08:00:00+00:00",
-              "fecho": 21.365
-            },
-            {
-              "quando": "2026-09-25T08:10:00+00:00",
-              "fecho": 21.405
-            },
-            {
-              "quando": "2026-09-25T08:15:00+00:00",
-              "fecho": 21.415
-            },
-            {
-              "quando": "2026-09-25T08:20:00+00:00",
-              "fecho": 21.435
-            },
-            {
-              "quando": "2026-09-25T08:25:00+00:00",
-              "fecho": 21.475
-            },
-            {
-              "quando": "2026-09-25T08:30:00+00:00",
-              "fecho": 21.47
-            },
-            {
-              "quando": "2026-09-25T08:35:00+00:00",
-              "fecho": 21.485
-            },
-            {
-              "quando": "2026-09-25T08:45:00+00:00",
-              "fecho": 21.48
-            },
-            {
-              "quando": "2026-09-25T08:50:00+00:00",
-              "fecho": 21.49
-            },
-            {
-              "quando": "2026-09-25T08:55:00+00:00",
-              "fecho": 21.5
-            },
-            {
-              "quando": "2026-09-25T09:00:00+00:00",
-              "fecho": 21.5
-            },
-            {
-              "quando": "2026-09-25T09:05:00+00:00",
-              "fecho": 21.53
-            },
-            {
-              "quando": "2026-09-25T09:15:00+00:00",
-              "fecho": 21.5
-            },
-            {
-              "quando": "2026-09-25T09:20:00+00:00",
-              "fecho": 21.48
-            },
-            {
-              "quando": "2026-09-25T09:30:00+00:00",
-              "fecho": 21.495
-            },
-            {
-              "quando": "2026-09-25T09:45:00+00:00",
-              "fecho": 21.455
-            },
-            {
-              "quando": "2026-09-25T10:05:00+00:00",
-              "fecho": 21.435
-            },
-            {
-              "quando": "2026-09-25T10:10:00+00:00",
-              "fecho": 21.475
-            },
-            {
-              "quando": "2026-09-25T10:20:00+00:00",
-              "fecho": 21.465
-            },
-            {
-              "quando": "2026-09-25T10:35:00+00:00",
-              "fecho": 21.45
-            },
-            {
-              "quando": "2026-09-25T10:40:00+00:00",
-              "fecho": 21.445
-            },
-            {
-              "quando": "2026-09-25T11:00:00+00:00",
-              "fecho": 21.42
-            },
-            {
-              "quando": "2026-09-25T11:05:00+00:00",
-              "fecho": 21.455
-            },
-            {
-              "quando": "2026-09-25T11:15:00+00:00",
-              "fecho": 21.51
-            },
-            {
-              "quando": "2026-09-25T11:30:00+00:00",
-              "fecho": 21.5
-            },
-            {
-              "quando": "2026-09-25T11:40:00+00:00",
-              "fecho": 21.47
-            },
-            {
-              "quando": "2026-09-25T11:50:00+00:00",
-              "fecho": 21.5
-            },
-            {
-              "quando": "2026-09-25T11:55:00+00:00",
-              "fecho": 21.48
-            },
-            {
-              "quando": "2026-09-25T12:00:00+00:00",
-              "fecho": 21.47
-            },
-            {
-              "quando": "2026-09-25T12:10:00+00:00",
-              "fecho": 21.465
-            },
-            {
-              "quando": "2026-09-25T12:20:00+00:00",
-              "fecho": 21.45
-            },
-            {
-              "quando": "2026-09-25T12:25:00+00:00",
-              "fecho": 21.455
-            },
-            {
-              "quando": "2026-09-25T12:30:00+00:00",
-              "fecho": 21.455
-            },
-            {
-              "quando": "2026-09-25T12:40:00+00:00",
-              "fecho": 21.425
-            },
-            {
-              "quando": "2026-09-25T12:45:00+00:00",
-              "fecho": 21.445
-            },
-            {
-              "quando": "2026-09-25T13:00:00+00:00",
-              "fecho": 21.39
-            },
-            {
-              "quando": "2026-09-25T13:05:00+00:00",
-              "fecho": 21.445
-            },
-            {
-              "quando": "2026-09-25T13:15:00+00:00",
-              "fecho": 21.455
-            },
-            {
-              "quando": "2026-09-25T13:25:00+00:00",
-              "fecho": 21.405
-            },
-            {
-              "quando": "2026-09-25T13:30:00+00:00",
-              "fecho": 21.325
-            },
-            {
-              "quando": "2026-09-25T13:35:00+00:00",
-              "fecho": 21.38
-            },
-            {
-              "quando": "2026-09-25T13:40:00+00:00",
-              "fecho": 21.405
-            },
-            {
-              "quando": "2026-09-25T13:50:00+00:00",
-              "fecho": 21.45
-            },
-            {
-              "quando": "2026-09-25T13:55:00+00:00",
-              "fecho": 21.45
-            },
-            {
-              "quando": "2026-09-25T14:00:00+00:00",
-              "fecho": 21.4
-            },
-            {
-              "quando": "2026-09-25T14:05:00+00:00",
-              "fecho": 21.375
-            },
-            {
-              "quando": "2026-09-25T14:10:00+00:00",
-              "fecho": 21.375
-            },
-            {
-              "quando": "2026-09-25T14:15:00+00:00",
-              "fecho": 21.25
-            },
-            {
-              "quando": "2026-09-25T14:20:00+00:00",
-              "fecho": 21.275
-            },
-            {
-              "quando": "2026-09-25T14:25:00+00:00",
-              "fecho": 21.265
-            },
-            {
-              "quando": "2026-09-25T14:30:00+00:00",
-              "fecho": 21.295
-            },
-            {
-              "quando": "2026-09-25T14:40:00+00:00",
-              "fecho": 21.27
-            },
-            {
-              "quando": "2026-09-25T14:45:00+00:00",
-              "fecho": 21.325
-            },
-            {
-              "quando": "2026-09-25T14:50:00+00:00",
-              "fecho": 21.3
-            },
-            {
-              "quando": "2026-09-25T15:00:00+00:00",
-              "fecho": 21.39
-            },
-            {
-              "quando": "2026-09-25T15:10:00+00:00",
-              "fecho": 21.33
-            },
-            {
-              "quando": "2026-09-25T15:20:00+00:00",
-              "fecho": 21.345
-            },
-            {
-              "quando": "2026-09-25T15:25:00+00:00",
-              "fecho": 21.34
-            },
-            {
-              "quando": "2026-09-25T15:30:00+00:00",
-              "fecho": 21.31
+              "quando": "2026-09-28T07:56:26+00:00",
+              "fecho": 21.0
             }
           ]
         },
         "diario": {
           "ok": true,
           "pontos": [
-            {
-              "quando": "2024-09-25T07:00:00+00:00",
-              "fecho": 7.57
-            },
-            {
-              "quando": "2024-09-26T07:00:00+00:00",
-              "fecho": 7.75
-            },
-            {
-              "quando": "2024-09-27T07:00:00+00:00",
-              "fecho": 7.738
-            },
             {
               "quando": "2024-09-30T07:00:00+00:00",
               "fecho": 7.63
@@ -18390,6 +17278,10 @@
             {
               "quando": "2026-09-25T07:00:00+00:00",
               "fecho": 21.31
+            },
+            {
+              "quando": "2026-09-28T07:00:00+00:00",
+              "fecho": 21.0
             }
           ]
         },
@@ -19471,6 +18363,10 @@
             {
               "quando": "2026-09-20T22:00:00+00:00",
               "fecho": 21.31
+            },
+            {
+              "quando": "2026-09-28T07:56:26+00:00",
+              "fecho": 21.0
             }
           ]
         }
@@ -19487,14 +18383,14 @@
           "fonte": "The Motley Fool"
         },
         {
-          "titulo": "EXCLUSIVE: Why AI Semiconductor Stocks Are a 'Dangerous Playground' For Investors - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFg1TlBrVERycUV4TzRPTEhISnpZV2Z5cDdjbmZqVENnUnVYS0MwUURwTlJuUUpKd2dfcnRpQnJDN3BOTEtrUTZTVldIVjIxekxTaXY2dXNha29UbkppTjZDQmdkLVB5cjVWZlU1cXNsR3NFMy1UaHd3S1VWTENzS25fN3ZNZ0VyZXZqcTlEQlRTVDR5Z1JnRHVfcXYtUQ?oc=5",
-          "fonte": "Benzinga"
-        },
-        {
           "titulo": "Taiwan Semiconductor Leads This Group On 17 Onto Best Stock Screens - Investor's Business Daily",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOElCa08zYnl3SGxFNmU2UnUyN0dUdjd2VEZtUDM4clRWYi1ONWR6WGNSc2VDNC1YSWlvOXIyY3djV3RUbE16eU5vWkRHUFV0ODJiY0lkcjE5RUxIRHhfekNNNEFSS1J4eGwzaDRjRGg1a0h2bk5OSHExOEMydHlkRUhNbWxUNzhFQTk5WVM2aXNXQUZ2MkFlc1M3eGVjQnNSQ3dOaXln?oc=5",
           "fonte": "Investor's Business Daily"
+        },
+        {
+          "titulo": "Taiwan Semiconductor: AI Hiccups Lately, But Strong Growth Persists - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlhoeVltQ0pLWlpvVTZWdWIzYXVNMnlHYXVKNmZnQ3BtYWlKQ19jWXBVbzZ4LURUNUNGVlhxeGpOeWZRaHMzekRHdm55YUtwelh1MG94cy1saURkcDh4aC1xT3VtNUk4ckZsOUFuZVluVjlpY1I3Uk4tT1pxZDVUWVRmcFVFZGswMUFNOEFKU1VxUWFXNXZHVURsUHJSWUNpNXBOVDlkXzM2UQ?oc=5",
+          "fonte": "Seeking Alpha"
         }
       ],
       "comentario": "Teve o melhor desempenho do dia (+2.30%), impulsionado pela dinâmica contínua dos semicondutores e inteligência artificial. Sendo um setor de elevada volatilidade, sugere-se prudência. Se a percentagem na carteira for muito elevada, ponderar realizar algumas mais-valias pode ser sensato."
@@ -19505,231 +18401,71 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 361.29,
-        "fecho_anterior": 359.57,
-        "variacao_pct": 0.4783491392496669
+        "preco_atual": 351.06,
+        "fecho_anterior": 361.2,
+        "variacao_pct": -2.807308970099664
       },
       "historico": {
         "intradiario": {
           "ok": true,
           "pontos": [
             {
-              "quando": "2026-09-25T07:00:00+00:00",
-              "fecho": 361.42
+              "quando": "2026-09-28T07:00:00+00:00",
+              "fecho": 352.31
             },
             {
-              "quando": "2026-09-25T07:05:00+00:00",
-              "fecho": 361.49
+              "quando": "2026-09-28T07:05:00+00:00",
+              "fecho": 352.07
             },
             {
-              "quando": "2026-09-25T07:10:00+00:00",
-              "fecho": 361.29
+              "quando": "2026-09-28T07:10:00+00:00",
+              "fecho": 351.88
             },
             {
-              "quando": "2026-09-25T07:20:00+00:00",
-              "fecho": 361.32
+              "quando": "2026-09-28T07:15:00+00:00",
+              "fecho": 352.0
             },
             {
-              "quando": "2026-09-25T07:25:00+00:00",
-              "fecho": 361.11
+              "quando": "2026-09-28T07:20:00+00:00",
+              "fecho": 351.53
             },
             {
-              "quando": "2026-09-25T07:35:00+00:00",
-              "fecho": 361.5
+              "quando": "2026-09-28T07:25:00+00:00",
+              "fecho": 351.61
             },
             {
-              "quando": "2026-09-25T08:00:00+00:00",
-              "fecho": 361.23
+              "quando": "2026-09-28T07:30:00+00:00",
+              "fecho": 351.53
             },
             {
-              "quando": "2026-09-25T08:05:00+00:00",
-              "fecho": 361.28
+              "quando": "2026-09-28T07:35:00+00:00",
+              "fecho": 351.32
             },
             {
-              "quando": "2026-09-25T08:25:00+00:00",
-              "fecho": 361.41
+              "quando": "2026-09-28T07:40:00+00:00",
+              "fecho": 351.29
             },
             {
-              "quando": "2026-09-25T08:35:00+00:00",
-              "fecho": 362.06
+              "quando": "2026-09-28T07:45:00+00:00",
+              "fecho": 351.16
             },
             {
-              "quando": "2026-09-25T08:45:00+00:00",
-              "fecho": 362.38
+              "quando": "2026-09-28T07:50:00+00:00",
+              "fecho": 351.0
             },
             {
-              "quando": "2026-09-25T08:50:00+00:00",
-              "fecho": 362.43
+              "quando": "2026-09-28T07:55:00+00:00",
+              "fecho": 351.19
             },
             {
-              "quando": "2026-09-25T09:00:00+00:00",
-              "fecho": 362.67
-            },
-            {
-              "quando": "2026-09-25T09:05:00+00:00",
-              "fecho": 362.74
-            },
-            {
-              "quando": "2026-09-25T09:15:00+00:00",
-              "fecho": 362.52
-            },
-            {
-              "quando": "2026-09-25T09:20:00+00:00",
-              "fecho": 362.61
-            },
-            {
-              "quando": "2026-09-25T09:25:00+00:00",
-              "fecho": 362.38
-            },
-            {
-              "quando": "2026-09-25T09:35:00+00:00",
-              "fecho": 362.68
-            },
-            {
-              "quando": "2026-09-25T09:45:00+00:00",
-              "fecho": 362.48
-            },
-            {
-              "quando": "2026-09-25T09:55:00+00:00",
-              "fecho": 362.59
-            },
-            {
-              "quando": "2026-09-25T10:05:00+00:00",
-              "fecho": 363.12
-            },
-            {
-              "quando": "2026-09-25T10:10:00+00:00",
-              "fecho": 363.39
-            },
-            {
-              "quando": "2026-09-25T10:20:00+00:00",
-              "fecho": 363.32
-            },
-            {
-              "quando": "2026-09-25T10:25:00+00:00",
-              "fecho": 363.7
-            },
-            {
-              "quando": "2026-09-25T10:30:00+00:00",
-              "fecho": 363.56
-            },
-            {
-              "quando": "2026-09-25T10:35:00+00:00",
-              "fecho": 363.26
-            },
-            {
-              "quando": "2026-09-25T10:40:00+00:00",
-              "fecho": 363.25
-            },
-            {
-              "quando": "2026-09-25T10:45:00+00:00",
-              "fecho": 363.45
-            },
-            {
-              "quando": "2026-09-25T10:50:00+00:00",
-              "fecho": 363.43
-            },
-            {
-              "quando": "2026-09-25T11:30:00+00:00",
-              "fecho": 362.9
-            },
-            {
-              "quando": "2026-09-25T11:35:00+00:00",
-              "fecho": 363.01
-            },
-            {
-              "quando": "2026-09-25T11:45:00+00:00",
-              "fecho": 363.02
-            },
-            {
-              "quando": "2026-09-25T12:10:00+00:00",
-              "fecho": 363.0
-            },
-            {
-              "quando": "2026-09-25T12:20:00+00:00",
-              "fecho": 363.06
-            },
-            {
-              "quando": "2026-09-25T12:25:00+00:00",
-              "fecho": 363.21
-            },
-            {
-              "quando": "2026-09-25T12:30:00+00:00",
-              "fecho": 362.89
-            },
-            {
-              "quando": "2026-09-25T12:40:00+00:00",
-              "fecho": 362.82
-            },
-            {
-              "quando": "2026-09-25T12:45:00+00:00",
-              "fecho": 362.96
-            },
-            {
-              "quando": "2026-09-25T12:55:00+00:00",
-              "fecho": 362.71
-            },
-            {
-              "quando": "2026-09-25T13:00:00+00:00",
-              "fecho": 362.37
-            },
-            {
-              "quando": "2026-09-25T13:20:00+00:00",
-              "fecho": 361.9
-            },
-            {
-              "quando": "2026-09-25T13:35:00+00:00",
-              "fecho": 361.08
-            },
-            {
-              "quando": "2026-09-25T13:45:00+00:00",
-              "fecho": 360.74
-            },
-            {
-              "quando": "2026-09-25T13:55:00+00:00",
-              "fecho": 360.96
-            },
-            {
-              "quando": "2026-09-25T14:00:00+00:00",
-              "fecho": 359.5
-            },
-            {
-              "quando": "2026-09-25T14:20:00+00:00",
-              "fecho": 359.95
-            },
-            {
-              "quando": "2026-09-25T14:45:00+00:00",
-              "fecho": 360.77
-            },
-            {
-              "quando": "2026-09-25T14:50:00+00:00",
-              "fecho": 360.83
-            },
-            {
-              "quando": "2026-09-25T15:05:00+00:00",
-              "fecho": 360.91
-            },
-            {
-              "quando": "2026-09-25T15:25:00+00:00",
-              "fecho": 361.2
+              "quando": "2026-09-28T07:57:27+00:00",
+              "fecho": 351.06
             }
           ]
         },
         "diario": {
           "ok": true,
           "pontos": [
-            {
-              "quando": "2024-09-25T07:00:00+00:00",
-              "fecho": 229.63
-            },
-            {
-              "quando": "2024-09-26T07:00:00+00:00",
-              "fecho": 230.36
-            },
-            {
-              "quando": "2024-09-27T07:00:00+00:00",
-              "fecho": 229.14
-            },
             {
               "quando": "2024-09-30T07:00:00+00:00",
               "fecho": 227.86
@@ -21753,6 +20489,10 @@
             {
               "quando": "2026-09-25T07:00:00+00:00",
               "fecho": 361.2
+            },
+            {
+              "quando": "2026-09-28T07:00:00+00:00",
+              "fecho": 351.06
             }
           ]
         },
@@ -22217,30 +20957,30 @@
             },
             {
               "quando": "2026-08-31T22:00:00+00:00",
-              "fecho": 361.62
+              "fecho": 359.57
             },
             {
-              "quando": "2026-09-25T15:28:08+00:00",
-              "fecho": 361.29
+              "quando": "2026-09-28T07:57:27+00:00",
+              "fecho": 351.06
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Hedge fund with 235% return says gold price decline is temporary - Mining.com",
+          "titulo": "Hedge fund with 235% return says gold price decline is temporary - mining.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWm1aM09wd0NrZ3ZkNHRVUDMtbmZtS1pRaUlpaENEb3A1b19QdHl6SjJfZllSOXFxbTVZZWNzMi1XdjRDdjRSSW00ZzFuOG1hVThqa0dsWHRReFVXVzJ2dGRRYTljVVJyaV9wNGN0eUFNVFlfQi00Yno5dlBROWpQMnQydndydHBvSlAxYmx1RDFpSnI4RkE?oc=5",
-          "fonte": "Mining.com"
+          "fonte": "mining.com"
         },
         {
-          "titulo": "Gold Price Forecast: XAU/USD Avoids Breakdown as Yields Surged but Can it Continue? - forex.com",
+          "titulo": "Gold Price Forecast: XAU/USD Avoids Breakdown as Yields Surged but Can it Continue? - FOREX.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPak52NWZDN1lCcnNHRjE2RGhVbW95cWozQUNuX3N2eEtadE9CTHV2SnIwV1dENGFsNzY0b3BBYjAtRXZ0WWJ4dWZ4bjZ6d3JCeldiTENxb09VR3UtbE10enE5OEVLZUgyVGlCa1EzR0FaNFJnWk5UNFpHNzV6R0JDX3BqbENtdDl2d3BldVJmMnAweW9oMElxajhHTEJ1MEVhM2g2NUlHenNFZTV6aURkVFpidXA4VjE1WFFtNGUzY1g4VVFRaHhn0gHTAUFVX3lxTFBVbnBXMktrOVJyeDlBUWVSXzFhNUFfWUFhQ19pQ0o1WHZsYkFlTHN4VEdSTEZfT1RubUZRZklmQ05ULU80MVd5VldhNG9kbk1zd3c0OF9WbHl2WE1NMEJaSURkRUg1RGtzT0haREdEZHVpemJNeXlockJSYjdCNld4eEl1Vm1HX2ItX0tDeGs2azJyLTk2QUN2RFF4VTczQUp4Nmt0WU5KcWIxUkJ2NjkweGM1YTgyY0tfa2dKRXhWaF9ROHlhUm41bDk0WHo2RjhVTFk?oc=5",
-          "fonte": "forex.com"
+          "fonte": "FOREX.com"
         },
         {
-          "titulo": "Gold price today, Friday, September 25, 2026: Gold prices hold as investors have a lot to consider - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbVg2WnQyQjYtdFNkRHFsLWlyLU03UnduTmNVZkRVTHI1VzVTaVc0ay1kWWtMQ3JGQlhHamo0bEtHQ2JnMUVRMGxRTFBWeWJYalZid0NKdFNPcEM4VnF6Uk45TjZfT0h6cmdpNG1IZ2llZWcxUktUTV9kcUk2bDZoVTM1X0pHbnFQREl3cVlkN2JVSWZVQTZUaVlhODE1aXFHWTVOYWJ5aldqM2hnb1o5WkFkTWdoWldrNS1zRjBuM0JYczAxRUFMbzFSd194empMVnlzaTdaOVd3YWN4ZzJCMlBIay1xQ1pfZENmLUkyRHZDa0xlVkdrdVplalhONVk?oc=5",
-          "fonte": "Yahoo Finance"
+          "titulo": "Gold drops more than 2% on US rate-hike bets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+          "fonte": "Reuters"
         },
         {
           "titulo": "Wall Street split on gold price path after drop below $4,300, Main Street maintains bullish majority as jobs take center stage - Kitco",
