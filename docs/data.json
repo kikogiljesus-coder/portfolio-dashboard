@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-10-16T18:36:59.585965+00:00",
-  "analise_geral": "A carteira apresenta hoje um comportamento misto, marcado por forte volatilidade no setor tecnológico e de semicondutores, o que penalizou o SEMI.AS e os mercados emergentes. Em contrapartida, ativos defensivos como o ouro (SGLD.AS), as obrigações (PIMCO) e as ações europeias (IMAE.AS) registaram ganhos, amortecendo o impacto global. Sugere-se manter a disciplina e evitar decisões emotivas. Se a sua alocação de ativos se tiver desviado dos seus objetivos iniciais, pode ponderar um reequilíbrio gradual da carteira.",
-  "analise_gerado_em": "2026-10-15T22:25:28.664483+00:00",
+  "atualizado_em": "2026-10-16T21:41:32.009938+00:00",
+  "analise_geral": "A carteira apresenta um comportamento misto hoje. Destaca-se o bom desempenho das ações europeias (IMAE) e a firmeza do ouro (SGLD), que ajudam a amortecer a pressão no setor semicondutor (SEMI) e nos mercados emergentes (IS3N), estes afetados por incertezas na Indonésia e receios sobre o setor tecnológico. O mercado norte-americano (IUES) e a dívida (PIMCO) mantêm-se estáveis. Sugere-se manter a carteira diversificada e observar a volatilidade sem tomar decisões precipitadas.",
+  "analise_gerado_em": "2026-10-16T21:41:32.009891+00:00",
   "alertas_enviados": {
     "IS3N.DE": "2026-08-19",
     "IWDE.AS": "2026-07-13",
@@ -2450,6 +2450,10 @@
               "fecho": 47.78
             },
             {
+              "quando": "2026-10-15T07:00:00+00:00",
+              "fecho": 46.832
+            },
+            {
               "quando": "2026-10-16T07:00:00+00:00",
               "fecho": 46.362
             }
@@ -3079,7 +3083,7 @@
           "fonte": "The New York Times"
         }
       ],
-      "comentario": "Com uma queda de 1.98%, este ETF reflete a pressão no setor tecnológico global, muito relevante nos mercados emergentes. Sendo um ativo naturalmente mais volátil, sugere-se manter a perspetiva de longo prazo."
+      "comentario": "A queda de 1,00% reflete a incerteza em torno da Indonésia e possíveis alterações nos índices MSCI. Sugere-se acompanhar os desenvolvimentos nos mercados emergentes, mantendo a posição como parte do crescimento a longo prazo."
     },
     {
       "ticker": "IWDE.AS",
@@ -5189,6 +5193,10 @@
               "fecho": 119.9
             },
             {
+              "quando": "2026-10-15T07:00:00+00:00",
+              "fecho": 119.64
+            },
+            {
               "quando": "2026-10-16T07:00:00+00:00",
               "fecho": 119.7
             }
@@ -5962,8 +5970,13 @@
       },
       "noticias": [
         {
-          "titulo": "Strategy and Metaplanet Face MSCI Index Removal as Nov. 11 Deadline Looms - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkNGemtxN25WUnUyRG5aaDhCc1pYcVlmS0JHQWlCZko5cG82a1gyYjhCclBoMy0tUkxSSHhVQ0VXb3JlR3RZTVNpM01jU2I2ZGtoWmpobzNxZDZqYXFDNEFtYmdlX29jTURHNmFjYmY1dEhWaGVKd25GbkFGQUlwSzQ3SERhT0l1UURVVjhIc09iNHRqTWtIclh3SFhkUzhjaEE?oc=5",
+          "titulo": "Indonesia faces rare MSCI exclusion that could cut it off from global capital - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGk2ZGtxRDZlTHR0c1J0V1lpbDA5Y28xT1A3S0xmcFY5SFBueGlIaU9nOVhPOHM2b0pBNktvOVNZUnk5ck9jbElSbmZRS1R5dkxiSTBVenVvRFR3Y29TdzhIZllmdFdDZm4zZmpvd0RaOE1HLWJsOFEzOXRSelZPeG5DV3RoZ3hvNmhCc25UZ1NCQzBiRVBUeG94YzlsTVU3MmJoM0syRWVvbE8yM1dVamVlMXZVWW1mX25UYl92VmZNeS1Tc2c?oc=5",
+          "fonte": "Reuters"
+        },
+        {
+          "titulo": "New MSCI Index Standards Could Leave Strategy Behind - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNENvUDZtT0JLME1haFVSZ3oxLXFiYkdwNzl2MnVSdzNHYkpUQnMwcXhYQnl3a2NCelNlUEZuOTl1ZTJNSnRTX2Q4REdZakR2OTllLVd0NWhmaWplUXlvUmxuU2ozSU4tSHJuMWNqMk4tZ05SMWpNRHJWaDUxN1RLMWpyNXNYSkNTNjl6UE5DM29mWmhxYmtQeGhyQTREZw?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
@@ -5972,17 +5985,12 @@
           "fonte": "Bloomberg.com"
         },
         {
-          "titulo": "Indonesian stocks sink most since 1998 on MSCI downgrade warning - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGZDclBEV0w3ZFJ3bE8tckwwTE1YTXBXTG1GdGNfN2Vkb1BsaXFoZVo1QUF4YUhzanBOM05HNmR6X1gyalBGR05HQk5NM1VhY0VGbUhqb0dIN2txQklscWtMaVd3MVE3QTdISTRVbDZXdEpXa25EUHpZejdrZ1ozdFlOOTBBT2VfT3VFcmh5UmpjRWFoelZTUEZKOTl5UEhrc1dpWVQ3ZUpMd1NmVE8ybA?oc=5",
-          "fonte": "Reuters"
-        },
-        {
-          "titulo": "Indonesia stocks plunge after MSCI says market could be cut from indices - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnU4YTEwTkF0aUpWOTQ4YWFQem9tVUhiN2w3ZnBrX2VEckE4aktXUnJySWhBR1FjR3QybndOc1JXQzd2SnAxNGdtVTZJVlJCTzdJc3VrMWdPVmFaY2ViLWh3OTZkMUd4NzRxZ0dsX2wzalFPWnMtYUJjeGpCMEhFYlhUODk?oc=5",
-          "fonte": "Financial Times"
+          "titulo": "Strategy dips on bad MSCI World Index news - Protos | Informed crypto news",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QTFI0Rlh5MmJacTVnRzhtdms3bzQ3aXZZdVJPcEZMWlNHblBZNlVfa2VVbW1kMlhmOE4wbjBYYXcyVWRZV3BnYmdqdUR0ajlRX250ME1Lekw5ay1HanBjX1Nwempwa1ZiS1RTRXVoWQ?oc=5",
+          "fonte": "Protos | Informed crypto news"
         }
       ],
-      "comentario": "Ligeiro recuo de 0.22%. A cobertura cambial em euros ajuda a proteger o investimento contra flutuações do dólar. Continua a ser um pilar sólido e diversificado para o seu portfólio."
+      "comentario": "Ligeira subida (+0,05%), mostrando a estabilidade típica de um fundo global com cobertura de moeda. É uma excelente base defensiva e equilibrada para o seu portfólio."
     },
     {
       "ticker": "IUES.AS",
@@ -8120,6 +8128,10 @@
               "fecho": 158.79
             },
             {
+              "quando": "2026-10-15T07:00:00+00:00",
+              "fecho": 158.51
+            },
+            {
               "quando": "2026-10-16T07:00:00+00:00",
               "fecho": 158.24
             }
@@ -8893,27 +8905,27 @@
       },
       "noticias": [
         {
-          "titulo": "Stock market today: Nasdaq and S&P 500 fall as tech stocks slide, capping volatile week - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjdQUFR1bVFaMnh2OGkwc1BVMTJXaEswWmtlWmV3UDR4YzFXQmdndkg4Y0xuS1NWazZIemdKeUYzRU8xQ3VuMllLdk5Sa3ZxQ3JsWk91bXZlcXFNSHNsSGZWc3dVR200WmdUQmpKSk83dkNZTnkydkNOT1JiS1ctT0NZa2ljQ0RMM0FfZHcySlktb2xVRHBVQ2tjeFdvd3Vpbkg2V1JwX2kybzdkZWo2S3pzeG93VkJrZ1NSNmdtVE4?oc=5",
+          "titulo": "Stock market today: Dow, S&P 500 rise, Nasdaq trims losses as Treasury yields sink - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3MtX0JOMkpXWTVPWEdBY1dCdnBocTRwVUFJZlVDOUM5Vm91enNCa2t6dURBc1RqYVNJdTloeVhDV25yUGt3Yi14QUxMdDF2eFE5dHZ0RXhyc1pHZlhHeTdlQk5TTnZrOThkZTlzMThvM1lQRExfd0NUODhPMVJCbGd5QktpdHdNSTV4QmctamQ1eGpfRHhJRU4xdDYtMXVGUEkzSnhUaEc1bW1CSVkzQWZKVmNncmtyRHNqam1uYlE0MlRrakFkb3pmTlgwc3Bm?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "The Stock Market Has Seen This Happen Only 2 Other Times in Over 150 Years, and History Has an Ominous Warning for Investors - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm9pSEp1OEpkSkNSNlBtNWVjVXdJZ2ViTkdNcV81azlHSzkyWjFlaEQxT3dhb3ladmgwY3RiZkRvOWQ1ejF2QXJxbGR2azh5MnJrOWFlTGR3cVJaUHZBTWhQRHhvSXd5UjFJTzNSNWRDZmFzM2xaZlVFQ0UzZ242aU90Q2RCZ1I5bkhaeWZubEp3OUYxb1F3Ug?oc=5",
-          "fonte": "The Motley Fool"
-        },
-        {
-          "titulo": "Top 10 S&P 500 Stocks by Market Value Gain in 2026 - Opening Bell Daily",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLVk1c3NNMmZuM1RUWFgwcUw3ZVRmTXBZQmlSTWphQXRnVThKelpybHhsRlBVSUR4NE55a2cwSThoa3NhVW1pZ25MQk9HbUIyRmlEVW5ZRlcxMDZ6amFJVlExZUphdlFBUGJoZjNfaEd4VHhPaFl1d2tIN1NYaGRxNmhab2prRnlobmNuNW4zdXYyQQ?oc=5",
-          "fonte": "Opening Bell Daily"
-        },
-        {
-          "titulo": "Why Twilio Stock Is Today’s Worst Performer in the S&P 500 - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUkd2Y2tKUm5CdXRKSU9CanZrcEhYMF9IblVFU1l1NnlUNWF6UEl1a2o4WFZzUUUtX0JNQkgyQTJqLWx1TVVpTjBEb0xvZkNLa3dfVHk2NzgxNzNOQ08zeGd0QldvZzFtZkVqcHQ5N2h0bHZrUFc4?oc=5",
+          "titulo": "The S&P 500’s Dividend Yield Is at an All-Time Low. Is That a Bad Sign? - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVnc5R0p4MUJUNzRzeTVJOXAzVG9udzdxZHJCbVF5Rndjb3d4RW15WDRMZHVQVlkzZWRfUTAyenVOcU1qaXZQVEtCVGw2ZkVPSEUzdy1LRzVEbmdkRkJWQ1JTc2NVR1pHamRmMzNtdklsZDRoa05HdjRHZGdmU2RCTktxRU9NQQ?oc=5",
           "fonte": "Barron's"
+        },
+        {
+          "titulo": "Nasdaq slides 2% Friday to post worst week since June, pressured by AI sell-off and oil prices: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ?oc=5",
+          "fonte": "CNBC"
+        },
+        {
+          "titulo": "S&P 500 Futures Gain After Warsh’s Remarks; Chip Stocks Extend Slide - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGlVNGdpMG0xdlI4eElGU0c0V2tTNkFXVnE2V3E5aU1YX3BTRVZUUkxQTnVveUQ3djJOTENQY2ZVUHhOR0ZWM1VYenRJMVdWSmYxVEEzZXRIcmhTeUgyZUluV1AyaHlrRUZEajhHWVEtSkZPTXUyVXRXeko3YlctcHZrc2JWYUFMWFVYRFV5WXdtbk5HSjlkS0JEQ1A2cGVqU3JhWjhpUGdqQUtrbU5R?oc=5",
+          "fonte": "Barchart.com"
         }
       ],
-      "comentario": "Pequena variação de -0.18%. O mercado norte-americano beneficiou da rotação de capital para setores como a saúde, abrandando as perdas do setor tecnológico. Sugere-se manter a posição com tranquilidade."
+      "comentario": "Ligeiro recuo (-0,17%), influenciado pelas dúvidas em torno do setor de tecnologia nos EUA. Pode ser prudente manter a exposição e monitorizar a evolução das taxas de juro norte-americanas."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -10888,6 +10900,10 @@
             {
               "quando": "2026-10-14T06:00:00+00:00",
               "fecho": 6.94
+            },
+            {
+              "quando": "2026-10-15T06:00:00+00:00",
+              "fecho": 6.99
             }
           ]
         },
@@ -12728,7 +12744,7 @@
             },
             {
               "quando": "2026-10-11T22:00:00+00:00",
-              "fecho": 6.94
+              "fecho": 6.99
             }
           ]
         }
@@ -12750,12 +12766,12 @@
           "fonte": "LinkedIn"
         },
         {
-          "titulo": "Why fixed income is critical for the AI supercycle - T. Rowe Price",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0VLYWs3cW5XNnBqZW9XdDRwQ2JpNDhSY2ZvSjNhVTZMZEQtZC1GUnk4RVlObmhIQnVvWDNlcWhubGFJOG8zUko3TXFYaVEydDRkWFZodEJTa2ZLLXVCdXIwbWd3Tk9MMTFaSVpmc1ZfQjIwLU9udEFkSVQ0akFYRTZxY1dHS3RCeHVWX1BCc0V5Q3pVVWR5X2s0eGdIQQ?oc=5",
-          "fonte": "T. Rowe Price"
+          "titulo": "Municipal Market Review 3Q 2026 - Goldman Sachs Asset Management",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbk5uOU5wWXhZOU9fMlJtZHowYUpCSFhWWTdTM1cwNnZ5Q2N0WlY4bTBZODBYTEh0Sk1FZ1hONkpVMUc2R3NnMjUyMVEtWmxPekhZZk1pUDhZdzFoSjJNaDktaWFuTmJPY1ZYSzR1Mk5YSnptQ25iNk9jUEtEVS1yRmt4d2MySDV1UjJMcUFLSEtDUQ?oc=5",
+          "fonte": "Goldman Sachs Asset Management"
         }
       ],
-      "comentario": "Ganho moderado de 0.29%. O fundo de rendimento cumpre bem o seu papel defensivo num ambiente de volatilidade no mercado obrigacionista. É uma boa opção para estabilizar a carteira."
+      "comentario": "Desvalorização marginal (-0,14%) num ambiente de turbulência no mercado obrigacionista mundial. Este fundo continua a fazer sentido como gerador de rendimento e estabilizador de risco."
     },
     {
       "ticker": "IMAE.AS",
@@ -15097,6 +15113,10 @@
               "fecho": 103.73
             },
             {
+              "quando": "2026-10-15T07:00:00+00:00",
+              "fecho": 104.075
+            },
+            {
               "quando": "2026-10-16T07:00:00+00:00",
               "fecho": 104.815
             }
@@ -15950,7 +15970,7 @@
           "fonte": "Reuters"
         }
       ],
-      "comentario": "Desempenho positivo de 0.33%, impulsionado pelo setor bancário europeu que atenuou receios geopolíticos e de inflação. Oferece uma excelente diversificação geográfica e sugere-se a sua manutenção."
+      "comentario": "O destaque positivo do dia (+0,71%), beneficiando do alívio no preço do petróleo. Sugere-se atenção à próxima época de resultados das empresas europeias, que poderá trazer alguma volatilidade."
     },
     {
       "ticker": "SEMI.AS",
@@ -18328,6 +18348,10 @@
               "fecho": 19.82
             },
             {
+              "quando": "2026-10-15T07:00:00+00:00",
+              "fecho": 19.01
+            },
+            {
               "quando": "2026-10-16T07:00:00+00:00",
               "fecho": 18.816
             }
@@ -19422,7 +19446,7 @@
             },
             {
               "quando": "2026-10-11T22:00:00+00:00",
-              "fecho": 19.82
+              "fecho": 19.01
             },
             {
               "quando": "2026-10-16T15:35:15+00:00",
@@ -19433,27 +19457,27 @@
       },
       "noticias": [
         {
-          "titulo": "US chip stocks set to wipe out $2 trillion after latest selloff - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5",
-          "fonte": "Reuters"
-        },
-        {
-          "titulo": "AI debt concerns spark major tech sell-off as semiconductor stocks slide - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrMEN5U0k4Z2R0S3VQTmQySFVEcDlocG1RZzZ6cFJLbE5uTW50QWlxRkU1b2t3M25ybFRYUnFYZkRzYkhJVmlCajE1bEZOZFNVS1g3UzNn?oc=5",
-          "fonte": "Fox News"
-        },
-        {
-          "titulo": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQkNJaW41UDB6THU5d3Fqazl1bXJybElzd29udkhvRGp6bXZkX3FhcHpsV1Ntc2VDNG5uNW9ZTm51QkZQLUdIZ1dGZjZXUVJfVXgtUkE2WjRPZHZvY1p3MGkzZ2ZYWUdxd1RldkZmWDYyNi1oRzFXM2tWUEdTOFpuOFYyZ1AwaEo3RVZobHY4WWNvZw?oc=5",
-          "fonte": "Yahoo Finance"
+          "titulo": "Is ON Semiconductor (ON) Undervalued As Sungrow Picks Its EliteSiC Modules? - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMVVSV19tZWFDdHdPa09iYl95UnJXTGx2Y1d3YlJzY0RIOEhlaFFKR2pwR3cyZHY4Sk5CLTNKVkZuaEpyQmFNaTBETkxVdzMtWXhLQTVfMmVXdHh0RVZYN2xwaEktenUzLURuSUs0MkwxTVFYeFV2ZlhRS0V1UEx1MHU0UkJVRVg5Zm4yZmVzbF9PYXdTRTFNUDM0UlBSUTh4SDVHX3RLVjJTbERkZ2pQUVQ5R3kxTGhWV082aVFSNFN3TUZRSll6SVRkNFBSYW5CR3lvb21R0gHbAUFVX3lxTE1Wc2Z6SU9nVVRlMDJiRUhIMkNja0ZUWFdnQnhCNVVjLXdseC1fMHhqS1JrTGdSYVBQUzBjX0d6dS00S2l3V2p2VFJweklKd3VLeEI5bVo1RnRKSDM5OGpxaldMRFlscENDSUh5bVpkYkRTS3paWHNXUzZKYk9SN25wV3o2Y2tpcVRNdGY3MjVodFB6VmljLWRuTFJvVFM0R2M4Wm5DRU1QZHh5cVQ2b0F1ZWtZbmVYTTZyclFrcTYzbEpjTlNrRVV1Q1VEYW92QU9XS3I2SmlkRzJFZw?oc=5",
+          "fonte": "Simply Wall Street"
         },
         {
           "titulo": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries - CNBC",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn0gGrAUFVX3lxTE1fQkI2UFBBMEExelZWTnRzQ1lzaE1Hdms2R3hjLW9tVmdsZ1hWNGdxRVE1VnlZWVBQU1ZZTW56SUJrYVNYX25QTFFOMExfZmpZY1RCRkpwZmFZX3d6T1BCdU5Rd3ZsME5zdHJhUFRkNG5KUHdkNUsyRHBjX3I1VWNpZkhWRVZ4eFZlS3Jhc1ZoS1dBbVpPRlFyTkRUd1pRNDNqMHNDTWgzV1VGaw?oc=5",
           "fonte": "CNBC"
+        },
+        {
+          "titulo": "Lam Research, Lattice Semiconductor, Amkor, Entegris, and MACOM Stocks Trade Down, What You Need To Know - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjN3M1FTbElZOHR2R2lwbm1JanU2YUFmMmxWUEMxLWRCUGc3RG1lMlJqdnZhVDRwbFpZQllUQVc1UElacXdQNlVQVTg4NjFRX2pmQUxWU1ZsdHU0ZFRmR2k5T0lQSFZuLURvMDFlR0UxVUZhMzZXQWpQTHNKM29EWXNIVzFYeTBDRmdOaWd5SXZtQlctNVRUODRyRDE0QnV1OFpuYXRfVFI?oc=5",
+          "fonte": "Yahoo Finance"
+        },
+        {
+          "titulo": "US chip stocks set to wipe out $2 trillion after latest selloff - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5",
+          "fonte": "Reuters"
         }
       ],
-      "comentario": "Queda acentuada de 4.09% devido a dúvidas sobre o financiamento em inteligência artificial. Sendo um setor muito cíclico, oscilações fortes são normais. Se o seu perfil o permitir, pode ponderar reforços graduais."
+      "comentario": "A desvalorização de 1,02% acompanha as correções globais nas ações de semicondutores e IA. Sendo um setor volátil, pode ponderar manter a visão de longo prazo se o seu perfil tolerar este risco."
     },
     {
       "ticker": "SGLD.AS",
@@ -21675,6 +21699,10 @@
               "fecho": 353.78
             },
             {
+              "quando": "2026-10-15T07:00:00+00:00",
+              "fecho": 356.61
+            },
+            {
               "quando": "2026-10-16T07:00:00+00:00",
               "fecho": 357.22
             }
@@ -22166,17 +22194,17 @@
           "fonte": "Fortune"
         },
         {
-          "titulo": "Gold price today, Wednesday, October 14, 2026: Gold prices losing ground ahead of inflation data - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaDY1cDVETUVQa3FWTVV2c0I3TmlEa2pHeDI5UTNTLV9LenlvNE1jbmEydHdUdkMzQUMyelFiVUFnSmcxWDlPZ0lJOU80ei04YUV6U0lfUG5WdjVveXdkd0ZxaEMyQ1Bod3pmdHp3UVZYVkJxTldTNXkzOHphbktzdU43eldGWGZUS2s2Vzg1RUF6aDYteksxMWczcTZmMDY1UVNZZU1NY3NtTzRmaHB5N01SSHFsS0c5SDlMQkk1dGNFMS1tc3RjM2Q4d3hBdzFHNUJDbEJvSnZ2QkNiRlN6bTVHQWF0VEpuTmdlZnNHcXRCSUpSR2lVQlVLeGs?oc=5",
+          "titulo": "Bank of America Sets a New Target For Gold Price By the End of 2026 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEtfWEV6NnpoY3FmRm1aY19rQ0RrUVZsNG1EOUIxRVk5SkVIbDM5UHlFWjBfeUNZell0YXdsV181YWNIenBsMk5HTG85NnNqVzNOTXp5dVJKYVhEVGpHZ05mWTNBdnNUMndJRnhMZFY1cEdzdmJKU09TWGh2RFhBUEsydTd5SlpOWmZ5WC1ZZHVDZ3BBZTJ4RVMwUUN2R2VD?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Gold price drops to session lows as U.S. CPI heats up in September - Kitco",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkFpc1pVcnNsRmVMcjBzajRRZW14UzNOYXBqVUhKSE0zb1IyOW1KR1lEMmFOMXNBd3VubUJqQkw5dWxtNnl1Nm5FOVZhZ3ZaZEFGc2cybXFBeS1qeTdGcXFPZmxBN0FXMS1OdW1qNFdLSW9wR0JwdXlEa1ZYY205aHA3UGVkOWV4UzQ1dy1sVUpYemdvSmhOVzU3emxMTnM?oc=5",
-          "fonte": "Kitco"
+          "titulo": "Gold Price Short-term Outlook: XAU/USD Holds Critical Support as Breakout Nears - FOREX.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ3hVYlFsVW51MFF2ZmVMVGp4b0VDZERoVUJVanhlTGxwRGFxRlNOeExxeTBwLUlSdGhCbUJMamQtN0o2T2lQbl93ZXNsUXYzQ09pLWZzM0pOQVlOTEoxR0NCV3hTU1RzamQyOTZidEVzYkxQaTFEaTdxVWI2dm83enRhRjIzMGpTb0pjRzhOMXQzNzhCWDVKVTM1SV9feVJkT0xvMEN0bzVjeG5TRzgzTzRfdm1jWlNhZ2F1NWVwV2M0RFRNSXllcjNxU19sbnQzOUHSAd4BQVVfeXFMTTdUWmtxMDdtcFcxTjYwVnpYeVplVU9GNE56QldZX3FMZWI2cDI3bGxRc0oxemphRFRJVDA5bWtYbHZmV1NOWmU2bmNsUmoyM1FGYUd4U205ZUJEM1hOOGpXT3JCVklpajc0dVRMMVZsNnlkQ2lmdWhLTlZJRkFCcUxTU0UyV1UzWnYtUnJ3ZFBLdXk0MmFNTEFrYlViYnB0UlhSNjlwT2NES0FjRE9wZmlqUk9OR1RvQkVkeUgyU2RPWkNLeDFrNFp0VkM0MXFHdnlWc1NhZDlDdW1ncTFB?oc=5",
+          "fonte": "FOREX.com"
         }
       ],
-      "comentario": "Subida de 0.80%. O ouro volta a demonstrar a sua eficácia como refúgio em dias de correção no setor acionista. Sugere-se manter para continuar a mitigar o risco global da carteira."
+      "comentario": "O ouro subiu +0,17%, continuando a cumprir a sua função de refúgio perante tensões geopolíticas e previsões otimistas de analistas. Sugere-se manter como proteção de carteira."
     }
   ]
 }
