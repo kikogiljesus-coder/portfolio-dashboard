@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-10-20T15:10:44.645350+00:00",
-  "analise_geral": "A sua carteira apresenta hoje um comportamento misto. Destaca-se o bom desempenho dos mercados desenvolvidos globais e norte-americanos (IWDE.AS e IUES.AS), impulsionados por resultados empresariais positivos. Em contrapartida, o setor dos semicondutores (SEMI.AS) e os mercados emergentes (IS3N.DE) recuam, influenciados pela volatilidade no setor tecnológico e incertezas regionais na Ásia. O ouro e o fundo de obrigações mantêm-se relativamente estáveis. Pode ponderar manter a estratégia de longo prazo e acompanhar as oscilações do mercado sem reações precipitadas.",
-  "analise_gerado_em": "2026-10-20T15:10:44.645304+00:00",
+  "atualizado_em": "2026-10-20T19:21:00.995477+00:00",
+  "analise_geral": "A carteira apresenta hoje uma ligeira tendencia negativa generalizada, refletindo volatilidade global. O setor dos semicondutores (SEMI.AS) sofreu a maior queda (-1.91%), acompanhando a correcao no setor tecnologico. Os mercados emergentes (IS3N.DE) tambem recuaram devido a incertezas pontuais na Indonesia e descontos historicos de avaliacao. Por outro lado, os mercados desenvolvidos (IUES.AS e IWDE.AS) mantem-se relativamente estaveis, sustentados por compras no dip no mercado americano. Como sugestao, considere manter a disciplina e a diversificacao habitual. Se tiver liquidez disponivel, pode ser um momento para ponderar reforos graduais nos ativos com maior queda, mantendo o foco no seu perfil de risco e horizonte temporal.",
+  "analise_gerado_em": "2026-10-20T19:21:00.995430+00:00",
   "alertas_enviados": {
     "IS3N.DE": "2026-08-19",
     "IWDE.AS": "2026-07-13",
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 46.517,
+        "preco_atual": 46.38,
         "fecho_anterior": 46.739,
-        "variacao_pct": -0.4749780697062287
+        "variacao_pct": -0.7680951667771982
       },
       "historico": {
         "intradiario": {
@@ -402,11 +402,39 @@
             },
             {
               "quando": "2026-10-20T14:50:00+00:00",
-              "fecho": 46.514
+              "fecho": 46.517
             },
             {
-              "quando": "2026-10-20T14:54:19+00:00",
-              "fecho": 46.517
+              "quando": "2026-10-20T14:55:00+00:00",
+              "fecho": 46.53
+            },
+            {
+              "quando": "2026-10-20T15:00:00+00:00",
+              "fecho": 46.525
+            },
+            {
+              "quando": "2026-10-20T15:05:00+00:00",
+              "fecho": 46.518
+            },
+            {
+              "quando": "2026-10-20T15:10:00+00:00",
+              "fecho": 46.393
+            },
+            {
+              "quando": "2026-10-20T15:15:00+00:00",
+              "fecho": 46.423
+            },
+            {
+              "quando": "2026-10-20T15:20:00+00:00",
+              "fecho": 46.383
+            },
+            {
+              "quando": "2026-10-20T15:25:00+00:00",
+              "fecho": 46.411
+            },
+            {
+              "quando": "2026-10-20T15:30:00+00:00",
+              "fecho": 46.38
             }
           ]
         },
@@ -2427,7 +2455,7 @@
             },
             {
               "quando": "2026-10-20T07:00:00+00:00",
-              "fecho": 46.517
+              "fecho": 46.38
             }
           ]
         },
@@ -3027,35 +3055,35 @@
               "fecho": 46.362
             },
             {
-              "quando": "2026-10-20T14:54:19+00:00",
-              "fecho": 46.517
+              "quando": "2026-10-20T15:35:53+00:00",
+              "fecho": 46.38
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Weekly market commentary - BlackRock",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-          "fonte": "BlackRock"
-        },
-        {
           "titulo": "Emerging Stocks Are Trading at Biggest-Ever Discount to US - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNay1ra1pFVHpSaG1Ucm9ZbnNCMmZJcEpIRTY2UTgyOS1PcjNldzdrQmp3TnFGUVZkYXUwVmRORnNTYTFFeWVUUWMzVFZ4ZjhlemtTSjhoR0ZJZmpVcERKMnhkUjhaTUN2SFdoQWxaa2pEcVR0enFHOTlCX3FDeVNqZXQ3eU1OdTZlR3g4d1ZCSk1ZdmktT2tpQUlUa1pVZ18zc253dTM2eGJPbnpsLWZEcmRTNzVGUQ?oc=5",
           "fonte": "Bloomberg.com"
         },
         {
-          "titulo": "Tech Stocks Hold This Baron Emerging Markets Fund Back - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUlNvczhUU1BIbWhITEZtOTlPdmxNakNsQ1FoTE1CQnFZMGQ5aVZUeE1Bc3AyRVpJNF80RURTcVBONDV5R2YzUUZ3R290azRvUml4NldEQlZQbEVWZGZVeU1xdnlkRk5CTXk1N3lINllFR3F0VElNZW5EeXptNVFVNHRrYjBEd0w0Y1hTcW5neDNEa00tVkhQUlhWUlo?oc=5",
-          "fonte": "Yahoo Finance"
+          "titulo": "Tech Stocks Hold This Baron Emerging Markets Fund Back - Kiplinger",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSndSejJiSnNzdi1hMk85cThNMDhJcUZ0Nl9rNmhlLUotYkNWMGpmaEtkcllUd1pUbmpDUWpvb3BSV3FnSDZ5c0otcGhCZEgyRzJfSHE4TlNfa0kxejlmc1NHbDl3cmZFYzQ0ZDFwYU02eGoyeGxqQ0dNZ3lJNmJ5TmxiTEZIYWFaa0paYTlYLWlGSWFzUm1mdWJJVnZFTl9xVGREeFhB?oc=5",
+          "fonte": "Kiplinger"
         },
         {
           "titulo": "Indonesian exchange seeks to calm market after record two-day rout - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREg5RnZxam01U0FhNE1NOUhVWE9fM0ctLWd6VHBFY0d4ZjkzN2JPS0M3a2J1Y3M3X3VTTHhrTVBOaUZ5eWhZaDE0NDZVR1ZuNXB5N2dTbGUyVUdLSm1MNURGSmZiSGxsUWFWbERoMTRFbXZQSkhoVmlwTkpCRF8xdGVDMXMyUEh0N05lTUVtR0FqZU52NW9jVWtvR3lCc1UwNWJMcWc2N2pIbjQxM2c?oc=5",
           "fonte": "Reuters"
+        },
+        {
+          "titulo": "Investing in Emerging Markets: EWY, FLKR and More Top-Performing ETFs - NerdWallet",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JQW5kYURpNjNOdFMxdGFOeHdWeWF4MFo0RGk0cjdLR1dmQjdkQXR4YzUybVAtVFB5V01QT0dwcGY5Y1Q2b3FsVTNjcFRiRU9aVW1vQWhhampwUmdrVnVacnBQSk5aakxnMWIzMEY5QnY2RmJWeHNN?oc=5",
+          "fonte": "NerdWallet"
         }
       ],
-      "comentario": "O ativo recua ligeiramente (-0.47%), afetado por incertezas nos mercados emergentes, nomeadamente ruído regulatório na Indonésia. Apesar dos descontos atrativos face a outros mercados, sugere-se prudência e acompanhamento do cenário macroeconómico."
+      "comentario": "A desvalorizacao reflete receios nos mercados emergentes e incertezas regulatorias pontuais na Indonesia. Contudo, o desconto face aos mercados desenvolvidos mantem-se em niveis historicos. Pondere se o peso deste ativo na sua carteira se alinha com o seu perfil de risco de longo prazo."
     },
     {
       "ticker": "IWDE.AS",
@@ -3063,9 +3091,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 119.9,
+        "preco_atual": 119.5,
         "fecho_anterior": 119.56,
-        "variacao_pct": 0.2843760455001701
+        "variacao_pct": -0.050184008029443186
       },
       "historico": {
         "intradiario": {
@@ -3140,8 +3168,12 @@
               "fecho": 119.9
             },
             {
-              "quando": "2026-10-20T14:31:39+00:00",
-              "fecho": 119.9
+              "quando": "2026-10-20T15:00:00+00:00",
+              "fecho": 119.88
+            },
+            {
+              "quando": "2026-10-20T15:10:00+00:00",
+              "fecho": 119.5
             }
           ]
         },
@@ -5178,7 +5210,7 @@
             },
             {
               "quando": "2026-10-20T07:00:00+00:00",
-              "fecho": 119.9
+              "fecho": 119.5
             }
           ]
         },
@@ -5942,8 +5974,8 @@
               "fecho": 119.7
             },
             {
-              "quando": "2026-10-20T14:31:39+00:00",
-              "fecho": 119.9
+              "quando": "2026-10-20T15:12:38+00:00",
+              "fecho": 119.5
             }
           ]
         }
@@ -5970,7 +6002,7 @@
           "fonte": "Protos | Informed crypto news"
         }
       ],
-      "comentario": "Com uma ligeira subida (+0.28%), beneficia do momento positivo das bolsas globais desenvolvidas com proteção cambial. É um pilar de estabilidade na carteira, pelo que ponderar a sua manutenção contínua faz todo o sentido."
+      "comentario": "Desempenho praticamente estavel num dia com algum ruido em torno de reavaliacoes de indices globais. Sendo um ETF global com cobertura cambial em euros, continua a oferecer uma diversificacao solida e protecao contra a volatilidade cambial."
     },
     {
       "ticker": "IUES.AS",
@@ -5978,9 +6010,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 158.69,
+        "preco_atual": 158.23,
         "fecho_anterior": 158.35,
-        "variacao_pct": 0.21471424060625416
+        "variacao_pct": -0.0757814966845624
       },
       "historico": {
         "intradiario": {
@@ -6091,8 +6123,16 @@
               "fecho": 158.61
             },
             {
-              "quando": "2026-10-20T14:50:30+00:00",
+              "quando": "2026-10-20T14:50:00+00:00",
               "fecho": 158.69
+            },
+            {
+              "quando": "2026-10-20T15:10:00+00:00",
+              "fecho": 158.05
+            },
+            {
+              "quando": "2026-10-20T15:25:00+00:00",
+              "fecho": 158.23
             }
           ]
         },
@@ -8129,7 +8169,7 @@
             },
             {
               "quando": "2026-10-20T07:00:00+00:00",
-              "fecho": 158.69
+              "fecho": 158.23
             }
           ]
         },
@@ -8893,35 +8933,35 @@
               "fecho": 158.24
             },
             {
-              "quando": "2026-10-20T14:50:30+00:00",
-              "fecho": 158.69
+              "quando": "2026-10-20T15:29:56+00:00",
+              "fecho": 158.23
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlpacWkwZ2Ewc2JXVnBxcTl6b3JpOFBuaGF4R0V5czJfYWdpSlBRaWNYV2RiVzJDaGdCcGdoRDZmek1FcmFTTVRIYXVPUEJ2bUt2TVltdmJsU2N3UjV1RmxJV2tFemNWeXgxYWkyN1A2eS1kbHZRU0xGbGd4U1pCSGxWVVhIV2VnbFljem1xUQ?oc=5",
+          "titulo": "Dow, S&P 500 and Nasdaq rise, as tech stocks reverse higher and oil prices decline - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdVZxZWtJS2dMc19DUjZXMFNhOXJHa053SEhpWDZFNnhGU0N6VkFCVjk4TDhCLThfSUF5ZlF1V3hNejM2ZFBkSVVIaC1CdTlwMUljWGh0NjlMN1ljSDV6R2lMNXFmN1BFREx0RWY2azVyS2ZfbC1WNmRDWUUzNHpsazJhZVB5WlFmaGpwZ25paDRwdFlYdkw0UkRaZkRLWlNLTm54ZTVfZFVCWEFLTDNTNW9VOHNMeDgxLWZ5RzBVTTEwOXc?oc=5",
+          "fonte": "MarketWatch"
+        },
+        {
+          "titulo": "Stock market today: Dow rises, S&P 500, Nasdaq turn green as investors buy the dip - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWVoODhRekViMXk0VEhWaGJCc3o3QjJQRFdNOGU2OVlkQ054a25yVWFFUzg2eVlfT1o4dEdkMXhjVlprVVgxN0ZZaTk4RjVuTzZpNWJSWFFkbHNhU19oREpjdWg4akxIdEx2dTZSRmxFTU1ZazlzNWhfUzhrLWJpQ2FfVXgwVmFBV0N4TUdJM1FoRXhXNHNwdUZvaWlUZjZ3aDdpaXFLYm12WEtjUzJjeF9OcnNJaDZHV1RLNWtZaHlId1R2bm1z?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Dow jumps 700 points as solid earnings, falling crude oil stir rebound: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBY1V6N2VkbVphNU1oUUROTEx2aUtNQk9XeDl3SlRyUGlmWWFNX3B1NjU0SXB6Z08zeldvRW8tZVdWQ3lxRnNGelJSdURXdHdEQ0lRTllocmNfS1BkX2lDalYzS1AySDNUNk5Rc2tDbk1SdVZsbHRj0gF8QVVfeXFMUDhUeVpneWk2eWtPSVpkcE5EY3pZeV92cG9CZFpwaDVrT09sY2Y1VTVNc2VfcWNid29pZ2RzNTYwY3VWQkx2X2h3ZlUzQWRPXzlpWWotY0ZkM184THhJNkxhYTJHNVRvZ3hESG4wZGVna25sWEU0UDZBZnpqRw?oc=5",
-          "fonte": "CNBC"
+          "titulo": "S&P 500 Could Hit 8,300 By May 2027, Says Morgan Stanley Investment Chief Predicting ‘Final Innings’ Of Stock Market Correction - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGJYNngzZ2N5VHprWkpNZ0pfYTBvTzhJMTdXemYtaVpZSGN2cU5YaWVUbzR4RUFkY2NqTGd1SEkxaEZOOE12UE82S1U5aUN5UkRfekM4bHdjaDhzbDF4NGRyNUV0UWs3Z0FkS0lKbjg0VUcyZ0RTU0JvX0ZNYjJTQkItNG15TFVOSWc?oc=5",
+          "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "US Stock Futures Edge Higher After Chipmaker Rally: Markets Wrap - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUdmWVljdmxvdFIzRkRFeDJLQk0wTFVOaTlEMExhUEpUelZOTFJfdDFlZURyWXpjU05OcXBhX09QN0dlblc2aDFhZWFuQUNMOXVLbDN1eFN2Q0xBMU1WQW1KZDRrMEhuUmxlZmhPMmlnckVPcUJrSHpQa0tRWGRab2dXdXZkWTRpNC1kZmRCSndyblZJ?oc=5",
-          "fonte": "Bloomberg.com"
-        },
-        {
-          "titulo": "Stock Market Today: Nasdaq, S&P 500 Slip on Busy Earnings Day as Chip Stocks Fall; Dow Gains; Oil Prices Rise - Investopedia",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMk80WXBDalJTcEZzT3VScXp2RDUzSExrTHpwbzFMMXZ5Xy00ZjVjdXp6blZ6WDRub0dKYXFMTlkzY2tFd1oxc1JpM1hIMU1iNmNzSmtRRWk4aTdmaTI2bWtoUVYwbjl4cUdZa0tiZmNBV2p3RWNVbm56bHpPQTMtcGNDeDRTbE04NlZxY282RjM?oc=5",
-          "fonte": "Investopedia"
+          "titulo": "Morgan Stanley's Mike Wilson Says Market Correction Nearly Over, Sees S&P 500 Hitting 8,500 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOFpjRV9ya2QwMlJHSFB1ZEpfSnhUaHFTTzZuWUsyQUhVR3c0NGxJamV4VWRxb01La25FUjlLLXNnMmN0bHN6QWI4ejlaVVpKdDFHbUdqaWx0OW1NY3NzYjIyZkF1OWJrY2FDUjV6dTZEN3VWcEJGa2NzWUlmTkpIU1pkdjBhXzI4ZkU0Q2Q1WG0zQm1GbWNzWUlXUDVQdw?oc=5",
+          "fonte": "Yahoo Finance"
         }
       ],
-      "comentario": "Avança +0.21%, impulsionado pela época de resultados empresariais nos EUA. A cobertura em euros protege contra variações do dólar. Recomenda-se manter o acompanhamento do setor tecnológico norte-americano."
+      "comentario": "O mercado norte-americano mostra resiliencia, impulsionado pela recuperacao das tecnologicas e perspetivas favoraveis de analistas. Se procura estabilidade focada nas grandes empresas dos EUA sem risco de cambio EUR/USD, este ETF continua a cumprir o seu papel estrutural."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -12749,9 +12789,9 @@
           "fonte": "Lord, Abbett & Co LLC"
         },
         {
-          "titulo": "Analysis: Bonds are coming in from the cold amid better valuation and AI-bust fears - AMWatch",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ZzFrNTR6WDNmQUIxcDZ5ZWM2VTc4SGZxOGttSkVDcFdrOWFoZWcyRzROY0J2cnhOQmt4c3BBM1BMdUIyS2hZaGxmcTJ1ZkpRMDlaUzc5Q0lFYmtnbEpKSTItNmRUUnJvd3Q4aVZicw?oc=5",
-          "fonte": "AMWatch"
+          "titulo": "Q3 2026: Borrowing From the Future - ETF Database",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2szM2h5eFhNUGs3cGtFWk91UFNIeVphTTg3NHlYbldGVmY0c2ctc09jZEtxNjFQenlDbG5YV0hIN3BEZGM2TTNkZnhfd0h1aVMzWERxV2VFZFV3RklHTlZTWnM4WUd2WHBhOTRkNTJlaXZ6RTZTM1c0QWhOSFBlMQ?oc=5",
+          "fonte": "ETF Database"
         },
         {
           "titulo": "Hedge funds' role comes into focus following European bonds turmoil - Reuters",
@@ -12759,7 +12799,7 @@
           "fonte": "Reuters"
         }
       ],
-      "comentario": "Apresenta uma variação residual (-0.14%), refletindo o contexto de taxas de juro ainda elevadas na Europa. Este fundo serve essencialmente para amortecer a volatilidade acionista, sugerindo-se uma perspetiva de retenção a longo prazo."
+      "comentario": "O fundo de rendimento fixo sofreu um ligeiro recuo devido a pressoes nos rendimentos das obrigacoes e taxas de juro elevadas. Pode ser util monitorizar a evolucao das politicas monetarias, mantendo este ativo para equilibrar a volatilidade do segmento acionista."
     },
     {
       "ticker": "IMAE.AS",
@@ -12767,9 +12807,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 104.075,
+        "preco_atual": 103.85,
         "fecho_anterior": 103.98,
-        "variacao_pct": 0.09136372379303602
+        "variacao_pct": -0.12502404308521797
       },
       "historico": {
         "intradiario": {
@@ -13100,8 +13140,40 @@
               "fecho": 104.105
             },
             {
-              "quando": "2026-10-20T14:51:13+00:00",
+              "quando": "2026-10-20T14:50:00+00:00",
               "fecho": 104.075
+            },
+            {
+              "quando": "2026-10-20T14:55:00+00:00",
+              "fecho": 104.11
+            },
+            {
+              "quando": "2026-10-20T15:00:00+00:00",
+              "fecho": 104.0
+            },
+            {
+              "quando": "2026-10-20T15:05:00+00:00",
+              "fecho": 104.01
+            },
+            {
+              "quando": "2026-10-20T15:10:00+00:00",
+              "fecho": 103.845
+            },
+            {
+              "quando": "2026-10-20T15:15:00+00:00",
+              "fecho": 103.855
+            },
+            {
+              "quando": "2026-10-20T15:20:00+00:00",
+              "fecho": 103.915
+            },
+            {
+              "quando": "2026-10-20T15:25:00+00:00",
+              "fecho": 103.855
+            },
+            {
+              "quando": "2026-10-20T15:30:00+00:00",
+              "fecho": 103.85
             }
           ]
         },
@@ -15146,7 +15218,7 @@
             },
             {
               "quando": "2026-10-20T07:00:00+00:00",
-              "fecho": 104.075
+              "fecho": 103.85
             }
           ]
         },
@@ -15970,8 +16042,8 @@
               "fecho": 104.815
             },
             {
-              "quando": "2026-10-20T14:51:13+00:00",
-              "fecho": 104.075
+              "quando": "2026-10-20T15:35:14+00:00",
+              "fecho": 103.85
             }
           ]
         }
@@ -15988,17 +16060,17 @@
           "fonte": "Reuters"
         },
         {
+          "titulo": "Citi sees Europe as positioning winner as bearish bets on U.S. stocks mount - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNck5jWXhCeFNZeUE4WHFKa1FzSXV6Nl9wbjRrM01fdDRfYjRxRmpJeUpqcVN2blZpVThaZXNHc05fSVV2endidV9QcE50UXM3TUhZSnF2c0VXdWNKaFNuaVRmT090Nm5lN0R2eF8yV2xrRWswY2hTUzVZUWVqVElHNWpqZ3lrY0VYU2hIbjNmQWlQYXRBOHBNcmJ2SG4wOXJQUERMVzRGN1NKdmVNT1c3Rkk5X0VSaUZKZ3pKYjJZcVkyS0RsU2FRNDFn?oc=5",
+          "fonte": "Investing.com"
+        },
+        {
           "titulo": "European stock market open: Equities retreat as bond yields and fiscal risks weigh - investingLive",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ013eDhidHRrN0J0REZyWklxb0w3c05YVEhFbnVJd1RQRmNRdkJIUHp0Q0cyaHFjM250dGlBRk56dGpuaTB5bmpyNWxPMDJaOFJuUElXWDdETjNsbW9fdDdhT2xaMy0wM25hUEVGWGttRDdHVlQxV1ZzTHB0a2NqV19hLU1QZ1VvUzJHeTRzZ2s4ZXM1a3RsU3pudWhxSEF3ZERseVhDTk5Jdkc0N3NnUVA5aHpxUQ?oc=5",
           "fonte": "investingLive"
-        },
-        {
-          "titulo": "CIO Weekly: Europe's Risk Premium Is Upside Down - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEdremxKRXJ6WVVmWWRUc0d0NWp4LVhkT3lnTnlOSmpGWkx2U3NPNW1zVE8waWZwYXlrcXdjZHdsc2QxRUdSb3ZqMDJrTmx2cEdmelZYczl1OVZfMjF6R3N1dGNzeVRDRWNjZWhhQ1psRDgwYWtIaHN2dXhRaHdpU0I5azVWelVxVkU4?oc=5",
-          "fonte": "Seeking Alpha"
         }
       ],
-      "comentario": "Praticamente estável (+0.09%), equilibrando bons resultados das empresas europeias com incertezas políticas e fiscais na região. Constitui uma opção sólida para diversificação geográfica europeia."
+      "comentario": "As acoes europeias recuaram ligeiramente, divididas entre bons resultados empresariais e preocupacoes politicas e fiscais em Franca. A Europa apresenta avaliacoes atrativas, tornando este ETF uma opcao equilibrada para manter exposicao ao continente."
     },
     {
       "ticker": "SEMI.AS",
@@ -16006,9 +16078,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 18.882,
+        "preco_atual": 18.754,
         "fecho_anterior": 19.12,
-        "variacao_pct": -1.244769874476985
+        "variacao_pct": -1.9142259414225922
       },
       "historico": {
         "intradiario": {
@@ -16252,11 +16324,31 @@
             },
             {
               "quando": "2026-10-20T14:45:00+00:00",
-              "fecho": 18.902
+              "fecho": 18.882
             },
             {
-              "quando": "2026-10-20T14:48:52+00:00",
-              "fecho": 18.882
+              "quando": "2026-10-20T14:55:00+00:00",
+              "fecho": 18.914
+            },
+            {
+              "quando": "2026-10-20T15:05:00+00:00",
+              "fecho": 18.904
+            },
+            {
+              "quando": "2026-10-20T15:10:00+00:00",
+              "fecho": 18.748
+            },
+            {
+              "quando": "2026-10-20T15:20:00+00:00",
+              "fecho": 18.792
+            },
+            {
+              "quando": "2026-10-20T15:25:00+00:00",
+              "fecho": 18.784
+            },
+            {
+              "quando": "2026-10-20T15:30:00+00:00",
+              "fecho": 18.754
             }
           ]
         },
@@ -18301,7 +18393,7 @@
             },
             {
               "quando": "2026-10-20T07:00:00+00:00",
-              "fecho": 18.882
+              "fecho": 18.754
             }
           ]
         },
@@ -19401,16 +19493,16 @@
               "fecho": 19.12
             },
             {
-              "quando": "2026-10-20T14:48:52+00:00",
-              "fecho": 18.882
+              "quando": "2026-10-20T15:35:27+00:00",
+              "fecho": 18.754
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "XLK vs. SOXX: Broad Tech Exposure or Semiconductor Bet? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZDhLSVpWSUtKcktYSDQtc3FGQjVMQzI5eFc2R0diRi1vVlV6Q1p3LUZxOUZxa09RdjdCdGJ3WFZ4RUNhNkYweVRpemdzakRieTIzcW1TX29NYWhUTkJDSkRzNDdYb19iaUNHN1N6SGloMU8yaThYaXVXOEo2c3czaEIzVVp0Z2I5cHZMTEhLc3Y?oc=5",
+          "titulo": "Semiconductor Sell-Off: 5 Stocks to Buy on the Dip - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3VNcHlWS1hjd0c0Q1NIT3pjQm12cnk5eEt4M0dLT3JlOXB3b2FiMmVnQVlRWEZ4OG9vXzJ6dXEyOGx1WVBVUklVVlR2OW1KUmtKVjhCc0JOc2pzLXRHUGdCREhLQWF2UHNzOGN2eU0xYWNGbzU4MmgxTU52YVZaOFBSX2pMZ08tS0lxa2NtcHRMSk1TaDBiNWh1dFY?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
@@ -19419,17 +19511,17 @@
           "fonte": "Reuters"
         },
         {
-          "titulo": "Semiconductor Sell-Off: 5 Stocks to Buy on the Dip - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPazl5QWIyUmpvQmJZeE5HUURXeklXUHluNXN1di1XYUU0SXZiandTbll5ZVU0MG03cE00Zy1oeXBtSXlxQlpuN3RBRHpzdDZCZWtib3ZLOUJpRWRoYk9LN0Q5YXkyWWl2RERENzVrNnUwX1F2MGY1cC1zajM2TzFmcG1GTmNzX3QtbjdKcHpyako5Q2FfRkNj?oc=5",
-          "fonte": "The Motley Fool"
+          "titulo": "Taiwan Semiconductor: The Margin Peak That Isn't - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlpKRXJaZ1BUaDZBMTM1eW1SQ3ZmYXBOdW02dVhxb0EtUDZOWVNZZkhsYV9MNW5GZDNGWmJzR1FGWGkzMXlVTDVDcHZIekY2Tmh5cjhES2FZX05hX1RTNjk1MEJielpINms5TlZpREdYZXRqdVFmUG5FZ19hZ3JzSHR4aUJoX2xOOFU3QTNjRWZLWlE?oc=5",
+          "fonte": "Seeking Alpha"
         },
         {
-          "titulo": "Broadcom Vs. Micron: Which Semiconductor Stock Wins the AI Sell-Off? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenRYb0ZkS0VsT0RPOU1XaHpxRE15Mk5kbVIwVXFTN2lQVFY2Z3p4c2pfdnJNd21xZlVTRmV0aFp3dUJhaF83c0tadHI5VVZuSGRrclpNcm44NDFUTms5ZkEwMFZIaGhmZkNxSWZUVk9Vc0xfODFKdGh6MWtSb2RaSm5kNFB0bE1u?oc=5",
-          "fonte": "Benzinga"
+          "titulo": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWdNdGZSeFJpNll0RnpoS0VKUzFBaHRUYWFmcE1JUE5EVGEwWVlaa2ZoNkNsN1BiRExXMHQxR01pY3ZRV0NvcDdNNm9tN1BvdjBSZ2JuelRfT252ODVDY29sR0JMTXZhVy14NDFnVXJ4ZHhnUVBwbjZXTUkzUm5nWEpZeUlvWWY2dVVscS1Xb2Vwdw?oc=5",
+          "fonte": "Yahoo Finance"
         }
       ],
-      "comentario": "É o ativo que mais recua hoje (-1.24%), demonstrando a volatilidade típica do setor dos semicondutores. Se o seu perfil for de crescimento, correções pontuais podem eventualmente ser ponderadas como momentos de reequilíbrio."
+      "comentario": "Foi o ativo com maior queda hoje (-1.91%), acompanhando a volatilidade do setor de semicondutores. No entanto, os fundamentos de longo prazo ligados a inteligencia artificial mantem-se fortes. Se tiver apetite pelo risco, pode ponderar se esta correcao representa uma oportunidade de reforco."
     },
     {
       "ticker": "SGLD.AS",
@@ -19437,9 +19529,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 353.96,
+        "preco_atual": 353.88,
         "fecho_anterior": 355.39,
-        "variacao_pct": -0.4023748557922302
+        "variacao_pct": -0.42488533723514754
       },
       "historico": {
         "intradiario": {
@@ -19602,8 +19694,24 @@
               "fecho": 354.51
             },
             {
-              "quando": "2026-10-20T14:53:22+00:00",
+              "quando": "2026-10-20T14:50:00+00:00",
               "fecho": 353.96
+            },
+            {
+              "quando": "2026-10-20T15:05:00+00:00",
+              "fecho": 354.48
+            },
+            {
+              "quando": "2026-10-20T15:15:00+00:00",
+              "fecho": 353.91
+            },
+            {
+              "quando": "2026-10-20T15:25:00+00:00",
+              "fecho": 354.0
+            },
+            {
+              "quando": "2026-10-20T15:30:00+00:00",
+              "fecho": 353.88
             }
           ]
         },
@@ -21640,7 +21748,7 @@
             },
             {
               "quando": "2026-10-20T07:00:00+00:00",
-              "fecho": 353.96
+              "fecho": 353.88
             }
           ]
         },
@@ -22112,8 +22220,8 @@
               "fecho": 357.22
             },
             {
-              "quando": "2026-10-20T14:53:22+00:00",
-              "fecho": 353.96
+              "quando": "2026-10-20T15:35:29+00:00",
+              "fecho": 353.88
             }
           ]
         }
@@ -22140,7 +22248,7 @@
           "fonte": "Fortune"
         }
       ],
-      "comentario": "O ouro recua -0.40% num movimento de consolidação temporária. Continua a cumprir a sua função essencial de proteção e diversificação face ao risco geopolítico e à inflação."
+      "comentario": "Ligeira correcao no ouro, influenciada por dados economicos dos EUA, apesar das compras continuas por parte de bancos centrais. O ouro mantem o seu papel de protecao contra incertezas geopoliticas e inflacao, sendo util para diversificacao defensiva na carteira."
     }
   ]
 }
