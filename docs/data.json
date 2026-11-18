@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-18T16:15:33.091107+00:00",
+  "atualizado_em": "2026-11-18T22:58:01.781366+00:00",
   "analise_geral": "Hoje é um dia marcado por quedas generalizadas nas bolsas globais, impulsionadas sobretudo pelo setor tecnológico e pelos receios em torno dos resultados do setor de semicondutores. A maioria das suas posições em ações sofreu correções assinaláveis. Em contrapartida, o fundo de rendimento fixo (PIMCO) manteve-se estável e o ouro (SGLD) funcionou como ativo de refúgio, fechando em terreno positivo. Este comportamento ilustra a importância da diversificação. Para já, sugere-se manter a calma e evitar reações impulsivas em dias de maior volatilidade. Se dispuser de liquidez e tiver uma perspetiva de longo prazo, poderá ponderar eventuais reforços nas áreas mais desvalorizadas, mantendo sempre o equilíbrio do seu perfil de risco.",
   "analise_gerado_em": "2026-11-18T06:41:58.013573+00:00",
   "alertas_enviados": {
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 43.275,
+        "preco_atual": 43.237,
         "fecho_anterior": 43.206,
-        "variacao_pct": 0.15970004166087004
+        "variacao_pct": 0.07174929407952323
       },
       "historico": {
         "intradiario": {
@@ -394,11 +394,39 @@
             },
             {
               "quando": "2026-11-18T15:50:00+00:00",
-              "fecho": 43.248
+              "fecho": 43.275
             },
             {
-              "quando": "2026-11-18T15:54:55+00:00",
-              "fecho": 43.275
+              "quando": "2026-11-18T15:55:00+00:00",
+              "fecho": 43.37
+            },
+            {
+              "quando": "2026-11-18T16:00:00+00:00",
+              "fecho": 43.315
+            },
+            {
+              "quando": "2026-11-18T16:05:00+00:00",
+              "fecho": 43.33
+            },
+            {
+              "quando": "2026-11-18T16:10:00+00:00",
+              "fecho": 43.255
+            },
+            {
+              "quando": "2026-11-18T16:15:00+00:00",
+              "fecho": 43.195
+            },
+            {
+              "quando": "2026-11-18T16:20:00+00:00",
+              "fecho": 43.241
+            },
+            {
+              "quando": "2026-11-18T16:25:00+00:00",
+              "fecho": 43.211
+            },
+            {
+              "quando": "2026-11-18T16:30:00+00:00",
+              "fecho": 43.237
             }
           ]
         },
@@ -2423,7 +2451,7 @@
             },
             {
               "quando": "2026-11-18T08:00:00+00:00",
-              "fecho": 43.275
+              "fecho": 43.237
             }
           ]
         },
@@ -3027,22 +3055,17 @@
               "fecho": 44.322
             },
             {
-              "quando": "2026-11-18T15:54:55+00:00",
-              "fecho": 43.275
+              "quando": "2026-11-18T16:36:04+00:00",
+              "fecho": 43.237
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows - Goldman Sachs",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVncwVWdFNkk4NnRjbENhTDQwWDlIMklGS19CWVNmM3RwbC11M2l4amROS3IyVG1SbXJUQWZwbWp4OWZjVjh5TWlaaWFaUG9tQWRuZVZPUHZDcU5CaVRHMzhLUS1RYjdkNTdkVml2a2xOandyT25fTTVUZHJhWjVGWkw0djNPMlpicE4xaUp6N3dsN3ZJVHNZNHl0bFZSR1NLU1N2WlU4WlZFWExhZ3JxWg?oc=5",
-          "fonte": "Goldman Sachs"
-        },
-        {
-          "titulo": "A Less Volatile Way to Invest in Emerging Markets - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUTEyT0ZvcENTcnFXVXplZFlDR2YwcTYxb3pZZk05NDhFSm8zUjNQend0M21XY2w2Z0xHdGFzeEFuN3d6Q0VoRENsQnZSUTVCcmVTd3MzZzFIQkFjVkUwX2RLcHFuNGJnQ2Q2RTNabnpmZHJGWjNZYzl1bXd2QTBhdU5wX3k0cGljN3VN?oc=5",
-          "fonte": "Morningstar"
+          "titulo": "Vanguard Emerging Markets Bond Active ETF (VEMB) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5INFJoREE2cE1teGl5aUhXdUdUWlpzZWVIX0hhRVpTTGJvS0RtOTF4NkRnYXlPQmMyMmdUay1LMVp5NnhYQlhYWnV5dE4wZ2tPM2c?oc=5",
+          "fonte": "Yahoo Finance Singapore"
         },
         {
           "titulo": "Investing in Emerging Markets: EWY, FLKR and More Top-Performing ETFs - NerdWallet",
@@ -3050,9 +3073,14 @@
           "fonte": "NerdWallet"
         },
         {
-          "titulo": "Emerging Stocks Drop As Nvidia Jitters Weigh on Asian Tech - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUhUTFdrYUdBNWdCakZmSzJoQTVza3FxVjFGTTdMcDlzeThLQ2xmak5UU1doZjlacUFZb3JpVlNvQjhfR3VEaTZYMzVHQ25EWjFUUVk3SGVaTW9zcDdiR2NsRU9DQUtPdUg2SWN2TTVNcHVIS1hKdFhNREpraGVKWVZWOGRpQ09hdWE5QmZFcDJiY2dScHNoWGthSktSRFhQbEk0eUtWVHlwZ3I0OHc?oc=5",
-          "fonte": "Bloomberg.com"
+          "titulo": "Weekly market commentary - BlackRock",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+          "fonte": "BlackRock"
+        },
+        {
+          "titulo": "Brazilian Real Leads FX Losses; EM Stocks Sink on AI Uncertainty - Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYlJPZ3dBbUJ1Y1AycVVWYVVoX19ySnRka24tV3hNaTFqaTNNUVo5aWJhcVd6MkNYQXY2WlVlMkJNZXluSU84X2xxZ3JsaEZYdU9QQk0zMllUc2lxZFNYdGEwUkEzVVEzRTB4azhveGJlb2x6M0wzQzBkcG1WOXU2aVlHQU5yMnhsR3JwcEpyc2pLNGxkUWZ3MG00dUg?oc=5",
+          "fonte": "Bloomberg"
         }
       ],
       "comentario": "Os mercados emergentes recuaram devido à pressão no setor tecnológico asiático. Por ser um ativo naturalmente mais volátil, estas oscilações acentuadas são previsíveis. Sugere-se a manutenção da posição focada no longo prazo."
@@ -3140,7 +3168,15 @@
               "fecho": 114.0
             },
             {
-              "quando": "2026-11-18T15:53:52+00:00",
+              "quando": "2026-11-18T15:50:00+00:00",
+              "fecho": 114.04
+            },
+            {
+              "quando": "2026-11-18T16:15:00+00:00",
+              "fecho": 114.04
+            },
+            {
+              "quando": "2026-11-18T16:30:00+00:00",
               "fecho": 114.04
             }
           ]
@@ -5950,7 +5986,7 @@
               "fecho": 117.08
             },
             {
-              "quando": "2026-11-18T15:53:52+00:00",
+              "quando": "2026-11-18T16:35:23+00:00",
               "fecho": 114.04
             }
           ]
@@ -5958,14 +5994,14 @@
       },
       "noticias": [
         {
-          "titulo": "Pzena European Focused Value Q3 2026 Commentary - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGUtRDAxTmViNUxMQ2wyLTl5cEZKSHVsVlRXTWsybkE2YW1US2tKNUZBdXRwanY3N19MTjVKaUxNS25IS2VPWEVteWlLUmJwQlUxTm5UX29FY2pBNUVqeE80T1M4b2hMa3JfWGhwWVJraHgyTFVWelMyazl0cjdwbUhBdFV1TmY0LVpZM3Z2Q1ZCZw?oc=5",
-          "fonte": "Seeking Alpha"
-        },
-        {
           "titulo": "A new era for active investing - Professional Wealth Management",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb3pseVJQUTQ5b2lrZ0FzejQyT3ZzU0kzRWRtQlZQdE1YOV9CZFZGYUR3TkJWaDI5cE92LUVUUmE3cnY3OFQ0M1JUMF9mZ3R2MXNndmxjNVpnYkUwaW9PZnFzUU1YS1BqZXo1QXNwRTdTOF91T1NReG16cVAzREVTMA?oc=5",
           "fonte": "Professional Wealth Management"
+        },
+        {
+          "titulo": "Managing Benchmark Concentration: A Framework for Asset Allocators - MSCI",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHlZc0FVUl9GTjBsYW5kNWNIelRyNUR0V0VIZXlNWHpYTGhGVVc1VU01dkEyR1BzZ0NBYVJlZE9HOGhTRXJEbmNMQ1kyZU93VVFicWJqSWM5eER2Nk9yQjBfZm1MdDk1TUFidDRBeGdmakNoNmUtdVhKV0J2azREc0VnNnlKOTg0ZXVac1dtVGZDUzdkOGdhYl9jbnF0Tm5yQmtvekNIVE9rajNScVdzelZVeURySmpaMVE?oc=5",
+          "fonte": "MSCI"
         },
         {
           "titulo": "Siebert pegs MSCI-driven selling of Strategy at 13 million shares - Crypto Briefing",
@@ -5973,9 +6009,9 @@
           "fonte": "Crypto Briefing"
         },
         {
-          "titulo": "Managing Benchmark Concentration: A Framework for Asset Allocators - MSCI",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHlZc0FVUl9GTjBsYW5kNWNIelRyNUR0V0VIZXlNWHpYTGhGVVc1VU01dkEyR1BzZ0NBYVJlZE9HOGhTRXJEbmNMQ1kyZU93VVFicWJqSWM5eER2Nk9yQjBfZm1MdDk1TUFidDRBeGdmakNoNmUtdVhKV0J2azREc0VnNnlKOTg0ZXVac1dtVGZDUzdkOGdhYl9jbnF0Tm5yQmtvekNIVE9rajNScVdzelZVeURySmpaMVE?oc=5",
-          "fonte": "MSCI"
+          "titulo": "Global Stock Market Rally: The MSCI World Index Reached a New Record High Yesterday and Surpassed Pre-recession Peak - American Enterprise Institute - AEI",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWNwc1hnMGlOQUM3bDFKc1hBeVc4dU1aTG9aeHhPYkNKUkRNN1d0RGtLTDJsZ3VEOVhBSTd1aFF2N0NWaHV6MmtQaV9Ybmk2bm5PSWt0UmszQWdBT1lzcVFnMzJ0ZU94ZnVLc0RQMGFBdk8wc0RtS1F5VGI1aGtRVzM2RlhfQl91RXp3Rk1BMHNZT0VTZEVZZTYzWkVrZkRxOTRWeEs3aG9xV05NMGt0Q3NGWjZkeVJOS1hKM1MyVEs0TTZlT1RsMXlkSE5sTF9pRmlpV1RGbGMzemNhbU9R?oc=5",
+          "fonte": "American Enterprise Institute - AEI"
         }
       ],
       "comentario": "As ações globais com cobertura em euros registaram perdas em linha com o sentimento negativo mundial. A tese de diversificação global permanece válida. Sugere-se evitar decisões precipitadas de venda durante a correção."
@@ -5986,9 +6022,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 149.57,
+        "preco_atual": 149.82,
         "fecho_anterior": 149.97,
-        "variacao_pct": -0.26672001066880424
+        "variacao_pct": -0.10002000400080395
       },
       "historico": {
         "intradiario": {
@@ -6056,7 +6092,7 @@
             },
             {
               "quando": "2026-11-18T11:00:00+00:00",
-              "fecho": 151.11
+              "fecho": 151.12
             },
             {
               "quando": "2026-11-18T11:05:00+00:00",
@@ -6152,11 +6188,35 @@
             },
             {
               "quando": "2026-11-18T15:50:00+00:00",
-              "fecho": 149.69
+              "fecho": 149.57
             },
             {
-              "quando": "2026-11-18T15:52:35+00:00",
-              "fecho": 149.57
+              "quando": "2026-11-18T15:55:00+00:00",
+              "fecho": 149.71
+            },
+            {
+              "quando": "2026-11-18T16:00:00+00:00",
+              "fecho": 149.73
+            },
+            {
+              "quando": "2026-11-18T16:05:00+00:00",
+              "fecho": 149.84
+            },
+            {
+              "quando": "2026-11-18T16:15:00+00:00",
+              "fecho": 149.5
+            },
+            {
+              "quando": "2026-11-18T16:20:00+00:00",
+              "fecho": 149.26
+            },
+            {
+              "quando": "2026-11-18T16:25:00+00:00",
+              "fecho": 149.51
+            },
+            {
+              "quando": "2026-11-18T16:30:00+00:00",
+              "fecho": 149.82
             }
           ]
         },
@@ -8197,7 +8257,7 @@
             },
             {
               "quando": "2026-11-18T08:00:00+00:00",
-              "fecho": 149.57
+              "fecho": 149.82
             }
           ]
         },
@@ -8965,32 +9025,32 @@
               "fecho": 153.34
             },
             {
-              "quando": "2026-11-18T15:52:35+00:00",
-              "fecho": 149.57
+              "quando": "2026-11-18T16:35:11+00:00",
+              "fecho": 149.82
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Stock market today: S&P 500, Nasdaq rise after Nvidia clears hurdle, Anthropic prepares to price its IPO - Yahoo Finance",
+          "titulo": "Stock market today: Anthropic IPO in spotlight, Nvidia stock extends decline - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUXF4elZiRmtpU0hWaElPNjVGbHBuMkxPaDJCSzlMREtmUWs5dThVN3RCRUJWR2R6dEhGaGtibWY5bnRrMFpnRVRlb2hEazc0ekVOQjBVMkY4RVQ1U1pMYWNYdFdKQTN5a2tRM0hfeGVTNXJVeW1talprVGRjRllJZ0xxQzVtV09ZZmpDcGZIU3U3X2VZMXZCcWZDYXBGY2FrUkY1NXlwblRTamJpeHA4Rl9yOUJ6RlU2QkZXSm1PV2dBRF9vSjd5eTBjRTZmLUFBdlpCclVya2Zfdw?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNlo3VXhMalBfa2JwdDF2VnBsa1E5RnVPSG5lekhEOXRQa0tqS0RIRW5qYmxQRzFZOGdyTlU5VUM1RGgwWENlYlR5RDUtMFRQdlhxRkRhNU1CdWRiR0dQUm1MMldMbUlOM295UVZ2eFRFOTlRUUVEX0swd1YzVTkyRkRYeEI2VW00LTRZUG5JX3RiVHh1UVBKN3VoUUlidWgwaWJvR2lSZHdmaVUzTmJWYUFMX21LaUVjeTJMWU94NUZtRm1DTmhlQUZTY0RSNXhTM1hGTnRR?oc=5",
+          "titulo": "ExxonMobil (XOM) Just Achieved Something 95% of S&P 500 (GSPC) Members Haven't Done - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa1o4a3ZqRUR6bWtibHl1YUN4T0NDSXFwTDJYbHNiNXNhMDVEalpPR2pFWDRsd0pEXzQ4LUU0cHNSTmVXTUJJb3dObXlWZzlabTYtUnVhZlJFVWo5X1FFQUxCc21mWTdqSUJhMThMWnMwVjBxT3JDbHR6bEN5QlpEQlA5V2FxcWVkRVpjV2FBbWFUT3VGRnVIMWpjWjJBR3JTcWwyT3N3?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Stock Market Today: Dow off 550 points, S&P 500 and Nasdaq mixed; Anthropic expected to price IPO — live updates - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaVhpUFA0WGVEdnVLbXZjSjNFQkZWRm9EeEJyQVR3d3dPdTNUcHdqMExzb2FfQ3hBZUtPMnF5RWJLU2s3UC11X2dSMTQxaUdLem54Ujc2UWhOcWVUV005V0hPUnR3RVFOR184Mkt2c1VETnB6djFWeTk2ZUVnVHNDUndRWF9qSDh6RzB6VWJJNWd4ZUpRNXIzdFZTeG96dkFWRGxIV2pUT19hQUxWcTRFS2tSLU84YW4zZGFiMTQtVWJmTzA?oc=5",
-          "fonte": "MarketWatch"
+          "titulo": "UBS sees S&P 500 at 8,200 by end-2027 on earnings strength, resilient economy - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0lINnoxcGVVcHJmRzZnclQtZ2VMaXE0d1ltZjVGUDRtMnhfMUNzRWdVNDNoallwTjM1Sm1qUHVCblJFV2dpQkNPRFV0QnlNYnN1S2N6ckQ0SnNxNmY1bmU2N015SWF3ekpPUkU1dmx0cGhhd1kwQ2VYTEprYUxTbkVSZFNSMnJ6bjEwTE1BZXM5TWJablh5Rk5ua3ZTdGQ1amZUV3dyRDJIOGozYVA2STcyWQ?oc=5",
+          "fonte": "Reuters"
         },
         {
-          "titulo": "Goldman Sachs Forecasts S&P 500 to Reach 8,700 by 2027 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWtsQVRjOHVVclN3VDN3VnRIMEpGOFhQSXFDSFVuQXQ1U05XOEdEWkZVYjFmVE5VeElyQXloOURPYW1PblJSc3pCeDhQdDB3U3k1RlFBSnlDcWUtM2hUaUVva1ozUFJaeHZYdVhsQWZnZ3hyQmNsMENfaHI5dlNrT1pHWUx1RHhZRE1VODln?oc=5",
-          "fonte": "조선일보"
+          "titulo": "Following Goldman Sachs & UBS? Bet on S&P 500 ETFs for 2027 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONGFSQVZVNnUwdkVaVWJJNWJ1cTJoUzROeF9ZMkNpbG1RZnlPb3Z2TVVTQjViQllON0g5RWhwTFZmZGNaeHFHSFlwSUpfeGdqa3NDc3hjQzNWcWpYbmNzUnlQbnB0cTVrZm9EV3JrZzJoYUVxMTZtaE4tbTd5Qy1DUkdWTE96Nk5kTUVXY0o5NHhpVjBKa3I1Q3pTcjI?oc=5",
+          "fonte": "Yahoo Finance"
         }
       ],
       "comentario": "O mercado norte-americano recuou por prudência dos investidores antes da divulgação de resultados das grandes empresas tecnológicas. Tratando-se do motor principal da carteira, sugere-se manter a posição e acompanhar a evolução."
@@ -10972,6 +11032,10 @@
             {
               "quando": "2026-11-16T07:00:00+00:00",
               "fecho": 6.9
+            },
+            {
+              "quando": "2026-11-17T07:00:00+00:00",
+              "fecho": 6.91
             }
           ]
         },
@@ -12832,21 +12896,21 @@
             },
             {
               "quando": "2026-11-15T23:00:00+00:00",
-              "fecho": 6.9
+              "fecho": 6.91
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "Bonds are paying their way again | 2027 Global Market Outlook - T. Rowe Price",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMDZRcFBWNlp4emdkc1E5SFlXaGlwbmw3WE1vazRvZDB2UzNfbDZZTk0yMzRncmxYNlBaRUl3empDSURZUndJTWpvY05SdlF6VU9Kck4wdEFMdXhFTmphSk56bW12dy13RWdUOWtrNWNfNldCZ0pZV0xMbHBpbXZYMTM3OUdqRDZCRFhQbkszcUNpZ0F2LXA5MG9acjNWRzhyNk5LQURNbXBOU1duTHd1U3lLU25IT0VsRVVXTkJzYlZQZTEyRHpkNHN3?oc=5",
+          "fonte": "T. Rowe Price"
+        },
+        {
           "titulo": "Jupiter Strategic Bond Fund: A Flexible Approach to Fixed Income - Morningstar",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzNOak9ENWRrcHJPZVozbVh2eVdGdHA3VmR4UlBDSUJVbWNzRUdqNXpEUFBWcjJEVkk5VFZZdTduLVhxX1BUNWZkTy1yN1pQN25zc0tHUHZkVEpHc0xKNmxkMjRLMHNONDZjYS0tRWYtd2tXZmp6R3dhYXFjVktWaEFadjFXV3lLaEpQb2RFN1FCdGFVZDhRZ3VVSDdSVlV5eWtv?oc=5",
           "fonte": "Morningstar"
-        },
-        {
-          "titulo": "Rebalance into fixed income - UBS",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0gweEVKaGpkWFBHNDc5aUlxZ1lmdHA5SmF3WGdFMHRFdVpZNkljemxGNGh3cVVOTGtkMGxUV1JibEZzTzRnRXBTNmlWVzh1NFAzcjV1S01OYmt6TU05djk5YThZWnlvczQwZkpIT2l6TWZUeU9vNW1yUi1qQkZGVGVRWkhqUFY1US1EUEVB?oc=5",
-          "fonte": "UBS"
         },
         {
           "titulo": "Will My Money Do Its Job? - ETF Database",
@@ -12854,9 +12918,9 @@
           "fonte": "ETF Database"
         },
         {
-          "titulo": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQWJoUzdJbWMwX21ueUs0VlY4dGE0SkRHMF9pMjBwczRTOXpPTmxOdVZvU1kyWHJfQXIzTkFubHo2b0l6Q3VJS29BRzVveFk1VVBQZUZHMi0tTTVfWVJTR1FhbEMtdy10eEJHTUxtZGd3TENLYkhiazdqWDl0ZWNGdVljLUdzVGJUc3RkZlFETGZNeFRlWUhaT3pqWU1oUFRUWXZQQ3h0SUdrQjBiS1oyeWVJN0VxMjZkMGk0UUJ4cFRKTGRhYTgya0VIWVZldjlucHZhTndfVUxJWTQtZ0EyMg?oc=5",
-          "fonte": "MarketWatch"
+          "titulo": "Who will buy the growing flood of bonds in the future? - finews.com",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNOGJCaEtYa0Y3R2JfVlJDcGYwM29BMXRyZ1BqbmtGanNNTkZYUnpQc2gxemZCXzBkSWxCUlJ0ZE1EN1lqMG8zaFNMdEJsQ2lCRG1QaUZqczZKMUQxMEtxbXhHYmM4RFdDa3RoVkp6UnJXcHRxa0RObDVDajNsRm5GNEdyRGU3RnlxYXU2Vkx0c3ZrX2hiRlpLbUhFSEtMeE03cTJrUkJQek9tbk4wWUU3dkNFZXc2UjFsUThFVEp0Uk9jNDRpOER0cDROcTVMSVBfLUZrYmJuYmVnZGFXTTcxdmI3bU1ySlJfZW9ua3Y2a1NPbXlvUV80UjhiQkxYUXljbzZxbVNTYl8xd0JJU0NzeUpLQms4WnhHbC1Rdy1qWGgxM0tpaXNfdGtVY0hBbnQ5dzdkckpObWhDWW9pMnBWQURIdUt6TmNFTEVqbHJyc1hobGxoUHBnUVRrT0s4ekVBY29JQUFkaEludFE?oc=5",
+          "fonte": "finews.com"
         }
       ],
       "comentario": "O fundo de obrigações demonstrou grande resiliência, quase inalterado num dia de forte queda nas ações. Desempenhou com sucesso a função de amortecedor. Sugere-se a sua continuidade para equilibrar a volatilidade."
@@ -12867,9 +12931,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 105.13,
+        "preco_atual": 105.005,
         "fecho_anterior": 106.015,
-        "variacao_pct": -0.8347875300665047
+        "variacao_pct": -0.9526953732962365
       },
       "historico": {
         "intradiario": {
@@ -13205,11 +13269,39 @@
             },
             {
               "quando": "2026-11-18T15:50:00+00:00",
-              "fecho": 105.115
+              "fecho": 105.13
             },
             {
-              "quando": "2026-11-18T15:54:36+00:00",
+              "quando": "2026-11-18T15:55:00+00:00",
+              "fecho": 105.145
+            },
+            {
+              "quando": "2026-11-18T16:00:00+00:00",
               "fecho": 105.13
+            },
+            {
+              "quando": "2026-11-18T16:05:00+00:00",
+              "fecho": 105.06
+            },
+            {
+              "quando": "2026-11-18T16:10:00+00:00",
+              "fecho": 105.0
+            },
+            {
+              "quando": "2026-11-18T16:15:00+00:00",
+              "fecho": 104.975
+            },
+            {
+              "quando": "2026-11-18T16:20:00+00:00",
+              "fecho": 104.995
+            },
+            {
+              "quando": "2026-11-18T16:25:00+00:00",
+              "fecho": 104.97
+            },
+            {
+              "quando": "2026-11-18T16:30:00+00:00",
+              "fecho": 105.005
             }
           ]
         },
@@ -15258,7 +15350,7 @@
             },
             {
               "quando": "2026-11-18T08:00:00+00:00",
-              "fecho": 105.13
+              "fecho": 105.005
             }
           ]
         },
@@ -16086,17 +16178,17 @@
               "fecho": 107.96
             },
             {
-              "quando": "2026-11-18T15:54:36+00:00",
-              "fecho": 105.13
+              "quando": "2026-11-18T16:35:19+00:00",
+              "fecho": 105.005
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows - Goldman Sachs",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVncwVWdFNkk4NnRjbENhTDQwWDlIMklGS19CWVNmM3RwbC11M2l4amROS3IyVG1SbXJUQWZwbWp4OWZjVjh5TWlaaWFaUG9tQWRuZVZPUHZDcU5CaVRHMzhLUS1RYjdkNTdkVml2a2xOandyT25fTTVUZHJhWjVGWkw0djNPMlpicE4xaUp6N3dsN3ZJVHNZNHl0bFZSR1NLU1N2WlU4WlZFWExhZ3JxWg?oc=5",
-          "fonte": "Goldman Sachs"
+          "titulo": "European shares muted as tech offsets mining weakness - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORlptTzhheWlBZ29NN29WRGtSZHdWZlZjeGJPV0VDYTRDdXZDVjdiNm1rRDJSMTkzNVY0RGNMT2xhZ3plZFV3YmlUZGVFdkZwdFdqVEdMX2pPWEx5Yi00dkRGRWNXNDBRV096aF84M0V3UERxdEtPN1NsX19aZnBpVFROQWtydW96d2FBbGZPejZLdUJHM2YxNmhzRDNBc1hYbjhr?oc=5",
+          "fonte": "Reuters"
         },
         {
           "titulo": "Optimism About Europe Just Hit a Nine-Month High: Taking Stock - Bloomberg.com",
@@ -16104,14 +16196,14 @@
           "fonte": "Bloomberg.com"
         },
         {
-          "titulo": "European stocks mark worst day in eight months on AI jitters, Deutsche Bank slides - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1Vva1dwekNvTXd6MjdZLVNNUEsxSjNHWTA3NGhtUHZsMnhDVFJVekJVbTUyQ0czc0txSnA2cVJCUnVYMkEwQ3piZGhUbmxBS0JkMFU2RGNSanB5WjRjTUlsYTlOS3RHanEtamowSlN1Q1A5MGd3dHY5LUNrTWQ1Rldfb3F1VmwxZXRkN3JSWFpWUzhVdXVjaXdJeGxySi1NU2lvcTFB?oc=5",
-          "fonte": "Reuters"
+          "titulo": "BlackRock to challenge Vanguard with low-fee global equity ETF - ETF Stream",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjFnRF9wSkszWHVFenluTktDR3VWN2wteGNKZTlzZS1tOHhUUUsteXJQMTk4VXZ4NXZDaE1TcGV1NkxwZE5nOF92eTFHY3RVc1pHYTEySm5iT3NKV0NpMlJLMVgxRDkwZV85dlNwX1ZKVFVYc2pKTkQ0WVVNZ2RvcVdtRFZ0X29nTHRBRlVwSVNJcHlpLWhJQzJB?oc=5",
+          "fonte": "ETF Stream"
         },
         {
-          "titulo": "European Stocks Fluctuate as AI Concerns Keep Investors on Edge - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVliR29nR2I5d2hvdUM4ZkNZU0kwWmhTTUhUQlk5MkMwdEladlhtcW1vZk1rbXg4RTdPSWU5X3dfMUNpNHl3aXAtUWE5d2ozV21KV2szZTlIY3R4ZTRSZFJYdFNHWHZZbmFlaktSRjljeHRab3kxSjNJa0prRjNsdkhZYTFXeDlxUUhqNGdLWVoyYTc4c2xtV3BpdlBXYXRTN3IzOWphdTBMMzgtbmdwQWhQZGw?oc=5",
-          "fonte": "Bloomberg.com"
+          "titulo": "Why Europe’s stocks have outperformed the Americans - The Times",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFNZOTRCQ3J0VENMV2wxRkZsTzZuVkpBOUxITGNLaWUzenF3Vl9weDgtMU1CdGdzRXRLZ2thWVlqMjE4YlJ4NThoZlBGTVU2ai11eWVjYWN3bXpXOExaeXR3dXNDY083aVozdTROQ2x0ZzFNUEpla3o3bmtnVGxQN1dyempEbnI2LWRhREJ3bU8tRzZuY2QteTZLa2xIUW8?oc=5",
+          "fonte": "The Times"
         }
       ],
       "comentario": "As ações europeias fecharam em queda, contagiadas pela apreensão global no setor da tecnologia e pela banca.Trata-se de um movimento de mercado alargado. Sugere-se encarar a oscilação com serenidade sem alterar a alocação."
@@ -16122,9 +16214,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 15.826,
+        "preco_atual": 15.76,
         "fecho_anterior": 15.55,
-        "variacao_pct": 1.7749196141479087
+        "variacao_pct": 1.3504823151125342
       },
       "historico": {
         "intradiario": {
@@ -16420,11 +16512,35 @@
             },
             {
               "quando": "2026-11-18T15:50:00+00:00",
-              "fecho": 15.838
+              "fecho": 15.826
             },
             {
-              "quando": "2026-11-18T15:52:16+00:00",
-              "fecho": 15.826
+              "quando": "2026-11-18T16:00:00+00:00",
+              "fecho": 15.85
+            },
+            {
+              "quando": "2026-11-18T16:05:00+00:00",
+              "fecho": 15.892
+            },
+            {
+              "quando": "2026-11-18T16:10:00+00:00",
+              "fecho": 15.8
+            },
+            {
+              "quando": "2026-11-18T16:15:00+00:00",
+              "fecho": 15.718
+            },
+            {
+              "quando": "2026-11-18T16:20:00+00:00",
+              "fecho": 15.768
+            },
+            {
+              "quando": "2026-11-18T16:25:00+00:00",
+              "fecho": 15.712
+            },
+            {
+              "quando": "2026-11-18T16:30:00+00:00",
+              "fecho": 15.76
             }
           ]
         },
@@ -18473,7 +18589,7 @@
             },
             {
               "quando": "2026-11-18T08:00:00+00:00",
-              "fecho": 15.826
+              "fecho": 15.76
             }
           ]
         },
@@ -19589,16 +19705,21 @@
               "fecho": 15.55
             },
             {
-              "quando": "2026-11-18T15:52:16+00:00",
-              "fecho": 15.826
+              "quando": "2026-11-18T16:39:38+00:00",
+              "fecho": 15.76
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Broadcom Has a $27 Billion Advantage Over Taiwan Semiconductor as Your Portfolio’s AI Anchor - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcExhZjVKUFpxUkJXODFrUjNqYWlOM0tJWEdRaW5pbWk0NWVUZEFYRktSc1JnZGpaZENmQ0R0N1doNS1zX3k3eHk3T0VvcS1Bc0xzSjNJdlljX0NKT1gzMzlERXhHaGYtMGpkdEtIdVBRM2h2cVZ4VmtVN1lKdDZTSmNoYXVlQTlMNS1oTUhnS2Zpc1pZVnpneVZnQ0VGZ0E?oc=5",
+          "titulo": "Taiwan Semiconductor Stock (TSM) Looks Too Cheap for Its Growth Outlook - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdkVJOTVfM1d3SVNMRWI3V0FXU1lEam1PNXZ5Vzhwdk1rUWI0TDhmazdFdEV2Nkdaa3RnQjdXQjBQaXlZSngtTy05NHdlWnFEel95M3BLWmk3QjFyYUMtNnRoZ2pyVnJUbExFalBWdm1MaGJHTXBRc3Z0cnRoQVhMdGd0SWFuR1AtTzhXTll1MF9HX2dzY054N0E3N3pSckVISUhQT1dhT2lkVTg?oc=5",
+          "fonte": "TipRanks"
+        },
+        {
+          "titulo": "Taiwan Semiconductor Stock (TSM) Looks Too Cheap for Its Growth Outlook - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSHZ4N0lvQl9kcTU2ZlRNbUdrQkl5bUR6Y3Q2YkxMZXFDWWUyeE9rMWhkWEdRUkd3clA5MjE0aGFkZFAzRnNLVFE5SThEeWJYUWZudEd3SGh5SFFwdDF4Qk9HZWw0dTRzYWoyQmxvc3psN3dWRW4wQ2c2Ml9kbkQ1cEhJaDBidUh1VDN5T3hIRXIyTmZ6TThDVW1LR0pEZ1FoTEVZ?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
@@ -19607,14 +19728,9 @@
           "fonte": "Reuters"
         },
         {
-          "titulo": "Money Is Rotating Out Of AI And Semiconductor Stocks: Where Is It Going? (SOX) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOalNjWnk5MVMzeWZCOUdoczVjeHkxS0lBcENsNGxTN3NSaWYzZmJfQURhT2ZsMVdYcjB4Nm9CR1c2cHBjLUlzTElyS0l4cEZEOHBNWUVPeFN1aU9UclhNTTBfS1doUDV1R1Ezcmt2WEtMclFaYzNRNWtycXhjVmp5WjZ2R05VRTlPVG1qb3BqVHZMb2ZaYWwtampQOWZzQ1RJczdLNGk4ZWJ3eWhWVDMyVw?oc=5",
-          "fonte": "Seeking Alpha"
-        },
-        {
-          "titulo": "Forget Nvidia Stock at $160 per Share. Buy This Semiconductor ETF Instead. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2pwSXJRQ3d4ZHljRTZTaERpNkRleUZMM2VUa0NJYnREOUREaU85UHA5bFdITVNDMGVTUXVqVTZIaXh2RkRjcl8xdjJ3QkhrSnJGZ1ZkVzd5ajhUNHlSNmVqeEJDSzgydzR6WVR2YS1Xd0p1bUNzSjVOVk5DTVJndkVfMkhMTXNudzhScXBEZGFnLUU1U1pZVERDSEdqTnlTUGlxMFBFLWlCcjljQmhLcmFUVG0?oc=5",
-          "fonte": "The Motley Fool"
+          "titulo": "Which Funds With Semiconductor Exposure Best Capture The China AI Chip Curbs? - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEtDRVE2VjRvYWY5UGlKZzg4d085WFZxY0VMUnlpRVczSGdxczA1UUhrMlRBd0taOXVfNkxWY1AwNTZoT2ZRZWtxVHdneW1rOHRaY0N6UEZYRW4xei1YWU5Kd0lRaERuWElmMVBaN1JjWnFkdEZBSFh5b01leC02aUhuNm5CdHRqSlR6Xy1tR0Y5TUVF?oc=5",
+          "fonte": "Yahoo Finance Singapore"
         }
       ],
       "comentario": "Foi o ativo com maior queda hoje, dado o receio e rotação de capital no setor dos semicondutores e inteligência artificial. Sendo um ETF temático de elevado risco, sugere-se avaliar se a sua exposição está ajustada à sua tolerância."
@@ -19625,9 +19741,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 328.8,
+        "preco_atual": 327.81,
         "fecho_anterior": 337.86,
-        "variacao_pct": -2.6815840880838224
+        "variacao_pct": -2.974604865920799
       },
       "historico": {
         "intradiario": {
@@ -19874,8 +19990,32 @@
               "fecho": 329.2
             },
             {
-              "quando": "2026-11-18T15:52:15+00:00",
+              "quando": "2026-11-18T15:50:00+00:00",
               "fecho": 328.8
+            },
+            {
+              "quando": "2026-11-18T16:05:00+00:00",
+              "fecho": 328.98
+            },
+            {
+              "quando": "2026-11-18T16:10:00+00:00",
+              "fecho": 328.53
+            },
+            {
+              "quando": "2026-11-18T16:15:00+00:00",
+              "fecho": 328.68
+            },
+            {
+              "quando": "2026-11-18T16:20:00+00:00",
+              "fecho": 328.0
+            },
+            {
+              "quando": "2026-11-18T16:25:00+00:00",
+              "fecho": 328.31
+            },
+            {
+              "quando": "2026-11-18T16:30:00+00:00",
+              "fecho": 327.81
             }
           ]
         },
@@ -21916,7 +22056,7 @@
             },
             {
               "quando": "2026-11-18T08:00:00+00:00",
-              "fecho": 328.8
+              "fecho": 327.81
             }
           ]
         },
@@ -22392,27 +22532,27 @@
               "fecho": 337.01
             },
             {
-              "quando": "2026-11-18T15:52:15+00:00",
-              "fecho": 328.8
+              "quando": "2026-11-18T16:35:09+00:00",
+              "fecho": 327.81
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Gold struggles to rebound from one-year low as US dollar, yields advance - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGd6c05RMXpCQzBvWjhLZlZ6cjc4OUZ0cjZaSWxzZk9leV9WbG1EVmhoVlJfTHZZRFkxZml4Rll3TXd6SGc0dmtiSHFsYkVQWThZdkpxb3dGQkhpSkgyVC1HQlV5WkZQaHU4N3B2b2RELWdDaGpZLWtmbHo2cllMNE9tN29pYnJGM1Z4eFJ6bmNQdHJFX0lNTHZtV0x4MlNhT284LThTc1hTY2xlcEEta0wwNjg?oc=5",
-          "fonte": "Reuters"
+          "titulo": "Gold Price Slumps 3% As Silver Also Tumbles: Metals Hit 14-Month Low - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYV9xeGNDa05pZm01YW5PZkFlN2s2RnRJUmpvOW5vSmpPdkJFeldGc0VzR1oxS21Ea0VwaDJQRmFLcVBzWkwwTGg3VHRGV2NOTEJONVRMUUhWSW1jci1OVzFCbEFQSzA5NGtPQ2pBaGZnbFdnR0lmemoxQTdoaVRiWG9YdHQ2b2lxMHk5bEZMU29LYzE1ZHEwZXYyTS1DeDVEYlZsRVBaLVVnNHpBdjlRV3U5UV96bG1ueHNR?oc=5",
+          "fonte": "Forbes"
         },
         {
-          "titulo": "Gold will reclaim $5,600/oz in 2028 as rate cuts bring Western investors back to precious metals – Goldman Sachs - Kitco",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkFNSTNMZjM2c2VOOW1qQmlURFQ2UFNPaVBlLTd0Mm11WVN1c1ptLWxqMlF6MmVTU2ctZlUtWXBHMGsxenpqUGo3RlVDY1Bsd0JIRE8xNUNKV2x4anJJT0FqaFJOZ2VLVE85eXUxZzhJU0IzcEUxc1lfblkxTFA5VXVPVElrcDVTLV9FaDJETTBKc080ZGFYWFU3ZXhGaThoblBNN0xoLTBvWGNQNHR2dDJHWTk?oc=5",
+          "titulo": "With the central bank remaining the sole buyer, Goldman Sachs has again lowered its gold price target to $4,650 after an 11-day interval. - 富途牛牛",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWlOSEl1Y1FCU2d5VnhqUjFGNWhZN0VXVVVlN3pyNVQ3Ty0teHFNblNXeHhZYk5JN2dwYXpaSjdMSWdLeVo4TW9XNzJQWFFzZEh3YjZPWmd3MmF3eF9kYUtKM3FaRGpKWGtOVzk2TFVySEI3b0xzaWsyWlYwczludFdMNVFxSkVuVHZ0Szd4eEhTRVVEZWxlUXJmYWJFdWRuZmZKaUNB?oc=5",
+          "fonte": "富途牛牛"
+        },
+        {
+          "titulo": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
           "fonte": "Kitco"
-        },
-        {
-          "titulo": "Gold drops to 14-month low as hawkish Fed rhetoric boosts dollar, yields - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
-          "fonte": "Reuters"
         },
         {
           "titulo": "Gold price today, Wednesday, November 18, 2026: Gold prices open again at year-plus lows, falling further - Yahoo Finance",
