@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-11-21T07:42:46.567903+00:00",
-  "analise_geral": "Hoje assiste-se a uma forte correção generalizada nos mercados acionistas, impulsionada essencialmente pelas perdas acentuadas no setor tecnológico e de semicondutores (SEMI.AS a cair 11,40%). Os mercados desenvolvidos e emergentes registaram recuos assinaláveis e até o ouro (SGLD.AS) desvalorizou. O único ativo a demonstrar estabilidade foi o fundo de rendimento fixo PIMCO Income (0P0000X83O.F). Em momentos de elevada volatilidade e liquidação global, sugere-se manter a calma e evitar decisões impulsivas de venda. Pode ser uma oportunidade para rever o perfil de risco e ponderar um reequilíbrio gradual da carteira, caso disponha de liquidez.",
-  "analise_gerado_em": "2026-11-21T07:42:46.567854+00:00",
+  "atualizado_em": "2026-11-21T15:54:53.576114+00:00",
+  "analise_geral": "Dia de forte queda generalizada nos mercados globais, impulsionado sobretudo por uma forte correção no setor tecnológico e de inteligência artificial. O ETF de semicondutores (SEMI.AS) lidera as perdas, arrastando as ações globais, emergentes e americanas. Até o ouro sofreu uma correção significativa. Apenas o fundo de rendimento fixo (PIMCO Income) se manteve estável, demonstrando o seu papel amortecedor. Em momentos de grande volatilidade, sugere-se manter a calma e ponderar se este recuo representa uma oportunidade de reequilíbrio da carteira ou se é preferível aguardar pela estabilização dos mercados antes de tomar decisões impulsivas.",
+  "analise_gerado_em": "2026-11-21T15:54:53.576073+00:00",
   "alertas_enviados": {
     "IS3N.DE": "2026-11-21",
     "IWDE.AS": "2026-11-21",
@@ -2444,6 +2444,10 @@
             {
               "quando": "2026-11-19T08:00:00+00:00",
               "fecho": 43.08
+            },
+            {
+              "quando": "2026-11-20T08:00:00+00:00",
+              "fecho": 40.955
             }
           ]
         },
@@ -3053,8 +3057,29 @@
           ]
         }
       },
-      "noticias": [],
-      "comentario": "Os mercados emergentes sofreram uma desvalorização expressiva de 4,93% num contexto de aversão ao risco global. Sugere-se acompanhar a evolução macroeconómica e do dólar, mantendo uma visão de longo prazo para absorver esta volatilidade."
+      "noticias": [
+        {
+          "titulo": "Emerging-Market Stocks Set for Bear Market on AI-Led Tech Slide - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmlSZDA3dEs3UFFwUXMwMnpNbndUTTRVazNPVlVIZG9oeGYyVjRyN2I4S1NLVGdDV2pXdl9WZE9BRVJEQ2MzT1FMWjcydllNLUstTnVVaFRaQ1EwSE4tS3VGOWlmOWNQdlJrSXBIVlFBVVZFcDVKQXZuaGExSU03RGQxRkRsU0dkX09XX0w4M2N0S04ySnZRLWRSd3FwUDUzbWVSNE1YTUJoa0dSOGd2d3pvWnc?oc=5",
+          "fonte": "Bloomberg.com"
+        },
+        {
+          "titulo": "Why Vanguard Developed Markets Index Fund Is One of Our Favourite ETFs - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2NMUGdSWWgweG5oYTJDb0hyMWg4UmRjamw0Si1ySmhHdDRxMUExdDg4SEJ0Y3VMVmdIcjZHamJLRGtDWGVOOU05cXZsVVFvMDdQV19rZHF0QzE3a0o3OG0wQm1GcGp0LUdlMTYyd2ZOcUZyR0ZJWnVuTnpjUlFibWZrem5WOXFDd25kOVpVeWl6N2hpQ1JwSWktSlQ5SGEwbWkwS0N4Wkc1S01NdEE?oc=5",
+          "fonte": "Morningstar"
+        },
+        {
+          "titulo": "Investing in Emerging Markets: EWY, FLKR and More Top-Performing ETFs - NerdWallet",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JQW5kYURpNjNOdFMxdGFOeHdWeWF4MFo0RGk0cjdLR1dmQjdkQXR4YzUybVAtVFB5V01QT0dwcGY5Y1Q2b3FsVTNjcFRiRU9aVW1vQWhhampwUmdrVnVacnBQSk5aakxnMWIzMEY5QnY2RmJWeHNN?oc=5",
+          "fonte": "NerdWallet"
+        },
+        {
+          "titulo": "Markets in 2027: Stocks Take the Lead - Morgan Stanley",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTE2UjRDRTBqRElBclJqUE1jaHJLcERZcjRJZE5qeC1OSGFtVDI1bXM4VHVESlMxbVJWMzFXRUkzM0VHb0kxZEJ0V3k0ZkhjeDdlUFNuTm1RWUM0NXpHLTdSU1AxTXBybC1mRHZrQ1RJQjF2aE1JdXF4TTlGcGpfSjR0STROQzdhWVU0ZQ?oc=5",
+          "fonte": "Morgan Stanley"
+        }
+      ],
+      "comentario": "O ETF de mercados emergentes registou uma queda acentuada de 4,93%, pressionado pelo recuo no setor tecnológico global. Poderá fazer sentido avaliar a exposição a estes mercados, ponderando se a volatilidade atual se enquadra no seu perfil de risco."
     },
     {
       "ticker": "IWDE.AS",
@@ -5310,6 +5335,10 @@
             {
               "quando": "2026-11-19T08:00:00+00:00",
               "fecho": 113.88
+            },
+            {
+              "quando": "2026-11-20T08:00:00+00:00",
+              "fecho": 110.24
             }
           ]
         },
@@ -6085,14 +6114,14 @@
       },
       "noticias": [
         {
-          "titulo": "MSCI Inc. (MSCI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdWlaUFZRTDd0ZGhwMXZfcjlRNTFTMC1VWE5TSlcyZnlIektrQW5pa2pGNEVNb1FuR0NOVXpFSXE3RkRicGRqRklaUkhjVmV6emc?oc=5",
-          "fonte": "Yahoo! Finance Canada"
-        },
-        {
           "titulo": "The snowballing selloff in global markets - Reuters",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
           "fonte": "Reuters"
+        },
+        {
+          "titulo": "Global Stock Market Rally: The MSCI World Index Reached a New Record High Yesterday and Surpassed Pre-recession Peak - American Enterprise Institute - AEI",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWNwc1hnMGlOQUM3bDFKc1hBeVc4dU1aTG9aeHhPYkNKUkRNN1d0RGtLTDJsZ3VEOVhBSTd1aFF2N0NWaHV6MmtQaV9Ybmk2bm5PSWt0UmszQWdBT1lzcVFnMzJ0ZU94ZnVLc0RQMGFBdk8wc0RtS1F5VGI1aGtRVzM2RlhfQl91RXp3Rk1BMHNZT0VTZEVZZTYzWkVrZkRxOTRWeEs3aG9xV05NMGt0Q3NGWjZkeVJOS1hKM1MyVEs0TTZlT1RsMXlkSE5sTF9pRmlpV1RGbGMzemNhbU9R?oc=5",
+          "fonte": "American Enterprise Institute - AEI"
         },
         {
           "titulo": "Managing Benchmark Concentration: A Framework for Asset Allocators - MSCI",
@@ -6100,12 +6129,12 @@
           "fonte": "MSCI"
         },
         {
-          "titulo": "Global Stock Market Rally: The MSCI World Index Reached a New Record High Yesterday and Surpassed Pre-recession Peak - American Enterprise Institute - AEI",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWNwc1hnMGlOQUM3bDFKc1hBeVc4dU1aTG9aeHhPYkNKUkRNN1d0RGtLTDJsZ3VEOVhBSTd1aFF2N0NWaHV6MmtQaV9Ybmk2bm5PSWt0UmszQWdBT1lzcVFnMzJ0ZU94ZnVLc0RQMGFBdk8wc0RtS1F5VGI1aGtRVzM2RlhfQl91RXp3Rk1BMHNZT0VTZEVZZTYzWkVrZkRxOTRWeEs3aG9xV05NMGt0Q3NGWjZkeVJOS1hKM1MyVEs0TTZlT1RsMXlkSE5sTF9pRmlpV1RGbGMzemNhbU9R?oc=5",
-          "fonte": "American Enterprise Institute - AEI"
+          "titulo": "Stocks slide as AI selloff deepens, Asia set for worst week since 2020 - WTVB",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1dPbk1tQ1E5V3YzRVBIVERibUdQWTdpOGpWa3RYbU1Ea0pUczQ3dXlabWxZcVJzcG9hem5GZFVGZHRObUwwRVctWWI0NXJFY2UwdTV0OV9aWmdCVjV4bGJpTVp0eTZtZk1oRUQ3Vl9nYkw4VDUyQkJ0aTB1cXBEVEF3NldKRWotVWM2NEw0dW1aaDlNYVppMFY5UC1ZbFZ2Wk9hdWVUamM4WGc?oc=5",
+          "fonte": "WTVB"
         }
       ],
-      "comentario": "O índice global caiu 3,20%, refletindo o forte recuo acionista mundial impulsionado pela tecnologia. Sendo um ativo diversificado, correções destas ocorrem periodicamente. Pode ser avisado manter a estratégia delineada sem precipitações."
+      "comentario": "Com uma desvalorização de 3,20%, o fundo global reflete o sentimento negativo nos mercados acionistas internacionais. Tratando-se de um ativo diversificado, sugere-se manter o foco no longo prazo e acompanhar a evolução global."
     },
     {
       "ticker": "IUES.AS",
@@ -8393,6 +8422,10 @@
             {
               "quando": "2026-11-19T08:00:00+00:00",
               "fecho": 149.52
+            },
+            {
+              "quando": "2026-11-20T08:00:00+00:00",
+              "fecho": 144.42
             }
           ]
         },
@@ -9183,12 +9216,12 @@
           "fonte": "Yahoo! Finance Canada"
         },
         {
-          "titulo": "S&P 500 Falls To 7-Month Low As Tech And AI Concerns Fuel Sell-Off - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWtfaTNsaGZDRUE3LW4taEEwRkFSa21wQUNvamh2UmNGU2ZZMlFfd0xrUGVNVGpnaDcxUGcyeHFKTHVDRWg1VkJ0dFZUeHpnRWRIS1BlM1hPSmljYWZjVno5UmNsM0N1Q0NuT1hyU2FqRDBfQWVwakZLN0JmWWc0SS15U3ZxVTdrR243aFNqckZnQ1FNMGIyVEpHbUxrTy0tM2FhY0JPMzNSbjRBSWNwMHpILTcxQ053c3d1Rm9Kc3U?oc=5",
-          "fonte": "Forbes"
+          "titulo": "E-mini S&P 500 Futures Overview - CME Group",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5UXRvZEwyTEt6T2x0OGJmLXNhM1BXLUUyTTlXZWY1S1VXSG5CSHMzSUpJRVVzcVRKYXd0YzI5Vm9Gc2pDY18zdGR1WU9GZU5oWTQzTWlDQnR3WlJwQVZka1oteS1VU3YtWG5kZEJEZnVmM0k?oc=5",
+          "fonte": "CME Group"
         }
       ],
-      "comentario": "Com uma descida de 3,41%, o S&P 500 reflete a forte pressão vendedora no setor tecnológico e de inteligência artificial. Para investidores com horizonte alargado, pode valer a pena avaliar a estabilização do mercado antes de realizar ajustamentos."
+      "comentario": "A queda de 3,41% acompanha a correção do S&P 500 nos Estados Unidos, motivada pelo desinvestimento nas cotadas de tecnologia. Pode ser oportuno analisar se o reequilíbrio da alocação aos EUA faz sentido na sua estratégia."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -13038,9 +13071,9 @@
       },
       "noticias": [
         {
-          "titulo": "Bond Market Stars Aligning for This High Income ETF - ETF Database",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQXzh5ZXExUUNLSFNWQ2w0TGRGX1RVbkN4ZV94V1lFbThfQml3cGtqRUJ6YVJESW5GR1lNcjJJUDlnUVdJa3lLQWdXX0FkMlFMWGtvTWZUUDI2eENWZXAxV3hOZER5eGpoRGk5ODdvRUYyU3d4T3lJMUkzVm92RjZRVmwyaE9EdTdLZ0JNLTNWeG9zZw?oc=5",
-          "fonte": "ETF Database"
+          "titulo": "Constructing resilient fixed income portfolios - Invesco",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHVMUjE4N2RkRUFHQXJVNndiQWFLSmJjbmY4dEplMGxKbGZ1eFZ0bC1fdFJJeXJaSDN4ZVBzVXY5S0NBRzNJQmhsVDV5VDRTeXlOZHh5SGJQNEhVbjFXR3RDemJQN3hnd0hTdmIyQ3hmVXNqTXRwaU82UG14eU45MUVTU3lJOHMwRDBGd2I1VzFTTnFi?oc=5",
+          "fonte": "Invesco"
         },
         {
           "titulo": "The making of today’s fixed income market - Bloomberg.com",
@@ -13048,17 +13081,17 @@
           "fonte": "Bloomberg.com"
         },
         {
-          "titulo": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXdBc3BKTGl3aWplclNJc2plbjFONl9tN21BemhRS2dvVTVhaUp2eTNIUzhIcUJwaHRSc0ZzTHNyY29yMHpyNVF5TEptaGF5bFRXRjlFb0x4YU5jMnozbjdWa3ZqTTJRTW9BS1lWSFl6U1BETHJPTkI4MC1lZFNDNmd2elA1OVF3ZGVBYnVacjZJRE9DVU1qUWhRcG9MTXRqaWxrM1MwQUHSAa4BQVVfeXFMUDhORjVWTE9lbnVUT2NaNzRWMm1pQ29WSEMwQ2ZFc2Flby1qMHlPVWZwanFGV1pNTVdUcWs0SXNNNHk1SEQ3NWZzQ0cteWRyeUdGV2FRaXViVndFZ2ZUVWVXeHQ5SUxFNVZVaHpXUnItZ0pSRTB2OGRuWWdmelJjSHlQc25HWlZlM3pDMUZ5dHA5Q3FPM0drOF9EWjhLemdYaGJDVm9wZXZTY1F3N3FR?oc=5",
-          "fonte": "CNBC"
+          "titulo": "In this episode of Bond Street, presented by IndiaBonds and CNBC-TV18, we speak with Mr. Anurag Mittal, President & Head – Fixed Income, UTI Asset Management Company Ltd, as he shares insights from his two-decade-long journey in fixed income. From - LinkedIn",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3o4UDZHc1hPZHJVNGhDakkxbUxobWxVbU9XZE1lbjVUSXRKdG9wcURmZXNCUEl1ZURoLUhsdXNMdU0zQ09hZWZuNVB5azZKTG10ZGhDc1JIMUtUWVZCcFFoN0tlNFlVUU16SDJwWFZha2l2WVFKcGN0TmJ3ZWFhV180Z1hqem0wbVRPQnUzSWVVR2QzWllTVEpGWHFBaTkyYkhxZDhZQVJHLWV0SGZZMUVXNmxxZw?oc=5",
+          "fonte": "LinkedIn"
         },
         {
-          "titulo": "Four signs it is about to get uglier in the bond market as yields rise - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
-          "fonte": "Reuters"
+          "titulo": "Jupiter Strategic Bond Fund: A Flexible Approach to Fixed Income - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzNOak9ENWRrcHJPZVozbVh2eVdGdHA3VmR4UlBDSUJVbWNzRUdqNXpEUFBWcjJEVkk5VFZZdTduLVhxX1BUNWZkTy1yN1pQN25zc0tHUHZkVEpHc0xKNmxkMjRLMHNONDZjYS0tRWYtd2tXZmp6R3dhYXFjVktWaEFadjFXV3lLaEpQb2RFN1FCdGFVZDhRZ3VVSDdSVlV5eWtv?oc=5",
+          "fonte": "Morningstar"
         }
       ],
-      "comentario": "O fundo de renda fixa manteve-se inalterado (0,00%), cumprindo o seu papel de amortecedor e estabilizador num dia de fortes perdas nos ativos de risco. Reafirma a importância da diversificação com obrigações."
+      "comentario": "O fundo de obrigações permaneceu inalterado (0,00%), oferecendo estabilidade num dia de fortes quedas nos ativos de risco. Serve como lembrete do valor da renda fixa para amortecer a volatilidade global da carteira."
     },
     {
       "ticker": "IMAE.AS",
@@ -15514,6 +15547,10 @@
             {
               "quando": "2026-11-19T08:00:00+00:00",
               "fecho": 104.035
+            },
+            {
+              "quando": "2026-11-20T08:00:00+00:00",
+              "fecho": 101.87
             }
           ]
         },
@@ -16349,27 +16386,27 @@
       },
       "noticias": [
         {
+          "titulo": "Ignore the European Central Bank’s AI Warning at Your Peril - American Enterprise Institute - AEI",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVkVDamYxZVVWbmEzOXpneC1Zd1lHN0ZTZDEwTHA2QmNlSGZic1JESEJTSzFrajJ2UURzdWQxdVJhTEE2cDd0ZE1PaUpNaFlhQ3lsT2RJeXRSREsyX05JbVhzSmVoQjZlSklkX1N6TmE5bXpOUm5lVlFrV3lfN3Q2QkFqSmN6MWlxQnd1akppQWFQY1E?oc=5",
+          "fonte": "American Enterprise Institute - AEI"
+        },
+        {
           "titulo": "European shares post worst week in over a year as AI trade unravels - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTRUN3RabW5hOWVFMWhrajEweXFyWWRURWthSmRXYlVrTF9jcGJyRGFoQ0xyZzlpeXNBWkJqTU9UaDAySmluOU5FZkd5eTZ2R0pZT1dIODdaQktHX1BrVGlhVUZjVjhUb20zZnYyY19yTWNCdVppTmJTQmREaUktRXhJXzdkMGdCT0YtYlplSGxOR2NVb2xrRHdyWW44QlBHV0R3dk1kOA?oc=5",
           "fonte": "Reuters"
         },
         {
-          "titulo": "European shares on track for steepest weekly drop since March - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamowRjVLZ3l3VEtoNjczMFJzemhRM09RS3lTLVhNVkJnZDN1Rzd3VEtFcEdxekpCVDFScXBpMzVIVm1nTURmWXhhMW5LdkFQenJiR1gwZE0wWXUtVHJuRm8yaGJEZ0FldWJVQjFmd1RvRTdWaEF5YTdEdUdNc2R5TExBTUNsaFRULXpfTVZjU0pJNWcteGVyR0x1LUdYZUJjdUE5VjhvS2NSNW5l?oc=5",
+          "titulo": "European stocks rebound as tech climbs on AI optimism - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORW93c2V1eW51ZjMyUTRVUW9oYkNwUHBFMkUxSHhtSDk0a21DU2EtM3dtbF81QW5rX1dSdEtuU011UkY5SlBlNGxncU94WDk3ejVKWVpYU2R3RmVVUmpicjVKSDhOMVFDM3c4SzZVZmdXTkhOdy1wSnlWbUZHNDRQUzN5TlVxSlozeVdZN1l2OGZLaXg2a2pBdHR3TQ?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "European shares extend losses as Anthropic debut tests AI trade - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUHZJVUFrcWxWN2ZfY3dPNDlCaW1tVzg5eU1ZRDdoNFZwZ2xLTE5HM3RNd2JXWkFyU05kVHlETkJVYlluQlptNThzVkZLN0kyejd4X3JBcm5GczVEOE8zdVg1R3hsTnBtREJ3LWVHQ0cyTHgyUUx2bU1qdGNYTllZVGU1NnlXT3M4eWVfNy14YkNRV2RDTEUwb1JBVnlxRW8?oc=5",
-          "fonte": "Reuters"
-        },
-        {
-          "titulo": "European stocks hit two-week low on weak miners, caution ahead of Anthropic IPO - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOV9Hdkl4TnlUc193dDE5Z3BJaXlMU195R3hFX1VVUFNuamhEVXpTRkZFMGNLM0VoblJjNUlyWFZ6T2x2TUw3ZWhPOWs1WlZRbGZ1OGwwbGY1UmZVQUJ4dzhkVV9oQnN3bF9RMlBGbmJEN21FV0ExaXYwMTYtY19MY2MwN3drWF91UWlLbnl2VGtfMlluNHpvX0xjbkZROXBm?oc=5",
-          "fonte": "Yahoo Finance"
+          "titulo": "European stocks end a bruising week. German DAX falls 7.29%. - investingLive",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYmktQ0tmdzNobjZzSDJvcGxMNmg5cXdIcDFWbGVtMVA5RzRDWF9TSTJGRG5SYWM4LW5scDAzQllEQWlxMU1BbExmNmhZVkxxSEJDN0RIQWN4M2FwM0tRRlQ0a1FyeDBZVTlnMVFCX3NNSGViLXJwUmgyUXdhWHZ0anFVZllCa3NCc2RxdzZpZ2F5Skk?oc=5",
+          "fonte": "investingLive"
         }
       ],
-      "comentario": "As ações europeias recuaram 2,08%, registando perdas menores do que os mercados globais ou tecnológicos, mas acompanhando o sentimento negativo geral. Sugere-se monitorizar a conjuntura económica europeia e a evolução das taxas de juro."
+      "comentario": "Com uma descida de 2,08%, as ações europeias sofreram menos do que os setores de tecnologia e emergentes, embora mantenham tendência negativa. Recomenda-se ponderar se a diversificação geográfica europeia está equilibrada."
     },
     {
       "ticker": "SEMI.AS",
@@ -18805,6 +18842,10 @@
             {
               "quando": "2026-11-19T08:00:00+00:00",
               "fecho": 15.994
+            },
+            {
+              "quando": "2026-11-20T08:00:00+00:00",
+              "fecho": 14.17
             }
           ]
         },
@@ -19917,7 +19958,7 @@
             },
             {
               "quando": "2026-11-15T23:00:00+00:00",
-              "fecho": 15.994
+              "fecho": 14.17
             },
             {
               "quando": "2026-11-20T16:35:25+00:00",
@@ -19928,6 +19969,16 @@
       },
       "noticias": [
         {
+          "titulo": "Cathie Wood sells $85 million of tumbling semiconductor stock - TheStreet",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakpoMHJneFQ0N2dxLVZEd01Ub0JDQmtMM21wMUwzM0t4NS1aRUVySmRVVnpTYUhyekMzT0RsOGFWN0dXSmg1eERaenRkY2hyRkppODVOQThoUzZpcW84VXl6UjB3WHY5ZUNPcU1SRkVjbDZ2V0g2c1FvdTAxcFhvdDhPNHhsOWZZWnJ5OG1ZUnFfT1Nmb2U1TVh0ODFiUlF0eFRDeExSUGVydElUVU05dk5yeEdMdDR4TVJnbQ?oc=5",
+          "fonte": "TheStreet"
+        },
+        {
+          "titulo": "Semiconductor Sell-Off: These Artificial Intelligence (AI) Chip Stocks Are Screaming Buys Before They Go Parabolic - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenhaMDNSSUFSRzFtMzg2NEREb2JPQlhYd2swRGdRMXRIcllxcXJnQzQ5cHNuRGlRdWdvT2F2SFlSTHhXdlJoSjR2ZnFya0dvbGliWTR5Y3BiZGpxbWd5cUl1SnUzbUloVGpuRzR0TjQyZzlhYmVjSmJPUGdZbGJqd1dHbkx1R194NG5hdjVtVmpEYUd5Qm40U0tXcDN3RHZZRkRCVmxWRzZEeGdTZUNj?oc=5",
+          "fonte": "Yahoo Finance"
+        },
+        {
           "titulo": "Micron vs. NVIDIA: Which Semiconductor Stock Has the Edge? - Zacks Investment Research",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ01fbXBOMGhReGVJVklmalAtU2Q5UkZMbDJaYngzSEdWeEVoQ3hBU1Q2SUNYZjFUVXJ2Sl9zaGxTYmhSMkhZWFRlVFRzYlJuRUJNQjI5ZlRDREtQdUgzXzVQaXItZW9NVThVcG1KX3hRNnhGMVFtUTlISi1FcmdZcnlqa2lidTV4X3ZMRmVVS19OdDVZQ2FHOEE0Y2I?oc=5",
           "fonte": "Zacks Investment Research"
@@ -19936,19 +19987,9 @@
           "titulo": "Micron leads semiconductor and AI stocks down as SOX plunges 7% - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmNkNlpFVWJMb1BCTmJvUU1oQnhER2tIYzNZOFpvR0o4bTFvMy1MQTlpQnlUSF9ONGNwZ3AtYmhIRmNLUzFoc0p5WVRZSGJzWVB5NnRfMWdIaFlHdUJ6TDFDRkVMQU83MWRMWFluN013aDVGb1ZDVzhCczZYMzYybG4tOC0waXRuYTRBMUg2RWNxVldQak1GRmdCVjc5Z2xuM2c?oc=5",
           "fonte": "Seeking Alpha"
-        },
-        {
-          "titulo": "Chip Stocks' Worst Two Months Since 2001: This Week On Wall Street - NVIDIA (NASDAQ:NVDA) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORjVQNkUwT1ljUzdNeTFEdHhLenN4WUUzT2tYbHplVG5abDRUWmJEbGVKRXc1TG1yVlJuZUptVTUxT0xSeTdnSFZmRGhTSzNvUzZaLS0yT0h4c2ozR2V0bkFZZ21mTF9MQ09FakY1N094RXFPOUlIbUFBM3VmZlpqdTQtUzlHQ1NocU82XzE3T0JmYVU1Z1hKQlltaE91eFR2b2Fid1l6eXJOS1Q0QmtRZ3Jra2ZxSUF4OElyMVJ1VG41enlNaTFoZTU5NFpEc1FKMWltcEtxZnA2TnRSQ2hnVQ?oc=5",
-          "fonte": "Benzinga"
-        },
-        {
-          "titulo": "Semiconductor Sell-Off: These Artificial Intelligence (AI) Chip Stocks Are Screaming Buys Before They Go Parabolic - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenhaMDNSSUFSRzFtMzg2NEREb2JPQlhYd2swRGdRMXRIcllxcXJnQzQ5cHNuRGlRdWdvT2F2SFlSTHhXdlJoSjR2ZnFya0dvbGliWTR5Y3BiZGpxbWd5cUl1SnUzbUloVGpuRzR0TjQyZzlhYmVjSmJPUGdZbGJqd1dHbkx1R194NG5hdjVtVmpEYUd5Qm40U0tXcDN3RHZZRkRCVmxWRzZEeGdTZUNj?oc=5",
-          "fonte": "Yahoo Finance"
         }
       ],
-      "comentario": "Foi o ativo mais penalizado da carteira, caindo 11,40% devido à forte liquidação nas empresas de semicondutores e IA. Dada a elevada volatilidade deste setor, convém avaliar se o peso deste ETF está adequado ao seu perfil de risco."
+      "comentario": "Foi o ativo mais penalizado do dia, desvalorizando 11,40% devido ao forte sell-off nas empresas de semicondutores e inteligência artificial. Dado o elevado risco e volatilidade deste setor temático, sugere-se prudência nas decisões de reforço."
     },
     {
       "ticker": "SGLD.AS",
@@ -22364,6 +22405,10 @@
             {
               "quando": "2026-11-19T08:00:00+00:00",
               "fecho": 322.81
+            },
+            {
+              "quando": "2026-11-20T08:00:00+00:00",
+              "fecho": 310.27
             }
           ]
         },
@@ -22852,9 +22897,9 @@
           "fonte": "CNBC"
         },
         {
-          "titulo": "There are five trillion reasons not to give up on gold just yet - Kitco",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmVvLUV0T3haSzRmSUsxVEtmaTBVNDBZTE4wOFpEQ01pYmZzX1lwa2dxRmxFRzE1eThieXRrdW9Wd05QQXhUREZSb1RiNE02VkxUcEE3eXFFaUx5eFN2dThuLUhyWVNFT2V0OURvWXBSdmN1UjhzQnlCQlIyV0dUclpLQjVXanJ5VEpIdFNDSG0tTUtTQ0Z6c245TnluOFJ0X1E?oc=5",
-          "fonte": "Kitco"
+          "titulo": "Titan, Muthoot Finance Face Gold Price Correction Risks - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVFudHJjejhnMDVfZFd0b1ZvZks1ZHFLUDVuU18xX0Z0aC1mZENNZDdMN1FELWZMbkpkTHgwdERIWDB4c2lzbjJpeGhlam9JNjVWcWlLU0RXdW50LW1RRzZxMXlfd1BYU3ViVHRvblR4eWV1d2U3bHU2bGVTVVktNVdTOU1LTWdzdDBqR1BHS0o3cHBYTC0wbjZTeENjVng3STVTN1lPenN3Y25yYjVTVA?oc=5",
+          "fonte": "TradingView"
         },
         {
           "titulo": "Gold Breaks Down but is This a Sign of What’s to Come? - StoneX",
@@ -22862,12 +22907,12 @@
           "fonte": "StoneX"
         },
         {
-          "titulo": "Gold price could drop $300 if $3,500/oz fails, and buyers might hold off until the Fed – Walsh Trading’s Lusk - Kitco",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1gxakxUOS1VZGh6VUEwdDhhdDAySkdGT3JQU2pUMnVXN2RiNFRHV3g1MEtsaEtfQUVVNGNPRnJTSVJiSGdVTmRFVVVGLTZhcG1jenZPb2JKYWtweUltNi1fLWlFSXVlVWFPNEU2aHlPSkNkUFQyaDEyZlAwVy1waVFZY0dtSGtGTUVUOWw4eUFTRTJ5RENUVUw4Qk9nMFJKbGNTamNHU3F6NDEydHZHU3RLMUhXb2NGd2Jz?oc=5",
-          "fonte": "Kitco"
+          "titulo": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - FOREX.com",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQklYQS1uSzlZYkU2V1h0RWtFdFd6WXFJS2ViSHpNeUN1N2s3OTdMSkFlNFd4dzR6cDZ1dUloTjR5LTFaa2tKbEdrT1RaS18xbEN0Q3hQT0VNT0o2OWxmTzhCYWhBWEJrV0dIZ0VuSW9qLTkyLW1xcENzYWVPaElWbE5zV0VyeWFLOUFPMFRUZHdGSlVFa1VHWE8tSmJ1RS1HYjFIOHNJNkVSZkcwelpjWlViNjRfLWxLYnk3ODBpcTRIVGtjempUZ2I1ejBtX0djVks00gHfAUFVX3lxTE9VaE1MdmpROExJM292VnA0a2xIVmhnTHpKS2dha2pIdmJkMmlGQTNEQnVvMEpPMEt6eFZLczhFTkVtTzBPeFBzZHRsVWE0dEhjNXpqd1dFV3hQaE9oMDRxSk0ycGRtSmdKTVcyMTBzM012c3RnVENlRFBPei0tbURvNlFLSkw0ZWVzZ0FDbV9uN08xSE1KNkxvSDlRMDdmaXV2UGN3TlY0aG5STHRWemFxbVlVU1hoUDRGU2RaelBYaEFCQThqTmRaRFZwTldXb0pSdGtzU1hrYzBVLWdpMXM?oc=5",
+          "fonte": "FOREX.com"
         }
       ],
-      "comentario": "O ouro recuou 3,87%, mostrando que em dias de liquidação generalizada os investidores também vendem ativos de refúgio para gerar liquidez. Sugere-se manter a perspetiva de proteção de longo prazo que o ouro tipicamente oferece."
+      "comentario": "O ouro desceu 3,87%, acompanhando a liquidação geral de ativos nos mercados. Embora seja um ativo tradicional de proteção, pode sofrer flutuações a curto prazo, sendo aconselhável olhar para esta posição com uma perspetiva de longo prazo."
     }
   ]
 }
