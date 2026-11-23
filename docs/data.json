@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-11-23T11:48:03.861518+00:00",
-  "analise_geral": "Hoje observa-se um dia maioritariamente positivo em toda a carteira, marcado por uma recuperação nos ativos de risco após receios recentes no setor tecnológico e de inteligência artificial. Destaca-se o forte ressalto nos semicondutores (SEMI.AS) e nos mercados emergentes (IS3N.DE), acompanhados por valorizações sólidas no ouro (SGLD.AS), que continua a servir de porto de abrigo. O fundo de rendimento fixo PIMCO manteve-se estável, cumprindo o seu papel de menor volatilidade. Se a carteira estiver desalinhada devido a estes movimentos, pode fazer sentido avaliar um reequilíbrio gradual, mantendo a diversificação geográfica e por classes de ativos.",
-  "analise_gerado_em": "2026-11-23T11:48:03.861475+00:00",
+  "atualizado_em": "2026-11-23T23:24:15.146909+00:00",
+  "analise_geral": "Hoje assiste-se a um dia fortemente positivo na carteira, impulsionado por uma recuperação expressiva no setor tecnológico e de semicondutores que contagiou os mercados globais e emergentes. O destaque vai para o setor de semicondutores (SEMI.AS) com uma subida de 11.22%, acompanhado pelos mercados emergentes. Até o ouro registou ganhos significativos. Perante valorizações tão acentuadas num só dia, pode ser oportuno avaliar se a carteira necessita de um reequilíbrio para manter a alocação de ativos alinhada com o seu perfil de risco.",
+  "analise_gerado_em": "2026-11-23T23:24:15.146858+00:00",
   "alertas_enviados": {
     "IS3N.DE": "2026-11-23",
     "IWDE.AS": "2026-11-23",
@@ -16,9 +16,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 41.811,
+        "preco_atual": 43.739,
         "fecho_anterior": 40.955,
-        "variacao_pct": 2.090098889024543
+        "variacao_pct": 6.797704797948965
       },
       "historico": {
         "intradiario": {
@@ -194,11 +194,247 @@
             },
             {
               "quando": "2026-11-23T11:30:00+00:00",
-              "fecho": 41.821
+              "fecho": 41.811
             },
             {
-              "quando": "2026-11-23T11:31:31+00:00",
-              "fecho": 41.811
+              "quando": "2026-11-23T11:35:00+00:00",
+              "fecho": 41.813
+            },
+            {
+              "quando": "2026-11-23T11:40:00+00:00",
+              "fecho": 41.857
+            },
+            {
+              "quando": "2026-11-23T11:45:00+00:00",
+              "fecho": 41.854
+            },
+            {
+              "quando": "2026-11-23T11:50:00+00:00",
+              "fecho": 41.824
+            },
+            {
+              "quando": "2026-11-23T11:55:00+00:00",
+              "fecho": 41.808
+            },
+            {
+              "quando": "2026-11-23T12:00:00+00:00",
+              "fecho": 41.794
+            },
+            {
+              "quando": "2026-11-23T12:05:00+00:00",
+              "fecho": 41.772
+            },
+            {
+              "quando": "2026-11-23T12:10:00+00:00",
+              "fecho": 41.72
+            },
+            {
+              "quando": "2026-11-23T12:15:00+00:00",
+              "fecho": 41.675
+            },
+            {
+              "quando": "2026-11-23T12:20:00+00:00",
+              "fecho": 41.68
+            },
+            {
+              "quando": "2026-11-23T12:25:00+00:00",
+              "fecho": 41.706
+            },
+            {
+              "quando": "2026-11-23T12:30:00+00:00",
+              "fecho": 41.675
+            },
+            {
+              "quando": "2026-11-23T12:35:00+00:00",
+              "fecho": 41.663
+            },
+            {
+              "quando": "2026-11-23T12:40:00+00:00",
+              "fecho": 41.639
+            },
+            {
+              "quando": "2026-11-23T12:45:00+00:00",
+              "fecho": 41.672
+            },
+            {
+              "quando": "2026-11-23T12:50:00+00:00",
+              "fecho": 41.612
+            },
+            {
+              "quando": "2026-11-23T12:55:00+00:00",
+              "fecho": 41.715
+            },
+            {
+              "quando": "2026-11-23T13:00:00+00:00",
+              "fecho": 41.747
+            },
+            {
+              "quando": "2026-11-23T13:05:00+00:00",
+              "fecho": 41.779
+            },
+            {
+              "quando": "2026-11-23T13:10:00+00:00",
+              "fecho": 41.791
+            },
+            {
+              "quando": "2026-11-23T13:15:00+00:00",
+              "fecho": 41.782
+            },
+            {
+              "quando": "2026-11-23T13:20:00+00:00",
+              "fecho": 41.765
+            },
+            {
+              "quando": "2026-11-23T13:25:00+00:00",
+              "fecho": 41.764
+            },
+            {
+              "quando": "2026-11-23T13:30:00+00:00",
+              "fecho": 41.65
+            },
+            {
+              "quando": "2026-11-23T13:35:00+00:00",
+              "fecho": 41.692
+            },
+            {
+              "quando": "2026-11-23T13:40:00+00:00",
+              "fecho": 41.658
+            },
+            {
+              "quando": "2026-11-23T13:45:00+00:00",
+              "fecho": 41.64
+            },
+            {
+              "quando": "2026-11-23T13:50:00+00:00",
+              "fecho": 41.644
+            },
+            {
+              "quando": "2026-11-23T13:55:00+00:00",
+              "fecho": 42.581
+            },
+            {
+              "quando": "2026-11-23T14:00:00+00:00",
+              "fecho": 43.38
+            },
+            {
+              "quando": "2026-11-23T14:05:00+00:00",
+              "fecho": 43.423
+            },
+            {
+              "quando": "2026-11-23T14:10:00+00:00",
+              "fecho": 43.5
+            },
+            {
+              "quando": "2026-11-23T14:15:00+00:00",
+              "fecho": 43.795
+            },
+            {
+              "quando": "2026-11-23T14:20:00+00:00",
+              "fecho": 43.76
+            },
+            {
+              "quando": "2026-11-23T14:25:00+00:00",
+              "fecho": 44.0
+            },
+            {
+              "quando": "2026-11-23T14:30:00+00:00",
+              "fecho": 44.29
+            },
+            {
+              "quando": "2026-11-23T14:35:00+00:00",
+              "fecho": 43.65
+            },
+            {
+              "quando": "2026-11-23T14:40:00+00:00",
+              "fecho": 43.899
+            },
+            {
+              "quando": "2026-11-23T14:45:00+00:00",
+              "fecho": 43.55
+            },
+            {
+              "quando": "2026-11-23T14:50:00+00:00",
+              "fecho": 43.652
+            },
+            {
+              "quando": "2026-11-23T14:55:00+00:00",
+              "fecho": 43.65
+            },
+            {
+              "quando": "2026-11-23T15:00:00+00:00",
+              "fecho": 43.715
+            },
+            {
+              "quando": "2026-11-23T15:05:00+00:00",
+              "fecho": 43.574
+            },
+            {
+              "quando": "2026-11-23T15:10:00+00:00",
+              "fecho": 43.695
+            },
+            {
+              "quando": "2026-11-23T15:15:00+00:00",
+              "fecho": 43.78
+            },
+            {
+              "quando": "2026-11-23T15:20:00+00:00",
+              "fecho": 43.844
+            },
+            {
+              "quando": "2026-11-23T15:25:00+00:00",
+              "fecho": 43.939
+            },
+            {
+              "quando": "2026-11-23T15:30:00+00:00",
+              "fecho": 43.82
+            },
+            {
+              "quando": "2026-11-23T15:35:00+00:00",
+              "fecho": 43.992
+            },
+            {
+              "quando": "2026-11-23T15:40:00+00:00",
+              "fecho": 43.897
+            },
+            {
+              "quando": "2026-11-23T15:45:00+00:00",
+              "fecho": 43.767
+            },
+            {
+              "quando": "2026-11-23T15:50:00+00:00",
+              "fecho": 43.739
+            },
+            {
+              "quando": "2026-11-23T15:55:00+00:00",
+              "fecho": 43.759
+            },
+            {
+              "quando": "2026-11-23T16:00:00+00:00",
+              "fecho": 43.705
+            },
+            {
+              "quando": "2026-11-23T16:05:00+00:00",
+              "fecho": 43.685
+            },
+            {
+              "quando": "2026-11-23T16:10:00+00:00",
+              "fecho": 43.755
+            },
+            {
+              "quando": "2026-11-23T16:15:00+00:00",
+              "fecho": 43.84
+            },
+            {
+              "quando": "2026-11-23T16:20:00+00:00",
+              "fecho": 43.8
+            },
+            {
+              "quando": "2026-11-23T16:25:00+00:00",
+              "fecho": 43.858
+            },
+            {
+              "quando": "2026-11-23T16:30:00+00:00",
+              "fecho": 43.739
             }
           ]
         },
@@ -2212,10 +2448,6 @@
             {
               "quando": "2026-11-20T08:00:00+00:00",
               "fecho": 40.955
-            },
-            {
-              "quando": "2026-11-23T08:00:00+00:00",
-              "fecho": 41.811
             }
           ]
         },
@@ -2819,8 +3051,8 @@
               "fecho": 40.955
             },
             {
-              "quando": "2026-11-23T11:31:31+00:00",
-              "fecho": 41.811
+              "quando": "2026-11-23T16:35:57+00:00",
+              "fecho": 43.739
             }
           ]
         }
@@ -2832,22 +3064,22 @@
           "fonte": "Bloomberg.com"
         },
         {
+          "titulo": "Weekly market commentary - BlackRock",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+          "fonte": "BlackRock"
+        },
+        {
           "titulo": "Emerging-Market Stocks Set to Erase 2026 Gains on AI Selloff - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUDBycl9VSjUtMnZZb1BZQy1lajBHazM5Vmk4WVpfTkEwZ05JZVRRZEpGZnFfYkhjaWxOUXZNMGVRZmJDRDdTUWxFUURhelJzb01VZUNBbkxPQ0tMYmItY3Y0SmNfR3FzWVl1emJtNnhwczRTeXhlSEp5UnphYjZUQWZxRnZtengtZUN6dWNlM21hdWRxWHlqYmJMd2xuQQ?oc=5",
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Emerging-Market Stocks Slump on AI Bubble Fears, Risking Wipeout of 2026 Gains - bloomingbit",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qTkdfeWZqT3hyMFlESldPeVZYY3U5YkRYSmhXZ19oc292aHhBa1pJbEpEazk3VjlwaWd2SFFScXVCM3BGSmFscjd6MTZTODJHTFlmdA?oc=5",
-          "fonte": "bloomingbit"
-        },
-        {
-          "titulo": "Investing in Emerging Markets: EWY, FLKR and More Top-Performing ETFs - NerdWallet",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JQW5kYURpNjNOdFMxdGFOeHdWeWF4MFo0RGk0cjdLR1dmQjdkQXR4YzUybVAtVFB5V01QT0dwcGY5Y1Q2b3FsVTNjcFRiRU9aVW1vQWhhampwUmdrVnVacnBQSk5aakxnMWIzMEY5QnY2RmJWeHNN?oc=5",
-          "fonte": "NerdWallet"
+          "titulo": "Emerging-market Stocks Wobble as AI Trade Cools and Wall Street Stumbles - Briefs Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUI5Q1Bielhhajh3RjhVMTlJejQtX2thVUxZTXc5ZmRGMDh0cUxqZDZzOWUtNVp6UVFnTDFOOGNfeVIxQ2d3YTk1VFlnc2UyQ0dSYWNOQzVsYXFacTlDTmItR0ZkU09zeGVGbkE2cC1YSHRMYnFCQ1J4WktzV0g0ZXJjOWVTcXFpVTF6V3RobFR0QQ?oc=5",
+          "fonte": "Briefs Finance"
         }
       ],
-      "comentario": "Subida expressiva de +2.09% hoje. Apesar dos receios recentes de correção no setor de IA em mercados emergentes, o ativo demonstra resiliência. Sugere-se acompanhar a volatilidade associada à tecnologia nesta região."
+      "comentario": "Excelente recuperação de 6.80%, beneficiando do alívio no setor tecnológico global. É um ativo interessante para manter para diversificação em mercados emergentes a longo prazo."
     },
     {
       "ticker": "IWDE.AS",
@@ -2855,9 +3087,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 111.14,
+        "preco_atual": 113.04,
         "fecho_anterior": 110.24,
-        "variacao_pct": 0.8164005805515292
+        "variacao_pct": 2.539912917271418
       },
       "historico": {
         "intradiario": {
@@ -2940,8 +3172,100 @@
               "fecho": 111.16
             },
             {
-              "quando": "2026-11-23T11:27:32+00:00",
+              "quando": "2026-11-23T11:25:00+00:00",
               "fecho": 111.14
+            },
+            {
+              "quando": "2026-11-23T11:40:00+00:00",
+              "fecho": 111.16
+            },
+            {
+              "quando": "2026-11-23T11:45:00+00:00",
+              "fecho": 111.28
+            },
+            {
+              "quando": "2026-11-23T11:55:00+00:00",
+              "fecho": 111.1
+            },
+            {
+              "quando": "2026-11-23T12:05:00+00:00",
+              "fecho": 111.08
+            },
+            {
+              "quando": "2026-11-23T12:25:00+00:00",
+              "fecho": 110.8
+            },
+            {
+              "quando": "2026-11-23T12:40:00+00:00",
+              "fecho": 110.7
+            },
+            {
+              "quando": "2026-11-23T13:20:00+00:00",
+              "fecho": 110.94
+            },
+            {
+              "quando": "2026-11-23T13:35:00+00:00",
+              "fecho": 110.8
+            },
+            {
+              "quando": "2026-11-23T13:50:00+00:00",
+              "fecho": 110.5
+            },
+            {
+              "quando": "2026-11-23T13:55:00+00:00",
+              "fecho": 111.84
+            },
+            {
+              "quando": "2026-11-23T14:10:00+00:00",
+              "fecho": 112.56
+            },
+            {
+              "quando": "2026-11-23T14:15:00+00:00",
+              "fecho": 113.0
+            },
+            {
+              "quando": "2026-11-23T14:20:00+00:00",
+              "fecho": 112.98
+            },
+            {
+              "quando": "2026-11-23T14:25:00+00:00",
+              "fecho": 113.16
+            },
+            {
+              "quando": "2026-11-23T14:40:00+00:00",
+              "fecho": 111.86
+            },
+            {
+              "quando": "2026-11-23T15:20:00+00:00",
+              "fecho": 113.32
+            },
+            {
+              "quando": "2026-11-23T15:35:00+00:00",
+              "fecho": 113.5
+            },
+            {
+              "quando": "2026-11-23T15:50:00+00:00",
+              "fecho": 113.26
+            },
+            {
+              "quando": "2026-11-23T15:55:00+00:00",
+              "fecho": 113.26
+            },
+            {
+              "quando": "2026-11-23T16:00:00+00:00",
+              "fecho": 113.52
+            },
+            {
+              "quando": "2026-11-23T16:05:00+00:00",
+              "fecho": 113.26
+            },
+            {
+              "quando": "2026-11-23T16:25:00+00:00",
+              "fecho": 113.04
+            },
+            {
+              "quando": "2026-11-23T16:30:00+00:00",
+              "fecho": 113.04
             }
           ]
         },
@@ -4971,10 +5295,6 @@
             {
               "quando": "2026-11-20T08:00:00+00:00",
               "fecho": 110.24
-            },
-            {
-              "quando": "2026-11-23T08:00:00+00:00",
-              "fecho": 111.14
             }
           ]
         },
@@ -5742,22 +6062,17 @@
               "fecho": 110.24
             },
             {
-              "quando": "2026-11-23T11:27:32+00:00",
-              "fecho": 111.14
+              "quando": "2026-11-23T16:35:29+00:00",
+              "fecho": 113.04
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "MSCI WORLD (^990100-USD-STRD) Charts, Data & News - Yahoo Finance - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81akNHdXN6LWo1V3daczkyRkg4bk9SeldwQlJ3VklyVmdOaU1oT0NjX1ZOcU1zRFg5eUFRaVhYSVB3MnJaNlJMcTU2eTZGMjlvWUV0MFMycjJwY2FGWmMxMjIwTEk?oc=5",
+          "titulo": "MSCI Inc. (MSCI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdWlaUFZRTDd0ZGhwMXZfcjlRNTFTMC1VWE5TSlcyZnlIektrQW5pa2pGNEVNb1FuR0NOVXpFSXE3RkRicGRqRklaUkhjVmV6emc?oc=5",
           "fonte": "Yahoo! Finance Canada"
-        },
-        {
-          "titulo": "The snowballing selloff in global markets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
-          "fonte": "Reuters"
         },
         {
           "titulo": "iShares MSCI World Energy Sector UCITS ETF | IE00BJ5JP105 | A2PHCF - extraETF",
@@ -5765,12 +6080,17 @@
           "fonte": "extraETF"
         },
         {
-          "titulo": "MSCI Inc. (MSCI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdWlaUFZRTDd0ZGhwMXZfcjlRNTFTMC1VWE5TSlcyZnlIektrQW5pa2pGNEVNb1FuR0NOVXpFSXE3RkRicGRqRklaUkhjVmV6emc?oc=5",
-          "fonte": "Yahoo! Finance Canada"
+          "titulo": "MSCI adds four Indian stocks to flagship global index in November review - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2JLY091dUN4WGdnbWpzMnNJUGxqSm1hVVNmWGs0RDZpcUFHa0dUZHBPcWxoVC1tUW1NMmo3SVY0NzZkaGY0TDN3UW1BNU1OVS1kTkJEbHl4aW1kWUxXNEVkVGVGdVR6R1dXUlFKQVNYZU9abklQVnJUUW9UdVM4NEJnZV9nM2V5R1dCZGh5QzNPb0FldlhuSVZiMmljLWRMNzAxTFd4SlJTa3dnSE9qQWppcXc?oc=5",
+          "fonte": "Reuters"
+        },
+        {
+          "titulo": "Managing Benchmark Concentration: A Framework for Asset Allocators - MSCI",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHlZc0FVUl9GTjBsYW5kNWNIelRyNUR0V0VIZXlNWHpYTGhGVVc1VU01dkEyR1BzZ0NBYVJlZE9HOGhTRXJEbmNMQ1kyZU93VVFicWJqSWM5eER2Nk9yQjBfZm1MdDk1TUFidDRBeGdmakNoNmUtdVhKV0J2azREc0VnNnlKOTg0ZXVac1dtVGZDUzdkOGdhYl9jbnF0Tm5yQmtvekNIVE9rajNScVdzelZVeURySmpaMVE?oc=5",
+          "fonte": "MSCI"
         }
       ],
-      "comentario": "Recuperação de +0.82%. A cobertura cambial em euros protege contra variações do dólar, refletindo um alívio generalizado no mercado acionista global. Continua a ser um pilar diversificado relevante."
+      "comentario": "Subida sólida de 2.54%, a refletir o otimismo nos mercados desenvolvidos. Como constitui uma base diversificada com proteção cambial, sugere-se a sua manutenção tranquila."
     },
     {
       "ticker": "IUES.AS",
@@ -5778,9 +6098,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 145.58,
+        "preco_atual": 148.38,
         "fecho_anterior": 144.42,
-        "variacao_pct": 0.8032128514056399
+        "variacao_pct": 2.7420024927295445
       },
       "historico": {
         "intradiario": {
@@ -5904,11 +6224,171 @@
             },
             {
               "quando": "2026-11-23T11:25:00+00:00",
-              "fecho": 145.55
+              "fecho": 145.58
             },
             {
-              "quando": "2026-11-23T11:26:06+00:00",
+              "quando": "2026-11-23T11:40:00+00:00",
+              "fecho": 145.74
+            },
+            {
+              "quando": "2026-11-23T11:50:00+00:00",
               "fecho": 145.58
+            },
+            {
+              "quando": "2026-11-23T11:55:00+00:00",
+              "fecho": 145.53
+            },
+            {
+              "quando": "2026-11-23T12:00:00+00:00",
+              "fecho": 145.6
+            },
+            {
+              "quando": "2026-11-23T12:05:00+00:00",
+              "fecho": 145.4
+            },
+            {
+              "quando": "2026-11-23T12:10:00+00:00",
+              "fecho": 145.28
+            },
+            {
+              "quando": "2026-11-23T12:15:00+00:00",
+              "fecho": 144.96
+            },
+            {
+              "quando": "2026-11-23T12:35:00+00:00",
+              "fecho": 144.92
+            },
+            {
+              "quando": "2026-11-23T12:40:00+00:00",
+              "fecho": 144.8
+            },
+            {
+              "quando": "2026-11-23T12:55:00+00:00",
+              "fecho": 144.84
+            },
+            {
+              "quando": "2026-11-23T13:00:00+00:00",
+              "fecho": 144.98
+            },
+            {
+              "quando": "2026-11-23T13:20:00+00:00",
+              "fecho": 145.21
+            },
+            {
+              "quando": "2026-11-23T13:25:00+00:00",
+              "fecho": 145.2
+            },
+            {
+              "quando": "2026-11-23T13:30:00+00:00",
+              "fecho": 144.95
+            },
+            {
+              "quando": "2026-11-23T13:40:00+00:00",
+              "fecho": 144.9
+            },
+            {
+              "quando": "2026-11-23T13:50:00+00:00",
+              "fecho": 144.5
+            },
+            {
+              "quando": "2026-11-23T13:55:00+00:00",
+              "fecho": 146.47
+            },
+            {
+              "quando": "2026-11-23T14:00:00+00:00",
+              "fecho": 146.88
+            },
+            {
+              "quando": "2026-11-23T14:05:00+00:00",
+              "fecho": 147.57
+            },
+            {
+              "quando": "2026-11-23T14:15:00+00:00",
+              "fecho": 148.21
+            },
+            {
+              "quando": "2026-11-23T14:20:00+00:00",
+              "fecho": 148.35
+            },
+            {
+              "quando": "2026-11-23T14:25:00+00:00",
+              "fecho": 148.55
+            },
+            {
+              "quando": "2026-11-23T14:30:00+00:00",
+              "fecho": 147.5
+            },
+            {
+              "quando": "2026-11-23T14:35:00+00:00",
+              "fecho": 147.06
+            },
+            {
+              "quando": "2026-11-23T14:40:00+00:00",
+              "fecho": 147.16
+            },
+            {
+              "quando": "2026-11-23T14:45:00+00:00",
+              "fecho": 147.46
+            },
+            {
+              "quando": "2026-11-23T14:50:00+00:00",
+              "fecho": 147.17
+            },
+            {
+              "quando": "2026-11-23T14:55:00+00:00",
+              "fecho": 147.7
+            },
+            {
+              "quando": "2026-11-23T15:10:00+00:00",
+              "fecho": 148.23
+            },
+            {
+              "quando": "2026-11-23T15:25:00+00:00",
+              "fecho": 148.98
+            },
+            {
+              "quando": "2026-11-23T15:30:00+00:00",
+              "fecho": 148.94
+            },
+            {
+              "quando": "2026-11-23T15:35:00+00:00",
+              "fecho": 149.13
+            },
+            {
+              "quando": "2026-11-23T15:40:00+00:00",
+              "fecho": 148.75
+            },
+            {
+              "quando": "2026-11-23T15:50:00+00:00",
+              "fecho": 148.47
+            },
+            {
+              "quando": "2026-11-23T15:55:00+00:00",
+              "fecho": 148.43
+            },
+            {
+              "quando": "2026-11-23T16:00:00+00:00",
+              "fecho": 148.67
+            },
+            {
+              "quando": "2026-11-23T16:05:00+00:00",
+              "fecho": 148.52
+            },
+            {
+              "quando": "2026-11-23T16:10:00+00:00",
+              "fecho": 148.62
+            },
+            {
+              "quando": "2026-11-23T16:20:00+00:00",
+              "fecho": 148.64
+            },
+            {
+              "quando": "2026-11-23T16:25:00+00:00",
+              "fecho": 148.59
+            },
+            {
+              "quando": "2026-11-23T16:30:00+00:00",
+              "fecho": 148.38
             }
           ]
         },
@@ -7938,10 +8418,6 @@
             {
               "quando": "2026-11-20T08:00:00+00:00",
               "fecho": 144.42
-            },
-            {
-              "quando": "2026-11-23T08:00:00+00:00",
-              "fecho": 145.58
             }
           ]
         },
@@ -8709,35 +9185,35 @@
               "fecho": 144.42
             },
             {
-              "quando": "2026-11-23T11:26:06+00:00",
-              "fecho": 145.58
+              "quando": "2026-11-23T16:35:18+00:00",
+              "fecho": 148.38
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "Stock market today: Dow, S&P 500, Nasdaq surge as Jensen Huang's reinstatement at Nvidia sparks stunning rally - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcTlIWVNCVDhHdjFYY0tuLXl4NG1oRWwzTndTRWhLTkhXRi1iZF95My1vbGRiYXlTaFllTExWWmtkb0t4YlpfVGdqRk9wZld6clh3TW9ucEpPdGM2cVpVd0FkWEVFRUxCWWVQVExlZ3VtVFpoMnl4WkVUMTRwWDQyQ0J6cU9DaS1TcE5uVmJyMl9hcDNxMmNCM0ZfeGdTRGhCSzg1NmdsWVQwLU01X3ZaX3dNMnI3dkNDaFVTMnoxNnZRX1EzTXZvd0FIVlNWbmdMMVlqRk9xbUV1eVdXc1ZBVW11QmhnZUE?oc=5",
+          "fonte": "Yahoo Finance"
+        },
+        {
           "titulo": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam - CNBC",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ?oc=5",
           "fonte": "CNBC"
         },
         {
-          "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures surge amid relief rally - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUF4ZHJTbG4xaUNuOFQtMG1BYmFBbVAxNnBFLXBCRXhxc1gwN2VDLVI3NjhmSlRmWmRGeWFlSzE5LTNSS080QWJRZWo5N3p4d05yZXB5X1JmZkxWMUxjUU9MTFA0Y0w0cnlrOERaVDNFQmYtTjZzTjNLS2tLb253enBNdUU2RVRuMHk2WnpiWGVtNGxQaUlTT21MUk0xSUc1OU0xWFZpdFc3cjJELUE?oc=5",
-          "fonte": "Yahoo Finance"
+          "titulo": "Mapping the Market: More losses could be ahead for beaten-down S&P 500 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWm5Lb1N6VkZoLVVNWFdrQWVvbExPOFc5VWcxbldYRjByRWpuZnhoQ25mZVpNeURSSFlqZVprSU5YZ3JFcWtmbUh1QlZGV3hMUi1fSEM2Y0Z6ZDc0cVNuZERoaVN3dFpYUGVOLU56UTJaX0c4ZXhVS2JvQUN0SHdndzgzQzBobFda?oc=5",
+          "fonte": "Reuters"
         },
         {
-          "titulo": "Watch AI Stocks Rebound After S&P 500 Enters Correction - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzQtRGh4VVJRak4zZGY5N0tNUkdpRE5fdW9PNFBFUVM0ME42NnVXWXYxU0FYZWFKRlpRZ2lMTFctc1pJU0p5cEtJNTl5N051anBTUWF5UWdVblhjRzFCUzhJMk9GOEZ3bmhPSGlTY21RV1FXdUl0UXNvN0RwWlBjM3JTZkZrY0l2NmtTV09BSlZiRENqVGpuY3ZMemw?oc=5",
-          "fonte": "Bloomberg.com"
-        },
-        {
-          "titulo": "The S&P 500 Had a Terrible Week. What History Says Happens Today. - Barron's",
+          "titulo": "The S&P 500 Had a Terrible Week. What History Says Happens Now. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rSGd5ckw5a1BKYmdXdTVYU3pMMHZQN3B0N1ZLMU5ZR1lzWjVwMzJMNjlQYkkycU1MeFh5R1dNeG1HeWZPU1JXZWdVV2ZHRGFOZEwxbnRmempBa0UxZEVINXQ2cF9SNWtYQ3dxTF94SncxYTBqSUE?oc=5",
           "fonte": "Barron's"
         }
       ],
-      "comentario": "Valorização de +0.80%. Após pressões no setor tecnológico nos EUA, o S&P 500 regista uma recuperação. A proteção em EUR ajuda a conter o risco cambial perante as oscilações do dólar."
+      "comentario": "Ganho de 2.74% em linha com a forte recuperação de Wall Street. Pode ponderar manter a posição, acompanhando a evolução das grandes empresas de tecnologia americanas."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -8745,9 +9221,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 6.92,
+        "preco_atual": 6.95,
         "fecho_anterior": 6.92,
-        "variacao_pct": 0.0
+        "variacao_pct": 0.43352601156069726
       },
       "historico": {
         "intradiario": {
@@ -10708,6 +11184,10 @@
             {
               "quando": "2026-11-19T07:00:00+00:00",
               "fecho": 6.92
+            },
+            {
+              "quando": "2026-11-20T07:00:00+00:00",
+              "fecho": 6.95
             }
           ]
         },
@@ -12568,34 +13048,34 @@
             },
             {
               "quando": "2026-11-15T23:00:00+00:00",
-              "fecho": 6.92
+              "fecho": 6.95
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "The bond market: friend or foe in tackling the climate crisis? - OMFIF",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODdBaUMyenAweFptWUYzY3lSS2VmVnFydi1zdnZhX1VDTlJnM3A0SkdGaFA1ZWJWeEwzeGR3S2g4WFhyTjFoaUVjUndjamtsLXdleG1oclBFSnVEcWlJSVlrZ3k4eExaS3htOU9RcmRublVXQnYyQ29WeW5jYUxMM3hKdTBTQjB6Q0Eza2Mzbkt2X2h3QlE?oc=5",
+          "fonte": "OMFIF"
+        },
+        {
           "titulo": "Bond Yields Are Up. Should You Stay in Cash or Lock ’Em In? - Morningstar",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkVXQ5OEpiWWtiMXdCbklLemxXMmppa1ZlY1gxSjlwUE8wX1ViWjBwS3djZTJHemRpS3BlZEZRMUhUNm1oVWZMY0htNmcxeFYyeXZQWkE4NzFBR2V2ZFlGR1ZaY0NmM0ZlU0pMdHVyVW9XdFVyX21MSnFn?oc=5",
           "fonte": "Morningstar"
         },
         {
-          "titulo": "Unlocking euro corporate bonds with active ETFs - BNY",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUThUeUNuU2EwSV9IblNnbFozN01ENHBzWEpNYUw5cW1RYmw0bllESktVM1J3N2IxOHFRSi1EblVJeFlrcmNMaEJsXzA2WFFsdnNKOE1rZGVRYjhmVlZlN2cwcUdjT0FMNWFVcU1SVmt1VERiQnluc2pqaFctUS03LTE0UkEwbDZhS3ZaSWNQTHl1ZkU2YTFpSGx1bDNPc3dKakUyb2N0YmNmX3k0amMyVUxtT2dsa25WaWhCU1JnYkM3V0Q0ZzhIazQ2dFh1RTk1Ym1rRTdR?oc=5",
-          "fonte": "BNY"
+          "titulo": "Buy-Side Traders Seek Confidence in Fragmented Fixed Income Markets - The DESK – Fixed Income Trading",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3NtNnEwRDh6NTRWcENKN2xCVDJkZ0tzaXV3dDFFSURkMDZwVnpnc3cxV211c09MeXJhcDBMT0UwVjRwcEFJc2cyTkRLS295elVRbVFoNFFiSjVTbE9ndmI4MWpDQTd2OGp1WFY1M0JYZy04SEltTFE3SGNRcEloMEtydmN1TF94ZmNwMTRYVmNmd3QtbU9tdjYxVGRIaFk?oc=5",
+          "fonte": "The DESK – Fixed Income Trading"
         },
         {
-          "titulo": "Constructing resilient fixed income portfolios - Invesco",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1J0ZkFRa0F4dkNUQUFVNWtnNnFuQ3FsamFGUmYwX09kNWJYU2tfMDd6dDNLQ2V4Z0VoM2RjcVAxd0ZsXzI0MFlZSlp3UmxQTEJhN0t6dk5QajRMeFgyZlBDTkdydlMzYldrME5uREk4VXNlRUtEYlAwWkg0N1RQSXU0Zmh3SDktMUttLWdITU9uQjhO?oc=5",
-          "fonte": "Invesco"
-        },
-        {
-          "titulo": "Municipal Fixed Income Update October 2026 - Goldman Sachs Asset Management",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdW1LUzdndTUteTRKMUdHX2R0SEZyVHBPQ2JkYUxUS3QySVM3OVdKczVXalV2OEtCZ014a081OEZoUTJSWW1nZGFUd3pHTXBuMFFXRmliZW03MFJpMHJpNzRGYzdnM0pfRlUzLWlnUXZuMzFZenJnaFJIZUZJY1lMQW9faHV6NUk?oc=5",
-          "fonte": "Goldman Sachs Asset Management"
+          "titulo": "Fixed Maturity, Plenty to think about - https://bondvigilantes.com/",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkcza3RUQnFYVldHYmpiT1BZcHpXWS1RaExvZVBReVFBc1AyZjktNjROX2I4N3NZSUx5R0lpWE9NbkV6OC11MGpJQmJKWS0yWGlVb2t0Y2hmRmlQRWlOSWdoUXZMYUFfWmJnYjhjZ0VhbFRUSnd5eVFiYjllLW00N3BOUQ?oc=5",
+          "fonte": "https://bondvigilantes.com/"
         }
       ],
-      "comentario": "Variação de 0.00% hoje. Cumpre a sua função defensiva na carteira, oferecendo estabilidade e rendimento num contexto de maior oscilação nos mercados de ações."
+      "comentario": "Desempenho estável (+0.43%), cumprindo o seu papel de proteção e rendimento em dias de grande volatilidade acionista. Pode ser boa opção para manter o perfil defensivo."
     },
     {
       "ticker": "IMAE.AS",
@@ -12603,9 +13083,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 102.855,
+        "preco_atual": 103.855,
         "fecho_anterior": 101.87,
-        "variacao_pct": 0.9669186217728473
+        "variacao_pct": 1.9485618926082255
       },
       "historico": {
         "intradiario": {
@@ -12780,8 +13260,220 @@
               "fecho": 102.785
             },
             {
-              "quando": "2026-11-23T11:30:37+00:00",
+              "quando": "2026-11-23T11:30:00+00:00",
               "fecho": 102.855
+            },
+            {
+              "quando": "2026-11-23T11:35:00+00:00",
+              "fecho": 102.85
+            },
+            {
+              "quando": "2026-11-23T11:40:00+00:00",
+              "fecho": 102.9
+            },
+            {
+              "quando": "2026-11-23T11:45:00+00:00",
+              "fecho": 102.9
+            },
+            {
+              "quando": "2026-11-23T11:50:00+00:00",
+              "fecho": 102.825
+            },
+            {
+              "quando": "2026-11-23T11:55:00+00:00",
+              "fecho": 102.81
+            },
+            {
+              "quando": "2026-11-23T12:00:00+00:00",
+              "fecho": 102.845
+            },
+            {
+              "quando": "2026-11-23T12:05:00+00:00",
+              "fecho": 102.895
+            },
+            {
+              "quando": "2026-11-23T12:10:00+00:00",
+              "fecho": 102.9
+            },
+            {
+              "quando": "2026-11-23T12:15:00+00:00",
+              "fecho": 102.8
+            },
+            {
+              "quando": "2026-11-23T12:30:00+00:00",
+              "fecho": 102.77
+            },
+            {
+              "quando": "2026-11-23T12:35:00+00:00",
+              "fecho": 102.765
+            },
+            {
+              "quando": "2026-11-23T12:40:00+00:00",
+              "fecho": 102.695
+            },
+            {
+              "quando": "2026-11-23T12:45:00+00:00",
+              "fecho": 102.71
+            },
+            {
+              "quando": "2026-11-23T12:50:00+00:00",
+              "fecho": 102.76
+            },
+            {
+              "quando": "2026-11-23T12:55:00+00:00",
+              "fecho": 102.8
+            },
+            {
+              "quando": "2026-11-23T13:05:00+00:00",
+              "fecho": 102.91
+            },
+            {
+              "quando": "2026-11-23T13:15:00+00:00",
+              "fecho": 102.88
+            },
+            {
+              "quando": "2026-11-23T13:20:00+00:00",
+              "fecho": 102.815
+            },
+            {
+              "quando": "2026-11-23T13:25:00+00:00",
+              "fecho": 102.87
+            },
+            {
+              "quando": "2026-11-23T13:30:00+00:00",
+              "fecho": 102.815
+            },
+            {
+              "quando": "2026-11-23T13:35:00+00:00",
+              "fecho": 102.905
+            },
+            {
+              "quando": "2026-11-23T13:40:00+00:00",
+              "fecho": 102.77
+            },
+            {
+              "quando": "2026-11-23T13:45:00+00:00",
+              "fecho": 102.7
+            },
+            {
+              "quando": "2026-11-23T13:55:00+00:00",
+              "fecho": 103.435
+            },
+            {
+              "quando": "2026-11-23T14:00:00+00:00",
+              "fecho": 103.49
+            },
+            {
+              "quando": "2026-11-23T14:05:00+00:00",
+              "fecho": 103.665
+            },
+            {
+              "quando": "2026-11-23T14:10:00+00:00",
+              "fecho": 103.495
+            },
+            {
+              "quando": "2026-11-23T14:15:00+00:00",
+              "fecho": 103.6
+            },
+            {
+              "quando": "2026-11-23T14:20:00+00:00",
+              "fecho": 103.54
+            },
+            {
+              "quando": "2026-11-23T14:25:00+00:00",
+              "fecho": 103.61
+            },
+            {
+              "quando": "2026-11-23T14:30:00+00:00",
+              "fecho": 103.495
+            },
+            {
+              "quando": "2026-11-23T14:35:00+00:00",
+              "fecho": 103.355
+            },
+            {
+              "quando": "2026-11-23T14:40:00+00:00",
+              "fecho": 103.4
+            },
+            {
+              "quando": "2026-11-23T14:50:00+00:00",
+              "fecho": 103.45
+            },
+            {
+              "quando": "2026-11-23T14:55:00+00:00",
+              "fecho": 103.61
+            },
+            {
+              "quando": "2026-11-23T15:05:00+00:00",
+              "fecho": 103.565
+            },
+            {
+              "quando": "2026-11-23T15:10:00+00:00",
+              "fecho": 103.69
+            },
+            {
+              "quando": "2026-11-23T15:15:00+00:00",
+              "fecho": 103.725
+            },
+            {
+              "quando": "2026-11-23T15:20:00+00:00",
+              "fecho": 103.8
+            },
+            {
+              "quando": "2026-11-23T15:25:00+00:00",
+              "fecho": 103.84
+            },
+            {
+              "quando": "2026-11-23T15:30:00+00:00",
+              "fecho": 103.87
+            },
+            {
+              "quando": "2026-11-23T15:35:00+00:00",
+              "fecho": 103.925
+            },
+            {
+              "quando": "2026-11-23T15:40:00+00:00",
+              "fecho": 103.85
+            },
+            {
+              "quando": "2026-11-23T15:45:00+00:00",
+              "fecho": 103.79
+            },
+            {
+              "quando": "2026-11-23T15:50:00+00:00",
+              "fecho": 103.925
+            },
+            {
+              "quando": "2026-11-23T15:55:00+00:00",
+              "fecho": 103.98
+            },
+            {
+              "quando": "2026-11-23T16:00:00+00:00",
+              "fecho": 103.88
+            },
+            {
+              "quando": "2026-11-23T16:05:00+00:00",
+              "fecho": 104.025
+            },
+            {
+              "quando": "2026-11-23T16:10:00+00:00",
+              "fecho": 103.975
+            },
+            {
+              "quando": "2026-11-23T16:15:00+00:00",
+              "fecho": 104.11
+            },
+            {
+              "quando": "2026-11-23T16:20:00+00:00",
+              "fecho": 104.05
+            },
+            {
+              "quando": "2026-11-23T16:25:00+00:00",
+              "fecho": 103.98
+            },
+            {
+              "quando": "2026-11-23T16:30:00+00:00",
+              "fecho": 103.855
             }
           ]
         },
@@ -14819,10 +15511,6 @@
             {
               "quando": "2026-11-20T08:00:00+00:00",
               "fecho": 101.87
-            },
-            {
-              "quando": "2026-11-23T08:00:00+00:00",
-              "fecho": 102.855
             }
           ]
         },
@@ -15650,35 +16338,35 @@
               "fecho": 101.87
             },
             {
-              "quando": "2026-11-23T11:30:37+00:00",
-              "fecho": 102.855
+              "quando": "2026-11-23T16:35:27+00:00",
+              "fecho": 103.855
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Europe's STOXX 600 rises as tech shares rebound after AI-driven rout - Reuters",
+          "titulo": "Europe's STOXX logs strongest day in over six months on tech boost - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDFuaFRyaktlcVA5TVR0eXF2QlktZ3ZVU3JkbzZycU8zTU90WEhFSlhuVTc5RTRCdVctYVpuQzZhdUJnN1BlZWdOYkZEQXg5alR6d1BDVWEwMEszRTlRUFB1aG9ueFhHWmZmbkI1dmFSSmNZMVF6VzlhZFpBOG5BaVJ0QlprZnRVRmVIZ2djcXFzM3VrU2VQa3FQelVLU2Qzd2MwT19jTUdkRnVWYmc?oc=5",
           "fonte": "Reuters"
         },
         {
-          "titulo": "European shares post worst week in over a year as AI trade unravels - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTRUN3RabW5hOWVFMWhrajEweXFyWWRURWthSmRXYlVrTF9jcGJyRGFoQ0xyZzlpeXNBWkJqTU9UaDAySmluOU5FZkd5eTZ2R0pZT1dIODdaQktHX1BrVGlhVUZjVjhUb20zZnYyY19yTWNCdVppTmJTQmREaUktRXhJXzdkMGdCT0YtYlplSGxOR2NVb2xrRHdyWW44QlBHV0R3dk1kOA?oc=5",
-          "fonte": "Reuters"
+          "titulo": "European Equities Are Comparatively An Easy Call Now - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkZzWDFTUTZDcENNa3NURnRuc1p2Qng2Q2QyZHVvQUROZVpITVl1ZEZtcEFUMXJaLThaZDBaWkU1OF9pMklHdVJGZjJ6NzMwOV9fdHMwY3daX0ZVakRKb0RiSl9MVXY1Y1pWS3V1SFk0TXJORENvU1pyaG10OWRLOUU0ejI?oc=5",
+          "fonte": "Seeking Alpha"
         },
         {
-          "titulo": "European Stocks Defy Global Shocks with Strong Earnings Growth - Goldman Sachs",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWNWVlI0NDU5LS1NMHJZMzF1cWlGbk5fN0YyODNSWndMbnNKN0hOYUFwcUNGQzE1dWFTRnhkYW9rQ05CYlgwTHA3aVB3cGNvRWY3Y2R3eWV5OXpYVHVhQzVhWnN4aHZfdWRGTGM4d3kwcDNIVjFmdHBzV1VOaFlpM1RUSkpUNU83ZWhucXk3UnptOEVFRXFMTUpJbUpuRFRuYnpJdXNrU3EzRFJSekE?oc=5",
-          "fonte": "Goldman Sachs"
+          "titulo": "Swiss Bourse Owner SIX Steps Up Effort to Attract Growth Stocks - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdGRzNm9EZUVNOXg4YUtKdGZWUjJwdlRIUThleGw5bkpZTGR3eUI3RW9GMVpQMU1MSFh4Y1dpNjl3ZFZaYWRnU1E3bXlwSGdjM2VncmRqTUhETm5VdnBQSHl6LUFDNktSS0ZzeFBGcEc4T1NjaS1kYjZ1RnVxM3VXTUhXSHVBeDNaeVhGYjNXYy1VTl9ldTRMTjMxVWZXY2cxTngzWkdIeC02VUFkelRtNEprd2g4ZVE?oc=5",
+          "fonte": "Bloomberg.com"
         },
         {
-          "titulo": "US Midterms: What the Democrats’ Victory Means for European Stock Markets - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkYtNGVqVXVnWU5IT1RlRDJuSjRzRGg0TGgtTlk5STBhYk9YQWNyb3dGajNCR053NkMyYTh6bXlkc2hpV0psMlozb0pZVGZUVDV2VE5pTVNqSEZFLUUxNllLWXVsZEc5d00zTkxXNGwxZGNGbmRtV2RCVGFoR3AtWDkyeW96WmVrUV9VWHhKM3RKS2tJWXRNNERkZDFnaWFXUm1DdF81VGktdXd2?oc=5",
-          "fonte": "Morningstar"
+          "titulo": "European Stocks Recover After Steep Technology-Led Selloff - US News Money",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFl1R2NaYkRYYnZaZkYxU2FTWGdBRkVXcGFFRVVNdGdSMU14d0JGRWpkLXZlbzc5bVNiRlpjNGZaUDdPaGJzTEtqcXk3bmktTktWV290ZVo2UFdBV0V0ZjQzYzdEYWpwb0UxWk9iMGIybFM4MjdMdXgxb0lFVTlvaGpiRGdjSHlMeW9wYUNER3ZMb3c5aDhscThWRmJDVTJhcWVoNWNuVTh0X19laThjcUF1czQ3a1g3Tmc?oc=5",
+          "fonte": "US News Money"
         }
       ],
-      "comentario": "Subida de +0.97%. As ações europeias recuperam impulsionadas pela tecnologia, após uma semana de perdas. A diversificação na Europa ajuda a equilibrar a exposição ao mercado norte-americano."
+      "comentario": "Valorização de 1.95% impulsionada pelo alívio nas cotadas europeias. Uma posição sólida para manter a exposição à região europeia de forma diversificada."
     },
     {
       "ticker": "SEMI.AS",
@@ -15686,9 +16374,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 14.706,
+        "preco_atual": 15.76,
         "fecho_anterior": 14.17,
-        "variacao_pct": 3.7826393789696517
+        "variacao_pct": 11.220889202540578
       },
       "historico": {
         "intradiario": {
@@ -15851,8 +16539,232 @@
               "fecho": 14.676
             },
             {
-              "quando": "2026-11-23T11:32:12+00:00",
-              "fecho": 14.706
+              "quando": "2026-11-23T11:30:00+00:00",
+              "fecho": 14.708
+            },
+            {
+              "quando": "2026-11-23T11:35:00+00:00",
+              "fecho": 14.672
+            },
+            {
+              "quando": "2026-11-23T11:40:00+00:00",
+              "fecho": 14.7
+            },
+            {
+              "quando": "2026-11-23T11:45:00+00:00",
+              "fecho": 14.71
+            },
+            {
+              "quando": "2026-11-23T11:50:00+00:00",
+              "fecho": 14.696
+            },
+            {
+              "quando": "2026-11-23T11:55:00+00:00",
+              "fecho": 14.702
+            },
+            {
+              "quando": "2026-11-23T12:00:00+00:00",
+              "fecho": 14.67
+            },
+            {
+              "quando": "2026-11-23T12:05:00+00:00",
+              "fecho": 14.672
+            },
+            {
+              "quando": "2026-11-23T12:10:00+00:00",
+              "fecho": 14.666
+            },
+            {
+              "quando": "2026-11-23T12:15:00+00:00",
+              "fecho": 14.6
+            },
+            {
+              "quando": "2026-11-23T12:25:00+00:00",
+              "fecho": 14.612
+            },
+            {
+              "quando": "2026-11-23T12:30:00+00:00",
+              "fecho": 14.6
+            },
+            {
+              "quando": "2026-11-23T12:35:00+00:00",
+              "fecho": 14.606
+            },
+            {
+              "quando": "2026-11-23T12:40:00+00:00",
+              "fecho": 14.534
+            },
+            {
+              "quando": "2026-11-23T12:45:00+00:00",
+              "fecho": 14.56
+            },
+            {
+              "quando": "2026-11-23T13:05:00+00:00",
+              "fecho": 14.662
+            },
+            {
+              "quando": "2026-11-23T13:10:00+00:00",
+              "fecho": 14.672
+            },
+            {
+              "quando": "2026-11-23T13:15:00+00:00",
+              "fecho": 14.682
+            },
+            {
+              "quando": "2026-11-23T13:20:00+00:00",
+              "fecho": 14.698
+            },
+            {
+              "quando": "2026-11-23T13:25:00+00:00",
+              "fecho": 14.642
+            },
+            {
+              "quando": "2026-11-23T13:30:00+00:00",
+              "fecho": 14.596
+            },
+            {
+              "quando": "2026-11-23T13:35:00+00:00",
+              "fecho": 14.65
+            },
+            {
+              "quando": "2026-11-23T13:40:00+00:00",
+              "fecho": 14.646
+            },
+            {
+              "quando": "2026-11-23T13:45:00+00:00",
+              "fecho": 14.6
+            },
+            {
+              "quando": "2026-11-23T13:50:00+00:00",
+              "fecho": 14.586
+            },
+            {
+              "quando": "2026-11-23T13:55:00+00:00",
+              "fecho": 15.306
+            },
+            {
+              "quando": "2026-11-23T14:00:00+00:00",
+              "fecho": 15.862
+            },
+            {
+              "quando": "2026-11-23T14:05:00+00:00",
+              "fecho": 15.766
+            },
+            {
+              "quando": "2026-11-23T14:10:00+00:00",
+              "fecho": 15.892
+            },
+            {
+              "quando": "2026-11-23T14:15:00+00:00",
+              "fecho": 15.968
+            },
+            {
+              "quando": "2026-11-23T14:20:00+00:00",
+              "fecho": 15.962
+            },
+            {
+              "quando": "2026-11-23T14:25:00+00:00",
+              "fecho": 16.124
+            },
+            {
+              "quando": "2026-11-23T14:30:00+00:00",
+              "fecho": 15.734
+            },
+            {
+              "quando": "2026-11-23T14:35:00+00:00",
+              "fecho": 15.694
+            },
+            {
+              "quando": "2026-11-23T14:40:00+00:00",
+              "fecho": 15.592
+            },
+            {
+              "quando": "2026-11-23T14:45:00+00:00",
+              "fecho": 15.53
+            },
+            {
+              "quando": "2026-11-23T14:50:00+00:00",
+              "fecho": 15.542
+            },
+            {
+              "quando": "2026-11-23T14:55:00+00:00",
+              "fecho": 15.742
+            },
+            {
+              "quando": "2026-11-23T15:00:00+00:00",
+              "fecho": 15.71
+            },
+            {
+              "quando": "2026-11-23T15:05:00+00:00",
+              "fecho": 15.72
+            },
+            {
+              "quando": "2026-11-23T15:10:00+00:00",
+              "fecho": 15.8
+            },
+            {
+              "quando": "2026-11-23T15:15:00+00:00",
+              "fecho": 15.844
+            },
+            {
+              "quando": "2026-11-23T15:20:00+00:00",
+              "fecho": 15.954
+            },
+            {
+              "quando": "2026-11-23T15:25:00+00:00",
+              "fecho": 15.84
+            },
+            {
+              "quando": "2026-11-23T15:30:00+00:00",
+              "fecho": 15.9
+            },
+            {
+              "quando": "2026-11-23T15:35:00+00:00",
+              "fecho": 15.966
+            },
+            {
+              "quando": "2026-11-23T15:40:00+00:00",
+              "fecho": 15.914
+            },
+            {
+              "quando": "2026-11-23T15:45:00+00:00",
+              "fecho": 15.814
+            },
+            {
+              "quando": "2026-11-23T15:50:00+00:00",
+              "fecho": 15.764
+            },
+            {
+              "quando": "2026-11-23T15:55:00+00:00",
+              "fecho": 15.722
+            },
+            {
+              "quando": "2026-11-23T16:00:00+00:00",
+              "fecho": 15.72
+            },
+            {
+              "quando": "2026-11-23T16:05:00+00:00",
+              "fecho": 15.826
+            },
+            {
+              "quando": "2026-11-23T16:10:00+00:00",
+              "fecho": 15.788
+            },
+            {
+              "quando": "2026-11-23T16:15:00+00:00",
+              "fecho": 15.8
+            },
+            {
+              "quando": "2026-11-23T16:20:00+00:00",
+              "fecho": 15.8
+            },
+            {
+              "quando": "2026-11-23T16:25:00+00:00",
+              "fecho": 15.82
+            },
+            {
+              "quando": "2026-11-23T16:30:00+00:00",
+              "fecho": 15.76
             }
           ]
         },
@@ -17890,10 +18802,6 @@
             {
               "quando": "2026-11-20T08:00:00+00:00",
               "fecho": 14.17
-            },
-            {
-              "quando": "2026-11-23T08:00:00+00:00",
-              "fecho": 14.706
             }
           ]
         },
@@ -19009,35 +19917,35 @@
               "fecho": 14.17
             },
             {
-              "quando": "2026-11-23T11:32:12+00:00",
-              "fecho": 14.706
+              "quando": "2026-11-23T16:35:27+00:00",
+              "fecho": 15.76
             }
           ]
         }
       },
       "noticias": [
         {
+          "titulo": "SOXX Heads For Biggest Single-Day Gain in Over 18 Months As Semiconductor, AI Stocks Rebound Sharply - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDNfSHZwX0pOSjFfN0s5V25uNFk4OUdMMmhKVHprczlNSDByZkVnNHZSRTNOOHpGR2N6dzJQN29felhPNDVMMTg5LXlzbEFsd1BDVWRFUWwtZ0ppNTZFbUZmUnRERDIxTnRfUUtqQkg1MkZjWUVrdGxaR2M0ZGt1bVFOU1FuUThhaDNZN1NEYnVFeGNzb180Y2l3?oc=5",
+          "fonte": "Yahoo Finance"
+        },
+        {
           "titulo": "2 Semiconductor Stocks to Buy No Matter Who Wins the AI Chip Race - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWks0dTJsY3pKb1lVU2t5UFc3b0VaUDdDdUYwaVlrNC1fZGFHWUJhOGowSl8tYUxEZURqN0w5Sncxd1BrSTRDd0t1RE40T3ZTMTZwZ1Z0RWNoZXFMVkJIeHBCT1hOaUhVWU9zSThmSkI5TTU5T1V6MkUtcHk4aTF5VFdfaTRyV1RwbGFObG92b1kxUUNvZncydkk2UFp3azgwLTZqNkZMYmQ4VW9B?oc=5",
           "fonte": "The Motley Fool"
         },
         {
-          "titulo": "Micron vs. NVIDIA: Which Semiconductor Stock Has the Edge? - Zacks Investment Research",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ01fbXBOMGhReGVJVklmalAtU2Q5UkZMbDJaYngzSEdWeEVoQ3hBU1Q2SUNYZjFUVXJ2Sl9zaGxTYmhSMkhZWFRlVFRzYlJuRUJNQjI5ZlRDREtQdUgzXzVQaXItZW9NVThVcG1KX3hRNnhGMVFtUTlISi1FcmdZcnlqa2lidTV4X3ZMRmVVS19OdDVZQ2FHOEE0Y2I?oc=5",
-          "fonte": "Zacks Investment Research"
+          "titulo": "Taiwan Semiconductor Rallies 17% as Jensen Huang's Return to NVIDIA Lifts Chip Stocks; Intel Surges 15%, AMD Jumps 8% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY3NBa1ZIRXJyUHFCWERaWWxiTGFoRW53aGY2Q1pqUzZQNmpiVGpQdG00T2hzVWpQNEN4Q0JBYlRja3FvdWhKaHpxVjVxQjRfQnlwRmc1Tm0tMFVVQjVNTzUzM29rbTlwWE5DZDNRYWM3aHQ0NkNzbGhIUExDa1F3MnhibXEwWEc3RzhUUzNIUkYtV1haWGtfYWdzNnlpaHFLU3dQS1R1dDZKVUx1SC1GczJ5UnMyTVF6alEyblVtdmIwdldnQjhIc01OaDgycmpQQ0pNQlBGaVRmWHJMS1ExemxsdFFVNkpLVEZn?oc=5",
+          "fonte": "24/7 Wall St."
         },
         {
-          "titulo": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmVjR2pPZV81aXlnbXVMblJIYTZka3ZuYS1FVl9aRW9IX3l5YS12eGRtZVVHT2xVeW9MbWU1WkQ1YmhBNnJZaDZxaTVRYVpZSEFyMTFPNXJIYTNpNDhUbkt5alM2ZTNIb0V3ckJHc2M2WHZxUnhIRDJUcnFEM2JqZXZQdlpqVjhIUmtBNDNoU3dxR0IzS1ZPRXI5MkRldXQyN3p5aV9Eaw?oc=5",
-          "fonte": "Yahoo Finance"
-        },
-        {
-          "titulo": "Best Semiconductor Stocks to Buy: Micron vs. Intel - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTZmbGxvODJoTE5OelFmOTNxMVh0TjVLejY2c3N3NHo2NjdYMFVHdjV3alJmR2ZxTU5XQnZ2RDZoSjhwQ2lrWUQyV1dlRHgwTlZzY2oyVC1SN1NKVWV5YXA3UkdoQ0NYdHlqNXgzTE83Ui1OU2VOOTU3ZzZiNTJmZWtidVByck5HX1k1Y3NwdUdiRkd5aVE?oc=5",
-          "fonte": "The Motley Fool"
+          "titulo": "Peter Thiel Bets Big on Semiconductors in Q3 And He Might Be Down 33% Already - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3YwaUlfdm9DeGUtVkE2XzhJal9uOWdkUVhLdWNwOWx5RTJfVXc3YUJlX0tTM3JGejRtUnpOb1dLeTNRb0hZeG9saU1odGZiWnc1NGZaYTBsaFNtQkRpc1FhMWtyV0J4WmlPTGJQcE1zN0ZhM0Njd0Iyc1hEbnFBSUZxX09nREFDcGJEejhnS1dEOHVZSUUxR3BJWGZmeDcwVHhGSXlpejRTejVRckpDY3l5OGpBaExTLXdlaDE5RDlaOEFLc1M3cg?oc=5",
+          "fonte": "Benzinga"
         }
       ],
-      "comentario": "Forte recuperação de +3.78%, liderando os ganhos do dia. O setor dos semicondutores permanece volátil devido aos debates sobre a IA, mas oferece um potencial de crescimento a considerar para o longo prazo."
+      "comentario": "Subida espetacular de 11.22% num só dia após a recuperação do setor dos chips. Dada a volatilidade deste tema, pode fazer sentido ponderar a recolha parcial de ganhos."
     },
     {
       "ticker": "SGLD.AS",
@@ -19045,9 +19953,9 @@
       "categoria": "watchlist",
       "preco": {
         "ok": true,
-        "preco_atual": 317.55,
+        "preco_atual": 324.4,
         "fecho_anterior": 310.27,
-        "variacao_pct": 2.346343507267873
+        "variacao_pct": 4.55409804363941
       },
       "historico": {
         "intradiario": {
@@ -19198,8 +20106,168 @@
               "fecho": 317.51
             },
             {
-              "quando": "2026-11-23T11:31:02+00:00",
+              "quando": "2026-11-23T11:30:00+00:00",
               "fecho": 317.55
+            },
+            {
+              "quando": "2026-11-23T11:35:00+00:00",
+              "fecho": 317.73
+            },
+            {
+              "quando": "2026-11-23T11:50:00+00:00",
+              "fecho": 317.83
+            },
+            {
+              "quando": "2026-11-23T11:55:00+00:00",
+              "fecho": 317.71
+            },
+            {
+              "quando": "2026-11-23T12:00:00+00:00",
+              "fecho": 317.49
+            },
+            {
+              "quando": "2026-11-23T12:10:00+00:00",
+              "fecho": 317.2
+            },
+            {
+              "quando": "2026-11-23T12:15:00+00:00",
+              "fecho": 316.97
+            },
+            {
+              "quando": "2026-11-23T12:20:00+00:00",
+              "fecho": 316.99
+            },
+            {
+              "quando": "2026-11-23T12:25:00+00:00",
+              "fecho": 317.01
+            },
+            {
+              "quando": "2026-11-23T12:30:00+00:00",
+              "fecho": 317.2
+            },
+            {
+              "quando": "2026-11-23T12:35:00+00:00",
+              "fecho": 317.85
+            },
+            {
+              "quando": "2026-11-23T12:40:00+00:00",
+              "fecho": 317.69
+            },
+            {
+              "quando": "2026-11-23T12:45:00+00:00",
+              "fecho": 318.01
+            },
+            {
+              "quando": "2026-11-23T13:00:00+00:00",
+              "fecho": 318.11
+            },
+            {
+              "quando": "2026-11-23T13:05:00+00:00",
+              "fecho": 317.74
+            },
+            {
+              "quando": "2026-11-23T13:15:00+00:00",
+              "fecho": 318.26
+            },
+            {
+              "quando": "2026-11-23T13:30:00+00:00",
+              "fecho": 318.56
+            },
+            {
+              "quando": "2026-11-23T13:40:00+00:00",
+              "fecho": 317.89
+            },
+            {
+              "quando": "2026-11-23T13:45:00+00:00",
+              "fecho": 318.12
+            },
+            {
+              "quando": "2026-11-23T13:55:00+00:00",
+              "fecho": 321.82
+            },
+            {
+              "quando": "2026-11-23T14:00:00+00:00",
+              "fecho": 320.99
+            },
+            {
+              "quando": "2026-11-23T14:10:00+00:00",
+              "fecho": 322.38
+            },
+            {
+              "quando": "2026-11-23T14:15:00+00:00",
+              "fecho": 322.51
+            },
+            {
+              "quando": "2026-11-23T14:20:00+00:00",
+              "fecho": 323.69
+            },
+            {
+              "quando": "2026-11-23T14:30:00+00:00",
+              "fecho": 323.03
+            },
+            {
+              "quando": "2026-11-23T14:35:00+00:00",
+              "fecho": 322.56
+            },
+            {
+              "quando": "2026-11-23T14:40:00+00:00",
+              "fecho": 322.16
+            },
+            {
+              "quando": "2026-11-23T14:45:00+00:00",
+              "fecho": 322.67
+            },
+            {
+              "quando": "2026-11-23T14:50:00+00:00",
+              "fecho": 322.41
+            },
+            {
+              "quando": "2026-11-23T14:55:00+00:00",
+              "fecho": 322.75
+            },
+            {
+              "quando": "2026-11-23T15:00:00+00:00",
+              "fecho": 323.18
+            },
+            {
+              "quando": "2026-11-23T15:05:00+00:00",
+              "fecho": 322.8
+            },
+            {
+              "quando": "2026-11-23T15:10:00+00:00",
+              "fecho": 322.8
+            },
+            {
+              "quando": "2026-11-23T15:15:00+00:00",
+              "fecho": 322.8
+            },
+            {
+              "quando": "2026-11-23T15:35:00+00:00",
+              "fecho": 323.33
+            },
+            {
+              "quando": "2026-11-23T15:40:00+00:00",
+              "fecho": 323.84
+            },
+            {
+              "quando": "2026-11-23T15:45:00+00:00",
+              "fecho": 323.37
+            },
+            {
+              "quando": "2026-11-23T15:50:00+00:00",
+              "fecho": 323.64
+            },
+            {
+              "quando": "2026-11-23T16:00:00+00:00",
+              "fecho": 324.16
+            },
+            {
+              "quando": "2026-11-23T16:10:00+00:00",
+              "fecho": 323.71
+            },
+            {
+              "quando": "2026-11-23T16:25:00+00:00",
+              "fecho": 324.4
             }
           ]
         },
@@ -21229,10 +22297,6 @@
             {
               "quando": "2026-11-20T08:00:00+00:00",
               "fecho": 310.27
-            },
-            {
-              "quando": "2026-11-23T08:00:00+00:00",
-              "fecho": 317.55
             }
           ]
         },
@@ -21708,35 +22772,35 @@
               "fecho": 310.27
             },
             {
-              "quando": "2026-11-23T11:31:02+00:00",
-              "fecho": 317.55
+              "quando": "2026-11-23T16:29:55+00:00",
+              "fecho": 324.4
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "There are five trillion reasons not to give up on gold just yet - Kitco",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmVvLUV0T3haSzRmSUsxVEtmaTBVNDBZTE4wOFpEQ01pYmZzX1lwa2dxRmxFRzE1eThieXRrdW9Wd05QQXhUREZSb1RiNE02VkxUcEE3eXFFaUx5eFN2dThuLUhyWVNFT2V0OURvWXBSdmN1UjhzQnlCQlIyV0dUclpLQjVXanJ5VEpIdFNDSG0tTUtTQ0Z6c245TnluOFJ0X1E?oc=5",
-          "fonte": "Kitco"
+          "titulo": "Gold is having a rough year. Does it still belong in your portfolio? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0l5TjFXc1RMcVYzV05tYS1jRUk4NlRSaHFmaTBURHhfWlFMWG5sQkkyLXpIaXMzcld1U0JRcHYzSHhySlYtZVluZktpcjM0WS03RGhvOG1OWlAzc0phakpMRVBKSWxSTXYzbTlXZ0I2TTNlTUZxRHZFekV3NURHTzVvQ0p6QW84azF1eTFxNC16NnlBbUJhdGhGVmdaOUFmYk9ta2RTOEZYbExhMEplUzdOVDVyd2RpNnEtcVZKVGlaQUNMdnI2NGRQeTJDeHplSWl5T0FCQk9QZw?oc=5",
+          "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Gold Price Today on November 23, 2026 - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQmsxSVE4YjNIOTdVYk5xOEVnb2VLQVBRQVprQ2ZLdl9Kenk2V0JjLWhlZ3pOcW1Ua3lxUy1RODlQMkhEZTFmSTRKelQ3TklqSTZYamhUekNGWmJCRndGMjc0bnFTZ0pxMjdnQ1U0V2RoNFRrNkpwY2dCY25MeWdwMktOZjNMZ3dwNlgyT3d2d3FwU2FpUVBvMm9fUWdva2lRcHFz?oc=5",
-          "fonte": "USA Today"
+          "titulo": "Gold Futures Rebound as Nvidia News Lifts Markets - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1lDUDJKYnppMTFtNDdCYUoyWkVjdTBJYWpOaWY3OHFRUTMxT0VSUTR0UWN4SEFQVVZJUlhqNjU4OFlDeXdHZkh4ZUFFSTNzWXhEcWpRQ0h0eVk3Q1ZmU2I5OURqdnhEc1hlQmRDcGVVLXZ5YW8yTWQ4dWYwRHE4V0dLTGZhd0p2S3A1V0l6MUs4M3RXaFh0TlJDZUdQYkdPRWNoclFEMl9sY2JTQzNZcDJn?oc=5",
+          "fonte": "WSJ"
         },
         {
-          "titulo": "What Gold’s Price Collapse Means For Millions of Americans - Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVVaYTJtVXF1Q0RCemZkeThoZGVQeUhmOEs1MDk3RE1LeWRFZjlTdlhrOHhKMldyMmVNMF96T2VaLVlkZm9qdkNUMjBKbzBwYnYyZ3FMc3BtdDdaMFFjYXEzelZJUnRqOUdDTTJtRDBnRndUMzlGRl96c2N3NWpzbnZsOXU0dTZSd3NnbGI1VVk5c0Uydnc?oc=5",
-          "fonte": "Newsweek"
+          "titulo": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - FOREX.com",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQklYQS1uSzlZYkU2V1h0RWtFdFd6WXFJS2ViSHpNeUN1N2s3OTdMSkFlNFd4dzR6cDZ1dUloTjR5LTFaa2tKbEdrT1RaS18xbEN0Q3hQT0VNT0o2OWxmTzhCYWhBWEJrV0dIZ0VuSW9qLTkyLW1xcENzYWVPaElWbE5zV0VyeWFLOUFPMFRUZHdGSlVFa1VHWE8tSmJ1RS1HYjFIOHNJNkVSZkcwelpjWlViNjRfLWxLYnk3ODBpcTRIVGtjempUZ2I1ejBtX0djVks00gHfAUFVX3lxTE9VaE1MdmpROExJM292VnA0a2xIVmhnTHpKS2dha2pIdmJkMmlGQTNEQnVvMEpPMEt6eFZLczhFTkVtTzBPeFBzZHRsVWE0dEhjNXpqd1dFV3hQaE9oMDRxSk0ycGRtSmdKTVcyMTBzM012c3RnVENlRFBPei0tbURvNlFLSkw0ZWVzZ0FDbV9uN08xSE1KNkxvSDlRMDdmaXV2UGN3TlY0aG5STHRWemFxbVlVU1hoUDRGU2RaelBYaEFCQThqTmRaRFZwTldXb0pSdGtzU1hrYzBVLWdpMXM?oc=5",
+          "fonte": "FOREX.com"
         },
         {
-          "titulo": "Gold price forecast: Goldman Sachs sees $4,650 by 2027 despite US rate pressures — what investors should do - Livemint",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSlN0V3VUeW5aTFNRRzRvamprQVRoUGZhUmNyQm90R29kdW5WeDc0cjZrVUV1XzZXbTJ1U1lFNUVQNGlYWWszMlVzbzdOMkxjaTM3THVxRFdmRDFZNDJVaXhSYzFwcUhmRkVYdjMzcDh1aE1tdHZFekxBazhTWFJKVTdPQ25odmNBQ2lJSHBzY1FlM2lILWFneV9DeXgwaGhrTU9BRU5KWXo4U3B0MkdEemctcS1teDRycmJtVGE3OWdkcVhSak1DczBEdkN1UHlkRVZsXzJId1pCaGF5YnhiWUYxQmRZMjRqMENXcTJNUnROb2VKcmVEYTc4bUFNXzdS0gGGAkFVX3lxTE10WGFDamlZNG5yTEk0QmtQeFUzMXBNQ0pKelhVYjRQUlJiUkJIWEtYWWYyM1RSb3p0WW9GRHpqOWhubmpkRWNQRE1ScC1NVTJEQXdvUG0xa0FMYVVSTmRFaXJMQWdxbU9FbDVMcDZkdXlWREY2MXIyRldYYnNzWnhnVkdwR0ZBTV9VaU1hWlNzMEFjcFB0R0tEVF96VWJZTXhXZHNMWURUdFg2R3FqQTg4U0JmQlh2OGlNd2FXSU5TVjB0MHhDRE04bDduV2ZxUm1KMmEtbnQyRG9oTHVkXzRZOXQ5cng2dnBBc3pvQ3FDS0t2OVdwZVBZUF9rTTBuSXRXN3U0MVE?oc=5",
-          "fonte": "Livemint"
+          "titulo": "'Everything Crash' Sees Gold Price Extend Longest Slump Since 1970 - BullionVault",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0Qwdm5RRlNVeVhxUnY5aHFwQWxTT1A2MzhzanZidl9Ed29NeU1YLVpIYl9oLWhXUGxGRFFZekFucEhZVC1qVzFpM3JWYjNsck5BaEZ5MFBLdmJXSnZjN1J6LWw0S1E2QjQzYk1pbDRXelJhVnNTU3NtSVZadHN3a1Y1cGE1VzQ3RW5hRzRHaTU?oc=5",
+          "fonte": "BullionVault"
         }
       ],
-      "comentario": "Bom desempenho com +2.35%. O ouro continua a ser procurado como reserva de valor e proteção contra incertezas globais. Pode ser interessante manter a posição para diversificação de risco."
+      "comentario": "Recuperação de 4.55% a acompanhar a boa disposição geral dos mercados. O ouro continua a ser uma alternativa valiosa para diversificação e reserva de valor a longo prazo."
     }
   ]
 }
