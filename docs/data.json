@@ -1,13 +1,13 @@
 {
-  "atualizado_em": "2026-11-24T18:57:03.093063+00:00",
-  "analise_geral": "Hoje é um dia marcado por correções acentuadas nos mercados globais, em especial no setor tecnológico e de semicondutores, o que penalizou fortemente ativos como o SEMI.AS e os mercados emergentes (IS3N.DE). O ouro (SGLD.AS) também recuou de forma assinalável. Em contrapartida, a componente de rendimento fixo (PIMCO) serviu de amortecedor positivo. Numa perspetiva de investimento a longo prazo, dias de forte volatilidade como este são normais. Sugere-se manter a calma, evitar decisões impulsivas de venda e reavaliar se a alocação atual da carteira continua a refletir os seus objetivos e tolerância ao risco.",
-  "analise_gerado_em": "2026-11-24T18:57:03.093021+00:00",
+  "atualizado_em": "2026-11-25T02:58:31.128184+00:00",
+  "analise_geral": "Hoje é um dia de forte correção nos mercados globais, impulsionado sobretudo pelas descidas acentuadas no setor tecnológico e dos semicondutores. A sua carteira reflete essa pressão, com destaque negativo para o ETF de semicondutores (SEMI.AS), mercados emergentes e o ouro. Apenas o fundo de rendimento fixo (PIMCO) fechou no verde, cumprindo o seu papel amortecedor. Sugere-se manter a calma e evitar decisões emocionais. Se o seu horizonte for de longo prazo, este movimento pode ser encarado como uma volatilidade normal de mercado ou uma oportunidade futura para ponderar um rebalanceamento.",
+  "analise_gerado_em": "2026-11-25T02:57:18.642746+00:00",
   "alertas_enviados": {
-    "IS3N.DE": "2026-11-24",
+    "IS3N.DE": "2026-11-25",
     "IWDE.AS": "2026-11-24",
     "IUES.AS": "2026-11-24",
-    "SEMI.AS": "2026-11-24",
-    "SGLD.AS": "2026-11-24"
+    "SEMI.AS": "2026-11-25",
+    "SGLD.AS": "2026-11-25"
   },
   "ativos": [
     {
@@ -2448,10 +2448,6 @@
             {
               "quando": "2026-11-23T08:00:00+00:00",
               "fecho": 43.739
-            },
-            {
-              "quando": "2026-11-24T08:00:00+00:00",
-              "fecho": 42.1
             }
           ]
         },
@@ -3052,7 +3048,7 @@
             },
             {
               "quando": "2026-10-31T23:00:00+00:00",
-              "fecho": 40.955
+              "fecho": 43.739
             },
             {
               "quando": "2026-11-24T16:35:57+00:00",
@@ -3083,7 +3079,7 @@
           "fonte": "Morningstar"
         }
       ],
-      "comentario": "Queda expressiva motivada pela pressão no setor tecnológico global, que tem forte peso nos mercados emergentes. Sugere-se acompanhar a evolução com paciência, pois a volatilidade é uma característica habitual nesta classe de ativos."
+      "comentario": "Registou uma queda acentuada (-3.75%), muito penalizado pela correção nas empresas tecnológicas com grande peso nos mercados emergentes. Sugere-se acompanhar a evolução sem alarme, dado que a volatilidade é uma característica habitual deste ativo."
     },
     {
       "ticker": "IWDE.AS",
@@ -5227,10 +5223,6 @@
             {
               "quando": "2026-11-23T08:00:00+00:00",
               "fecho": 113.04
-            },
-            {
-              "quando": "2026-11-24T08:00:00+00:00",
-              "fecho": 111.82
             }
           ]
         },
@@ -5995,7 +5987,7 @@
             },
             {
               "quando": "2026-10-31T23:00:00+00:00",
-              "fecho": 110.24
+              "fecho": 113.04
             },
             {
               "quando": "2026-11-24T16:26:39+00:00",
@@ -6026,7 +6018,7 @@
           "fonte": "Reuters"
         }
       ],
-      "comentario": "Recuo moderado em linha com a tendência geral dos mercados desenvolvidos. A proteção em euros mitiga o risco cambial. Continua a ser uma posição central e diversificada na carteira."
+      "comentario": "Recuou 1.08%, refletindo o sentimento negativo nas bolsas mundiais. A cobertura cambial em euros protege o investimento das variações do dólar. Pode ser boa ideia manter a posição no âmbito de uma estratégia global diversificada."
     },
     {
       "ticker": "IUES.AS",
@@ -6156,7 +6148,7 @@
             },
             {
               "quando": "2026-11-24T13:05:00+00:00",
-              "fecho": 146.1
+              "fecho": 146.33
             },
             {
               "quando": "2026-11-24T13:10:00+00:00",
@@ -8262,10 +8254,6 @@
             {
               "quando": "2026-11-23T08:00:00+00:00",
               "fecho": 148.38
-            },
-            {
-              "quando": "2026-11-24T08:00:00+00:00",
-              "fecho": 146.49
             }
           ]
         },
@@ -9030,7 +9018,7 @@
             },
             {
               "quando": "2026-10-31T23:00:00+00:00",
-              "fecho": 144.42
+              "fecho": 148.38
             },
             {
               "quando": "2026-11-24T16:35:21+00:00",
@@ -9041,27 +9029,27 @@
       },
       "noticias": [
         {
-          "titulo": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5",
+          "titulo": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ?oc=5",
           "fonte": "CNBC"
         },
         {
-          "titulo": "Stock market today: Dow gains, S&P 500 and Nasdaq decline as chip stocks tumble, investors test AI appetite - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRElscjEtckxzUEhMMWRhYk92WEhnM0E5aFFzYl9PVzIxbGotWTh3bjhrNE9ncTMxdFFyTDFJOTdNLXBuMWgyMEg3TGpKVTZqaXBiQS1JeklvM2xiTXpPTXh5VkNOTkdqNzM3WHhHLWtEOVNQZHZHRWk1RWRWSk1sS1hnZDVkN0dVeEN6ektwTVdfY2xpQWQ1elREX0NiVW13N1VHRzRnaG4zUHNiOFZnMnMtamZhV09NQjMzaTRfUVNiWWNtQUlMOQ?oc=5",
-          "fonte": "Yahoo Finance"
+          "titulo": "S&P 500 snaps 3-day skid on Election Day as chip stocks rebound - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PbWNuUmM3YXpROGVjV016d1ZUZzlCQmc4a3dJaWpoLTcxeXVzTEFMbTY2bjNGWXljaUtXLWo2bE1QNzZ5NGlTMnA3M0VVQjlhaWN6eUVzOW4xS05EQnd0bEJYMEw0aXJJT3NXWklaNmcxcjVnOWVz0gF8QVVfeXFMTVAyTUQ0UV9iNzQyaThOY04yU1FlSEtRRHpLQXBXZnpvLUV5TklWSzhRaGw2ckowNEtJcXRtWldwelIxYnhDMDFSTzVJVFZwbXZ1Q2QxZWlTUHdUdzdqaW0xMGZIUHlpWlBYWHJ6UGE3cVhRWkpDdTExU29VRQ?oc=5",
+          "fonte": "CNBC"
         },
         {
-          "titulo": "Stock Market Today: Dow up 400 points, S&P 500 and Nasdaq in retreat a day after Nvidia's 31% surge; Dell results on tap: live updates - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeU5LYWF5Y19XWTJEWE5qR2FFQURWX1RRXy1Vc2dTRE9kWl80T21lLXNta0VRUEE5ZjE1VjUtX1VnX1d6d1JpWGhoQVc2YVRVdlJmOUtIbi1XbnQ2am1FSnFFN0RsaHVlT2FUMnZWLUt1czRzQXpibXl4NG5lQ0EyUFlrb3NQRVNWS1pLaEVjcGljSkRKOTVJenlIUGx5T1ZJYWF1S0VQdHNnVGFwODFiY1JaeUZVNGVpWHh5ZW54eHZUQnJZNXR1dFNrNXAyRW5T?oc=5",
-          "fonte": "MarketWatch"
+          "titulo": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year - NPR",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTItLW1nemk2RldxTnZaZXhNdFV3SnR3VDF1OTZwR0VFNXpXdTY2QXhzS3NvQnItZU1UU0pPQU82TS1XeDJpWHhkUG02UWJ3TUpFNUlmTFVRYnkyTkhWRmJtT2o3QnJMQ2VOYlFVdG5BOC01RmctaHZXc0hRWGhTY0NJVlJYaEl3aGczUjVB?oc=5",
+          "fonte": "NPR"
         },
         {
-          "titulo": "Possible Tesla merger could aid SpaceX's S&P 500 entry, ⁠J.P. Morgan says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeF9US0dlUFQ3RDhYOXdRbUlzYkJOQlhGdWdVTm02VjVUbkVlRFIxb0F5RFZNTEZTRndBcXcxWGtYa2lfTTAtTjJSN1MwSFRSYXdDSGJuM3RRSnlDTVZwVk1nNTJmeDdKUEp1VDd4enBsR2FTcG5uR3g1Z3lYLWdickFodnd5Q1pVejM1OTJ5cE5oZDBWdUE4c2F0bktTVlRNY185LThMaENJVWNpbG1IUERZbnJCMER2R2p0NQ?oc=5",
-          "fonte": "Reuters"
+          "titulo": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nc2FkNktwbUVRcjhVVWhQaVRWeWpqX25tSHo3WWF1eW55OGZrb0ZpSHpNakQtaWRMZ0N1dXZRajEtby1lOHk2Vl9aZkdfZUc4Z1ZDYkNrZkpGSGZBT1hIdE5jZDhFNW1BU1hzdnBheTBPV0tmcjFB0gF8QVVfeXFMTW1hbnNIQUZVQlU0eEdtb2E2WTZ0OXprLWVqMFI0Nzk0U0IycTFiRjNScTBzak5Ia21WWXhKOHNxTENWRkRzaUpWYnFLM2phc29CT3BaSXpSUGE1N21vYmFsWWhWczNSdlBLTElYcm1UbjJTWktwNTJsellmMA?oc=5",
+          "fonte": "CNBC"
         }
       ],
-      "comentario": "Desvalorização ligeira a refletir a volatilidade nas ações norte-americanas e no setor de inteligência artificial. A cobertura cambial estabiliza o impacto do dólar. Sugere-se manter a visão de longo prazo."
+      "comentario": "Caiu 1.27%, acompanhando a retração do mercado norte-americano, em especial das grandes empresas tecnológicas. É um ajuste natural após ganhos expressivos. Sugere-se manter a disciplina e o foco no longo prazo."
     },
     {
       "ticker": "0P0000X83O.F",
@@ -9069,9 +9057,9 @@
       "categoria": "posicao",
       "preco": {
         "ok": true,
-        "preco_atual": 6.95,
-        "fecho_anterior": 6.92,
-        "variacao_pct": 0.43352601156069726
+        "preco_atual": 6.96,
+        "fecho_anterior": 6.95,
+        "variacao_pct": 0.14388489208632785
       },
       "historico": {
         "intradiario": {
@@ -11036,6 +11024,10 @@
             {
               "quando": "2026-11-20T07:00:00+00:00",
               "fecho": 6.95
+            },
+            {
+              "quando": "2026-11-23T07:00:00+00:00",
+              "fecho": 6.96
             }
           ]
         },
@@ -12897,33 +12889,37 @@
             {
               "quando": "2026-11-15T23:00:00+00:00",
               "fecho": 6.95
+            },
+            {
+              "quando": "2026-11-22T23:00:00+00:00",
+              "fecho": 6.96
             }
           ]
         }
       },
       "noticias": [
         {
-          "titulo": "Malaysia’s Bond Market Braces for Policy Reset as BNM Decision Looms Amid Global Uncertainty - Vocal",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2pCU3U1MXltdV9LU19WQmlLdE5Uc083VXVNUjBLZlVHS1hWVWxhZXZnZEt0WENBM3pTcDlVUFg1TGg2c1VSbm9wcEdZeUIxQlN6ckZoX2lsT0RwWWlQOXRyZ3dCQmE4Tk5Gd2hlQ1pJVE9yZ09sbVgydXoweEpLSFptd1NXZkktdjFsMWM4MllvTHYzbEdKRnJtRXVTU1NaRGdCeG5kNTZwVlNZN0tjWTJpNHRvQmdIUUNz?oc=5",
-          "fonte": "Vocal"
+          "titulo": "Stock Market Correction What The Bond Market Is Signaling - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1dXYzN6Szhsb29qdERBcEpsVXNXMzdFUHFlMDk2R1BqYmNlbVhyMXFSRUFpdlRCNmo0bVNhVUJMMEltakdPN1N0dUdCX01BOWdXRV9XeXhWaGpCdnFZWEhzZzFwMDhWWllMU0t0SGhMNkkyc0t3VmZHbjhKZVhtdVhPUEttaGJtTFVKSTFBdDF4clVIVEVTM01OOUV0MTR6b1NiZkR4cUlVeTJJWEFkV1pmTEFjeW5Bd1E?oc=5",
+          "fonte": "Forbes"
         },
         {
-          "titulo": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXdBc3BKTGl3aWplclNJc2plbjFONl9tN21BemhRS2dvVTVhaUp2eTNIUzhIcUJwaHRSc0ZzTHNyY29yMHpyNVF5TEptaGF5bFRXRjlFb0x4YU5jMnozbjdWa3ZqTTJRTW9BS1lWSFl6U1BETHJPTkI4MC1lZFNDNmd2elA1OVF3ZGVBYnVacjZJRE9DVU1qUWhRcG9MTXRqaWxrM1MwQUHSAa4BQVVfeXFMUDhORjVWTE9lbnVUT2NaNzRWMm1pQ29WSEMwQ2ZFc2Flby1qMHlPVWZwanFGV1pNTVdUcWs0SXNNNHk1SEQ3NWZzQ0cteWRyeUdGV2FRaXViVndFZ2ZUVWVXeHQ5SUxFNVZVaHpXUnItZ0pSRTB2OGRuWWdmelJjSHlQc25HWlZlM3pDMUZ5dHA5Q3FPM0drOF9EWjhLemdYaGJDVm9wZXZTY1F3N3FR?oc=5",
-          "fonte": "CNBC"
+          "titulo": "With Municipal Bonds, Plenty of Enticement - ETF Database",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQVhfdjdTQ1ZmdndpWnJrb0FSaDJjQU1CSW05Y0ZpcmxHV2ZGVm0teW9SZUVZcGFBZ3RZNmxNeVpiQWZaNkRITkJxd3lGb1c0eGxkTnNocGUzQngtSFJqTU50eWo5TXQ0RDFjS1JJeFQwVEJUZHJWSG9GeEtPaHFPZGs0RnBaZ2JYX1JWQw?oc=5",
+          "fonte": "ETF Database"
         },
         {
-          "titulo": "Better Investment Right Now: Stocks or Bonds? - A Wealth of Common Sense",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0poV09BTUJqNHJlMFB0dXdLWWtrNl9ydU5TUUo3ZENPNElTeDI2QXdmRGxjRW1qYW05RWZUdkMyQmY4MmRZdnBPR3B4VXhfWmJzTThHaEZwSTFaRUxyUkw5aXZLemlnZUNpbHpCcXYyMlZZOXYySWlFZlRVWTh2OENGcXRyNnZOeVEwektR?oc=5",
-          "fonte": "A Wealth of Common Sense"
+          "titulo": "The bond market reset is creating opportunities passive investors will miss - Livewire Markets",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXpEWTZIU09TYWlORF9qTENkeWJETldOcUg0Z1FxM2ZHaVBTMm83UHA1XzNJUWRubml1bTBxalF6bGIwLU1TZHZFTm5LZ3VJVXViVF9VNDZ5UllKODVQdzRBaFZyNTR3X3o2QUVzUEQxbnRNRkYySlBzYXRiVERhVzJrLUlkM0JvVzFsTVdLa0wyRjFBd1hac1dvNUtVc0pnVHI0SFJpUi1YTElwV3ZEdnE2QQ?oc=5",
+          "fonte": "Livewire Markets"
         },
         {
-          "titulo": "The bond market: friend or foe in tackling the climate crisis? - OMFIF",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODdBaUMyenAweFptWUYzY3lSS2VmVnFydi1zdnZhX1VDTlJnM3A0SkdGaFA1ZWJWeEwzeGR3S2g4WFhyTjFoaUVjUndjamtsLXdleG1oclBFSnVEcWlJSVlrZ3k4eExaS3htOU9RcmRublVXQnYyQ29WeW5jYUxMM3hKdTBTQjB6Q0Eza2Mzbkt2X2h3QlE?oc=5",
-          "fonte": "OMFIF"
+          "titulo": "Constructing resilient fixed income portfolios - Invesco",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWxsSjM1em9nLXpEY0xoaVJ6THhOU1lxbmtPS0VFM2N0a1Bna3NLcUprVnRuYkZKbWdaanBJNVRhZG1RbGtJYms5aGdYc3Y2VnBZbHNjNk1XZ2h5bDdYWVJwTkF1NXdQRTV4SVREZ3p1VFBNc1VORTBuTV94Mk5NcU1tSFVOOTJpWktGS1B3TmpIUzUy?oc=5",
+          "fonte": "Invesco"
         }
       ],
-      "comentario": "Único ativo com desempenho positivo hoje, demonstrando a utilidade das obrigações como amortecedor defensivo perante a queda das ações. É uma boa âncora de estabilidade."
+      "comentario": "Foi o único ativo a valorizar (+0.14%), demonstrando a utilidade da renda fixa para equilibrar a carteira em dias de queda nas ações. Sugere-se manter este componente defensivo para amortecer a volatilidade."
     },
     {
       "ticker": "IMAE.AS",
@@ -15327,10 +15323,6 @@
             {
               "quando": "2026-11-23T08:00:00+00:00",
               "fecho": 103.855
-            },
-            {
-              "quando": "2026-11-24T08:00:00+00:00",
-              "fecho": 103.25
             }
           ]
         },
@@ -16155,7 +16147,7 @@
             },
             {
               "quando": "2026-10-31T23:00:00+00:00",
-              "fecho": 101.87
+              "fecho": 103.855
             },
             {
               "quando": "2026-11-24T16:35:04+00:00",
@@ -16171,22 +16163,22 @@
           "fonte": "Reuters"
         },
         {
+          "titulo": "European stocks fall as Trump turns back to tariffs. Italy leads the declines. - investingLive",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2V4SV95a05LYVU2ZTJjU1V0V1FMTk54RFpVTkZ4U1pZS1ROVkRPYUVPX0hPTWdfcmJzNFNFMC1oNGV2U2RkSWMyLTRhb1EyX0plWFZiWnNKeWRDRXpXRldMdmZQWG1nXzN2ajRDaU1FdHpZYU1UdmR6X2xPOWZqOUIyQ0tFdTNqOTQxSm1kenpuOWtLMWtBMjd4LWRHNlFFVW9FUzNqcHNSdHZr?oc=5",
+          "fonte": "investingLive"
+        },
+        {
           "titulo": "FTSE 100 Live: UK and European Stocks Edge Up After Bruising Selloff - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMnN1NUhfOEhTNW1KQ3FFSWxkUWxsdkhFdzE2VWh2Q2lzZFVrczN5OXBuaVhDeFdLaVhVLWR0TmdKMW1uX1lrdkdxTmN4UzQxUmRrWHlPZHlSWUY4Yk05WGFZYjV2cy0tUkZrMW9lTmtrR1VDeXAyUkhzWDB0SnlGUTlMSnduMXY0d1ZhWFJtcjJWamR4WDRjZm9PNnBnVmU1QzBsNkZhNmM4Mmx2eUxWQzI4d3VYU2NKeG16UzcwQkVYc0JuNy0wNVpVMlUwVzhwRVpSRmxIWDUwXy1FYXdRNzByTFhMd2xqUnQ5Sy1ES3N1Ti1RMF9sSzl6bmNUNjg?oc=5",
           "fonte": "Bloomberg.com"
         },
         {
-          "titulo": "European shares slip after month-best rally on Nvidia euphoria - Investing.com",
+          "titulo": "European shares lower after month-best rally on Nvidia euphoria - Investing.com",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZjBhalNkV1V0b2NvTUR3ck5kS1M1QkRadFY2S0FmS2F1TFJJMjFBRVRDLWlRVnMxWWVaOFVPaHIzckxHSVNrSlQ4UkFKLWZkdzVYV3ZmdkZMQXM0QmZJdFJZS2NKMUMtMnp3TmhXQmZBcE1nVWlyejktdHVMRTJhTnJJVDA5V1gzSmNqQXI5eTZSZkpjc3lYMk9QS2N3TG1aZmR2bDF4TzZMbDc4Y3FGaXpLa014WnlyNXdV?oc=5",
           "fonte": "Investing.com"
-        },
-        {
-          "titulo": "European markets flat after strong gains in previous session (EUR:USD:) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2IyS3V0MDctZW9SY18zbjcyOG9zWGJ6bWhUX0c0eTVQY0dqcDgzdlIyRzJTOEkxQ2pvOUNKUTNIZS01aFNoblJLblo1YTE0eUNmeWhWLVNvZERueWlaWW5tVjhObGxLeWlNZzNzWUh3Nnk1SWNuem9CeFJVSDdvODZoWGFMbjVaMDFwLUltQ0hKWHh1V21fU0FvM3E2aEk?oc=5",
-          "fonte": "Seeking Alpha"
         }
       ],
-      "comentario": "Desempenho relativamente estável comparado com outros mercados acionistas, mostrando resiliência nas empresas europeias. Pode ser interessante manter como pilar equilibrado no portefólio."
+      "comentario": "Apresentou uma desvalorização ligeira (-0.58%), mostrando maior resiliência em comparação com os mercados americano e emergentes. Pode considerar manter a posição para assegurar presença equilibrada no mercado europeu."
     },
     {
       "ticker": "SEMI.AS",
@@ -16260,7 +16252,7 @@
             },
             {
               "quando": "2026-11-24T09:30:00+00:00",
-              "fecho": 15.394
+              "fecho": 15.396
             },
             {
               "quando": "2026-11-24T09:35:00+00:00",
@@ -16304,7 +16296,7 @@
             },
             {
               "quando": "2026-11-24T10:35:00+00:00",
-              "fecho": 15.194
+              "fecho": 15.2
             },
             {
               "quando": "2026-11-24T10:40:00+00:00",
@@ -16312,7 +16304,7 @@
             },
             {
               "quando": "2026-11-24T10:45:00+00:00",
-              "fecho": 15.152
+              "fecho": 15.158
             },
             {
               "quando": "2026-11-24T10:50:00+00:00",
@@ -16364,7 +16356,7 @@
             },
             {
               "quando": "2026-11-24T12:15:00+00:00",
-              "fecho": 15.166
+              "fecho": 15.16
             },
             {
               "quando": "2026-11-24T12:20:00+00:00",
@@ -16508,7 +16500,7 @@
             },
             {
               "quando": "2026-11-24T15:50:00+00:00",
-              "fecho": 14.514
+              "fecho": 14.504
             },
             {
               "quando": "2026-11-24T15:55:00+00:00",
@@ -18582,10 +18574,6 @@
             {
               "quando": "2026-11-23T08:00:00+00:00",
               "fecho": 15.76
-            },
-            {
-              "quando": "2026-11-24T08:00:00+00:00",
-              "fecho": 14.398
             }
           ]
         },
@@ -19713,14 +19701,9 @@
       },
       "noticias": [
         {
-          "titulo": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5",
+          "titulo": "Semiconductor Stocks like Micron, Marvell, and Bloom Energy See Massive Gains as Jensen Huang Returns to NVIDIA - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYXJXX3lvUzJUa3preE0wbk5MMURGNGduZVpQanFyb1NUSU1QclNaUVdPRDBndVN0UUZwY1BnRFlEa0Z3T3dydVYxa3AzMEN0NVJTQ21sSGk2TlF5cmlTelgzaDYwX0xHN0txeTROREVaczl1ZU9DeVVFclFnX3dab3BLRV9lZUprYUhaRHM4RFVkQQ?oc=5",
           "fonte": "Yahoo Finance"
-        },
-        {
-          "titulo": "Chart of the Day: Astera Labs, A Beaten Down Semiconductor Gem - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdkhzLWtyZDJ1eldxMFAwVzdKNkh0TFd4bGkyNl9SWjlEUlp3SGtuN3BsOHlJTTFuTGhHRlMxRXFJNFdkSV9qUEx2WnRkTXBKWlh1VUxTTTVGX1dNOUdqU3FIMktEcVNSYllnRTBfRzZVcEE1UU85Z2hBbG9vWjdkU2VUQWhUUXpBcF9lUWQtMDNCZDJHOFZrWmRWbw?oc=5",
-          "fonte": "Barron's"
         },
         {
           "titulo": "Why Is Intel Stock Pulling Back After Monday’s Semiconductor Rally - Benzinga",
@@ -19728,12 +19711,17 @@
           "fonte": "Benzinga"
         },
         {
-          "titulo": "3 Semiconductor Stocks with Robust Revenue Growth - Equitymaster",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMm1Qd3dZMTItWmFWckN3ZXRkX1NaWGFQazRqNjlCRFhrcUVWVTJQVjc0S1p2WE9KQ2lVb2tocS0yYkVDWGk1QzNocjFlQVZoTVFwSGdiN005cW92VVd2NjBLdFFMOG1KNjFmdGlzRHc0djRLUjNkWXZVSjNfb21ISVRKSmV1c2NWdnhQbHJTZVZJeDZvX0VMMGQ0enVETVZjVVV2bWRfb2k1T0dwMmJQLXpTMDZmZ1dJSWxN?oc=5",
-          "fonte": "Equitymaster"
+          "titulo": "2 Semiconductor Stocks to Buy No Matter Who Wins the AI Chip Race - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWks0dTJsY3pKb1lVU2t5UFc3b0VaUDdDdUYwaVlrNC1fZGFHWUJhOGowSl8tYUxEZURqN0w5Sncxd1BrSTRDd0t1RE40T3ZTMTZwZ1Z0RWNoZXFMVkJIeHBCT1hOaUhVWU9zSThmSkI5TTU5T1V6MkUtcHk4aTF5VFdfaTRyV1RwbGFObG92b1kxUUNvZncydkk2UFp3azgwLTZqNkZMYmQ4VW9B?oc=5",
+          "fonte": "The Motley Fool"
+        },
+        {
+          "titulo": "SOXX Heads For Biggest Single-Day Gain in Over 18 Months As Semiconductor, AI Stocks Rebound Sharply - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMnVzN2JldDBVN3JKZmpsQ2kxSTBBeTV2R1pGRE5tWVpmOUotZlBqaVdLNHBkS0V0NHI0UGxQV29NcTVsa2tRaG9nZFNKTTMyYmdEendBRjZtNVJjM0xlMmVvVHpWMDBtQTd0SE9MMTM1RHhyQVcweGhMeVA2R3BwbzNxelZRRHRUWHhVa1NndWVjczE3d1ZxdEZ6dDBIZ0dTeUdhblhla0hVcUJuVlk4WTRWNVNJcktWLWRZR0ppcDczZzBLbTRVZFlUYVppeUNFRVMwa0RsSEJGZlF1cW8tY2tTWFNpdGdQczFTdFJWenhmQQ?oc=5",
+          "fonte": "TradingView"
         }
       ],
-      "comentario": "Forte recuo resultante da realização de lucros e volatilidade no setor de chips e inteligência artificial. Sugere-se ponderar se a exposição concentrada a este setor está ajustada ao seu perfil."
+      "comentario": "Sofreu a maior queda do dia (-8.64%), resultado de uma forte realização de lucros no setor da inteligência artificial e semicondutores. Por ser um fundo temático volátil, sugere-se avaliar se o peso deste ativo ainda se adequa ao seu perfil."
     },
     {
       "ticker": "SGLD.AS",
@@ -22049,10 +22037,6 @@
             {
               "quando": "2026-11-23T08:00:00+00:00",
               "fecho": 324.4
-            },
-            {
-              "quando": "2026-11-24T08:00:00+00:00",
-              "fecho": 312.7
             }
           ]
         },
@@ -22525,7 +22509,7 @@
             },
             {
               "quando": "2026-10-31T23:00:00+00:00",
-              "fecho": 310.27
+              "fecho": 324.4
             },
             {
               "quando": "2026-11-24T16:35:26+00:00",
@@ -22536,14 +22520,14 @@
       },
       "noticias": [
         {
+          "titulo": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report - Kitco",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2lqcG5YQlM4N3pRZHUyQkIyM2ZCZ1FLTE9ZTzNLQWNCRkxzdnFZS2VFcHVUY2Nfcjc2TzFPaV83WXNKUzd0SE5YZVZUYXYyMF9nbzBzamo2MjB0M2hUQkRQRzBUTk5wVzBPbU01ZFU0TFhyZktReS1KZ0E1MjNySU1JcHhsaTB3QlFUeGVyRzcyT01xMmxXejJzYW5BcmtJcG13SGFMZ3VKZjM1SmZYV1JFSGttM3l3NWpucw?oc=5",
+          "fonte": "Kitco"
+        },
+        {
           "titulo": "Gold Futures Rebound as Nvidia News Lifts Markets - WSJ",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1lDUDJKYnppMTFtNDdCYUoyWkVjdTBJYWpOaWY3OHFRUTMxT0VSUTR0UWN4SEFQVVZJUlhqNjU4OFlDeXdHZkh4ZUFFSTNzWXhEcWpRQ0h0eVk3Q1ZmU2I5OURqdnhEc1hlQmRDcGVVLXZ5YW8yTWQ4dWYwRHE4V0dLTGZhd0p2S3A1V0l6MUs4M3RXaFh0TlJDZUdQYkdPRWNoclFEMl9sY2JTQzNZcDJn?oc=5",
           "fonte": "WSJ"
-        },
-        {
-          "titulo": "Gold price testing support near $3,600 as US Consumer Confidence sees sharp rise in November - Kitco",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONW1hcGJjNFlvQ1ppXzM3S0l5YUpzbkZhXzg1c2FPMEhLNVZ0dklmVW1TUHY3dmtxN21ZZVNvQVNHRzh0RXBtN2lmeGZ1OHVEVW5vNFdlYTdSZFFxY0tJU05vQkh1dVRXUk1lYl9NZko0eTd1cGdjRmR1WU5lUGtaTDNXYUxKZTNfcUpsc1c1MG9IRmVWUWFrTVVDV0s5OVJiNHRXRUIwb3ZMeVZzQ0N6a09TZF90MDhOOEoyeUpB?oc=5",
-          "fonte": "Kitco"
         },
         {
           "titulo": "Gold is having a rough year. Does it still belong in your portfolio? - Yahoo Finance",
@@ -22551,12 +22535,12 @@
           "fonte": "Yahoo Finance"
         },
         {
-          "titulo": "Gold Sinks with AI, Silver Extends Worst Drop Since Lehmans as 'Fed Mistake' Looms - BullionVault",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWEdaYVQzMm9FLTRoc1NrWVlNazhZekM0bkFhTGlydG90aFhub3MzYjRpUGRLSXQ3VDY1eno4bnF2U2JPZ3lmQVAzd0dNX1RQMVRRdkR5Z3p4WXNFMFdRd0M3X3RfRlU1NTh6N3VhdjBSM09aTk1vWFhNV0hJRVp2eDRNQmtfcndrUk5YVDBxVm1DQQ?oc=5",
-          "fonte": "BullionVault"
+          "titulo": "Gold and silver lose over $800 billion in two hours as Bitcoin slides about 50% - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaGo2cjhBbFJjb2RERHdFVmpoWWlDOERkWFVvd284dGd6VkF2Tnh5UnBFdFo2NldGam1aZmpVeXBrQzVJd3BESDl6aF9YZFk2X2tYWEVrSlVTQmZxREJpcWg1QmtFZkpJeVZvS2lZQkpJVS1rcUNMMGtnTEQwaFBOdkJRWnVSTUdOS0x0M05tYTljMlVUbWJ0NzJZZm9JZ1o2ajd4TWJib0dFZldkMFIyVFpNcUdYQTNQSy1CanVXeDk1TDE3UkFxYlFSTEktUWMwSHNqb3VmUzhZdw?oc=5",
+          "fonte": "TradingView"
         }
       ],
-      "comentario": "Desvalorização acentuada num dia de pressão generalizada sobre os ativos. O ouro mantém a sua utilidade histórica de proteção, pelo que pode ser prudente analisar o peso que tem no total da carteira."
+      "comentario": "Recuou 3.61%, num movimento de liquidação alargado aos metais preciosos. Apesar da queda atípica num dia de turbulência, o ouro costuma funcionar como reserva de valor a longo prazo, pelo que se sugere analisar a posição sem precipitações."
     }
   ]
 }
